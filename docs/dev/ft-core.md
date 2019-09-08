@@ -1,0 +1,4 @@
+# FT core - development details
+
+
+

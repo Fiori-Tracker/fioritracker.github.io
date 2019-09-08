@@ -1,0 +1,15 @@
+# List of tracked content
+
+| Content name                                  | Description                        | Required components                                                                        | Optional components                             |
+|-----------------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------|
+| [Roles](tracked/SPS03/roles.md)               | Authorizations roles               | [{{ prod.ro.nameshort }}](ro/FPS01/main.md)                                                |                                                 |
+| [Catalogs](tracked/SPS03/cats.md)             | Fiori launchpad business catalogs  | [{{ prod.core.nameshort }}](core/SPS03/main.md)                                            | [Catalog and App reports](cat-app/SPS02/main.md) |
+| [Apps](tracked/SPS03/apps.md)                 | Fiori launchpad applications       | [{{ prod.core.nameshort }}](core/SPS03/main.md)                                            | [Catalog and App reports](cat-app/SPS02/main.md) |
+| [Apps usage](tracked/SPS03/appsusage.md)      | Fiori application' usage           | [{{ prod.fa.name }}](fa/FPS01/main.md)                                                     |                                                 |
+| [Systems](tracked/SPS03/systems.md)           | SAP systems in landscape           | [{{ prod.asisCen.nameshort }}](asis/SPS02/main.md)                                         |                                                 |
+| [Sign-offs](tracked/SPS03/signoff.md)         | Sign offs decisions                | [{{ prod.so.name }}](so/FPS01/main.md)                                                     |                                                 |
+| [Change requests](tracked/SPS03/changereq.md) | Change requests                    | [{{ prod.ch.name }}](ch/FPS01/main.md)                                                     |                                                 |
+| [Security checks](tracked/SPS03/gover.md)     | Security checks of managed systems | [{{ prod.gv.name }}](gv/FPS01/main.md), [{{ prod.asisCen.nameshort }}](asis/SPS02/main.md) |                                                 |
+| [Test users](tracked/SPS03/testusers.md)      | Test users and their passwords     | [{{ prod.tu.name }}](tu/FPS01/main.md)                                                     |                                                 |
+| [Comments](tracked/SPS03/comments.md)         | Comments on other contents         | [{{ prod.co.name }}](co/FPS01/main.md)                                                                                   |                                                 |
+| [History](tracked/SPS03/history.md)           | History of changes made to content | [{{ prod.hi.name }}](hi/FPS01/main.md)                                                                     |                                                 |
