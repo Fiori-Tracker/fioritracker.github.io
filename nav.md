@@ -1,0 +1,6 @@
+- About
+ - [For whom?](/about/for-whom.md)
+ - [See how it works](/about/demo.md)
+- Installation guide
+ - [Introduction](/installation-guide/intro.md)
+ - [Guide](/installation-guide/guide.md)
