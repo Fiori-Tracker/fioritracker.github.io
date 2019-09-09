@@ -2,8 +2,7 @@
 
 ## Step 1 - Import the transports
 
-Transport requests to be imported:
->DROPBOX LINK
+Please import the transport requests that Fiori Tracker team provides.
 
 ## Step 2 - Activate services
 
