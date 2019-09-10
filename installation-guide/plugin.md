@@ -1,4 +1,4 @@
-# Most Frequently Used Apps plugin
+# Plugin for application usage
 
 **1** Import the transports
 
