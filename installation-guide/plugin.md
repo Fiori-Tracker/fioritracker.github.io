@@ -14,7 +14,7 @@ Please import the transport requests for "Plugin for application usage" that Fio
 | ------------- |:-------------:         |
 |  TARGET_RFC   | **YOUR RFC TO SOLMAN** |
 
-!> RFC destination user must have access to FM Z_FT_LOG_APPLICATION_USAGE
+!> RFC destination user must have access to function module: Z_FT_LOG_APPLICATION_USAGE
 
 ![](../res/rfc_conf.png)
 
