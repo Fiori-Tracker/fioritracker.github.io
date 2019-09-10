@@ -3,5 +3,5 @@
  - [See how it works](/about/demo.md)
 - Installation guide
  - [Introduction](/installation-guide/intro.md)
- - [Fiori Tracker - main solution](/installation-guide/guide.md)
+ - [Main part](/installation-guide/guide.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
