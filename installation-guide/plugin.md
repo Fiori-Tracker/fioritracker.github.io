@@ -16,7 +16,7 @@
 
 **3** Run SICF transaction and activate this ICF node:
 Path: /default_host/sap/bc/ui5_ui5/sap/:
--zfioristatslog
+- zfioristatslog
 
 **4** In **PFCG** transaction assign the authorization role to the users that you want to track their applications usage data with Most Frequently Used Apps plugin.
--ZFT_LOGGER
+- ZFT_LOGGER
