@@ -32,7 +32,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 **4.2** Choose **"Create number range intervals"**.<br />
 **4.3** If every objects' intervals have been changed successfully - you should see below screen.<br />
 
-!> Don't mind values presented on the screen - **Current index** for each object should be set to 1.
+!> **Current index** for each object should be set to 1.
 
 ![](../res/guide_intervals.png)
 
