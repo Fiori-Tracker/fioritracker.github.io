@@ -4,4 +4,4 @@
 - Installation guide
  - [Introduction](/installation-guide/intro.md)
  - [Fiori Tracker - main solution](/installation-guide/guide.md)
- - [Most Frequently Used Apps plugin](/installation-guide/plugin.md)
+ - [Most](/installation-guide/plugin.md)
