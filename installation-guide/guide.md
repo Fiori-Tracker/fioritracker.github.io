@@ -1,4 +1,4 @@
-# Installation guide
+# Fiori Tracker - main solution
 
 ## Step 1 - Import the transports
 
@@ -114,19 +114,3 @@ You can also start the Fiori Tracker as an standalone application:
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](../res/ft_standalone.png)
-
-## Step 15 - Most Frequently Used Apps plugin
-
-**15.1** Transport requests to be imported to your Gateway system:
->DROPBOX LINK
-
-**15.2** Run **SM30** transaction (Gateway) and add an entry to **ZFSL_SYST_CONFIG** table.
-
-
-|  Config key   |      Config value      |
-| ------------- |:-------------:         |
-|  TARGET_RFC   | **YOUR RFC TO SOLMAN** |
-
-!> RFC destination user must have access to FM Z_FT_LOG_APPLICATION_USAGE
-
-![](../res/rfc_conf.png)
