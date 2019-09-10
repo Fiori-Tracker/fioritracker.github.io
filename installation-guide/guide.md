@@ -24,7 +24,6 @@ Path: **/default_host/sap/opu/odata/sap/**
 In **PFCG** transaction assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
 - ZFT_ADMIN
 - ZFT_USER
-- ZFT_LOGGER
 
 ## Step 4 - Adding intervals for number ranges
 
