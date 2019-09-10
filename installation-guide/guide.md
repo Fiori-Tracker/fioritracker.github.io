@@ -42,7 +42,11 @@ In this step, you can create initial codes for your business areas. All applicat
 
 ![](../res/guide_area_codes.jpg ':size=400%')
 
-## Step 6 - Modify configuration
+## Step 6 - Create default initial data
+
+In this step, you create default initial data for Fiori Tracker based on the information you have provided in the previous steps.
+
+## Step 7 - Modify configuration
 
 In this step you are able to modify Fiori Tracker configuration:
 - CatalogNamingRule - you can specify your rules for catalog naming
@@ -55,7 +59,7 @@ In this step you are able to modify Fiori Tracker configuration:
 
 ![](../res/config.png)
 
-## Step 7 - Modify system configuration
+## Step 8 - Modify system configuration
 
 In this step, you can modify your system configuration for Fiori Tracker.
 - EnableClearImportAll - TO DESCRIBE
@@ -66,39 +70,35 @@ In this step, you can modify your system configuration for Fiori Tracker.
 
 ![](../res/sys_config.png)
 
-## Step 8 - Modify application types
+## Step 9 - Modify application types
 
 In this step, you can change application types. We recommend using our proposition of them based on the SAP Fiori apps reference library (please find them below).
 
 ![](../res/app_types.png)
 
-## Step 9 - Modify sign off types
+## Step 10 - Modify sign off types
 
 In this step, you can change sign off types. They should be relevant to the steps of your development process (please find the example below).
 
 ![](../res/sign_off_types.png)
 
-## Step 10 - Modify provisioning types
+## Step 11 - Modify provisioning types
 
 In this step, you can change provisioning types. They should be relevant to your system landscape (please find the example below).
 
 ![](../res/provisioning_types.png)
 
-## Step 11 - Modify user responsible for an area
+## Step 12 - Modify user responsible for an area
 
 In this step, you can change users responsible for specific business areas f.e. stream leads.
 
 ![](../res/user_to_area.png)
 
-## Step 12 - Modify user responsible for the provisioning of a specific set
+## Step 13 - Modify user responsible for the provisioning of a specific set
 
 In this step, you can change users responsible for the provisioning of a specific set f.e. applications.
 
 ![](../res/user_to_type.png)
-
-## Step 13 - Create default initial data
-
-In this step, you create default initial data for Fiori Tracker based on the information you have provided in the previous steps.
 
 ## Step 14 - Checking if the Fiori Tracker applications run correctly
 
@@ -114,3 +114,19 @@ You can also start the Fiori Tracker as an standalone application:
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](../res/ft_standalone.png)
+
+## Step 15 - Most Frequently Used Apps plugin
+
+**15.1** Transport requests to be imported to your Gateway system:
+>DROPBOX LINK
+
+**15.2** Run **SM30** transaction (Gateway) and add an entry to **ZFSL_SYST_CONFIG** table.
+
+
+|  Config key   |      Config value      |
+| ------------- |:-------------:         |
+|  TARGET_RFC   | **YOUR RFC TO SOLMAN** |
+
+!> RFC destination user must have access to FM Z_FT_LOG_APPLICATION_USAGE
+
+![](../res/rfc_conf.png)
