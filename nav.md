@@ -3,4 +3,5 @@
  - [See how it works](/about/demo.md)
 - Installation guide
  - [Introduction](/installation-guide/intro.md)
- - [Guide](/installation-guide/guide.md)
+ - [Fiori Tracker - main solution](/installation-guide/guide.md)
+ - [Most Frequently Used Apps plugin](/installation-guide/plugin.md)
