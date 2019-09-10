@@ -1,7 +1,7 @@
 # Most Frequently Used Apps plugin
 
 **1** Transport requests to be imported to your Gateway system:
->DROPBOX LINK
+Please import the transport requests for "Plugin for application usage" that Fiori Tracker team provides.
 
 **2** Run **SM30** transaction (Gateway) and add an entry to **ZFSL_SYST_CONFIG** table.
 
