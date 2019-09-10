@@ -39,7 +39,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 
 In this step, you can create initial codes for your business areas. All applications, business catalogs, and roles could be assigned to a specific area (please find example area codes below).
 
-![](../res/guide_area_codes.jpg ':size=400%')
+![](../res/guide_area_codes.jpg ':size=300%')
 
 ## Step 6 - Create default initial data
 
