@@ -26,6 +26,6 @@ Path: /default_host/sap/opu/odata/sap/:
 
 ![](../res/sicf.png)
 
-**5.** run **/iwfnd/maint_service and add the system alias to **ZFIORISTATSLOG_SRV**.
+**5.** Run **/iwfnd/maint_service** and add the system alias to **ZFIORISTATSLOG_SRV**.
 
 ![](../res/alias.png)
