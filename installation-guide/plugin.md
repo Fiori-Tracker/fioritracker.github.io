@@ -18,7 +18,7 @@ Please import the transport requests for "Plugin for application usage" that Fio
 
 ![](../res/rfc_conf.png)
 
-**4.** Run SICF transaction and activate this ICF node:
+**4.** Run SICF transaction and activate those ICF nodes:
 
 Path: /default_host/sap/bc/ui5_ui5/sap/:
 - zfioristatslog
