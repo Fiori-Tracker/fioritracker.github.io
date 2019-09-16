@@ -7,4 +7,3 @@ Fiori Tracker comes free of charge, but for those companies that are interested 
 4.	Monthly review with current issues resolution and report of Fiori Tracker status
 
 Nype LTD offers The Premier support as a service paid monthly. Contact our project manager at gm@nypesap.com for detailed offer.
-
