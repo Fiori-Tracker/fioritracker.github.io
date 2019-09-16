@@ -3,7 +3,7 @@
 - **Ability to choose from many implemented systems** - You can choose from which system You want to have Your data from and with which system You want to work with. Available in As is tab. 
 
 ![](../res/chose_from_many_systems.png)
-*fig. 1. As is tab and possible systems to choose from*
+<div style="text-align: center"> *fig. 1. As is tab and possible systems to choose from* </div>
 
 - **Possibility to assign roles to users.** You can assign role to any user You want. Simply – enter ROLES, choose PLANT OWNER, make site editable (upper right corner with EDIT button). New user can be added in Users tab. Do not forget to click Save. Also, switching between systems, in Roles and Info records, is possible! 
 
