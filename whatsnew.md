@@ -18,4 +18,4 @@
 - **Import data to Fiori Tracker from Fiori Launchpad designer.** Data You need from Fiori Launchpad catalogs can be imported not only from conf layer but from cust layer as well. 
 
 ![](../res/as_is_import.png)
-*fig. 4. List of Business Catalogs*
+*fig. 4. As is tab in ZC_FIORITRACKER_ADMIN catalog*
