@@ -6,3 +6,4 @@
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
+- [Premier support](/premier-support.md)
