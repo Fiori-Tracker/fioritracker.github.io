@@ -50,7 +50,7 @@ In this step, you create default initial data for Fiori Tracker based on the inf
 In this step you are able to modify Fiori Tracker configuration:
 - CatalogNamingRule - you can specify your rules for catalog naming
 - CatalogsImportIsTechnicalCatalogCheckZC - TO DESCRIBE
-- IsProductive - if it's productive system - **true**, if not - **false**
+- IsProductive - on productive system should be set to **true**, on test and development to **false**. Once set to false Fiori Tracker apps will display a warning that is meant to help users to realize that they are not looking at productive data and avoid mistakes
 - IsSolManVersion - if Fiori Tracker is installed on Solution Manager system - **true**, if not (f.e. Gateway) - **false**
 - ProductiveSystemAddress - **yourhost:port**
 - ProductiveSystemId - system ID
