@@ -58,48 +58,37 @@ In this step you are able to modify Fiori Tracker configuration:
 
 ![](../res/config.png)
 
-## Step 8 - Modify system configuration
-
-In this step, you can modify your system configuration for Fiori Tracker.
-- EnableClearImportAll - TO DESCRIBE
-- IsUpperKeywordAllowed - TO DESCRIBE
-- RFCDestinationNameD1N - TO DESCRIBE
-
-
-
-![](../res/sys_config.png)
-
-## Step 9 - Modify application types
+## Step 8 - Modify application types
 
 In this step, you can change application types. We recommend using our proposition of them based on the SAP Fiori apps reference library (please find them below).
 
 ![](../res/app_types.png)
 
-## Step 10 - Modify sign off types
+## Step 9 - Modify sign off types
 
 In this step, you can change sign off types. They should be relevant to the steps of your development process (please find the example below).
 
 ![](../res/sign_off_types.png)
 
-## Step 11 - Modify provisioning types
+## Step 10 - Modify provisioning types
 
 In this step, you can change provisioning types. They should be relevant to your system landscape (please find the example below).
 
 ![](../res/provisioning_types.png)
 
-## Step 12 - Modify user responsible for an area
+## Step 11 - Modify user responsible for an area
 
 In this step, you can change users responsible for specific business areas f.e. stream leads.
 
 ![](../res/user_to_area.png)
 
-## Step 13 - Modify user responsible for the provisioning of a specific set
+## Step 12 - Modify user responsible for the provisioning of a specific set
 
 In this step, you can change users responsible for the provisioning of a specific set f.e. applications.
 
 ![](../res/user_to_type.png)
 
-## Step 14 - Checking if the Fiori Tracker applications run correctly
+## Step 13 - Checking if the Fiori Tracker applications run correctly
 
 There are two ways to start Fiori Tracker applications:
 
