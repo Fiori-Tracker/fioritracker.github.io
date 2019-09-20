@@ -25,7 +25,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 - ZFT_ADMIN
 - ZFT_USER
 
-## Step 4 - Adding intervals for number ranges
+## Step 4 - Add intervals for number ranges
 
 **4.1** Run **ZFTSETUP** transaction.<br />
 **4.2** Choose **"Create number range intervals"**.<br />
@@ -88,7 +88,7 @@ In this step, you can change users responsible for the provisioning of a specifi
 
 ![](../res/user_to_type.png)
 
-## Step 13 - Checking if the Fiori Tracker applications run correctly
+## Step 13 - Check if the Fiori Tracker applications run correctly
 
 There are two ways to start Fiori Tracker applications:
 
