@@ -9,4 +9,4 @@ Fiori Tracker has two parts:
 -	“Fiori Tracker Setup” – ABAP report in the form of custom ABAP program run in SAP Gui with transaction se38
 
 "Plugin for application usage" is composed of:
-- "Application usage plufon - UI5 application that is loaded and run automatically as SAP Fiori launchpad plugin for all users woith role ZFT_LOGGER
+- "Application usage plugin" - UI5 application that is loaded and run automatically as SAP Fiori launchpad plugin for all users woith role ZFT_LOGGER
