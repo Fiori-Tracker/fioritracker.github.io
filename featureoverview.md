@@ -5,4 +5,4 @@ The main feature of Fiori Tracker is storing the details of the Fiori launchpad 
 Fiori Tracker allows you to document and review both “to be” and “as is” state. By “to be” we understand what is the planned setup of your applications as a result of decisions taken by functional consultants in the “Prepare” phase. “To be” state serves as a reference for your provisioning during the “Realize” and “Deploy” phases. In case there are issues with apps “To be” allows you to make sure what applications are in scope of the solution and how the project team should configure them.
 
 ![](../res/fiori_tracker_main.png)
-*fig. 1. Fiori Tracker functionality algorithm*
+*fig. 1. Fiori Tracker functionality map*
