@@ -8,5 +8,6 @@
  - [Plugin for application usage](/installation-guide/plugin.md)
  - [Location](/installation-guide/location.md)
 - [Configuration](/conf/intro.md)
+ - [Main config](/conf/conf.md)
 - [Importing application data](/importing/intro.md)
 - [Premier support](/premier-support.md)
