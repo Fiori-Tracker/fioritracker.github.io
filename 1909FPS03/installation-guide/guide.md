@@ -50,13 +50,13 @@ In this step, you create default initial data for Fiori Tracker based on the inf
 In this step you can modify Fiori Tracker configuration:
 - CatalogNamingRule - rules for catalog naming
 - CatalogsImportIsTechnicalCatalogCheckZC – activation of catalog naming convention check
-- IsProductive – sets installation of Fiori Tracke as a productive one.
+- IsProductive – sets installation of Fiori Tracker as a productive one.
 - ProductiveSystemAddress – Sets the address of your productive system
 - ProductiveSystemId – Sets the production System ID
 - SapVersion - your S/4 HANA version
 - IsSolManVersion – Sets Fiori Tracker installation as installed on Solution Manager
 
-You cam find detailed description of each parameter in section "[Main config file](../conf/main.mp)". 
+You can find detailed description of each parameter in section "[Main config file](../conf/main.mp)". 
 
 ![](../res/config.png)
 

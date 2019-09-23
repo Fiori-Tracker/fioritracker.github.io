@@ -1,4 +1,4 @@
-## Featured in 1909SFPS02 (9 Sep 2019 /2.12/)
+## Featured in 1909FPS02 (9 Sep 2019 /2.12/)
 
 - **Ability to choose from many implemented systems**
 
@@ -17,7 +17,7 @@ You can assign role to any user You want. Simply – enter Roles, choose Plant O
 ![](/res/assigned_users.png)
 *fig. 3. Assigned users*
 
-## Featured in 1909SFPS01 (5 Sep 2019 /2.11/)
+## Featured in 1909FPS01 (5 Sep 2019 /2.11/)
 
 - **Import data to Fiori Tracker from Fiori Launchpad designer** 
 
