@@ -6,6 +6,7 @@
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
- - [Location](//installation-guide/location.md)
+ - [Location](/installation-guide/location.md)
+- [Configuration](/conf/intro.md)
 - [Importing application data](/importing/intro.md)
 - [Premier support](/premier-support.md)
