@@ -58,6 +58,8 @@ Once set to false Fiori Tracker apps will display a warning that is meant to hel
 - ProductiveSystemId - system ID
 - SapVersion - your S/4 HANA version
 
+Detailed description in section [“Main config file”](../conf/main.mp). 
+
 ![](../res/config.png)
 
 ## Step 8 - Modify application types
