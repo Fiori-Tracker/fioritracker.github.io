@@ -7,4 +7,5 @@
  - [Main part](/installation-guide/guide.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
  - [Location](//installation-guide/location.md)
+- [Importing application data](/importing/intro.md)
 - [Premier support](/premier-support.md)
