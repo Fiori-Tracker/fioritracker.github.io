@@ -25,5 +25,3 @@ Data You need from Fiori Launchpad catalogs can be imported not only from conf l
 
 ![](/res/as_is_import.png)
 *fig. 4. As is tab in ZC_FIORITRACKER_ADMIN catalog*
-
-
