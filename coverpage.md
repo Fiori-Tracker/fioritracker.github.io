@@ -1,4 +1,4 @@
-![](/1909FPS03res/FT-logo.png)
+![](/1909FPS03/res/FT-logo.png)
 
 # Fiori Tracker
 
