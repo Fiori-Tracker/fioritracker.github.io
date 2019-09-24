@@ -1,3 +1,14 @@
+## Featured in 1909FPS03 (25 Sep 2019)
+
+** Roles App -> Details -> As is (Relations) -> Applications -> System **
+Now shows the actual list of applications that are configured in the system with a role
+
+** Fiori Tracker setup**
+Interface improvements and fixes in initialization logic
+
+** Configuration **
+Fixes
+
 ## Featured in 1909FPS02 (9 Sep 2019 /2.12/)
 
 - **Ability to choose from many implemented systems**
