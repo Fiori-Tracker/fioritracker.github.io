@@ -2,6 +2,8 @@
 - [See how it works](/about/demo.md)
 - [What's new?](/whatsnew.md)
 - [Feature overview](/featureoverview.md)
+- Documenting Fiori content
+ - [Introduction](/doc-cont/intro.md)
 - Installation
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
