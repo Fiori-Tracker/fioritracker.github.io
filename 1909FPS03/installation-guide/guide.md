@@ -1,5 +1,7 @@
 # Main part
 
+To install the „Main part” of the Fiori Tracker, please follow the steps described below.
+
 ## Step 1 - Import the transports
 
 Please import the transport requests that Fiori Tracker team provides.
