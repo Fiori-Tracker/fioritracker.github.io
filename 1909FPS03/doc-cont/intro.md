@@ -56,7 +56,7 @@ After You chose listed app, that You need, here is what You will see:
 
 The As is tab shows how Your system looks in that very moment and how far the implementation is. For app that we chose:
 
-![](..res/first_look_as_is_tab.png)
+![](../res/first_look_as_is_tab.png)
 *fig.11. First look at the As is tab*
 
 In the last tab – Info records, is whole changes history and documentation about progress with app implementation.
