@@ -40,6 +40,12 @@ After You chose wanted role here is what You will see. To be tab shows what Busi
 *fig.7. Detailed role view - To be tab, Users tab*
 
 ![](../res/detailed_role_view_graph.png)
-*fig.8. Detailed role view - Graph tab*
+*fig.8. Detailed role view - To be tab, Graph tab*
+
+![](..res/detailed_role_view_as_is_tab.png)
+*fig.9. Detailed role view - As is tab*
+
+
+
 
 
