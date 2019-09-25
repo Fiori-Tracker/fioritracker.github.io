@@ -6,6 +6,7 @@
  - [Applications Overwiev](/doc-cont/intro.md)
  - [Business Catalogs Overview](/doc-cont/catalogs.md)
  - [Roles Overview](/doc-cont/roles.md)
+ - [Most Frequently Used Apps](/doc-cont/most-apps.md)
 - Installation
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
