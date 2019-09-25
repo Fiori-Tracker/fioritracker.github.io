@@ -2,6 +2,10 @@
 
 You can document your "to-be" state of Fiori launchpad content using applications from group "Fiori Tracker".
 
+This is what You see after entering Fiori Tracker - Fiori Tracker Launchpad. It contains two modes - Display (upper) and Administration mode (bottom). In Administration mode You can modify Your Fiori Tracker and see features that are not available in Display mode. To see what those features are - go to section Feature Overview. 
+
+![](../res/launchpad.png)
+
 # Application Overview
 
 After choosing Applications from the main menu You can see an empty page – that will change in just one moment, but! At the bottom right of that page You can see three icons that was not there before. 
@@ -20,7 +24,7 @@ When You start typing Your apps Name – Fiori Tracker is going to help You find
 All apps listed after pressing Enter/ Search. As You can see – counter works! Here is number of apps that have not been deleted.  Table shows what is App id, Tile title, what Area app signed to, apps Name, its Type and when it was Created. 
 
 ![](../res/after_pressing_enter_view.png)
-*fig.3. After pressing Enter/Serach button - name tapping skipped*
+*fig.3. After pressing Enter/Search button - name tapping skipped*
 
 ![](../res/while_tapping_apps_name.png)
 *fig.4. While tapping apps name - no Enter/Search button*
