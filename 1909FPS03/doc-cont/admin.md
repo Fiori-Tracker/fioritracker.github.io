@@ -2,7 +2,7 @@
 
 In Administration mode, obviously, You can do more things that You can in Display mode. 
 
-- Edit/Delete option 
+## Edit/Delete option 
 Upper right corner, in Applications, Business Catalogs and Roles - if You want to make some changes go to app/catalog/role detail view and click upper corner. Here is what You will get: 
 
 ![](../res/admin_before_edit.png)
