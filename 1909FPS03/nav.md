@@ -3,7 +3,9 @@
 - [What's new?](/whatsnew.md)
 - [Feature overview](/featureoverview.md)
 - Documenting Fiori content
- - [Introduction](/doc-cont/intro.md)
+ - [Applications Overwiev](/doc-cont/intro.md)
+ - [Business Catalogs Overview](/doc-cont/catalogs.md)
+ - [Roles Overview](/doc-cont/roles.md)
 - Installation
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
