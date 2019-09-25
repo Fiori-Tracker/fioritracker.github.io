@@ -1,8 +1,6 @@
 # Plugin for application usage
 
-**1.** Import the transports
-
-Please import the transport requests for "Plugin for application usage" that Fiori Tracker team provides.
+**1.** Import the transport requests for "Plugin for application usage".
 
 **2.** In **PFCG** transaction assign the authorization role to the users that you want to track their applications usage data with Most Frequently Used Apps plugin:
 - ZFT_LOGGER
