@@ -1,7 +1,7 @@
 # Business Catalogs Overview
 
 After choosing Business Catalogs from the main menu You can see an empty page – that will change in just one moment, but! At the bottom right of that page You can see three icons that was not there before. 
-By clicking on the first one You can Export to CSV Your Business Catalogs list. The second one can take You to Application list tab – just like that! And the last one will transport You to Roles tab. 
+By clicking on the first one You can Export to CSV Your Business Catalogs list. The second one can take You to Applications list tab – just like that! And the last one will transport You to Roles tab. 
 
 ![](../res/start_view_c.png)
 *fig.1. Start view*
@@ -16,7 +16,7 @@ When You start typing Your catalogs Name or Description – Fiori Tracker is goi
 All catalogs listed after pressing Enter/ Search. As You can see – counter works! Here is number of catalogs that have not been deleted.  Table shows what is catalogs Name, Area code id, Description and how many apps have been mapped by each catalog – Apps mapped. 
 
 ![](../res/after_pressing-enter_view_c.png)
-*fig.3. After pressing Enter/ Serach button - name tapping skipped*
+*fig.3. After pressing Enter/ Search button - name tapping skipped*
 
 Filtering – You can filter Your catalogs by Area or You can switch Show deleted button to ON mode (the default setting is the OFF mode).
 
