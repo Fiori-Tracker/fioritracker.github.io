@@ -26,6 +26,10 @@ Available from Launchpad level. You can check if anything needs to be fixed in Y
 *fig.4. List of things that needs to be fixed in Health Check tab*
 
 ### Odata Manager
+You can manage Your Odata through filtering by Collection Name.
+
+![](../res/admin_odata_manager.png)
+*fig.5. Odata Manager view, filtering on*
 
 ### Fiori Tracker Setup
 
