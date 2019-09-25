@@ -121,7 +121,7 @@ After You chose wanted catalog here is what You will see:
 ![](../res/detailed_catalog_view_as_is.png)
 *fig.6. Detailed catalog view - As is tab*
 
-In the third tab -- Info records -- is whole History of catalog usage, You can see who and when Signed off which option and when Provissioning was given, also You can Comment and Change request if needed. 
+In the third tab - Info records - is whole History of catalog usage, You can see who and when Signed off which option and when Provissioning was given, also You can Comment and Change request if needed. 
 
 ![](../res/detailed_catalog_view_info_records.png)
 *fig.7. Detailed catalog view - Info records tab, app History*
