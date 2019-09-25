@@ -2,7 +2,7 @@
 
 You can document your "to-be" state of Fiori launchpad content using applications from group "Fiori Tracker".
 
-## Application Overview
+# Application Overview
 
 After choosing Applications from the main menu You can see an empty page – that will change in just one moment, but! At the bottom right of that page You can see three icons that was not there before. 
 By clicking on the first one You can Export to CSV Your Application list. The second one can take You to Business Catalogs tab – just like that! And the last one will transport You to Roles tab. 

@@ -1,4 +1,4 @@
-## Business Catalogs Overview
+# Business Catalogs Overview
 
 After choosing Business Catalogs from the main menu You can see an empty page – that will change in just one moment, but! At the bottom right of that page You can see three icons that was not there before. 
 By clicking on the first one You can Export to CSV Your Business Catalogs list. The second one can take You to Application list tab – just like that! And the last one will transport You to Roles tab. 
