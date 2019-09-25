@@ -34,16 +34,32 @@ After You chose wanted role here is what You will see. To be tab shows what Busi
 *fig.5. Detailed role view - To be tab, Business Catalogs view*
 
 ![](../res/detailed_role_view_to_be_apps.png)
-*fig.6. Detailed role view - To be tab, Applications tab*
+*fig.6. Detailed role view - To be tab, Applications*
 
 ![](../res/detailed_role_view_to_be_users.png)
-*fig.7. Detailed role view - To be tab, Users tab*
+*fig.7. Detailed role view - To be tab, Users*
 
 ![](../res/detailed_role_view_graph.png)
-*fig.8. Detailed role view - To be tab, Graph tab*
+*fig.8. Detailed role view - To be tab, Graph*
 
-![](..res/detailed_role_view_as_is_tab.png)
-*fig.9. Detailed role view - As is tab*
+As is tab shows what is done in Your Fiori Tracker so far. 
+
+![](../res/detailed_role_view_as_is_tab.png)
+*fig.9. Detailed role view - As is*
+
+In Info records tab You can see History of changes in Your chosen role, Provisionings that has been given and Test users. 
+
+![](../res/detailed_role_view_info_records.png)
+*fig.10. Detailed role view - Info records, History*
+
+![](../res/detailed_role_view_info_records_provisioning.png)
+*fig.11. Detailed role view - Info records, Provisionings*
+
+![](../res/detailed_role_view_info_records_test_users.png)
+*fig.12. Detailed role view - Info records, Test users*
+
+
+
 
 
 
