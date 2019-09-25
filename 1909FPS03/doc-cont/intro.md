@@ -1,4 +1,4 @@
-# Documenting SAP Fiori launchpad content
+# Fiori Tracker Launchpad Overview
 
 You can document your "to-be" state of Fiori launchpad content using applications from group "Fiori Tracker".
 

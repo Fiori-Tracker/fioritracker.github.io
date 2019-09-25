@@ -2,7 +2,7 @@
 - [See how it works](/about/demo.md)
 - [What's new?](/whatsnew.md)
 - [Feature overview](/featureoverview.md)
-- Documenting Fiori content
+- Fiori Tracker content
  - [Introduction](/doc-cont/intro.md)
  - [Applications Overwiev](/doc-cont/applications.md)
  - [Business Catalogs Overview](/doc-cont/catalogs.md)
