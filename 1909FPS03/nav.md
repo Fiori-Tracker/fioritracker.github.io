@@ -8,6 +8,7 @@
  - [Business Catalogs Overview](/doc-cont/catalogs.md)
  - [Roles Overview](/doc-cont/roles.md)
  - [Most Frequently Used Apps](/doc-cont/most-apps.md)
+ - [Administration Mode](/doc-cont/admin.md)
 - Installation
  - [Introduction](/installation-guide/intro.md)
  - [Main part](/installation-guide/guide.md)
