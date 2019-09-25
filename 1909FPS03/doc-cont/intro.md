@@ -51,7 +51,7 @@ After You chose listed app, that You need, here is what You will see:
 ![](../res/detailed_app_view_roles.png)
 *fig.9. Detailed apps - Roles view*
 
-![](../res/detailed_apps_graph.png)
+![](../res/detailed_apps_view_graph.png)
 *fig.10. Detailed apps - Graph view*
 
 The As is tab shows how Your system looks in that very moment and how far the implementation is. For app that we chose:
