@@ -1,13 +1,17 @@
 ## Featured in 1909FPS03 (25 Sep 2019)
 
-** Roles App -> Details -> As is (Relations) -> Applications -> System **
+**Roles App -> Details -> As is (Relations) -> Applications -> System**
 Now shows the actual list of applications that are configured in the system with a role
 
-** Fiori Tracker setup**
+**Fiori Tracker setup**
 Interface improvements and fixes in initialization logic
 
-** Configuration **
+**Configuration**
 Fixes
+
+**Catalog App (Admin mode) -> Details -> Import CVS**
+Additional screen before import with function to wipe the apps records before the import form CVS file. We added this function to enable repeated imports of large sets of apps data during migration to Fiori Tracker from other sources. You might need more than one iteration to have the correct app records in Fiori Tracker and implementing mass corrections and cleaning is easier in Excel than in Fiori Tracker. 
+
 
 ## Featured in 1909FPS02 (9 Sep 2019 /2.12/)
 
