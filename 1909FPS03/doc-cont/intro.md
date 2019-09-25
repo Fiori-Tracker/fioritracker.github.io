@@ -38,7 +38,7 @@ If You wabt to see how many apps were deleted - switch ON/OFF mode in Show delet
 ![](/..res/mode_on_show_deleted_check_counter.png)
 *fig.7. Mode on - Show deleted*
 
-*After choosing one app that You want to work with*
+**After choosing one app that You want to work with**
 
 All the technical information that You need to work with an app is right here! You can see everything about that app. Starting from its name through Technical catalog, Semantic object and Semantic action to Relations that app has with Business Catalogs or with Roles, You can even see the whole Relations Graph – from app itself to end-users! 
 To be tab is the ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation.  
