@@ -138,6 +138,8 @@ In the third tab -- Info records -- is whole History of catalog usage, You can s
 ![](../res/detailed_catalog_view_change_request.png)
 *fig.11.  Detailed catalog view - Info records tab, Change request*
 
+### Roles Overview
+
 
 
 
