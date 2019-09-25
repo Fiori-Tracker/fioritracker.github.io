@@ -10,21 +10,12 @@
 
 ## Featured in 1909FPS02 (9 Sep 2019 /2.12/)
 
-`Catalog App (Admin mode) -> Details -> As is` Ability to choose from many implemented systems. You can choose from which system You want to have Your data from and with which system You want to work with. 
+`Applications App -> Details -> As is -> Usage` Now has the function to choose for which system you want to see your application usage data.
 
 ![](/res/chose_from_many_systems.png)
 *fig. 1. As is tab and possible systems to choose from*
 
-
-
-- **Possibility to assign roles to users** 
-
-
-You can assign role to any user You want. Simply – enter Roles, choose Plant Owner, make site editable (upper right corner with Edit button). 
-
-New user can be added in As is tab after entering Users option. 
-
-Do not forget to click Save. Also, switching between systems, in Roles and Info records, is possible! 
+`Roles App (Admin mode) -> To be -> Users (Relations) -> Edit` Now has the function to choose for which system are you setting your Role to user "To-be" assignment.
 
 ![](/res/users_to_assign_role.png)
 *fig. 2. Possible users to assign role*
