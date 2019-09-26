@@ -1,54 +1,79 @@
-# Business Catalogs Overview
+# Applications Overview
 
-After choosing Business Catalogs from the main menu You can see an empty page – that will change in just one moment, but! At the bottom right of that page You can see three icons that was not there before. 
-By clicking on the first one You can Export to CSV Your Business Catalogs list. The second one can take You to Applications list tab – just like that! And the last one will transport You to Roles tab. 
+After choosing Applications from the main menu, you can see an empty page – that will change in just one moment, but! At the bottom right of that page, you can see three icons that were not there before. 
+By clicking on the first one, you can Export to CSV Your Application list. The second one can take You to Business Catalogs tab – just like that! Moreover, the last one will transport You to Roles tab. 
 
-![](../res/start_view_c.png)
+![](../res/start_view.png)
 *fig.1. Start view*
 
-Now, look at the Business Catalogs List view - You can either tap name of the application You need or press Enter/ Search to list all catalogs. Next to Business Catalogs List You can see counter – this is how much catalogs Your Fiori Tracker contains. 
+Now, look at the Application List view - You can tap the name, or press Enter/ Search to list all apps. Next to Application List, You can see counter – this is how much apps Your Fiori Tracker contains. 
 
-When You start typing Your catalogs Name or Description – Fiori Tracker is going to help You find the one You need!
+When you start typing Your apps Name – Fiori Tracker is going to help you find the one you need!
 
-![](../res/while_tapping_catalog_name.png)
-*fig.2. While tapping catalogs name*
+![](../res/while_tapping_apps_name.png)
+*fig.2. While tapping apps name*
 
-All catalogs listed after pressing Enter/ Search. As You can see – counter works! Here is number of catalogs that have not been deleted.  Table shows what is catalogs Name, Area code id, Description and how many apps have been mapped by each catalog – Apps mapped. 
+All apps listed after pressing Enter/ Search. You can see – counter works! It shows the number of existing apps.  The table shows what App id, Tile title is, what Area app signed to, apps Name, its Type, and when it was created. 
 
-![](../res/after_pressing-enter_view_c.png)
-*fig.3. After pressing Enter/ Search button - name tapping skipped*
+![](../res/after_pressing_enter_view.png)
+*fig.3. After pressing Enter/Search button - name tapping skipped*
 
-Filtering – You can filter Your catalogs by Area or You can switch Show deleted button to ON mode (the default setting is the OFF mode).
+![](../res/while_tapping_apps_name.png)
+*fig.4. While tapping apps name - no Enter/Search button*
 
-![](../res/filtering_options_area_switch_mode_on.png)
-*fig.4. Filtering by Area and mode on - Show deleted*
+Filtering – You can filter Your apps by Area, Type or you can switch Show deleted button to ON mode (the default setting is the OFF mode).
 
-**After choosing one catalog that You want to work with**
+![](../res/filtering_options_area.png)
+*fig.5. Filtering options - Area*
 
-You can see everything about that catalog -- its name, Area that is listed for, and Descrition.
-To be tab is the ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation. As is tab shows You at what implementation stage Your Fiori Tracker is. In Info records You can see what has been already done. 
+![](../res/filtering_options_type.png)
+*fig.6. Filtering options - Type*
 
-After You chose wanted catalog here is what You will see:
+If you want to see how many apps were deleted - switch ON/OFF mode in Show deleted option and check the counter. 
 
-![](../res/detailed_catalog_view_to_be.png)
-*fig.5. Detailed catalog view - To be tab*
+![](/../res/mode_on_show_deleted_check_counter.png)
+*fig.7. Mode on - Show deleted*
 
-![](../res/detailed_catalog_view_as_is.png)
-*fig.6. Detailed catalog view - As is tab*
+**After choosing one app that you want to work with**
 
-In the third tab - Info records - is whole History of catalog usage, You can see who and when Signed off which option and when Provissioning was given, also You can Comment and Change request if needed. 
+All the technical information that you need to work with an app is right here! You can see everything about that app. Starting from its name through Technical catalog, Semantic object and Semantic action to Relations that app has with Business Catalogs or with Roles, You can even see the whole Relations Graph – from the app itself to end-users! 
+To be tab is the ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation.  
 
-![](../res/detailed_catalog_view_info_records.png)
-*fig.7. Detailed catalog view - Info records tab, app History*
+You chose the listed app; here is what you will see:
 
-![](../res/detailed_catalog_view_sign_off.png)
-*fig.8. Detailed catalog view - Info records tab, Sign offs*
+![](../res/detailed_app_view_business_catalog.png)
+*fig.8. Detailed app view - after choosing from the list and detailed Business catalog view*
 
-![](../res/detailed_catalog_view_provisioning.png)
-*fig.9. Detailed catalog view - Info records tab, Provisioning*
+![](../res/detailed_app_view_roles.png)
+*fig.9. Detailed apps - Roles view*
 
-![](../res/detailed_catalog_view_comment.png)
-*fig.10. Detailed catalog view - Info records tab, Comments*
+![](../res/detailed_apps_view_graph.png)
+*fig.10. Detailed apps - Graph view*
 
-![](../res/detailed_catalog_view_change_request.png)
-*fig.11.  Detailed catalog view - Info records tab, Change request*
+As is tab shows how Your system looks in that very moment and how far the implementation is. For an app that we chose:
+
+![](../res/first_look_as_is_tab.png)
+*fig.11. First look at the As is tab*
+
+In the last tab – Info records, is complete changes history and documentation about progress with app implementation.
+
+![](../res/info_records_history.png)
+*fig.12. Info records about chosen app - History*
+
+In Sign offs You can see what kind of sign offs are available and – you can Sign off app by Yourself when You need it or Yu can see who has already made it. 
+
+![](../res/info_records_sign_offs.png)
+*fig.13. Info records about chosen app - Sign offs*
+
+You can, as in Sign offs tab, see list of available Provisionings in Provisionings tab, and You can do it by yourself or see who has made it before you.  
+
+![](../res/info_records_provisionings.png)
+*fig.14. Info records about chosen app - Provisionings*
+
+In the next tab, you can add a comment in Comments, change some request that you have already made in Change requests tab and see who Test users are in the last tab. 
+
+![](../res/info_records_comment.png)
+*fig.15. Info records about chosen app - Comments*
+
+![](../res/info_records_change_request.png)
+*fig.16. Info records about chosen app - Change request*
