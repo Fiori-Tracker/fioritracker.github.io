@@ -7,7 +7,7 @@ This is what you see after entering Fiori Tracker - Fiori Tracker Launchpad. It 
 ![](../res/launchpad.png)
 *fig.1. Start view*
 
-In the upper left corner, you can see a Little Man - it is where Your profile is. There You can find Your app (shortcut), go to settings or You can edit Your Home Page. You can also find out about Recent Activity, see what was frequently used or Sign out. 
+In the upper left corner, you can see a Little Man - it is where your profile is. There You can find your app (shortcut), go to settings or you can edit your Home Page. You can also find out about Recent Activity, see what was frequently used or Sign out. 
 
 
 
