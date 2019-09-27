@@ -34,4 +34,5 @@ Available from Launchpad level. You can manage Your Odata through filtering by C
 # Fiori Tracker Setup
 Available from Launchpad level.
 
-
+![](../res/admin_setup.png)
+*fig.6. Fiori Tracker Setup Screen view*
