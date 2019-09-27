@@ -23,9 +23,7 @@
 ![](/res/assigned_users.png)
 *fig. 3. Assigned users*
 
-## Featured in 1909FPS01 (5 Sep 2019 /2.11/)
-
-- **Import data to Fiori Tracker from Fiori Launchpad designer** 
+## Featured in 1909FPS01 (5 Sep 2019 /2.11/) 
 
 `Business Catalogs (Admin mode) -> As is -> Applications (Relations) -> Import` Data from Fiori Launchpad catalogs can be imported not only from "CONF" layer but from "CUST" layer as well. 
 
