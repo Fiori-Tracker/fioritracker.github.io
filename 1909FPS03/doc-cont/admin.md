@@ -1,9 +1,9 @@
 # Administration mode Overview
 
-In Administration mode, obviously, You can do more things that You can in Display mode. 
+In Administration mode, you can do more things that You can in Display mode. 
 
 # Edit/Delete option 
-Upper right corner, in Applications, Business Catalogs and Roles - if You want to make some changes go to app/catalog/role detail view and click upper corner. Here is what You will get: 
+Upper right corner, in Applications, Business Catalogs, and Roles - if You want to make some changes go-to app/catalog/role detail view and click upper corner. Here is what you will get: 
 
 ![](../res/admin_before_edit.png)
 *fig.1. Edit/Delete button in upper right corner*
@@ -11,10 +11,10 @@ Upper right corner, in Applications, Business Catalogs and Roles - if You want t
 ![](../res/admin_edit.png)
 *fig.2. Edition view*
 
-After all changes are done click Save button (also - upper right corner) and all is set to work. 
+After changes are done, click the Save button (also - upper right corner), and all is set to work. 
 
 # Most frequently used semantic data without application
-Available from Launchpad level. You can check which semantic object and action was most often used today, in the last calendar week, how many times it was used in total and which users used it the most. 
+Available from Launchpad level. You can check which semantic object and action were most often used today, in the last calendar week, how many times it was used in total and which users used it the most. 
 
 ![](../res/admin_semantic_action.png)
 *fig.3. List of the most frequently used semantic data*
@@ -34,4 +34,5 @@ Available from Launchpad level. You can manage Your Odata through filtering by C
 # Fiori Tracker Setup
 Available from Launchpad level.
 
-
+![](../res/admin_setup.png)
+*fig.6. Fiori Tracker Setup Screen view*

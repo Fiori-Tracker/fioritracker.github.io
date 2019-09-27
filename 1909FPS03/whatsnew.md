@@ -27,7 +27,7 @@
 
 - **Import data to Fiori Tracker from Fiori Launchpad designer** 
 
-Data You need from Fiori Launchpad catalogs can be imported not only from conf layer but from "CUST" layer as well. To do that You need to enter Business Catalogs (in Administration mode), choose catalog from list and, in As is tab, enter Applications and import ones that You need. 
+`Business Catalogs (Admin mode) -> As is -> Applications (Relations) -> Import` Data from Fiori Launchpad catalogs can be imported not only from "CONF" layer but from "CUST" layer as well. 
 
 ![](/res/as_is_import.png)
 *fig. 4. As is tab in ZC_FIORITRACKER_ADMIN catalog*
