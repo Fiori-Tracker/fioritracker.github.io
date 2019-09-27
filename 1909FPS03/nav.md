@@ -4,7 +4,7 @@
 - [Feature overview](/featureoverview.md)
 - [Architecture](/architecture.md)
 - [Fiori Tracker content](/doc-cont/intro.md)
- - [Applications Overwiev](/doc-cont/applications.md)
+ - [Applications Overview](/doc-cont/applications.md)
  - [Business Catalogs Overview](/doc-cont/catalogs.md)
  - [Roles Overview](/doc-cont/roles.md)
  - [Most Frequently Used Apps](/doc-cont/most-apps.md)
