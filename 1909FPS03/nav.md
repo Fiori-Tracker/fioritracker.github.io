@@ -15,5 +15,4 @@
  - [Location](/installation-guide/location.md)
 - [Configuration](/conf/intro.md)
  - [Main config](/conf/conf.md)
-
 - [Premier support](/premier-support.md)
