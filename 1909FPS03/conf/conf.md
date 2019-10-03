@@ -51,20 +51,3 @@ True – you have installed Fiori Tracker on Solution Manger
 False – you installed it outside 
 
 When set to **True** then Fiori Tracker will use a dedicated set of oData collections that authors prepared as a workaround for lack of the case insensitive queries in SAP Gateway 7.40 witch is the most popular version of SAP Solution Manager. When set to **False** Fiori Tracker will use the set of oData collection that use the standard function.
-
-## Important notes
-### Special behaviors for different app types
-
-When you modify app types, you can also change values for these entries with the following fields (once you check it with 'X'):
-
-`HAS LIBRARY LINK` - it enables you to proceed directly to app entry in Fiori Apps Reference Library when you click on its ID. It's used f.e. with Standard Fiori and SAP GUI apps
-
-![](../res/library_link.png)
-
-`HAS ORIGINAL LIBRARY ID` - it activates two more fields in application entry (Original Library ID and Original application). It's used f.e. with application extension
-
-![](../res/extended_app_fields.png)
-
-`CAN BE LIGHTHOUSE APP` - it activates 'Lighthouse' checkbox; using it you can easily mark applications from Lighthouse Scenario; it's used f.e. with Standard Fiori apps.
-
-![](../res/lighthouse_checkbox.png)
