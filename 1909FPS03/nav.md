@@ -10,7 +10,7 @@
  - [Importing application data](/importing/intro.md)
 - [What's new?](/whatsnew.md)
 - [Installation](/installation-guide/intro.md)
- - [Minimum installation requirements](/installation-guide/min_install_req.md)
+ - [Minimal installation requirements](/installation-guide/min_install_req.md)
  - [Main part](/installation-guide/guide.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
  - [Location](/installation-guide/location.md)

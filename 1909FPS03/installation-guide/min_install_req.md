@@ -8,10 +8,18 @@ Please find minimal requirements to install Fiori Tracker in your system:
 
 The support packages of `SAP_UI 7.52` software component version have below listed minimal installation requirements:
 
+|SAP S/4 HANA 1503   	   |
+|:------------------------:|
+|on NW AS ABAP 7.40  	   |
+|SAP_GWFND 740 : SP 0012   |
+|SAP_BASIS 740 : SP 00012  |
+
+<!--|SAP S/4 HANA 1503   	   |    SAP S/4 HANA 1511 		   |    SAP S/4 HANA 1610 		    |   SAP S/4 HANA 1709      |
+|:------------------------:|:-----------------------------:|:------------------------------:|:------------------------:|
 |on NW AS ABAP 7.40  	   |    on NW AS ABAP 7.50 		   |    on NW AS ABAP 7.51 		    |   on NW AS ABAP 7.52     |
-|:-------------------------|:-----------------------------:|:------------------------------:|:------------------------:|
 |SAP_GWFND 740 : SP 0012   |	SAP_GWFND 750 : SP 0004    |	SAP_GWFND 751 : SP 0000     |	SAP_GWFND 752 : SP 0000|
-|SAP_BASIS 740 : SP 00012  |	SAP_BASIS 750 : SP 0004    |	SAP_BASIS 751 : SP 0000 	|	SAP_BASIS 752 : SP 0000|
+|SAP_BASIS 740 : SP 00012  |	SAP_BASIS 750 : SP 0004    |	SAP_BASIS 751 : SP 0000 	|	SAP_BASIS 752 : SP 0000|-->
+
 
 Here you can find more information about minimal versions and some help with their installations:
 
