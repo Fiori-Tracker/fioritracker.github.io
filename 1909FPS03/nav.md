@@ -8,6 +8,7 @@
  - [Most Frequently Used Apps](/doc-cont/most-apps.md)
  - [Administration Mode](/doc-cont/admin.md)
  - [Importing application data](/importing/intro.md)
+ - [Tips and tricks](/tipsandtricks/export.md)
 - [What's new?](/whatsnew.md)
 - [Installation](/installation-guide/intro.md)
  - [Minimal installation requirements](/installation-guide/min_install_req.md)
