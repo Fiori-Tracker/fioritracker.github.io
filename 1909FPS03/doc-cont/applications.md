@@ -5,7 +5,6 @@ Main features of this application are:
 - Filter options for application type and functional area
 - Get status of the apps when it comes to testing and provisioning
 
-
 After choosing Applications from the main menu, you can see an empty page – that will change in just one moment, but! At the bottom right of that page, you can see three icons that were not there before. 
 By clicking on the first one, you can Export to CSV Your Application list. The second one can take You to Business Catalogs tab – just like that! Moreover, the last one will transport You to Roles tab. 
 

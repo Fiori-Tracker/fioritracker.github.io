@@ -1,5 +1,12 @@
 # Business Catalogs Overview
 
+Main features of this application are:
+- Drill down from catalogs, roles and applications
+- Filter options for functional area
+- Get status of the catalogs when it comes to testing and provisioning
+- Find catalogs that do not comply with "to-be"state
+- Export the list of the catalogs to Excel spreadsheet
+
 After choosing Business Catalogs from the main menu, you can see an empty page – that will change in just one moment, but! At the bottom right of that page, you can see three icons that were not there before. 
 By clicking on the first one, you can Export to CSV Your Catalogs list. The second one can take You to Applications tab – just like that! Moreover, the last one will transport You to Roles tab. 
 
