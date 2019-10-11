@@ -1,4 +1,4 @@
-# Feature overivew 
+# Feature overview 
 
 The main feature of Fiori Tracker is storing the details of the Fiori launchpad content of your S/4 HANA project. As Fiori launchpad content, we mean specifics of applications collected into catalogs and assigned to business roles. 
 
