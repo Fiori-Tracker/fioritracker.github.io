@@ -21,8 +21,13 @@ Path: **/default_host/sap/opu/odata/sap/**
 ### Step 3 - Assign the roles
 
 In **PFCG** transaction assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
-- ZFT_ADMIN
-- ZFT_USER
+- ZFT_ALL
+- ZFT_BASIS
+- ZFT_FIORIDEV
+- ZFT_FUNCTIONAL_APP_EXPERT
+- ZFT_PMO
+- ZFT_TESTER
+- ZFT_SUPPORT_EXPERT
 
 ## Steps for UX Lead (Fiori Dev)
 
