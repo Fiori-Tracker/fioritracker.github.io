@@ -13,11 +13,6 @@ Please import the transport requests that Fiori Tracker team provides.
 **2.1** Run **SICF** transaction and activate those ICF nodes:<br/>
 Path: **/default_host/sap/bc/ui5_ui5/sap/**
 - zfioritracker
-- zfioristatslog
-- zfiorimfuastart
-- zfioriappstart
-- zfioriappexplorer
-- zfioriissuelog
 - zfioriodatamng<br/>
 
 Path: **/default_host/sap/opu/odata/sap/**
