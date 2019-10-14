@@ -24,7 +24,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 - ZFT_ADMIN
 - ZFT_USER
 
-## Steps for Fiori Developer
+## Steps for UX Lead (Fiori Dev)
 
 ### Step 4 - Add intervals for number ranges
 
