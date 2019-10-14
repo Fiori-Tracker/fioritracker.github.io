@@ -2,11 +2,13 @@
 
 To install the „Main part” of the Fiori Tracker, please follow the steps described below.
 
-## Step 1 - Import the transports
+## Steps for Basis Expert
+
+### Step 1 - Import the transports
 
 Please import the transport requests that Fiori Tracker team provides.
 
-## Step 2 - Activate services
+### Step 2 - Activate services
 
 **2.1** Run **SICF** transaction and activate those ICF nodes:<br/>
 Path: **/default_host/sap/bc/ui5_ui5/sap/**
@@ -21,13 +23,15 @@ Path: **/default_host/sap/bc/ui5_ui5/sap/**
 Path: **/default_host/sap/opu/odata/sap/**
 - ZFIORITRACKER_SRV
 
-## Step 3 - Assign the roles
+### Step 3 - Assign the roles
 
 In **PFCG** transaction assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
 - ZFT_ADMIN
 - ZFT_USER
 
-## Step 4 - Add intervals for number ranges
+## Steps for Fiori Developer
+
+### Step 4 - Add intervals for number ranges
 
 **4.1** Run **ZFTSETUP** transaction.<br />
 **4.2** Choose **"Create number range intervals"**.<br />
@@ -37,17 +41,17 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 
 ![](../res/guide_intervals.png)
 
-## Step 5 - Create initial area codes
+### Step 5 - Create initial area codes
 
 In this step, you can create initial codes for your business areas. All applications, business catalogs, and roles could be assigned to a specific area (please find example area codes below).
 
 ![](../res/guide_area_codes.jpg)
 
-## Step 6 - Create default initial data
+### Step 6 - Create default initial data
 
 In this step, you create default initial data for Fiori Tracker based on the information you have provided in the previous steps.
 
-## Step 7 - Modify configuration
+### Step 7 - Modify configuration
 
 In this step you can modify Fiori Tracker configuration:
 - CatalogNamingRule - rules for catalog naming
@@ -62,7 +66,7 @@ You can find detailed description of each parameter in section [Main config](/co
 
 ![](../res/config.png)
 
-## Step 8 - Modify application types
+### Step 8 - Modify application types
 
 In this step, you can change application types. We recommend using our proposition of them based on the SAP Fiori apps reference library (please find them below).
 
@@ -70,31 +74,31 @@ You can find detailed description of each parameter in section [Application type
 
 ![](../res/app_types.png)
 
-## Step 9 - Modify sign off types
+### Step 9 - Modify sign off types
 
 In this step, you can change sign off types. They should be relevant to the steps of your development process (please find the example below).
 
 ![](../res/sign_off_types.png)
 
-## Step 10 - Modify provisioning types
+### Step 10 - Modify provisioning types
 
 In this step, you can change provisioning types. They should be relevant to your system landscape (please find the example below).
 
 ![](../res/provisioning_types.png)
 
-## Step 11 - Modify user responsible for an area
+### Step 11 - Modify user responsible for an area
 
 In this step, you can change users responsible for specific business areas f.e. stream leads.
 
 ![](../res/user_to_area.png)
 
-## Step 12 - Modify user responsible for the provisioning of a specific set
+### Step 12 - Modify user responsible for the provisioning of a specific set
 
 In this step, you can change users responsible for the provisioning of a specific set f.e. applications.
 
 ![](../res/user_to_type.png)
 
-## Step 13 - Check if the Fiori Tracker applications run correctly
+### Step 13 - Check if the Fiori Tracker applications run correctly
 
 There are two ways to start Fiori Tracker applications:
 
