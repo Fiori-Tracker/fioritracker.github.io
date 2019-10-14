@@ -8,5 +8,6 @@ Run `docsify serve` in root repository dir to launch local npm server with the m
 
 # Rules
 
-1. Screenshots resolution 1280x720
+1. Screenshots resolution 1600x900
+
 2. Instead of number of screenshots use a shot gif animations
