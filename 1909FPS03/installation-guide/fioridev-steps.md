@@ -1,7 +1,5 @@
 # Steps for UX Lead (Fiori Dev)
 
-To install the „Main part” of the Fiori Tracker, please follow the steps described below.
-
 ## Step 1 - Add intervals for number ranges
 
 **4.1** Run **ZFTSETUP** transaction.<br />
