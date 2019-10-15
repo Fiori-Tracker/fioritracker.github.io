@@ -23,5 +23,5 @@
    - [Main config](/conf/main-part/conf.md)
    - [Application types](/conf/main-part/apptypes.md)
  - [Plugin for application usage](/conf/app-usage-plugin/conf.md)
- - [Jira integration](/jira-integration/jira.md)
+ - [Jira integration](conf/jira-integration/jira.md)
 - [Premier support](/premier-support.md)
