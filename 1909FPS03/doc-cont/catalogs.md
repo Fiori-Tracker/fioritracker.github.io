@@ -30,24 +30,33 @@ Filtering – You can filter Your catalogs by Area or, you can switch Show delet
 ![](../res/filtering_options_area_switch_mode_on.png)
 *fig.4. Filtering options - Area; switch mode - ON*
 
-If you want to see how many catalogs were deleted - switch ON/OFF mode in Show deleted option and check the counter. 
+If you want to see how many catalogs were deleted - switch ON/OFF mode in Show deleted option and check the counter.
+
+## Header
 
 **After choosing one catalog that you want to work with**
 
 All the technical information that you need to work with a catalog is right here! Starting from its name through Area and Description to Relations that catalog has with Applications or with Roles, You can even see the whole Relations Graph – from the app itself to end-users! 
-To be tab is the ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation.  
+
+## To be tab 
+
+The ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation.  
 
 You chose the listed catalog; here is what you will see:
 
 ![](../res/detailed_catalog_view_to_be.png)
 *fig.5. Detailed catalog view - after choosing from the list and detailed Applications view*
 
-As is tab shows how Your system looks in that very moment and how far the implementation is. For an app that we chose:
+## As is tab 
+
+Shows how Your system looks in that very moment and how far the implementation is. For an app that we chose:
 
 ![](../res/detailed_catalog_view_as_is.png)
 *fig.6. First look at the As is tab*
 
-In the last tab – Info records, is complete changes history and documentation about progress with catalogs implementation.
+## Info records tab 
+
+Complete changes history and documentation about progress with catalogs implementation.
 
 ![](../res/detailed_catalog_view_info_records.png)
 *fig.7. Info records about chosen catalog - History*
