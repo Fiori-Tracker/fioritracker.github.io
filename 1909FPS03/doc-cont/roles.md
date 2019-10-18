@@ -23,41 +23,6 @@ Filtering – You can filter Your roles by Area, or You can switch Show deleted 
 ![](../res/filtering_options_area_switch_mode_on_roles.png)
 *fig.4. Filtering by Area and mode on - Show deleted*
 
-**After choosing one role that You want to work with**
-
-You can see everything about that position - its name, Area that it is listed for, Composite Role and Derived Role.
-To be tab is the ideal situation – we want Your system to look like this at the end of Fiori Tracker implementation. As is tab shows You at what implementation stage Your Fiori Tracker is. In Info records, You can see what has been already done. 
-
-You chose wanted position; here is what you will see. To be tab shows what Business Catalogs You wish to link with that position. In Applications You can see to which apps person in that position has access. In Users tab is information about Users with that role assigned. Also, the Graph will show you how it all looks in graphic form. 
-
-![](../res/detailed_role_view_to_be.png)
-*fig.5. Detailed role view - To be tab, Business Catalogs view*
-
-![](../res/detailed_role_view_to_be_apps.png)
-*fig.6. Detailed role view - To be tab, Applications*
-
-![](../res/detailed_role_view_to_be_users.png)
-*fig.7. Detailed role view - To be tab, Users*
-
-![](../res/detailed_role_view_graph.png)
-*fig.8. Detailed role view - To be tab, Graph*
-
-As is tab shows what is done in Your Fiori Tracker so far. 
-
-![](../res/detailed_role_view_as_is_tab.png)
-*fig.9. Detailed role view - As is*
-
-In Info records tab You can see History of changes in Your chosen position, Provisionings that has been given and Test users. 
-
-![](../res/detailed_role_view_info_records.png)
-*fig.10. Detailed role view - Info records, History*
-
-![](../res/detailed_role_view_info_records_provisioning.png)
-*fig.11. Detailed role view - Info records, Provisionings*
-
-![](../res/detailed_role_view_info_records_test_users.png)
-*fig.12. Detailed role view - Info records, Test users*
-
 
 
 

@@ -4,7 +4,9 @@
 - [Feature overview](../1909FPS03/featureoverview.md)
 - Installation
  - [Introduction](../1909FPS03/installation-guide/intro.md)
- - [Main part](../1909FPS03/installation-guide/guide.md)
+ - [Main part](/installation-guide/guide.md)
+   - [Steps for Basis Expert](../1909FPS03/installation-guide/basis-steps.md)
+   - [Steps for UX Lead (Fiori Dev)](../1909FPS03/installation-guide/fioridev-steps.md)
  - [Plugin for application usage](../1909FPS03/installation-guide/plugin.md)
  - [Location](../1909FPS03/installation-guide/location.md)
 - [Configuration](../1909FPS03/conf/intro.md)
