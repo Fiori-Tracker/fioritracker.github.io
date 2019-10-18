@@ -2,7 +2,7 @@
 
 Everybody loves dark themes. 
 
-Fiori Tracker works best with dark theme prepared by Fiori Tracker team. Download it here:
+Fiori Tracker works best with dark theme prepared by Fiori Tracker team. You can download it here:
 
 https://github.com/fioritracker/darktheme
 
