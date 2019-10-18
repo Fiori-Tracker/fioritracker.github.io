@@ -37,3 +37,4 @@
  - [Plugin for application usage](/conf/app-usage-plugin/conf.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [Premier support](/premier-support.md)
+- [Dark theme](/dark-theme.md)
