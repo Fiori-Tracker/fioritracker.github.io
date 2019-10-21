@@ -4,21 +4,21 @@
 
 ## Step 1 - Import the transports
 
-Please import the transport requests that Fiori Tracker team provides.
+Please import the transport requests that the Fiori Tracker team provides.
 
 ## Step 2 - Activate services
 
-**2.1** Run **SICF** transaction and activate those ICF nodes:<br/>
-Path: **/default_host/sap/bc/ui5_ui5/sap/**
+Run `SICF` transaction and activate those ICF nodes:<br/>
+Path: `/default_host/sap/bc/ui5_ui5/sap/`
 - zfioritracker
 - zfioriodatamng<br/>
 
-Path: **/default_host/sap/opu/odata/sap/**
+Path: `/default_host/sap/opu/odata/sap/`
 - ZFIORITRACKER_SRV
 
 ## Step 3 - Assign the roles
 
-In **PFCG** transaction assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
+In `PFCG` transaction, assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
 - ZFT_ALL
 - ZFT_BASIS
 - ZFT_FIORIDEV

@@ -24,7 +24,7 @@
 - [What's new?](/whatsnew.md)
 - [Installation](/installation-guide/intro.md)
  - [Minimal installation requirements](/installation-guide/min_install_req.md)
- - Main part
+ - [Main part](installation-guide/main.md)
    - [Steps for Basis Expert](../1909FPS03/installation-guide/basis-steps.md)
    - [Steps for UX Lead (Fiori Dev)](../1909FPS03/installation-guide/fioridev-steps.md)
  - [Plugin for application usage](/installation-guide/plugin.md)
