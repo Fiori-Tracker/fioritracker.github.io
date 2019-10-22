@@ -4,5 +4,5 @@ This part should be installed on a Central system. We recommend to use SAP Solut
 
 There are to set of activities to be performed:
 
-1. [Basis expert steps](basis-steps.md)
-2. [UX lead (Fiori developer) steps](fioridev-steps.md)
+1. [Basis expert steps](installation-guide/basis-steps.md)
+2. [UX lead (Fiori developer) steps](installation-guide/fioridev-steps.md)
