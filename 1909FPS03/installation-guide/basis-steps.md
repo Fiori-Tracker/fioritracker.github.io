@@ -1,5 +1,3 @@
-
-
 # Steps by Basis Expert
 
 The following steps should be executed by a Basis Expert responsible for the system tha Fiori Tracker is installed to.
