@@ -1,31 +1,45 @@
-# Plugin for application usage
+# Steps to be performed by Basis Expert
 
-**1.** Import the transport requests for "Plugin for application usage".
+**Step 1 - Import the transport**
 
-**2.** In **PFCG** transaction assign the authorization role to the users that you want to track their applications usage data with Most Frequently Used Apps plugin:
-- ZFT_LOGGER
+Please import the transport requests that the Fiori Tracker team provides as:
 
-**3.** Run **SM30** transaction (Gateway) and add an entry to **ZFSL_SYST_CONFIG** table.
+- "Managed systems -> Applications usage plugin"
+- "Managed systems -> Role for application usage plugin"
+
+**Step 2 - Enable users to access plugin**
+
+In `PFCG` transaction assign the authorization role `ZFT_LOGGER` to the users that you want to track their applications usage data.
+
+**Step 3 - Define RFC destination of a Central system** 
+
+If you have a RFC pointing to the Central system just use it in the next step. If you do not have such RFC destination, plese prepare it in transaction `SM59`.
+
+Run `SM30` transaction and add an entry to `ZFSL_SYST_CONFIG` table.
 
 
-|  Config key   |      Config value      |
-| ------------- |:-------------:         |
-|  TARGET_RFC   | **YOUR RFC TO SOLMAN** |
+|  Config key   |      Config value                            |
+| ------------- |:-------------------------------------------: |
+|  TARGET_RFC   | **<RFC destination of your Central system>** |
 
-!> RFC destination user must have access to function module: Z_FT_LOG_APPLICATION_USAGE
+!> RFC destination user must have authorizations to run function module: Z_FT_LOG_APPLICATION_USAGE
 
 ![](../res/rfc_conf.png)
 
-**4.** Run SICF transaction and activate those ICF nodes:
+**Step 4 - Activate ICF nodes**
 
-Path: /default_host/sap/bc/ui5_ui5/sap/:
+Run transaction `SICF` and activate the following ICF nodes:
+
+Path: `/default_host/sap/bc/ui5_ui5/sap/`:
 - zfioristatslog
 
-Path: /default_host/sap/opu/odata/sap/:
+Path: `/default_host/sap/opu/odata/sap/`:
 - zfioristatslog_srv
 
 ![](../res/sicf.png)
 
-**5.** Run **/iwfnd/maint_service** and add the system alias to **ZFIORISTATSLOG_SRV**.
+**Step 5 - Add system alias** 
+
+Run `/iwfnd/maint_service` and add the system alias to `ZFIORISTATSLOG_SRV`.
 
 ![](../res/alias.png)
