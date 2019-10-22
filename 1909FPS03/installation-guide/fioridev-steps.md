@@ -2,9 +2,9 @@
 
 ## Step 1 - Add intervals for number ranges
 
-**4.1** Run **ZFTSETUP** transaction.<br />
-**4.2** Choose **"Create number range intervals"**.<br />
-**4.3** If every objects' intervals have been changed successfully - you should see below screen.<br />
+1. Run **ZFTSETUP** transaction.<br />
+2. Choose **"Create number range intervals"**.<br />
+3. If every objects' intervals have been changed successfully - you should see below screen.<br />
 
 !> **Current index** for each object should be set to 1.
 
