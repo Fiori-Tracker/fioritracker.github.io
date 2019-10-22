@@ -1,10 +1,14 @@
 
 
-# Steps for Basis Expert
+# Steps by Basis Expert
+
+The following steps should be executed by a Basis Expert responsible for the system tha Fiori Tracker is installed to.
 
 ## Step 1 - Import the transports
 
-Please import the transport requests that the Fiori Tracker team provides.
+Please import the transport requests that the Fiori Tracker team provides as:
+- "Central system -> Main part"
+- "Central system -> Roles for Main part"
 
 ## Step 2 - Activate services
 
