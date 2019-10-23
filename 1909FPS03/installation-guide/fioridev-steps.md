@@ -31,7 +31,7 @@ In this step you can modify Fiori Tracker configuration:
 - SapVersion - your S/4 HANA version
 - IsSolManVersion – Sets Fiori Tracker installation as installed on Solution Manager
 
-You can find detailed description of each parameter in section [Main config](/conf/conf). 
+You can find detailed description of each parameter in section [Main config](/conf/main-part/conf). 
 
 ![](../res/config.png)
 
@@ -39,7 +39,7 @@ You can find detailed description of each parameter in section [Main config](/co
 
 In this step, you can change application types. We recommend using our proposition of them based on the SAP Fiori apps reference library (please find them below).
 
-You can find detailed description of each parameter in section [Application types](/conf/apptypes)
+You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes)
 
 ![](../res/app_types.png)
 
