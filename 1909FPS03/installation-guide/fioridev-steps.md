@@ -8,15 +8,7 @@
 
 ![](../res/guide_intervals.png)
 
-<<<<<<< HEAD
 ## Step 2 - Create default initial data
-=======
-## Step 2 - Create initial area codes
-
-In this step, you can create initial codes for your business areas. All applications, business catalogs, and roles could be assigned to a specific area (please find example area codes below).
-
-![](../res/guide_area_codes.png)
->>>>>>> 09c037749262f078b6d10689be04da6d7d6c24c7
 
 In this step, you create default initial data for Fiori Tracker (if needed - you can modify it in the next steps). If the initial data have been created successfully - you should see below screen.
 
@@ -33,11 +25,7 @@ In this step you can modify Fiori Tracker configuration:
 - SapVersion - your S/4 HANA version
 - IsSolManVersion – Sets Fiori Tracker installation as installed on Solution Manager
 
-<<<<<<< HEAD
 You can find detailed description of each parameter in section [Main config](/conf/main-part/conf.md). 
-=======
-You can find detailed description of each parameter in section [Main config](/conf/main-part/conf). 
->>>>>>> 09c037749262f078b6d10689be04da6d7d6c24c7
 
 ![](../res/config.png)
 
@@ -51,11 +39,7 @@ In this step, you can change area codes, we have already predifined some of them
 
 In this step, you can change application types. We recommend using our proposition of them based on the SAP Fiori Apps Reference Library (please find them below).
 
-<<<<<<< HEAD
 You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes.md)
-=======
-You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes)
->>>>>>> 09c037749262f078b6d10689be04da6d7d6c24c7
 
 ![](../res/app_types.png)
 
@@ -92,7 +76,7 @@ In this step, you can provide connection data for your managed systems by settin
 
 ![](../res/modify_managed_systems.png)
 
-## Step 11 - Modify Manged systems
+## Step 11 - Connection status check for Managed systems
 
 In this step, you can check connection between your Central system and plugins/addons on your Managed systems.
 
