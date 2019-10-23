@@ -28,3 +28,21 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 - ZFT_PMO
 - ZFT_TESTER
 - ZFT_SUPPORT_EXPERT
+
+## Step 4 - Register the ZFIORITRACKER_SRV service
+
+4.1 Proceed to *SEGW* transaction.
+4.2 Open project *ZFIORITRACKER*
+
+![](../res/segw_open.png)
+
+4.3 Expand *Service Maintenance* folder and double click on *GW_HUB*
+4.4 Click on *Register* button.
+
+![](../res/segw_register.png)
+
+4.5 Provide package name *ZFIORITRACKER*
+
+![](../res/segw_package.png)
+
+4.6 Regenerate *ZFIORITRACKER_SRV* service
