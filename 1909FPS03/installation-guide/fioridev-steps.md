@@ -14,7 +14,7 @@
 
 In this step, you can create initial codes for your business areas. All applications, business catalogs, and roles could be assigned to a specific area (please find example area codes below).
 
-![](../res/guide_area_codes.jpg)
+![](../res/guide_area_codes.png)
 
 ## Step 3 - Create default initial data
 
