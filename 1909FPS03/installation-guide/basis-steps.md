@@ -47,4 +47,4 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 
 4.6 Go to change mode and Generate Runtime objects for *ZFIORITRACKER_SRV* service
 
-![](/res/segw_regenerate.png)
+![](../res/segw_regenerate.png)
