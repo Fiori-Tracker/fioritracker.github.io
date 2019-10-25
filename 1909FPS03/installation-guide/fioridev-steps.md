@@ -12,7 +12,7 @@
 
 In this step, you create default initial data for Fiori Tracker (if needed - you can modify it in the next steps). If the initial data have been created successfully - you should see below screen.
 
-![](../res/initial_data.png)
+![](res/initial-data.png)
 
 ## Step 3 - Modify config
 

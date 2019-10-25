@@ -33,7 +33,7 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 4.1 Proceed to *SEGW* transaction.
 4.2 Open project *ZFIORITRACKER*
 
-![](../res/segw_open.png)
+![](res/segw.png)
 
 4.3 Expand *Service Maintenance* folder and double click on *GW_HUB*
 4.4 Click on *Register* button.
