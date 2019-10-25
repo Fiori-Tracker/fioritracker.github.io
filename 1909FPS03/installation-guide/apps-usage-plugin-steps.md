@@ -24,7 +24,7 @@ Run `SM30` transaction and add an entry to `ZFSL_SYST_CONFIG` table.
 
 !> RFC destination user must have authorizations to run function module: Z_FT_LOG_APPLICATION_USAGE
 
-![](../res/rfc_conf.png)
+![](/res/rfc_conf.png)
 
 ## Step 4 - Activate ICF nodes
 
@@ -36,10 +36,10 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`:
 Path: `/default_host/sap/opu/odata/sap/`:
 - zfioristatslog_srv
 
-![](../res/sicf.png)
+![](/res/sicf.png)
 
 ## Step 5 - Add system alias
 
 Run `/iwfnd/maint_service` and add the system alias to `ZFIORISTATSLOG_SRV`.
 
-![](../res/alias.png)
+![](/res/alias.png)

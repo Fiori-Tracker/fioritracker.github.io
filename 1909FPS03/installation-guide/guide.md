@@ -41,7 +41,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 
 !> **Current index** for each object should be set to 1.
 
-![](../res/guide_intervals.png)
+![](/res/guide_intervals.png)
 
 ### Step 5 - Create initial area codes
 
@@ -106,11 +106,11 @@ There are two ways to start Fiori Tracker applications:
 From your SAP Fiori Launchpad:
 - Login and start the SAP Fiori Launchpad with the user that you have configured in Step 3 of the installation guide.
 
-![](../res/ft_flp.png)
+![](/res/ft_flp.png)
 
 You can also start the Fiori Tracker as an standalone application:
 - **yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
-![](../res/ft_standalone.png)
+![](/res/ft_standalone.png)
 >>>>>>> e506be98efd1c33b2c59f72bbac651e8c3ddedec
