@@ -23,7 +23,6 @@ In this step you can modify Fiori Tracker configuration:
 - ProductiveSystemAddress – Sets the address of your productive system
 - ProductiveSystemId – Sets the production System ID
 - SapVersion - your S/4 HANA version
-- IsSolManVersion – Sets Fiori Tracker installation as installed on Solution Manager
 
 You can find detailed description of each parameter in section [Main config](/conf/main-part/conf.md). 
 
