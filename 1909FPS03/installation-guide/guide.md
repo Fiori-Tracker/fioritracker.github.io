@@ -47,7 +47,7 @@ In **PFCG** transaction assign the authorization roles to the users that you wan
 
 In this step, you can create initial codes for your business areas. All applications, business catalogs, and roles could be assigned to a specific area (please find example area codes below).
 
-![](../res/guide_area_codes.png)
+![](/res/guide_area_codes.png)
 
 ### Step 6 - Create default initial data
 
@@ -65,7 +65,7 @@ In this step you can modify Fiori Tracker configuration:
 
 You can find detailed description of each parameter in section [Main config](/conf/conf). 
 
-![](../res/config.png)
+![](/res/config.png)
 
 ### Step 8 - Modify application types
 
@@ -73,31 +73,31 @@ In this step, you can change application types. We recommend using our propositi
 
 You can find detailed description of each parameter in section [Application types](/conf/apptypes)
 
-![](../res/app_types.png)
+![](/res/app_types.png)
 
 ### Step 9 - Modify sign off types
 
 In this step, you can change sign off types. They should be relevant to the steps of your development process (please find the example below).
 
-![](../res/sign_off_types.png)
+![](/res/sign_off_types.png)
 
 ### Step 10 - Modify provisioning types
 
 In this step, you can change provisioning types. They should be relevant to your system landscape (please find the example below).
 
-![](../res/provisioning_types.png)
+![](/res/provisioning_types.png)
 
 ### Step 11 - Modify user responsible for an area
 
 In this step, you can change users responsible for specific business areas f.e. stream leads.
 
-![](../res/user_to_area.png)
+![](/res/user_to_area.png)
 
 ### Step 12 - Modify user responsible for the provisioning of a specific set
 
 In this step, you can change users responsible for the provisioning of a specific set f.e. applications.
 
-![](../res/user_to_type.png)
+![](/res/user_to_type.png)
 
 ### Step 13 - Check if the Fiori Tracker applications run correctly
 

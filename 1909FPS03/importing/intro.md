@@ -30,8 +30,8 @@ Fields' description:
 
  Then you can proceed to the desired catalog and select Import -> Applications CSV
 
-![](../res/import_from_csv.png)
+![](/res/import_from_csv.png)
 
 Once you select it, you can see this view. If you need you can modify here your entries and import them. 
 
-![](../res/finalimport.png)
+![](/res/finalimport.png)

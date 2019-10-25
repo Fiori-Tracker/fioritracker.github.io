@@ -38,12 +38,12 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 4.3 Expand *Service Maintenance* folder and double click on *GW_HUB*
 4.4 Click on *Register* button.
 
-![](../res/segw_register.png)
+![](/res/segw_register.png)
 
 4.5 Provide package name *ZFIORITRACKER*
 
-![](../res/segw_package.png)
+![](/res/segw_package.png)
 
 4.6 Go to change mode and Generate Runtime objects for *ZFIORITRACKER_SRV* service
 
-![](../res/segw_regenerate.png)
+![](/res/segw_regenerate.png)
