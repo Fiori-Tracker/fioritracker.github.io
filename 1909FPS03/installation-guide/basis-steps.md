@@ -30,8 +30,8 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 
 ## Step 4 - Register the ZFIORITRACKER_SRV service
 
-4.1 Proceed to *SEGW* transaction.
-4.2 Open project *ZFIORITRACKER*
+4.1 Proceed to `SEGW` transaction.
+4.2 Open project `ZFIORITRACKER`
 
 ![](res/segw.png)
 
