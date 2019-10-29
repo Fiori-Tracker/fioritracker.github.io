@@ -1,44 +1,38 @@
 # Steps for UX Lead (Fiori Dev)
 
+There are only two steps that you need to complete to setup Fiori Tracker. Find them in section `Installation` after starting transaction `ZFTSETUP` in SAP Gui:
+
+![](res/zftsetup-inst.png)
+
 ## Step 1 - Create number range intervals
 
-1. Run **ZFTSETUP** transaction.<br />
-2. Choose **"Create number range intervals"**.<br />
-3. If every objects' intervals have been changed successfully - you should see below screen.<br />
+1. Choose `1. Create number range intervals`.<br />
+2. Check if you got the following screen:<br />
 
-![](/res/guide_intervals.png)
+![](res/guide_intervals.png)
+
+3. If yes, then you have created intervals successfully
 
 ## Step 2 - Create default initial data
 
-In this step, you create default initial data for Fiori Tracker (if needed - you can modify it in the next steps). If the initial data have been created successfully - you should see below screen.
+1. Chose `2. Crate default initial data`
+2. Check if you got the following screen:
 
 ![](res/initial_data.png)
 
-## Step 3 - Modify config
-
-In this step you can modify Fiori Tracker configuration:
-- CatalogNamingRule - rules for catalog naming
-- CatalogsImportIsTechnicalCatalogCheckZC – activation of catalog naming convention check
-- IsProductive – sets installation of Fiori Tracker as a productive one.
-- ProductiveSystemAddress – Sets the address of your productive system
-- ProductiveSystemId – Sets the production System ID
-- SapVersion - your S/4 HANA version
-
-You can find detailed description of each parameter in section [Main config](/conf/main-part/conf.md). 
-
-![](/res/config.png)
+3. If yes, then you have created intervals successfully. You can adjust the initial settings lated as described in [configuration section](/conf/main-part/conf.md). 
 
 ## Step 4 - Check if the Fiori Tracker applications run correctly
 
-There are two ways to start Fiori Tracker applications:
+1. There are two ways to start Fiori Tracker applications:
 
 From your SAP Fiori Launchpad:
 - Login and start the SAP Fiori Launchpad with the user that you have configured in Step 3 of the installation guide.
 
-![](/res/ft_flp.png)
+![](res/ft_flp.png)
 
-You can also start the Fiori Tracker as an standalone application:
+2. You can also start the Fiori Tracker as an standalone application by opening the following address in your browser:
 - **yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
-![](/res/ft_standalone.png)
+![](res/ft_standalone.png)
