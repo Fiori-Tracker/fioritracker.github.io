@@ -8,7 +8,30 @@ Please import the transport requests that the Fiori Tracker team provides as:
 - "Central system -> Main part"
 - "Central system -> Roles for Main part"
 
-## Step 2 - Activate services
+## Step 2 - Generate runtime objects for the ZFIORITRACKER_SRV service
+
+2.1 Proceed to `SEGW` transaction. <br>
+2.2 Open project `ZFIORITRACKER`
+
+![](res/segw.png)
+
+2.3 Go to change mode and Generate Runtime objects for `ZFIORITRACKER_SRV` service
+
+![](/res/segw_regenerate.png)
+
+## Step 3 - Add the ZFIORITRACKER_SRV service
+
+3.1 Proceed to `/n/IWFND/MAINT_SERVICE` transaction.<br>
+3.2 Click on the `Add service` button.
+
+![](/res/maint_service_add.png)
+
+3.3 Provide System Alias: `LOCAL` and External Service Name: `ZFIORITRACKER_SRV`.<br>
+3.4 Select the record with ZFIORITRACKER_SRV and click on the `Add selected services` button.
+
+![](/res/maint_service_add2.png)
+
+## Step 4 - Activate services
 
 Run `SICF` transaction and activate those ICF nodes:<br/>
 Path: `/default_host/sap/bc/ui5_ui5/sap/`
@@ -17,7 +40,24 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`
 Path: `/default_host/sap/opu/odata/sap/`
 - ZFIORITRACKER_SRV
 
-## Step 3 - Assign the roles
+## Step 5 - check the service's status
+
+5.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
+
+5.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below.
+
+![](/res/maint_service_status.png)
+
+5.3 Then click on `SAP Gateway Client` button.
+
+![](/res/maint_service_gwcheck.png)
+
+5.4 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
+
+![](/res/maint_service_httpcheck.png)
+
+
+## Step 6 - Assign the roles
 
 In `PFCG` transaction, assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
 - ZFT_ALL
@@ -27,23 +67,3 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 - ZFT_PMO
 - ZFT_TESTER
 - ZFT_SUPPORT_EXPERT
-
-## Step 4 - Register the ZFIORITRACKER_SRV service
-
-4.1 Proceed to `SEGW` transaction.
-4.2 Open project `ZFIORITRACKER`
-
-![](res/segw.png)
-
-4.3 Expand *Service Maintenance* folder and double click on *GW_HUB*
-4.4 Click on *Register* button.
-
-![](/res/segw_register.png)
-
-4.5 Provide package name *ZFIORITRACKER*
-
-![](/res/segw_package.png)
-
-4.6 Go to change mode and Generate Runtime objects for *ZFIORITRACKER_SRV* service
-
-![](/res/segw_regenerate.png)
