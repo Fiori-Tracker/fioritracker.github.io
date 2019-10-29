@@ -17,7 +17,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 2.3 Go to change mode and Generate Runtime objects for `ZFIORITRACKER_SRV` service
 
-![](/res/segw_regenerate.png)
+![](/res/segw_gen.png)
 
 ## Step 3 - Add the ZFIORITRACKER_SRV service
 
