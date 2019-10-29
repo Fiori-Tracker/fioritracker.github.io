@@ -22,6 +22,9 @@ Please import the transport requests that the Fiori Tracker team provides as:
 ## Step 3 - Add the ZFIORITRACKER_SRV service
 
 3.1 Proceed to `/n/IWFND/MAINT_SERVICE` transaction.<br>
+
+**If you can find `ZFIORITRACKER_SRV` entry - proceed directly to the step 4**
+
 3.2 Click on the `Add service` button.
 
 ![](/res/maint_service_add.png)
@@ -31,31 +34,31 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint_service_add2.png)
 
-## Step 4 - Activate services
+## Step 4 - Check the service's status
 
-Run `SICF` transaction and activate those ICF nodes:<br/>
-Path: `/default_host/sap/bc/ui5_ui5/sap/`
-- zfioritracker<br/>
+4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
-Path: `/default_host/sap/opu/odata/sap/`
-- ZFIORITRACKER_SRV
-
-## Step 5 - Check the service's status
-
-5.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
-
-5.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below.
+4.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below.
 
 ![](/res/maint_service_status.png)
 
-5.3 Then click on `SAP Gateway Client` button.
+If ICF node is not marked with green - click on `ICF node` button and click `Activate`
+
+![](/res/maint_service_icfactivate.png)
+
+4.3 Then click on `SAP Gateway Client` button.
 
 ![](/res/maint_service_gwcheck.png)
 
-5.4 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
+4.4 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
 
 ![](/res/maint_service_httpcheck.png)
 
+## Step 5 - Activate the Fronted ICF node
+
+Run `SICF` transaction and activate this ICF node:<br/>
+Path: `/default_host/sap/bc/ui5_ui5/sap/`
+- zfioritracker<br/>
 
 ## Step 6 - Assign the roles
 
