@@ -35,7 +35,7 @@
  - [Location](/installation-guide/location.md)
 - [Configuration ⚙️](/conf/intro.md)
  - [Main part](/conf/main-part/intro.md)
-   - [Modification steps](/conf/main-part/modifysteps.md)
+   - [Customizing](/conf/main-part/modifysteps.md)
    - [Main config table](/conf/main-part/conf.md)
    - [Application types](/conf/main-part/apptypes.md)
  - [Application usage plugin](/conf/app-usage-plugin/conf.md)

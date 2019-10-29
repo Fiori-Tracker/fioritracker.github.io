@@ -28,13 +28,7 @@ You can find detailed description of each parameter in section [Main config](/co
 
 ![](/res/config.png)
 
-## Step 4 - Connection status check for Managed systems
-
-In this step, you can check connection between your Central system and plugins/addons on your Managed systems.
-
-![](/res/connection_check.png)
-
-## Step 5 - Check if the Fiori Tracker applications run correctly
+## Step 4 - Check if the Fiori Tracker applications run correctly
 
 There are two ways to start Fiori Tracker applications:
 

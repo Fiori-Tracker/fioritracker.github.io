@@ -46,3 +46,9 @@ In this step, you can provide connection data for your managed systems by settin
 - Is production - enable this checkbox for your production system entry
 
 ![](/res/modify_managed_systems.png)
+
+## Step 8 - Connection status check for Managed systems
+
+In this step, you can check connection between your Central system and plugins/addons on your Managed systems.
+
+![](/res/connection_check.png)
