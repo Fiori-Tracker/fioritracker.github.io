@@ -34,7 +34,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint_service_add2.png)
 
-## Step 4 - Check the service's status
+## Step 4 - Check if ICF node status for Fiori Tracker backend service (ZFIORITRACKER_SRV) is green
 
 4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
@@ -42,25 +42,29 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint_service_status.png)
 
-If ICF node is not marked with green - click on `ICF node` button and click `Activate`
+If ICF node is not marked with green then proceed with Step 5
+
+## Step 5 - Activate ICF node
+
+5.1 Click on `ICF node` button and click `Activate`
 
 ![](/res/maint_service_icfactivate.png)
 
-4.3 Then click on `SAP Gateway Client` button.
+5.2 Then click on `SAP Gateway Client` button.
 
 ![](/res/maint_service_gwcheck.png)
 
-4.4 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
+5.3 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
 
 ![](/res/maint_service_httpcheck.png)
 
-## Step 5 - Activate the Fronted ICF node
+## Step 6 - Activate the Fronted ICF node
 
 Run `SICF` transaction and activate this ICF node:<br/>
 Path: `/default_host/sap/bc/ui5_ui5/sap/`
 - zfioritracker<br/>
 
-## Step 6 - Assign the roles
+## Step 7 - Assign the roles
 
 In `PFCG` transaction, assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
 - ZFT_ALL
