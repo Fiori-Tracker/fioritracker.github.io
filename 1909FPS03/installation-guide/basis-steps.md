@@ -34,7 +34,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint_service_add2.png)
 
-## Step 4 - Check if ICF node status for Fiori Tracker backend service (ZFIORITRACKER_SRV) is green
+## Step 4 - Check if ICF node status for backend service (ZFIORITRACKER_SRV) is green
 
 4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
@@ -42,7 +42,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint_service_status.png)
 
-If ICF node is not marked with green then proceed with Step 5
+If ICF node is not marked with green then proceed with Step 5. If it is green than you can skip Step 5 and proceed with Step 6.
 
 ## Step 5 - Activate ICF node
 
