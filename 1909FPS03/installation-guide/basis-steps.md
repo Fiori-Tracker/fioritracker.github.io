@@ -40,7 +40,7 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`
 Path: `/default_host/sap/opu/odata/sap/`
 - ZFIORITRACKER_SRV
 
-## Step 5 - check the service's status
+## Step 5 - Check the service's status
 
 5.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
