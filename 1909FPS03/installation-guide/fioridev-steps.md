@@ -27,3 +27,24 @@ In this step you can modify Fiori Tracker configuration:
 You can find detailed description of each parameter in section [Main config](/conf/main-part/conf.md). 
 
 ![](/res/config.png)
+
+## Step 4 - Connection status check for Managed systems
+
+In this step, you can check connection between your Central system and plugins/addons on your Managed systems.
+
+![](/res/connection_check.png)
+
+## Step 5 - Check if the Fiori Tracker applications run correctly
+
+There are two ways to start Fiori Tracker applications:
+
+From your SAP Fiori Launchpad:
+- Login and start the SAP Fiori Launchpad with the user that you have configured in Step 3 of the installation guide.
+
+![](/res/ft_flp.png)
+
+You can also start the Fiori Tracker as an standalone application:
+- **yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
+f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
+
+![](/res/ft_standalone.png)
