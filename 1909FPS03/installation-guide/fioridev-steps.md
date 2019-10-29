@@ -1,4 +1,4 @@
-# Steps for UX Lead (Fiori Dev)
+# Steps for UX Lead (Fiori Developer)
 
 There are only two steps that you need to complete to setup Fiori Tracker. Find them in section `Installation` after starting transaction `ZFTSETUP` in SAP Gui:
 
@@ -9,7 +9,7 @@ There are only two steps that you need to complete to setup Fiori Tracker. Find 
 1. Choose `1. Create number range intervals`.<br />
 2. Check if you got the following screen:<br />
 
-![](res/guide_intervals.png)
+![](res/intervals.png)
 
 3. If yes, then you have created intervals successfully
 
@@ -18,7 +18,7 @@ There are only two steps that you need to complete to setup Fiori Tracker. Find 
 1. Chose `2. Crate default initial data`
 2. Check if you got the following screen:
 
-![](res/initial_data.png)
+![](res/initial.png)
 
 3. If yes, then you have created intervals successfully. You can adjust the initial settings lated as described in [configuration section](/conf/main-part/conf.md). 
 
