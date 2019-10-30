@@ -36,7 +36,6 @@
 - [Configuration ⚙️](/conf/intro.md)
  - [Main part](/conf/main-part/intro.md)
    - [Customizing](/conf/main-part/modifysteps.md)
-   - [Main config table](/conf/main-part/conf.md)
    - [Application types](/conf/main-part/apptypes.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [Premier support 🏋](/premier-support.md)
