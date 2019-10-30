@@ -38,7 +38,7 @@ or
 
 ![](res/ft_flp.png)
 
-2. Tu use technical launchpad:
+2. To use technical launchpad:
 
 Open the following address in your browser:
 - **yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
