@@ -26,10 +26,13 @@ If yes, then you have created intervals successfully. You can adjust the initial
 
 ## Step 4 - Check if the Fiori Tracker applications run correctly
 
-1. There are two ways to start Fiori Tracker applications:
+There are two ways to start Fiori Tracker applications:
+- From your SAP Fiori Launchpad
+- By using simplified technical launchpad - standalone application prepared in order to access Fiori Tracker in case your SAP Fiori launchpad is not available
 
-From your SAP Fiori Launchpad:
-- Login and start the SAP Fiori Launchpad with the user that you have configured in Step 3 of the installation guide.
+1. To access Fiori Tracker applications from you SAP Fiori launchpad:
+
+- Start SAP Fiori Launchpad with URL and login with the user that you have configured in Step 3 of the installation guide.
 
 ![](res/ft_flp.png)
 

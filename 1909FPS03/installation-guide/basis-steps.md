@@ -58,11 +58,12 @@ If ICF node is not marked with green then proceed with Step 5. If it is green th
 
 ![](/res/maint_service_httpcheck.png)
 
-## Step 6 - Activate the Fronted ICF node
+## Step 6 - Activate the Fronted ICF nodes
 
-Run `SICF` transaction and activate this ICF node:<br/>
+Run `SICF` transaction and activate those ICF nodes:<br/>
 Path: `/default_host/sap/bc/ui5_ui5/sap/`
 - zfioritracker<br/>
+- zuideps
 
 ## Step 7 - Assign the roles
 
