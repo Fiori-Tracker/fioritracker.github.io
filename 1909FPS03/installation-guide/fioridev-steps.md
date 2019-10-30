@@ -41,7 +41,9 @@ or
 2. To use technical launchpad:
 
 Open the following address in your browser:
-- **yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
+
+**yourhost:port**/sap/bc/ui5_ui5/sap/zfioritracker/</br>
+
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](res/ft_standalone.png)
