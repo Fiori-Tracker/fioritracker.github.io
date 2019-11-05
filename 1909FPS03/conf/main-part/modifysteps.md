@@ -1,6 +1,6 @@
 You can modify Fiori Tracker config, just proceed to `ZFTSETUP` transaction
 
-![](res/zftsetup.png)
+![](res/zftsetup.png)s
 
 ## Step 1 - Modify config
 
