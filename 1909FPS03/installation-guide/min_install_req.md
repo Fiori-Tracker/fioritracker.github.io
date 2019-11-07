@@ -1,32 +1,17 @@
 # Minimal installation requirements
 
-Please find minimal requirements to install Fiori Tracker in your system:
+**Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND).**
 
-> `SAP UI5` in version: **1.48.9**
+Fiori Tracker will work in both HUB and Embedded deployment.
 
-> `UI software component` in version: **SAP_UI 752 SP00 (or above SP)**
+Here is the list of compatible systems versions that we have verified Fiori Tracker:
+- SAP S/4 HANA 1809
+- SAP S/4 HANA 1709
+- SAP S/4 HANA 1610
 
-The support packages of `SAP_UI 7.52` software component version have below listed minimal installation requirements:
+It should also work with:
+- SAP S/4 HANA 1503
 
-|SAP S/4 HANA 1503   	   |
-|:------------------------:|
-|on NW AS ABAP 7.40  	   |
-|SAP_GWFND 740 : SP 0012   |
-|SAP_BASIS 740 : SP 00012  |
-
-<!--|SAP S/4 HANA 1503   	   |    SAP S/4 HANA 1511 		   |    SAP S/4 HANA 1610 		    |   SAP S/4 HANA 1709      |
-|:------------------------:|:-----------------------------:|:------------------------------:|:------------------------:|
-|on NW AS ABAP 7.40  	   |    on NW AS ABAP 7.50 		   |    on NW AS ABAP 7.51 		    |   on NW AS ABAP 7.52     |
-|SAP_GWFND 740 : SP 0012   |	SAP_GWFND 750 : SP 0004    |	SAP_GWFND 751 : SP 0000     |	SAP_GWFND 752 : SP 0000|
-|SAP_BASIS 740 : SP 00012  |	SAP_BASIS 750 : SP 0004    |	SAP_BASIS 751 : SP 0000 	|	SAP_BASIS 752 : SP 0000|-->
+Details: Fiori Tracker frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above SP).). For systems that do not have UI5 library in this version Fiori Tracker can be still run from Technical launchpad.
 
 
-Here you can find more information about minimal versions and some help with their installations:
-
-**ABAP SAPUI5 1.48 release**
-
-https://launchpad.support.sap.com/#/notes/2468634
-
-**SAP_UI 7.52 minimal installation requirements**
-
-https://launchpad.support.sap.com/#/notes/2488242
