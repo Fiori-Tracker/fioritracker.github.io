@@ -10,7 +10,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ## Step 2 - Generate runtime objects for the ZFIORITRACKER_SRV service
 
-2.1 Proceed to `SEGW` transaction. <br>
+2.1 Proceed to `SEGW` transaction. <br>a
 2.2 Open project `ZFIORITRACKER`
 
 ![](res/segw.png)
