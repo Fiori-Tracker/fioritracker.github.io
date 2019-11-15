@@ -12,7 +12,7 @@ You can modify Fiori Tracker config, just proceed to `ZFTSETUP` transaction
 
 You can specify your rules for catalog naming – f.e. a mandatory prefix that will help you quickly find your custom catalogs.
 
-Default value: `(^ZC_)|(^ZF_)`
+Default value: `(^ZC_)|(^ZBC)`
 
 ### `CatalogsImportIsTechnicalCatalogCheckZC`
 
@@ -24,11 +24,13 @@ The application checks the rules set in the parameter "CatalogNamingRule." Verif
 - The entry in the catalog header edit mode
 - The import from CVS file function in “Catalog app” in Administration mode (button “Catalogs CVS”)
 
+Default value: `true`
+
 ### `HelpURL`
 
 **Sets URL to Fiori Tracker's manual**
 
-**http://help.fioritracker.org**
+Value: `**http://help.fioritracker.org**`
 
 ### `IsProductive` 
 
@@ -45,12 +47,18 @@ When you set it to **false** Fiori Tracker will display information that is mean
 Used in:
 -	Information message to point out the productive system address when you have set the parameter **IsProductive** to false.
 
+Default value: `https://yourhost:port`
+
+f.e. https://sap.nype.pl:44300
+
 ### `ProductiveSystemId`
 
 **Sets the production System ID**
 
 Used in:
 -	Information message to point out the productive system ID when you have set the parameter **IsProductive** to false.
+
+Default value: `System ID`
 
 ### `SapVersion`
 
