@@ -31,7 +31,7 @@ Default value: `true`
 
 **Sets URL to Fiori Tracker's manual**
 
-Value: `**http://help.fioritracker.org**`
+Value: `http://help.fioritracker.org`
 
 ### `IsProductive` 
 
