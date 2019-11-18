@@ -2,6 +2,8 @@
 - [Feature overview ✔️](/featureoverview.md)
 - [Architecture 🏬](/architecture.md)
 - [See how it works 📺](/doc-cont/intro.md)
+ - [General concepts]()
+    - [Role assignment](/doc-cont/role-assignment.md)
  - [Applications](/doc-cont/applications.md)
     - [Header](/doc-cont/header-apps.md)
     - [To be](/doc-cont/to-be-apps.md)
