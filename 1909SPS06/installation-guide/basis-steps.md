@@ -76,19 +76,6 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 - ZFT_TESTER
 - ZFT_SUPPORT_EXPERT
 
+Role assignment for FT apps:
 
-|App                    |  ALL  |  BASIS  |  FIORIDEV  |     FUNC_APP_EXPERT     |  PMO  |  TESTER  |  SUPPORT_EXPERT  |
-| : ---------------- :  | :---: | :-----: | :--------: | :---------------------: | :---: | :------: | :--------------: |
-|Applications - display |   X   |    X    |            |            X            |       |     X    |         X        |      
-|Applications - change  |   X   |         |     X      |                         |       |          |                  |
-|Catalogs - display     |   X   |    X    |            |            X            |       |     X    |         X        |
-|Catalogs - change      |   X   |         |     X      |                         |       |          |                  |
-|Roles - display        |   X   |    X    |            |            X            |       |     X    |         X        |
-|Roles - change         |   X   |         |     X      |                         |       |          |                  |
-|App usage              |   X   |    X    |     X      |            X            |   X   |     X    |         X        |
-|Missing apps           |   X   |    X    |     X      |                         |       |          |                  |
-|Requests - display     |   X   |         |            |            X            |       |     X    |         X        |
-|Requests - admin       |   X   |    X    |     X      |                         |       |          |                  |
-|Health check           |   X   |    X    |     X      |                         |       |          |                  |
-|Odata manager          |   X   |         |     X      |                         |       |          |                  |
-|Fiori Tracker - setup  |   X   |    X    |            |                         |       |          |                  |
+https://help.fioritracker.org/1909SPS06/#/doc-cont/role-assignment
