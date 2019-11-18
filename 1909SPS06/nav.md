@@ -19,6 +19,7 @@
     - [Info records](/doc-cont/info-records-roles.md)
  - [Most Frequently Used Apps](/doc-cont/most-apps.md)
  - [Administration Mode](/doc-cont/admin.md)
+ - [Jira integration](/doc-cont/fiori-reporter.md)
  - [Importing application data](/importing/intro.md)
  - [Tips and tricks](/tipsandtricks/export.md)
 - [What's new? 🌱](/whatsnew.md)
