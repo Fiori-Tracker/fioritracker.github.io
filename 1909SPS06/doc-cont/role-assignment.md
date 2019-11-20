@@ -25,3 +25,5 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 |Health check           |   X   |    X    |     X      |                         |       |          |                  |
 |Odata manager          |   X   |         |     X      |                         |       |          |                  |
 |Fiori Tracker - setup  |   X   |    X    |            |                         |       |          |                  |
+|Managed systems - setup|   X   |    X    |     X      |                         |       |          |                  |
+|Info records - editor  |   X   |         |     X      |                         |       |          |                  |
