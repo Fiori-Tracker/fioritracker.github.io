@@ -2,7 +2,7 @@
 - [Feature overview ✔️](/featureoverview.md)
 - [Architecture 🏬](/architecture.md)
 - [See how it works 📺](/doc-cont/intro.md)
- - [General concepts]()
+ - [General concepts](/doc-cont/general-concept.md)
     - [Role assignment](/doc-cont/role-assignment.md)
  - [Applications](/doc-cont/applications.md)
     - [Header](/doc-cont/header-apps.md)
