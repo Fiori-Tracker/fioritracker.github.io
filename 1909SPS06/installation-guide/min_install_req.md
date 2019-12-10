@@ -1,6 +1,6 @@
 # Minimal installation requirements
 
-**Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND).**
+**Minimal requirement is any SAP system with SAP Gateway (software component SAP_GWFND).**
 
 Fiori Tracker will work in both HUB and Embedded deployment.
 
