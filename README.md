@@ -18,3 +18,5 @@ Run `docsify serve` in root repository dir to launch local npm server with the m
 marked with: `code`
 
 2. Instead of number of screenshots for sequence of steps, use a gif animations
+
+3. All links relative
