@@ -78,4 +78,4 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 
 Role assignment for FT apps:
 
-https://help.fioritracker.org/1909SPS06/#/doc-cont/role-assignment
+[Roles description](doc-cont/role-assignment.md)
