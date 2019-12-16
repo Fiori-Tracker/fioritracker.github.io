@@ -45,4 +45,4 @@
 - [How to get started?](getstarted/how-to-get-started.md)
 - [Premier support 🏋](/premier-support.md)
 - [Dark theme 🕶️](/dark-theme.md)
-- [Getting transports 🚚](/trans.md)
+- [Getting transports 🚚](https://github.com/fioritracker/installation)
