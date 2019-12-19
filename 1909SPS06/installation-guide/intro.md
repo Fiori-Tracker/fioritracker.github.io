@@ -19,4 +19,3 @@ Section "[Location](location.md)" explains where in your landscape "Main part" s
 "Plugin for application usage" is composed of:
 - "Application usage plugin" - UI5 application that is loaded and run automatically as SAP Fiori launchpad plugin for all users with role ZFT_LOGGER
 - OData service used by SAP Fiori launchpad plugin
-
