@@ -1,5 +1,5 @@
 # Fiori Tracker Architecture
 
-![](res/architektura_png.png)
+![](res/architekture.png)
 *Fiori Tracker Architecture*
 
