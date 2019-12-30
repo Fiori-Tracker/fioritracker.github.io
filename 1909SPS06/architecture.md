@@ -1,5 +1,5 @@
 # Fiori Tracker Architecture
 
-![](res/architekture.png)
-*Fiori Tracker Architecture*
+![](res/architecture.png)
+*Fiori Tracker recommended installation in three tier system landscape with Fiori Tracker central system on Solution Manager*
 
