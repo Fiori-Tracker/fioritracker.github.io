@@ -27,7 +27,7 @@
 - [What's new? 🌱](/whatsnew.md)
 - [Installation 🏗️](/installation-guide/intro.md)
  - [Minimal installation requirements](/installation-guide/min_install_req.md)
- - [Location](/installation-guide/location.md)
+ - [Deployment options](/deployment/into.md)
  - [Import transports](/installation-guide/import-transports.md)
  - [Main part](installation-guide/main.md)
    - [Steps by Basis Expert](/installation-guide/basis-steps.md)

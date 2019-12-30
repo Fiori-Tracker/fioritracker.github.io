@@ -1,9 +1,9 @@
-### You can import transports in 2 scenarios:
+### Deployment options
 <br>
 
-**1. Recommended scenario - Fiori Tracker's components imported seperately to Central and Managed systems**
+**1. Recommended - Fiori Tracker on SAP Solution Manager**
 
-**Central system (SolMan):**
+Central system (Solution Manager):
 
 [Main part](https://github.com/fioritracker/installation/tree/master/Central-system%5BSolMan%5D/Main-part)
 
