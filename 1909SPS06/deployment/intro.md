@@ -10,13 +10,13 @@ This is the recommended option.
 
 ![](res/option1.png)
 
-**2. Deployment option 2 - Central system on Quality assurance system in SAP Business Suite or SAP S/4 HANA landscape**
+**2. Central system on Quality assurance system in SAP Business Suite or SAP S/4 HANA landscape**
 
 This option is used in the case when it is not possible to install Fiori Tracker outside of the systems that it is planned to manage (f.e. as in option 1 on SAP Solution Manager). Please check the [location considerations](location.md) for the disadvantages of this option.
 
 ![](res/option2.png)
 
-**3. Deployment option 3 - Central system and Managed system on one system**
+**3. Central system and Managed system on one system**
 
 This option is usually used for evaluation purposes. Both parts are installed in one system. Often, it is a Sandbox system.
 
