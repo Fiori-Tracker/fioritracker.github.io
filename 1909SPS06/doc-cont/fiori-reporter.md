@@ -1,9 +1,19 @@
-# Fiori Report - Jira integration
+# Fiori Reporter - support ticket in 6 seconds
 
-With Fiori Reporter, you can ease your bug reporting. 
+The Reporter starts with the button placed in the Fiori launchpad top bar (available for each app). It opens a dialog, prefilled with the system id, app name, and allowing to enter short issue description. 
 
-In most situations, the user doesn't know how to describe precisely his problem to the technician team, so it longs the time of the solution. 
+By marking the checkbox, you can decide if the Reporter should automatically take and attach the screenshot (no external tool is needed). 
 
-With Fiori Reporter, all user has to do is to explain his problem with his words. Fiori Reporter captures the application name that the user has a problem with; it also takes a screenshot of a problematic view so that the technician team can get all the needed information with only one message.
+At dialog closure, the Reporter connects to your issue tracking system (f.e. Jira) and creates the issue putting all the details:
+Application ID and official name
+Screenshot (as an attachment)
+SU53 - missing authorizations report (as an attachment)
+Frontend and backend system id, mandant, logon language
+User details with the timestamp
+Link to start the app
+
+The reported issue is auto-assigned to responsible leads based on the app’s Area designation.
 
 ![](/res/fiori-reporter.gif)
+
+
