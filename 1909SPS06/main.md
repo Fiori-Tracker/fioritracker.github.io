@@ -1,6 +1,6 @@
 # Fiori Tracker
 
->One of the biggest problems that we run into with SAP S/4 HANA implementations is crazy-long hours we spend on SAP Fiori apps governance. With Fiori Tracker you can cut reduce this time drastically.
+>One of the biggest problems that we run into with SAP S/4 HANA implementations is crazy-long hours we spend on SAP Fiori apps governance. With Fiori Tracker you can reduce this time drastically.
 
 #### What it is?
 
