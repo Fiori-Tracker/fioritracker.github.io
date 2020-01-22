@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-a free SAP add-on that cuts SAP Fiori governance time down
+Shorten effort needed to enable Fiori apps in launchpad (free tool)
 
 [Get Started](#main)
