@@ -4,9 +4,9 @@
 
 #### What it is?
 
-It is Fiori at scale tooling that reduces the effort needed for deploying apps in Fiori launchpad.
+It is SAP Fiori at scale tooling that reduces the effort needed for deploying apps in SAP Fiori launchpad.
 
-It shapes the project work, avoid common stumble points, and cut the required time from weeks down to days.
+It shapes the project work, helps avoid common stumble points, and cuts the time required for coordination and configuration from weeks down to days.
 
 Fiori Tracker runs on SAP Solution Manager and serves as a central registry of the Fiori applications that you are implementing or supporting in your SAP Gateway (for both SAP Business Suite and SAP S/4 HANA systems).
 
