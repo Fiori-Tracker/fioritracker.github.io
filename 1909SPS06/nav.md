@@ -3,7 +3,7 @@
  - [Architecture](/general/architecture.md)
  - [Role assignment](/general/role-assignment.md)
 - [See how it works 📺](/doc-cont/intro.md)
- - [Feature overview](/doc-cont/general-concept.md)
+ - [Feature overview](/doc-cont/feature-overview.md)
  - [Applications](/doc-cont/applications.md)
     - [Header](/doc-cont/header-apps.md)
     - [To be](/doc-cont/to-be-apps.md)
