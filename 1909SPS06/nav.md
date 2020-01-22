@@ -22,7 +22,7 @@
  - [Administration Mode](/doc-cont/admin.md)
  - [Importing application data](/importing/intro.md)
  - [Exporting application list with status](/exporting/export.md)
-- [What's new? 🌱](/whatsnew.md)
+
 - [Installation 🏗️](/installation-guide/intro.md)
  - [Minimal installation requirements](/installation-guide/min_install_req.md)
  - [Deployment options](/deployment/intro.md)
@@ -41,6 +41,7 @@
    - [Application types](/conf/main-part/apptypes.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [How to get started?](getstarted/how-to-get-started.md)
+- [What's new? 🌱](/whatsnew.md)
 - [Premier support 🏋](/premier-support.md)
 - [Dark theme 🕶️](/dark-theme.md)
 - [Other tools 🔧](/tools.md)
