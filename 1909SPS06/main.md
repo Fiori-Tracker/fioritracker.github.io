@@ -1,8 +1,14 @@
 # Fiori Tracker
 
->One of the biggest problems that we run into with SAP S/4 HANA implementations is crazy-long hours we spend on SAP Fiori apps governance. With Fiori Tracker you can cut this time down and increase your production value at the same time.
+>One of the biggest problems that we run into with SAP S/4 HANA implementations is crazy-long hours we spend on SAP Fiori apps governance. With Fiori Tracker you can cut reduce this time drastically.
 
-We are sharing Fiori Tracker at no cost with everybody so everyone can save time and get working SAP Fiori apps quicker.
+#### What it is?
+
+It is Fiori at scale tooling that reduces the effort needed for deploying apps in Fiori launchpad.
+
+It shapes the project work, avoid common stumble points, and cut the required time from weeks down to days.
+
+Fiori Tracker runs on SAP Solution Manager and serves as a central registry of the Fiori applications that you are implementing or supporting in your SAP Gateway (for both SAP Business Suite and SAP S/4 HANA systems).
 
 #### Fiori Tracker:
 
@@ -13,8 +19,6 @@ We are sharing Fiori Tracker at no cost with everybody so everyone can save time
 - Speeds up reporting issues discovered while testing or using apps.
 - Reports statistics on apps usage (apps popularity).
 
-#### What it is?
+We are sharing Fiori Tracker at no cost with everybody so everyone can save time and get working SAP Fiori apps quicker.
 
-Fiori Tracker is a free SAP Fiori application that runs on SAP Solution Manager and serves as a central registry of the Fiori applications that you are implementing or supporting in your SAP S/4 HANA system.
 
-App stays free as Nype is involved in developing if for exposure only.
