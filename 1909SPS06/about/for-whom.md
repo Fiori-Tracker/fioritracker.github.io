@@ -29,5 +29,3 @@
 
 - The simplified process of reporting issues in a problem tracking system (f.e. Atlassian Jira)
   >Button available in every Fiori Launchpad application automatically creates the issue is a respective tracking system .Issue is automatically populated with SAP system id and precise application name for quick reference by support or implementation team.
-
-See the screenshots of the app.
