@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-Shorten effort needed to enable Fiori apps in launchpad (free tool)
+Fiori at scale tooling that reduces the effort needed for deploying apps in Fiori launchpad.
 
 [Get Started](#main)
