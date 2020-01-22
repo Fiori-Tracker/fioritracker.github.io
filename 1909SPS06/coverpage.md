@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-Fiori at scale tooling that reduces the effort needed for deploying apps in Fiori launchpad.
+Fiori at scale tooling that cuts deployment time.
 
 [Get Started](#main)
