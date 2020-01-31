@@ -8,6 +8,6 @@ Compatible systems versions with verified Fiori Tracker users include: SAP S/4 H
 
 Details: 
 
-Fiori Tracker requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above SP)). See also,  [Deployment options](/deployment/intro.md) and [Architecture](/architecture.md).
+Fiori Tracker requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above SP)). See also,  [Deployment options](/deployment/intro.md) and [Architecture](/general/architecture.md).
 
 For systems that do not have UI5 library in this version, Fiori Tracker can be still run from the Technical launchpad.
