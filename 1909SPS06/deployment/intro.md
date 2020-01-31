@@ -12,7 +12,7 @@ This is the recommended option.
 
 **2. Central system on Quality assurance system in SAP Business Suite or SAP S/4 HANA landscape**
 
-This option is used in the case when it is not possible to install Fiori Tracker outside of the systems that it is planned to manage (f.e. as in option 1 on SAP Solution Manager). Please check the [location considerations](location.md) for the disadvantages of this option.
+This option is used in the case when it is not possible to install Fiori Tracker outside of the systems that it is planned to manage (f.e. as in option 1 on SAP Solution Manager). Please check the [location considerations](/deployment/location.md) for the disadvantages of this option.
 
 ![](res/option2.png)
 
