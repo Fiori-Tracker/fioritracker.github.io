@@ -74,19 +74,6 @@ When set to **True** then Fiori Tracker will use a dedicated set of oData collec
 
 
 
-
-## Step 6 - Modify user to are code mappings
-
-In this step, you can change **users responsible** for specific business areas f.e. stream leads.
-
-![](/res/user_to_area.png)
-
-## Step 7 - Modify user to type mappings
-
-In this step, you can change **users responsible** for the provisioning of a specific set f.e. applications.
-
-![](/res/user_to_type.png)
-
 ## Step 8 - Modify Manged systems
 
 In this step, you can provide connection data for your managed systems by setting:

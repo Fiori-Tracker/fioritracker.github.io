@@ -42,6 +42,8 @@
    - [Application types](/conf/main-part/app-types.md)
    - [Sign-off types](/conf/main-part/signoff-types.md)
    - [Provisioning types](/conf/main-part/prov-types.md)
+   - [User to area mapping](/conf/main-part/area-mapping.md)
+   - [User to type mapping](/conf/main-part/type-mapping.md)
    - [Customizing](/conf/main-part/modifysteps.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [How to get started?](getstarted/how-to-get-started.md)
