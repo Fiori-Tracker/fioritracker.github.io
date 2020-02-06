@@ -1,4 +1,8 @@
-# Configuration of Main part
+#  Main part configuration
 
-You can adjust the Main part to your specific needs by maintaining the settings for the following setting groups. You can do it by maintaining entries of the corresponding configuration tables.
+As Fiori Tracker administrator, you can configure the Main part by adjusting config parameters of configuration tables.
+
+You can adjust all parameters by opening corresponding configuration table views from SAP Gui based transaction `ZFTSETUP`.
+
+
 
