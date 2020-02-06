@@ -20,9 +20,9 @@ There are only two steps that you need to complete to setup Fiori Tracker. Find 
 
 ![](res/initial.png)
 
-3. If yes, then you have created intervals successfully. 
+3. If the screen looks as above, then you have created intervals and initial configuration data successfully. 
 
-If yes, then you have created intervals successfully. You can adjust the initial settings later, as described in the [configuration section](/conf/main-part/conf.md). 
+You can adjust the initial settings later. Details of all available configuration parameters are described in the [configuration section](/conf/main-part/conf.md). 
 
 ## Step 4 - Check if the Fiori Tracker applications run correctly
 
