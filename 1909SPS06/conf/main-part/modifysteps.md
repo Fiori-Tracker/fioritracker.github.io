@@ -74,11 +74,6 @@ When set to **True** then Fiori Tracker will use a dedicated set of oData collec
 
 
 
-## Step 5 - Modify provisioning types
-
-In this step, you can change **provisioning types**. They should be relevant to your system landscape (please find the example below).
-
-![](/res/provisioning_types.png)
 
 ## Step 6 - Modify user to are code mappings
 

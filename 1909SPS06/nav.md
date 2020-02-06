@@ -41,6 +41,7 @@
    - [Area codes](/conf/main-part/area-codes.md)
    - [Application types](/conf/main-part/app-types.md)
    - [Sign-off types](/conf/main-part/signoff-types.md)
+   - [Provisioning types](/conf/main-part/prov-types.md)
    - [Customizing](/conf/main-part/modifysteps.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [How to get started?](getstarted/how-to-get-started.md)

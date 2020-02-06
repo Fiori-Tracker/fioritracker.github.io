@@ -2,11 +2,9 @@
 
 In this step, you can change application types. We recommend using our proposition of them based on the **SAP Fiori Apps Reference Library** (please find them below).
 
-You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes.md)
-
 ![](/res/app_types.png)
 
-# Special behaviors for different app types
+**Special behaviors for different app types**
 
 When you modify app types, you can also change values for these entries with the following fields (once you check it with 'X'):
 
