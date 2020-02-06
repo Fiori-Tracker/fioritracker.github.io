@@ -1,4 +1,4 @@
-##  Area codes
+# Area codes
 
 The initial config generation has the the default area codes to: **FIN, O2C, O2D**.
 
