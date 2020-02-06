@@ -1,6 +1,6 @@
 
 
-## Step 1 - Modify config
+# Main config
 
 ![](res/modify_config.png)
 
@@ -71,15 +71,6 @@ Fiori Tracker places a link for each Application Id for a standard Fiori applica
 
 When set to **True** then Fiori Tracker will use a dedicated set of oData collections that authors prepared as a workaround for lack of the case insensitive queries in SAP Gateway 7.40 witch is the most popular version of SAP Solution Manager. When set to **False** Fiori Tracker will use the set of oData collection that use the standard function.
 
-
-
-## Step 3 - Modify application types
-
-In this step, you can change application types. We recommend using our proposition of them based on the **SAP Fiori Apps Reference Library** (please find them below).
-
-You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes.md)
-
-![](/res/app_types.png)
 
 ## Step 4 - Modify sign off types
 

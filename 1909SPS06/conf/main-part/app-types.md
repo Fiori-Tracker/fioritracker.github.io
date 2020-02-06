@@ -1,7 +1,12 @@
 # Application types
 
-## Important notes
-### Special behaviors for different app types
+In this step, you can change application types. We recommend using our proposition of them based on the **SAP Fiori Apps Reference Library** (please find them below).
+
+You can find detailed description of each parameter in section [Application types](/conf/main-part/apptypes.md)
+
+![](/res/app_types.png)
+
+# Special behaviors for different app types
 
 When you modify app types, you can also change values for these entries with the following fields (once you check it with 'X'):
 
@@ -16,4 +21,3 @@ When you modify app types, you can also change values for these entries with the
 `CAN BE LIGHTHOUSE APP` - it activates 'Lighthouse' checkbox; using it you can easily mark applications from Lighthouse Scenario; it's used f.e. with Standard Fiori apps.
 
 ![](res/lighthouse_checkbox.png)
-
