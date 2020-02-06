@@ -36,6 +36,7 @@
  - [Jira integration](/installation-guide/jira.md)
 - [Configuration ⚙️](/conf/intro.md)
  - [Main part](/conf/main-part/intro.md)
+   - [Changing configuration parameters](/conf/main-part/changing-config.md)
    - [Main config table](/conf/main-part/conf.md)
    - [Area codes](/conf/main-part/area-codes.md)
    - [Customizing](/conf/main-part/modifysteps.md)
