@@ -72,11 +72,7 @@ Fiori Tracker places a link for each Application Id for a standard Fiori applica
 When set to **True** then Fiori Tracker will use a dedicated set of oData collections that authors prepared as a workaround for lack of the case insensitive queries in SAP Gateway 7.40 witch is the most popular version of SAP Solution Manager. When set to **False** Fiori Tracker will use the set of oData collection that use the standard function.
 
 
-## Step 4 - Modify sign off types
 
-In this step, you can change **sign off types**. They should be relevant to the steps of your development process (please find the example below).
-
-![](/res/sign_off_types.png)
 
 ## Step 5 - Modify provisioning types
 
