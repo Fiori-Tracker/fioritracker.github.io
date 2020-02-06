@@ -45,8 +45,6 @@
    - [User to area mapping](/conf/main-part/area-mapping.md)
    - [User to type mapping](/conf/main-part/type-mapping.md)
   - [Application usage report](/conf/apps-usage/intro.md)
-
-
   - [Customizing](/conf/main-part/modifysteps.md)
  - [Jira integration](conf/jira-integration/jira.md)
 - [How to get started?](getstarted/how-to-get-started.md)
