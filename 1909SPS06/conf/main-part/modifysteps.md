@@ -73,11 +73,7 @@ Fiori Tracker places a link for each Application Id for a standard Fiori applica
 
 When set to **True** then Fiori Tracker will use a dedicated set of oData collections that authors prepared as a workaround for lack of the case insensitive queries in SAP Gateway 7.40 witch is the most popular version of SAP Solution Manager. When set to **False** Fiori Tracker will use the set of oData collection that use the standard function.
 
-## Step 2 - Modify area codes
 
-In this step, you can change area codes, we have already predifined some of them (**FIN, O2C, O2D**).
-
-![](/res/area_codes.png)
 
 ## Step 3 - Modify application types
 

@@ -37,6 +37,7 @@
 - [Configuration ⚙️](/conf/intro.md)
  - [Main part](/conf/main-part/intro.md)
    - [Main config table](/conf/main-part/conf.md)
+   - [Area codes](/conf/main-part/area-codes.md)
    - [Customizing](/conf/main-part/modifysteps.md)
    - [Application types](/conf/main-part/apptypes.md)
  - [Jira integration](conf/jira-integration/jira.md)
