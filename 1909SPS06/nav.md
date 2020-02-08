@@ -34,6 +34,7 @@
    - [Steps by Basis Expert](/installation-guide/asis-info-steps.md) 
    - [Steps by UX Lead (Fiori Dev)](/installation-guide/asis-fioridev.md)
  - [Jira integration](/installation-guide/jira.md)
+ - [Troublesooting](/installation/troubleshooting.md)
 - [Configuration ⚙️](/conf/intro.md)
  - [Changing configuration](/conf/changing-config.md)
  - [Main part](/conf/main-part/intro.md)
