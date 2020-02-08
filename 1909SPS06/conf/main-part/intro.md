@@ -2,7 +2,8 @@
 
 There are two areas of configuration that set how Fiori Tracker Main part works:
 
-1. [Main configuration](/conf/main-part/intro.md) table - it collects parameters that influence general Main part functions
+1. [Main configuration](/conf/main-part/conf.md) table - it collects parameters that influence general Main part functions
+
 2. Feature configuration tables - dedicated to specific Main part functions. The configurable functions include:
 - [Area codes](/conf/main-part/area-codes.md)
 - [Application types](/conf/main-part/app-types.md)
