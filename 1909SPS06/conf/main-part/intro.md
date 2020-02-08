@@ -11,9 +11,3 @@ There are two areas of configuration that set how Fiori Tracker Main part works:
 - [Provisioning types](/conf/main-part/prov-types.md)
 - [User to area mapping](/conf/main-part/area-mapping.md)
 - [Uer to type mapping](/conf/main-part/type-mapping.md)
-
-
-
-
-
-
