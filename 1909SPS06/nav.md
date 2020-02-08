@@ -23,7 +23,7 @@
  - [Importing application data](/importing/intro.md)
  - [Exporting application list with status](/exporting/export.md)
 - [Installation 🏗️](/installation/intro.md)
- - [Minimal installation requirements](/installation/min_install_req.md)
+ - [Minimal requirements](/installation/minimal.md)
  - [Deployment options](/deployment/intro.md)
  - [Main part](installation/main.md)
    - [Steps by Basis Expert](/installation/basis-steps.md)
