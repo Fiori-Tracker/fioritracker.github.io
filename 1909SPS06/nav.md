@@ -35,7 +35,7 @@
    - [Steps by UX Lead (Fiori Dev)](/installation-guide/asis-fioridev.md)
  - [Jira integration](/installation-guide/jira.md)
 - [Configuration ⚙️](/conf/intro.md)
- - [Changing configuration parameters](/conf/changing-config.md)
+ - [Changing configuration](/conf/changing-config.md)
  - [Main part](/conf/main-part/intro.md)
    - [Main config table](/conf/main-part/conf.md)
    - [Area codes](/conf/main-part/area-codes.md)
