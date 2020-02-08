@@ -6,7 +6,7 @@ You can specify your rules for catalog naming – f.e. a mandatory prefix that w
 
 Default value: (^ZC_)
 
-**CatalogsImportIsTechnicalCatalogCheckZC** - Activation of catalog naming convention check
+`CatalogsImportIsTechnicalCatalogCheckZC` - Activation of catalog naming convention check
 
 True - sets on the naming convention check
 False – set it off
@@ -14,23 +14,23 @@ The application checks the rules set in the parameter "CatalogNamingRule." Verif
 - The entry in the catalog header edit mode
 - The import from CVS file function in “Catalog app” in Administration mode (button “Catalogs CVS”)
 
-**IsProductive** - Sets installation of Fiori Tracker as a productive one
+`IsProductive` - Sets installation of Fiori Tracker as a productive one
 
 True- Sets Fiori Tracker installation as productive
 False – Sets it as Development and test
-When you set it to **false** Fiori Tracker will display information that is meant to help users to comprehend that they are not looking at productive version of Fiori content documentation. The information will use the contents of parameters **ProductiveSystemAddress** and **ProductiveSystemId** to point out the system with productive data.
+When you set it to **False** Fiori Tracker will display information that is meant to help users to comprehend that they are not looking at productive version of Fiori content documentation. The information will use the contents of parameters `ProductiveSystemAddress` and `ProductiveSystemId` to point out the system with productive data.
 
-**ProductiveSystemAddress** - Sets the address of your productive system
-
-Used in:
--	Information message to point out the productive system address when you have set the parameter **IsProductive** to false.
-
-**ProductiveSystemId** - Sets the production System ID
+`ProductiveSystemAddress` - Sets the address of your productive system
 
 Used in:
--	Information message to point out the productive system ID when you have set the parameter **IsProductive** to false.
+-	Information message to point out the productive system address when you have set the parameter `IsProductive` to false.
 
-**SapVersion** - Sets your S/4 HANA version
+`ProductiveSystemId` - Sets the production System ID
+
+Used in:
+-	Information message to point out the productive system ID when you have set the parameter `IsProductive` to false.
+
+`SapVersion` - Sets your S/4 HANA version
 
 Used in:
 -	Generating link to Fiori library entry for an application. 
