@@ -1,18 +1,27 @@
 # Main configuration table 
 
-`CatalogNamingRule` - Rules for catalog naming
+## CatalogNamingRule
+
+**Rules for catalog naming**
 
 You can specify your rules for catalog naming – f.e. a mandatory prefix that will help you quickly find your custom catalogs.
 
 Default value: (^ZC_)
 
-`CatalogsImportIsTechnicalCatalogCheckZC` - Activation of catalog naming convention check
+# CatalogsImportIsTechnicalCatalogCheckZC - Activation of catalog naming convention check
 
-True - sets on the naming convention check
-False – set it off
-The application checks the rules set in the parameter "CatalogNamingRule." Verification takes place at:
+**True** - sets on the naming convention check
+**False** – setd it off
+
+The application checks the rules set in the parameter `CatalogNamingRule`. Verification takes place at:
 - The entry in the catalog header edit mode
-- The import from CVS file function in “Catalog app” in Administration mode (button “Catalogs CVS”)
+- The import from CVS file function in Catalog app in Administration mode (button "Catalogs CVS”)
+
+Default value: **True**
+
+`HelpURL` - Sets URL to Fiori Tracker's manual
+
+Default value: http://help.fioritracker.org
 
 `IsProductive` - Sets installation of Fiori Tracker as a productive one
 
