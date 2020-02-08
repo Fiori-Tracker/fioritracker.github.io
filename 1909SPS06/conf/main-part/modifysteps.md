@@ -76,14 +76,4 @@ When set to **True** then Fiori Tracker will use a dedicated set of oData collec
 
 
 
-## Step 9 - Connection status check for Managed systems
 
-In this step, you can check connection between your Central system and plugins/addons on your Managed systems.
-
-![](/res/connection_check.png)
-
-## Step 10 - OData services smoke test
-
-In this step, you can check statuses for your OData services; if everything works correctly then all services should have green squares next to them.
-
-![](/res/odata_smoke_test.png)
