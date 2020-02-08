@@ -48,4 +48,4 @@ f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](res/ft_standalone.png)
 
-We prepared [Technical launchpad](/installation-guide/technical-launchpad.md) in order to access Fiori Tracker in case your SAP Fiori launchpad is not available.
+We prepared [Technical launchpad](/installation/technical-launchpad.md) in order to access Fiori Tracker in case your SAP Fiori launchpad is not available.
