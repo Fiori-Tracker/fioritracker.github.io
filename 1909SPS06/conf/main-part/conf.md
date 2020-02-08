@@ -8,10 +8,12 @@ You can specify your rules for catalog naming – f.e. a mandatory prefix that w
 
 Default value: (^ZC_)
 
-# CatalogsImportIsTechnicalCatalogCheckZC - Activation of catalog naming convention check
+## CatalogsImportIsTechnicalCatalogCheckZC 
+
+**Activation of catalog naming convention check**
 
 **True** - sets on the naming convention check
-**False** – setd it off
+**False** – sets it off
 
 The application checks the rules set in the parameter `CatalogNamingRule`. Verification takes place at:
 - The entry in the catalog header edit mode
@@ -19,27 +21,37 @@ The application checks the rules set in the parameter `CatalogNamingRule`. Verif
 
 Default value: **True**
 
-`HelpURL` - Sets URL to Fiori Tracker's manual
+## HelpURL
+
+**Sets URL to Fiori Tracker's manual**
 
 Default value: http://help.fioritracker.org
 
-`IsProductive` - Sets installation of Fiori Tracker as a productive one
+## IsProductive
 
-True- Sets Fiori Tracker installation as productive
-False – Sets it as Development and test
+**Sets installation of Fiori Tracker as a productive one**
+
+**True**- Sets Fiori Tracker installation as productive
+**False** – Sets it as Development and test
 When you set it to **False** Fiori Tracker will display information that is meant to help users to comprehend that they are not looking at productive version of Fiori content documentation. The information will use the contents of parameters `ProductiveSystemAddress` and `ProductiveSystemId` to point out the system with productive data.
 
-`ProductiveSystemAddress` - Sets the address of your productive system
+## ProductiveSystemAddress
+
+Sets the address of your productive system
 
 Used in:
 -	Information message to point out the productive system address when you have set the parameter `IsProductive` to false.
 
-`ProductiveSystemId` - Sets the production System ID
+## ProductiveSystemId
+
+Sets the production System ID
 
 Used in:
 -	Information message to point out the productive system ID when you have set the parameter `IsProductive` to false.
 
-`SapVersion` - Sets your S/4 HANA version
+## SapVersion
+
+**Sets your S/4 HANA version**
 
 Used in:
 -	Generating link to Fiori library entry for an application. 
