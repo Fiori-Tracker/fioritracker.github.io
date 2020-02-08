@@ -38,7 +38,7 @@
 - [Configuration ⚙️](/conf/intro.md)
  - [Changing configuration](/conf/changing-config.md)
  - [Main part](/conf/main-part/intro.md)
-   - [Main config table](/conf/main-part/conf.md)
+   - [General configuration](/conf/main-part/conf.md)
    - [Area codes](/conf/main-part/area-codes.md)
    - [Application types](/conf/main-part/app-types.md)
    - [Sign-off types](/conf/main-part/signoff-types.md)
