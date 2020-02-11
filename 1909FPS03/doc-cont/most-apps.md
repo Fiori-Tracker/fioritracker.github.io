@@ -1,4 +1,4 @@
-# Most Frequently Used Apps Overview
+# SAP Fiori apps usage report
 
 When you want to know which app in Your system is the most frequently used - check it in a dedicated tab (You can choose it from Launchpad level). 
 
