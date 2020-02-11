@@ -9,5 +9,14 @@ Run `docsify serve` in root repository dir to launch local npm server with the m
 # Rules
 
 1. Screenshots resolution 1600x900
+- especially Fiori launchpad screens
 
-2. Instead of number of screenshots use a shot gif animations
+2. All 
+- identifiers
+- sap gui transactions
+- paths 
+marked with: `code`
+
+2. Instead of number of screenshots for sequence of steps, use a gif animations
+
+3. All links relative
