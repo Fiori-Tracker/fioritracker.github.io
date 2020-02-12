@@ -28,7 +28,7 @@ You can adjust the initial settings later. Details of all available configuratio
 
 There are two ways to start Fiori Tracker applications:
 - From your SAP Fiori Launchpad
-- By using simplified technical launchpad 
+- By using simplified [Technical launchpad](/installation/technical-launchpad.md)  (in case your SAP Fiori launchpad is not available)
 
 1. To access Fiori Tracker applications from you SAP Fiori launchpad:
 
@@ -47,5 +47,3 @@ Open the following address in your browser:
 f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](res/ft_standalone.png)
-
-We prepared [Technical launchpad](/installation/technical-launchpad.md) in order to access Fiori Tracker in case your SAP Fiori launchpad is not available.
