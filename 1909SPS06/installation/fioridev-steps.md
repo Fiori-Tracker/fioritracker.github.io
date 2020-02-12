@@ -50,5 +50,5 @@ f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ## Step 4 - Start using Fiori Tracker
 
-Go to [How to get started?](/getstarted/how-to-get-started) section to see how to start using Fiori Tracker.
+Go to [How to get started?](/getstarted/how-to-get-started.md) section to see how to start using Fiori Tracker.
 
