@@ -24,7 +24,7 @@ There are only two steps that you need to complete to setup Fiori Tracker. Find 
 
 You can adjust the initial settings later. Details of all available configuration parameters are described in the [configuration section](/conf/main-part/conf.md). 
 
-## Step 4 - Check if the Fiori Tracker applications run correctly
+## Step 3 - Check if the Fiori Tracker applications run correctly
 
 There are two ways to start Fiori Tracker applications:
 - From your SAP Fiori Launchpad
