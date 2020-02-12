@@ -1,4 +1,4 @@
-## CatalogNamingRule
+# CatalogNamingRule
 
 **Rules for catalog naming**
 

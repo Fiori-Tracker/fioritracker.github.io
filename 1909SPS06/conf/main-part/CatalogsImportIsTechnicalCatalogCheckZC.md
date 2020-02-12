@@ -1,4 +1,4 @@
-## CatalogsImportIsTechnicalCatalogCheckZC 
+# CatalogsImportIsTechnicalCatalogCheckZC 
 
 **Activation of catalog naming convention check**
 

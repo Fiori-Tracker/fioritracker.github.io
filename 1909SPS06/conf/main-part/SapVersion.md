@@ -1,4 +1,4 @@
-## SapVersion
+# SapVersion
 
 **Sets your S/4 HANA version**
 
