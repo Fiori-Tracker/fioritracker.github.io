@@ -39,7 +39,6 @@
 - [Configuration ⚙️](/conf/intro.md)
  - [Changing configuration](/conf/changing-config.md)
  - [Main part](/conf/main-part/intro.md)
-   - [Main configuration]
    - [CatalogNamingRule](/conf/main-part/CatalogNamingRule.md)
    - [CatalogsImportIsTechnicalCatalogCheckZC](/conf/main-part/CatalogsImportIsTechnicalCatalogCheckZC.md)
    - [HelpURL](/conf/main-part/HelpURL.md)
