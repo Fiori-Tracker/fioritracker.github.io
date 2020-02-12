@@ -1,6 +1,6 @@
-# Steps for UX Lead (Fiori Developer)
+# SAP UX Lead (SAP Fiori Developer) steps
 
-There are only two steps that you need to complete to setup Fiori Tracker. Find them in section `Installation` after starting transaction `ZFTSETUP` in SAP Gui:
+Please use section `Installation` after starting transaction `ZFTSETUP` in SAP Gui:
 
 ![](res/zftsetup-inst.png)
 
@@ -28,7 +28,7 @@ You can adjust the initial settings later. Details of all available configuratio
 
 There are two ways to start Fiori Tracker applications:
 - From your SAP Fiori Launchpad
-- By using simplified technical launchpad 
+- By using simplified [Technical launchpad](/installation/technical-launchpad.md)  (in case your SAP Fiori launchpad is not available)
 
 1. To access Fiori Tracker applications from you SAP Fiori launchpad:
 
@@ -48,4 +48,7 @@ f.e. https://demo.fioritracker.org/sap/bc/ui5_ui5/sap/zfioritracker/
 
 ![](res/ft_standalone.png)
 
-We prepared [Technical launchpad](/installation/technical-launchpad.md) in order to access Fiori Tracker in case your SAP Fiori launchpad is not available.
+## Step 4 - Start using Fiori Tracker
+
+Go to [How to get started?](/getstarted/how-to-get-started.md) section to see how to start using Fiori Tracker.
+
