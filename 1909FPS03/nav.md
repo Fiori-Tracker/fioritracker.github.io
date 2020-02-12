@@ -17,7 +17,7 @@
     - [To be](/doc-cont/to-be-roles.md)
     - [As is](/doc-cont/as-is-roles.md)
     - [Info records](/doc-cont/info-records-roles.md)
- - [Most Frequently Used Apps](/doc-cont/most-apps.md)
+ - [SAP Fiori apps usage report](/doc-cont/most-apps.md)
  - [Administration Mode](/doc-cont/admin.md)
  - [Importing application data](/importing/intro.md)
  - [Tips and tricks](/tipsandtricks/export.md)
