@@ -10,4 +10,4 @@ You can choose by which paremeter you want to epxort apps usage data -- note bel
 
 Next, you can choose a time perios from which you want your report and columns that you need in your report. 
 
-![](res/apps_usage_export_sorted_by.png)
+![](res/apps_usage_export_data_columns.png)
