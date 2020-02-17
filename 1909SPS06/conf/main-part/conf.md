@@ -2,6 +2,8 @@
 
 General functions parameters:
 
+![](res/modify_config.png)
+
 [CatalogNamingRule](/conf/main-part/CatalogNamingRule.md) - Rules for catalog naming
 
 [CatalogsImportIsTechnicalCatalogCheckZC](/conf/main-part/CatalogsImportIsTechnicalCatalogCheckZC.md) - Activation of catalog naming convention check
