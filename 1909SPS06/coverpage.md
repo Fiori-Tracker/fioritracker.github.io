@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-Fiori at scale tooling that cuts deployment time.
+The toolset that helps SAP project teams be more productive.
 
 [Get Started](#main)
