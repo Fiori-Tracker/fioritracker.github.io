@@ -9,7 +9,9 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 - ZFT_TESTER
 - ZFT_SUPPORT_EXPERT
 
+![](res/table_from_role_assignments.png)
 
+<!---
 |App                    |  ALL  |  BASIS  |  FIORIDEV  |     FUNC_APP_EXPERT     |  PMO  |  TESTER  |  SUPPORT_EXPERT  |
 | : ---------------- :  | :---: | :-----: | :--------: | :---------------------: | :---: | :------: | :--------------: |
 |Applications - display |   X   |    X    |            |            X            |       |     X    |         X        |      
@@ -27,3 +29,4 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 |Fiori Tracker - setup  |   X   |    X    |            |                         |       |          |                  |
 |Managed systems - setup|   X   |    X    |     X      |                         |       |          |                  |
 |Info records - editor  |   X   |         |     X      |                         |       |          |                  |
+--->
