@@ -78,4 +78,4 @@ In `PFCG` transaction, assign the authorization roles to the users that you want
 
 Role assignment for FT apps:
 
-[Roles description](doc-cont/role-assignment.md)
+[Roles description](general/role-assignment.md)
