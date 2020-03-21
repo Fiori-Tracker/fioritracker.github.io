@@ -4,7 +4,7 @@ The following steps should be executed by a Basis Expert responsible for the sys
 
 ## Step 1 - Import the transports
 
-Please import the transport requests that the Fiori Tracker team provides as:
+Please import the [transport requests](/trans) that the Fiori Tracker team provides as:
 - "Central system -> Main part"
 - "Central system -> Roles for Main part"
 
