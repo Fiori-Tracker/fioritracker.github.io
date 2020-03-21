@@ -52,7 +52,7 @@ If ICF note is green then proceed to the [step 6](#step-6-activate-the-fronted-i
 
 5.1 Click on `ICF node` button and click `Activate`
 
-![](/res/maint_service_icfactivate.png)
+![](/res/maint-service-icf.png)
 
 5.2 Then click on `SAP Gateway Client` button.
 
