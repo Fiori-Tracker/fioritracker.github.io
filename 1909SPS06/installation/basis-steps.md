@@ -15,7 +15,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](res/segw.png)
 
-2.3 Go to change mode and Generate Runtime objects for `ZFIORITRACKER_SRV` service
+2.3 Go to change mode and Generate Runtime objects for `ZFIORITRACKER_SRV` service (your user must be registered as developer)
 
 ![](res/segw_gen.png)
 
@@ -23,7 +23,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 3.1 Proceed to `/n/IWFND/MAINT_SERVICE` transaction.<br>
 
-**If you can find `ZFIORITRACKER_SRV` entry - proceed directly to the step 4**
+If the entry called: `ZFIORITRACKER_SRV` is already on the list then proceed directly to the [step 4](basis-steps?id=step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
 
 3.2 Click on the `Add service` button.
 
@@ -40,7 +40,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 4.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below.
 
-![](/res/maint_service_status.png)
+![](/res/maint-service.png)
 
 If ICF node is not marked with green then proceed with Step 5. If it is green than you can skip Step 5 and proceed with Step 6.
 
