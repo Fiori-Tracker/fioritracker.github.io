@@ -60,7 +60,7 @@ If ICF note is green then proceed to the [step 6](#step-6-activate-the-fronted-i
 
 5.3 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
 
-![](/res/maint_service_httpcheck.png)
+![](/res/maint-service-http.png)
 
 ## Step 6 - Activate the Fronted ICF nodes
 
