@@ -56,7 +56,7 @@ If ICF note is green then proceed to the [step 6](#step-6-activate-the-fronted-i
 
 5.2 Then click on `SAP Gateway Client` button.
 
-![](/res/maint_service_gwcheck.png)
+![](/res/maint-service-gw.png)
 
 5.3 Then click on the `Execute` button; you should see a HTTP response that you can see in the screenshot below.
 
