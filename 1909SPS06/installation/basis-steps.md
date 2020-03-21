@@ -27,7 +27,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint-service-entry.png)
 
-If the entry is present then proceed directly to the [step 4](id=step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
+If the entry is present then proceed directly to the [step 4](#step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
 
 3.3 Click on the `Add service` button.
 
@@ -36,7 +36,7 @@ If the entry is present then proceed directly to the [step 4](id=step-4-check-if
 3.4 Provide System Alias: `LOCAL` and External Service Name: `ZFIORITRACKER_SRV`.<br>
 3.5 Select the record with ZFIORITRACKER_SRV and click on the `Add selected services` button.
 
-![](/res/maint_service_add2.png)
+![](/res/maint-service-add2.png)
 
 ## Step 4 - Check if ICF node status for backend service (ZFIORITRACKER_SRV) is green
 
@@ -46,7 +46,7 @@ If the entry is present then proceed directly to the [step 4](id=step-4-check-if
 
 ![](/res/maint-service.png)
 
-If ICF note is green then proceed to the [step 6](id=step-6-activate-the-fronted-icf-nodes) (skip step 5).
+If ICF note is green then proceed to the [step 6](#step-6-activate-the-fronted-icf-nodes) (skip step 5).
 
 ## Step 5 - Activate ICF node
 
