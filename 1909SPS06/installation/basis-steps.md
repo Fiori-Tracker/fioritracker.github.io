@@ -23,14 +23,18 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 3.1 Proceed to `/n/IWFND/MAINT_SERVICE` transaction.<br>
 
-If the entry called: `ZFIORITRACKER_SRV` is already on the list then proceed directly to the [step 4](basis-steps?id=step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
+3.2 Check for entry called: `ZFIORITRACKER_SRV`:
 
-3.2 Click on the `Add service` button.
+![](/res/maint-service-entry.png)
+
+If the entry is present then proceed directly to the [step 4](/basis-steps?id=step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
+
+3.3 Click on the `Add service` button.
 
 ![](/res/maint_service_add.png)
 
-3.3 Provide System Alias: `LOCAL` and External Service Name: `ZFIORITRACKER_SRV`.<br>
-3.4 Select the record with ZFIORITRACKER_SRV and click on the `Add selected services` button.
+3.4 Provide System Alias: `LOCAL` and External Service Name: `ZFIORITRACKER_SRV`.<br>
+3.5 Select the record with ZFIORITRACKER_SRV and click on the `Add selected services` button.
 
 ![](/res/maint_service_add2.png)
 
@@ -38,11 +42,10 @@ If the entry called: `ZFIORITRACKER_SRV` is already on the list then proceed dir
 
 4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
-4.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below.
-
+4.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below:
 ![](/res/maint-service.png)
 
-If ICF node is not marked with green then proceed with Step 5. If it is green than you can skip Step 5 and proceed with Step 6.
+If ICF note is green then proceed to the [step 6](/basis-steps?id=step-6-activate-the-fronted-icf-nodes) (skip step 5).
 
 ## Step 5 - Activate ICF node
 
