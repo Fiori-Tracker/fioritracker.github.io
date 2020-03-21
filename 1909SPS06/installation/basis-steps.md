@@ -1,6 +1,6 @@
 # Steps by Basis Expert
 
-The following steps should be executed by a Basis Expert responsible for the system tha Fiori Tracker is installed to.
+To install Fiori Tracker, the basis expert should complete the steps described below.
 
 ## Step 1 - Import the transports
 
