@@ -31,7 +31,7 @@ If the entry is present then proceed directly to the [step 4](/basis-steps?id=st
 
 3.3 Click on the `Add service` button.
 
-![](/res/maint_service_add.png)
+![](/res/maint-service-add.png)
 
 3.4 Provide System Alias: `LOCAL` and External Service Name: `ZFIORITRACKER_SRV`.<br>
 3.5 Select the record with ZFIORITRACKER_SRV and click on the `Add selected services` button.
