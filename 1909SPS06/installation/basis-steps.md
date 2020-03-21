@@ -27,7 +27,7 @@ Please import the transport requests that the Fiori Tracker team provides as:
 
 ![](/res/maint-service-entry.png)
 
-If the entry is present then proceed directly to the [step 4](#step-4-check-if-icf-node-status-for-backend-service-zfioritracker_srv-is-green).
+If the entry is present then proceed directly to the [step 4](#step-4-check-if-icf-node-is-active).
 
 3.3 Click on the `Add service` button.
 
@@ -38,11 +38,11 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 ![](/res/maint-service-add2.png)
 
-## Step 4 - Check if ICF node status for backend service (ZFIORITRACKER_SRV) is green
+## Step 4 - Check if ICF node is active
 
 4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
-4.2 OData status should be marked with green and there should be added `LOCAL` alias (marked as default one) - as you can see in the screenshot below:
+4.2 OData status should be marked with green and there should be `LOCAL` alias added and marked as default one. The screen should look like below:
 
 ![](/res/maint-service.png)
 
@@ -71,15 +71,5 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`
 
 ## Step 7 - Assign the roles
 
-In `PFCG` transaction, assign the authorization roles to the users that you want to use for starting Fiori Tracker apps:
-- ZFT_ALL
-- ZFT_BASIS
-- ZFT_FIORIDEV
-- ZFT_FUNCTIONAL_APP_EXPERT
-- ZFT_PMO
-- ZFT_TESTER
-- ZFT_SUPPORT_EXPERT
+Based on [roles description](general/role-assignment.md) in transaction `PFCG` assign the authorization roles to the users that you want to use for starting Fiori Tracker apps.
 
-Role assignment for FT apps:
-
-[Roles description](general/role-assignment.md)
