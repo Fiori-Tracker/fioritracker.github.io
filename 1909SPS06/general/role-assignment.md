@@ -30,3 +30,9 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 |Managed systems - setup|   X   |    X    |     X      |                         |       |          |                  |
 |Info records - editor  |   X   |         |     X      |                         |       |          |                  |
 --->
+
+Roles are prepared with catalogs with separation of Target Mappings and Tiles
+
+The catalog with Tiles only: ZC_FT_TILES - contains all Tiles definitions for all Fiori Tracker applications.
+
+The catalogs with Targets only: ZC_FT_BASIS, ZC_FT_FIORIDEV, ZC_FT_FUNCTIONAL_APP_EXPERT, ZC_FT_PMO, ZC_FT_TESTER, ZC_FT_SUPPORT_EXPERT contain Target definitions only for respective project roles.
