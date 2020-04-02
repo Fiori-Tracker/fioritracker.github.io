@@ -31,7 +31,7 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 |Info records - editor  |   X   |         |     X      |                         |       |          |                  |
 --->
 
-Roles are prepared with catalogs with separation of Target Mappings and Tiles
+Roles are prepared with catalogs with separation of Target Mappings and Tiles.
 
 The catalog with Tiles only: ZC_FT_TILES - contains all Tiles definitions for all Fiori Tracker applications.
 
