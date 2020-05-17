@@ -5,7 +5,7 @@ Fiori Tracker has three parts:
 2. Add-on for "As-is" information
 3. Plugin for application usage (optional)
 
-To obtain the installation files see section "[Getting transports](trans)"
+To obtain the installation files see section "[Getting transports](trans)".
 
 Part 3. "Plugin for application usage" is optional so you can skip it and the rest of the functions will work properly.
 
