@@ -3,9 +3,11 @@
 Fiori Tracker has three parts:
 1. Main Part
 2. Add-on for "As-is" information
-3. Plugin for application usage
+3. Plugin for application usage (optional)
 
-If you are not planning to use the "Application usage" tile, then you can skip installing part 3 and the rest of the functions will work properly.
+To obtain the installation files see section "[Getting transports](trans)"
+
+Part 3. "Plugin for application usage" is optional so you can skip it and the rest of the functions will work properly.
 
 "Main Part" is composed of:
 -	"Fiori Tracker" - Web browser run, custom SAP UI5 application run from Fiori launchpad or as standalone SAP UI5 application together with its oData services
