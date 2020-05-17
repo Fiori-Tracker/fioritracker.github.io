@@ -14,7 +14,7 @@ Below you can find all roles that provided by Fiori Tracker team and their relat
 <!---
 |App                    |  ALL  |  BASIS  |  FIORIDEV  |     FUNC_APP_EXPERT     |  PMO  |  TESTER  |  SUPPORT_EXPERT  |
 | : ---------------- :  | :---: | :-----: | :--------: | :---------------------: | :---: | :------: | :--------------: |
-|Applications - display |   X   |    X    |            |            X            |       |     X    |         X        |      
+|Applications - display |   X   |    X    |            |            X            |       |     X    |         X        |       
 |Applications - change  |   X   |         |     X      |                         |       |          |                  |
 |Catalogs - display     |   X   |    X    |            |            X            |       |     X    |         X        |
 |Catalogs - change      |   X   |         |     X      |                         |       |          |                  |
