@@ -37,6 +37,7 @@
  - [Minimal requirements](/installation/minimal.md)
  - [Deployment options](/deployment/intro.md)
  - [Troubleshooting](/installation/troubleshooting.md)
+ - [Known issues](/installation/known-issues.md)
 - [Configuration ⚙️](/conf/intro.md)
  - [Changing configuration](/conf/changing-config.md)
  - [Main part](/conf/main-part/intro.md)
