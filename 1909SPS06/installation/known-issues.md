@@ -26,7 +26,7 @@ Later when continuing with imports for Main part you will get another error:
 
 Solution:
 
-Regenerate the service in transaction SEGW and ignore the transport error.
+Regenerate the service in transaction SEGW and ignore the transport error. You ca find detailed description on how to regenerate the service in [Step 2 of installation step for Basis expert](basis-steps#step-2-generate-runtime-objects-for-the-zfioritracker_srv-service).
 
 
 
