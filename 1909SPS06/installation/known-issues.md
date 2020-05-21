@@ -1,8 +1,8 @@
-## Known issues
+# Known issues
 
 There are some known issues with the installation that Fiori Tracker team is working on fixing. To see if there's a workaround for your problem, check this section.
 
-1. Issues for systems with SAP GateWay in version 7.40
+###1 Issues for systems with SAP GateWay in version 7.40
 
 Problem: 
 
