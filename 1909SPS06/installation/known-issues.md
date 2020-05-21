@@ -2,7 +2,7 @@
 
 There are some known issues with the installation that Fiori Tracker team is working on fixing. To see if there's a workaround for your problem, check this section.
 
-###1 Issues for systems with SAP GateWay in version 7.40
+### 1 Issues for systems with SAP GateWay in version 7.40
 
 Problem: 
 
@@ -17,7 +17,7 @@ During transport in the pop up windows with options for transport please mark 'I
 
 LAter when continuing with imports for Main part you will get another error:
 
-`Program ZCL_ZFIORITRACKER_DPC=========CP, Include ZCL_ZFIORITRACKER_DPC=========CM06L: Syntax error in line 000002`
+`Program ZCL_ZFIORITRACKER_DPC=========CP, Include ZCL_ZFIORITRACKER_DPC=========CM06L: Syntax error in line 000002`<br>
 `Method 'EXECUTE_ACTION' is unknown or PROTECTED or PRIVATE'`
 
 
