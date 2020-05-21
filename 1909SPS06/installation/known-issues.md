@@ -15,10 +15,17 @@ Solution:
 
 During transport in the pop up windows with options for transport please mark 'Ignore invalid Component version' checkbox and go ahead with this option.
 
-LAter when continuing with imports for Main part you will get another error:
+Problem:
+
+Later when continuing with imports for Main part you will get another error:
 
 `Program ZCL_ZFIORITRACKER_DPC=========CP, Include ZCL_ZFIORITRACKER_DPC=========CM06L: Syntax error in line 000002`<br>
 `Method 'EXECUTE_ACTION' is unknown or PROTECTED or PRIVATE'`
+
+Solution:
+
+Regenerate the service in transaction SEGW and ignore the transport error.
+
 
 
 
