@@ -8,7 +8,7 @@ Problem:
 
 When importing the main-part transports you will get return code 8 (error).The error message you will see is: 
 
-`The installed release does not match`.
+`The installed release does not match`
 
 This is cased by the fact that the transports were exported form system with version 7.52
 
@@ -26,7 +26,7 @@ Later when continuing with imports for Main part you will get another error:
 
 Solution:
 
-Regenerate the service in transaction SEGW and ignore the transport error. You ca find detailed description on how to regenerate the service in [Step 2 of installation step for Basis expert](basis-steps#step-2-generate-runtime-objects-for-the-zfioritracker_srv-service).
+Regenerate the service in transaction SEGW and ignore the transport error. You ca find detailed description on how to regenerate the service in [Step 2 of installation step for Basis expert](installation/basis-steps#step-2-generate-runtime-objects-for-the-zfioritracker_srv-service).
 
 
 
