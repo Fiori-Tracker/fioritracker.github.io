@@ -21,6 +21,12 @@ ACTVT: 16
 RFC_TYPE: FUGR
 RFC_NAME: Z_FTASIS
 
+## Step 3 - Configure managed systems list with respective RFC destinations
+
+Using SAP Gui transaction ZFTSETUP start `8. Modify Managed systems`:
+
+![](/res/managed-systems.png)
+
 See also: [Deployment options](/deployment/intro)
 
 
