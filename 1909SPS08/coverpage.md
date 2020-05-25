@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-The toolset that helps SAP project teams be more productive.
+Documentation automated.
 
 [Get Started](#main)
