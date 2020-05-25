@@ -2,6 +2,6 @@
 
 # Fiori Tracker
 
-Shorten effort needed to enable Fiori apps in launchpad (free tool)
+Documentation automated (free tool)
 
 [Get Started](#main)
