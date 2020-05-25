@@ -33,7 +33,7 @@ For each managed system defined by column `System ID` provide respective `RFC de
 
 Using SAP Gui transaction ZFTSETUP start `9. Connection status check Modify Managed systems`:
 
-For correctlly configured systems it should show green light in column `status` as shown on below screenshot:
+For correctly configured systems it should show green light in column `status` as shown on below screenshot:
 
 ![](/res/connection-status.png)
 
