@@ -16,16 +16,26 @@ You will need RFC destinations for each system that you plan to manage with Fior
 
 The user that is set in RFC destination needs to have the following authorizations:
 
-Authorization: S_RFC
-ACTVT: 16
-RFC_TYPE: FUGR
-RFC_NAME: Z_FTASIS
+Authorization: S_RFC<br>
+ACTVT: 16<br>
+RFC_TYPE: FUGR<br>
+RFC_NAME: Z_FTASIS<br>
 
-## Step 3 - Configure managed systems list with respective RFC destinations
+## Step 3 - Configure managed systems
 
 Using SAP Gui transaction ZFTSETUP start `8. Modify Managed systems`:
 
 ![](/res/managed-systems.png)
+
+For each managed system defined by column `System ID` provide respective `RFC destination` defined in Step 2 above. Leave the rest of the fields. They are updated with 
+
+## Step 4 - Check connection status
+
+Using SAP Gui transaction ZFTSETUP start `9. Connection status check Modify Managed systems`:
+
+For correctlly configured systems it should show green light in column `status` as shown on below screenshot:
+
+![](/res/connection-status.png)
 
 See also: [Deployment options](/deployment/intro)
 
