@@ -12,7 +12,7 @@ and relations between them
 ⚙️ **Enables comparison with actual system configuration**
 
 
-🏷️ **Fiori Tracker is [free](/free.md)**
+🏷️ **and it's [free](/free.md)**
 
 
 
