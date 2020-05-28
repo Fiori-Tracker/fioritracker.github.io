@@ -26,7 +26,7 @@ Fields' description:
 - FLPrunnable - can you run the application using a Fiori Launchpad tile? if yes - fill with '1', if not - fill with '0'
 
 > Please find an example of our input file:
- [import-example.csv](import-example.csv)
+ [import-example.csv](/importing/import-example.csv)
 
  Then you can proceed to the desired catalog and select Import -> Applications CSV
 
