@@ -22,8 +22,6 @@
  - [Administration Mode](/how/admin.md)
  - [Importing application data](/importing/intro.md)
  - [Exporting application list with status](/exporting/export.md)
- - [SAP Fiori apps usage report](/how/most-apps.md)
- - [Exporting apps usage data](/exporting/exportingAppsUsageIntoXlsx.md)
 - [Installation 🏗️](/installation/intro.md)
  - [Main part](installation/main.md)
    - [Basis expert steps](/installation/basis-steps.md)
