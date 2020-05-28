@@ -28,8 +28,6 @@
  - [Main part](installation/main.md)
    - [Basis expert steps](/installation/basis-steps.md)
    - [UX Lead (Fiori Dev) steps](/installation/fioridev-steps.md)
- - [Application usage plugin](/installation/plugin.md)
-   - [Basis expert](/installation/apps-usage-plugin-steps.md)
  - ["As-is" information add-on](/installation/asis-info.md)
    - [Steps by Basis Expert](/installation/asis-info-steps.md) 
    - [Steps by UX Lead (Fiori Dev)](/installation/asis-fioridev.md)
