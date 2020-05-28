@@ -52,7 +52,5 @@
 - [Premier support 🏋](/premier-support.md)
 - [Dark theme 🕶️](/dark-theme.md)
 - [Other tools 🔧](/tools.md)
- - [Apps usage report](/apps-usage.md)
- - [Fiori Reporter](/fiori-reporter.md)
 - [What's new? 🌱](/whatsnew.md)
 - [Getting transports 🚚](/trans.md)
