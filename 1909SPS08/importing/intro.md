@@ -22,11 +22,11 @@ Fields' description:
 - OriginalLibraryID - original application id (needed for extended apps)
 - OriginalAppName - original application name (needed for extended apps)
 - AreaCode - code of business area (f. e. FI, SD)
-- IsLighthouse - is application a lighthouse one? if yes - fill with '1', if not - fill with '0' (described here: https://help.sap.com/viewer/187a50cf8191418ab7b52505fcef1789/Ship/en-US/5120e28178954d2c919c446ed9fcb1bb.html)
+- IsLighthouse - is application a [lighthouse](https://help.sap.com/viewer/187a50cf8191418ab7b52505fcef1789/Ship/en-US/5120e28178954d2c919c446ed9fcb1bb.html)? if yes - fill with '1', if not - fill with '0'
 - FLPrunnable - can you run the application using a Fiori Launchpad tile? if yes - fill with '1', if not - fill with '0'
 
 > Please find an example of our input file:
- [import-example.csv](./importing/import-example.csv ':ignore')
+ [import-example.csv](import-example.csv)
 
  Then you can proceed to the desired catalog and select Import -> Applications CSV
 
