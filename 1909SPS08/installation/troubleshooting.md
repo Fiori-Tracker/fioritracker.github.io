@@ -15,6 +15,6 @@ Point 1 starts the check connection report. I check the connection between your 
 
 # OData services smoke test
 
-Point 2 starts a status check for all Firoi Tracker OData services. If everything works correctly, then all services should have green squares next to them.
+Point 2 starts a status check for all Fiori Tracker OData services. If everything works correctly, then all services should have green squares next to them.
 
 ![](/res/odata_smoke_test.png)
