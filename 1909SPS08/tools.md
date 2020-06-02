@@ -2,9 +2,9 @@
 
 There are other tools that are using Fiori Tracker's database with the master data for SAP Fiori launchpad content:
 
-- [Fiori Apps' Usage](http://help.fioriappsusage.org)
+- [Fiori Apps' Usage](http://help.fioriappsusage.org) - Enables application importance recognition (free)
 
-- [Fiori Reporter](/fiori-reporter.md)
+- [Fiori Reporter](/fiori-reporter.md) - Creates support tickets with all relevant context information in 6 seconds (free)
 
 
 
