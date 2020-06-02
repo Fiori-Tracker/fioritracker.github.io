@@ -35,7 +35,7 @@
  - [Troubleshooting](/installation/troubleshooting.md)
  - [Known issues](/installation/known-issues.md)
  - [Technical Launchpad](/installation/technical-launchpad.md)
- [Configuration ⚙️](/conf/intro.md)
+- [Configuration ⚙️](/conf/intro.md)
  - [Changing configuration](/conf/changing-config.md)
  - [Main configuration](/conf/conf.md)
  - [Area codes](/conf/area-codes.md)
