@@ -22,7 +22,7 @@ Please use section `Installation` after starting transaction `ZFTSETUP` in SAP G
 
 3. If the screen looks as above, then you have created intervals and initial configuration data successfully. 
 
-You can adjust the initial settings later. Details of all available configuration parameters are described in the [configuration section](/conf/main-part/conf.md). 
+You can adjust the initial settings later. Details of all available configuration parameters are described in the [configuration section](/conf/conf.md). 
 
 ## Step 3 - Check if the Fiori Tracker applications run correctly
 
