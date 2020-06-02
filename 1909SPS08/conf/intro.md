@@ -6,6 +6,5 @@ Each configurable feature has it's config table and the corresponding entry in [
 
 See the details of what you can configure in the respective help sections:
 - [Main part](/conf/main-part/intro.md)
-- [Application usage](/conf/apps-usage/intro.md)
-- [Fiori reporter](/conf/jira-integration/intro.md)
+
 
