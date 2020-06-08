@@ -14,7 +14,7 @@
 
 **SAP Fiori developers, SAP UX leads**
 
-- Detecting inconsistencies between what documentation and system setup
+- Detecting inconsistencies between documentation and system setup
 
 **Basis experts**
 
