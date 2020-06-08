@@ -2,7 +2,10 @@
 
 **Project managers**
 
-- Implementation scope control, avoiding scope creep – one reference point lets project members quickly reassure what apps are within the scope of the project which not. This is especially important with a project run in an agile approach when there is a need to keep up with quickly evolving requirements.
+- History of changes
+- Responsibility clarity
+- Scope control
+- Relief from repetitive tasks
 
 **Functional experts (especially project stream leads)**
 
@@ -25,7 +28,4 @@
 - Less time is spent on administration – clearing out what needs to be done and on the other hand where were the changes made, allowing to focus on delivering real project value
 - Reduced number of mistakes when referring to app especially by stakeholders that are not experienced with Fiori apps terminology
 
-**Testers, End-users**
 
-- The simplified process of reporting issues in a problem tracking system (f.e. Atlassian Jira)
-  >Button available in every Fiori Launchpad application automatically creates the issue is a respective tracking system .Issue is automatically populated with SAP system id and precise application name for quick reference by support or implementation team.
