@@ -8,7 +8,7 @@ Please import the [transport requests](/trans) that the Fiori Tracker team provi
 - "Central system -> Main part"
 - "Central system -> Roles for Main part"
 
-> Having a problem installing? Check whether this problem is a [known issue](known-issues). Also we can help. Reach out to us for installation chat support on Slack or setup a short call.
+> Having a problem installing? Check whether this problem is a [known issue](/installation/known-issues). Also we can help. Reach out to us for installation chat support on Slack or setup a short call.
 
 ## Step 2 - Generate runtime objects for the ZFIORITRACKER_SRV service
 
