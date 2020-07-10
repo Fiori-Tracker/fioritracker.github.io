@@ -3,6 +3,7 @@
  - [General concepts](/general-concepts.md)
     - [Architecture](/general/architecture.md)
     - [Role assignment](/general/role-assignment.md)
+    - [Fiori compliance](/general/flp-compliance.md)
  - [Feature overview](/how/feature-overview.md)
  - [Applications](/how/applications.md)
     - [Header](/how/header-apps.md)
