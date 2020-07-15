@@ -49,5 +49,4 @@
 - [Premier support 🏋](/premier-support.md)
 - [Dark theme 🕶️](/dark-theme.md)
 - [Other tools 🔧](/tools.md)
-- [What's new? 🌱](/whatsnew.md)
 - [Getting transports 🚚](/trans.md)
