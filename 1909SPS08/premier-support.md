@@ -6,4 +6,4 @@ Fiori Tracker comes free of charge, but for those companies that are interested 
 3.	Guaranteed Fiori Tracker adjustments for each SAP system upgrade
 4.	Monthly review with current issues resolution and report of Fiori Tracker status
 
-Nype LTD offers The Premier support as a service paid monthly. Contact our project manager at gm@nypesap.com for detailed offer.
+Nype LTD offers The Premier support as a service paid yearly. Contact our project manager at gm@nypesap.com for detailed offer.
