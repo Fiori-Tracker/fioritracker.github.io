@@ -1,7 +1,7 @@
 # Getting transports
 
-You can download all the transports in zip file by going to main folder on Fiori Tracker installation repository on GitHub: https://github.com/fioritracker/installation and then choosing button "Clone or download" -> "Download ZIP"
+Get all Fiori Tracker transports in one zip file from Release section from Fiori Tracker installation repository on GitHub: https://github.com/fioritracker/installation/releases/download/1909SPS08/1909SPS08.zip
 
-![](res/githubzip.png)
+If you are looking for other Fiori Tracker releases use http://get.fioritracker.org.
 
-We also are available if you or your basis team would need help installing it. We are happy to schedule a call with screen sharing. Contact gm@nypesap.com to schedule it.
+> Should you need help with installation pls contact gm@nypesap.com to see what is the next available slot for a call with screen sharing.
