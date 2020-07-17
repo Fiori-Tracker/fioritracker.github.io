@@ -73,5 +73,5 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`
 
 ## Step 7 - Assign the roles
 
-Based on [roles description](general/role-assignment.md) in transaction `PFCG` assign the authorization roles to the users that you want to use for starting Fiori Tracker apps.
+Based on [roles description](general/role-assignment.md) in transaction `PFCG` assign the authorization roles to the users that will work with Fiori Tracker apps.
 
