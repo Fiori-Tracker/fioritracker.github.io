@@ -40,15 +40,16 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 ![](/res/maint-service-add2.png)
 
-## Step 4 - Check if ICF node is active
+## Step 4 - Check if ICF node
 
-4.1 Return to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
+4.1 Go to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
-4.2 OData status should be marked with green and there should be `LOCAL` alias added and marked as default one. The screen should look like below:
+4.2 OData status should be marked with green (see below)
+4.3 There should be `LOCAL` alias added and marked as default one. The screen should look like below:
 
 ![](/res/maint-service.png)
 
-If ICF note is green then proceed to the [step 6](#step-6-activate-the-fronted-icf-nodes) (skip step 5).
+If ICF node is green and alias is present then proceed to the [step 6](#step-6-activate-the-fronted-icf-nodes) (skip step 5).
 
 ## Step 5 - Activate ICF node
 
