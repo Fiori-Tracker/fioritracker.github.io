@@ -51,17 +51,19 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 If ICF node is green and alias is present then proceed to the [step 6](#step-6-activate-the-fronted-icf-nodes) (skip step 5).
 
-## Step 5 - Activate ICF node
+## Step 5 - Add alias and activate ICF node
 
-5.1 Click on `ICF node` button and click `Activate`
+5.1 Choose `Add system alias`, `New entry` and type `ZFIORITRACKER_SRV_0001` in "Service Doc. Identifier" and `LOCAL` in "SAP System Alias" mark "Default System" checkmark.
+
+5.2 Click on `ICF node` button and click `Activate`
 
 ![](/res/maint-service-icf.png)
 
-5.2 Then click on `SAP Gateway Client` button.
+5.3 Then click on `SAP Gateway Client` button.
 
 ![](/res/maint-service-gw.png)
 
-5.3 Then click on the `Execute` button. If the service is active then you should see a HTTP response that as in the screenshot below:
+5.4 Then click on the `Execute` button. If the service is active then you should see a HTTP response that as in the screenshot below:
 
 ![](/res/maint-service-http.png)
 
