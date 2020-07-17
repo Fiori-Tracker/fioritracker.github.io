@@ -72,7 +72,7 @@ Path: `/default_host/sap/bc/ui5_ui5/sap/`
 - zfioritracker<br/>
 - zuideps
 
-![](res/sicf-activate.png)
+![](/res/sicf-activate.png)
 
 ## Step 7 - Assign the roles
 
