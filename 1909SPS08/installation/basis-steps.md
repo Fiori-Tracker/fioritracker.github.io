@@ -12,12 +12,12 @@ Please import the [transport requests](/trans) that the Fiori Tracker team provi
 
 ## Step 2 - Generate runtime objects for the ZFIORITRACKER_SRV service
 
-2.1 Proceed to `SEGW` transaction. <br>a
-2.2 Open project `ZFIORITRACKER`
+2.1 Proceed to `SEGW` transaction. <br>
+2.2 Using the menu `Project` > `Open` - Open project `ZFIORITRACKER`
 
 ![](res/segw.png)
 
-2.3 Go to change mode and Generate Runtime objects for `ZFIORITRACKER_SRV` service (your user must be registered as developer)
+2.3 Go to Change mode and choose function `Generate` (you will be prompted for transport bad your user must be registered as developer)
 
 ![](res/segw_gen.png)
 
