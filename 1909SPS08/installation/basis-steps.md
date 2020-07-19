@@ -59,13 +59,6 @@ If ICF node is green and alias is present then proceed to the [step 6](#step-6-a
 
 ![](/res/maint-service-icf.png)
 
-5.3 Then click on `SAP Gateway Client` button.
-
-![](/res/maint-service-gw.png)
-
-5.4 Then click on the `Execute` button. If the service is active then you should see a HTTP response that as in the screenshot below:
-
-![](/res/maint-service-http.png)
 
 ## Step 6 - Activate the Fronted ICF nodes
 
