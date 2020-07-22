@@ -40,7 +40,7 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 ![](/res/maint-service-add2.png)
 
-## Step 4 - Check if ICF node has alias assigned
+## Step 4 - Check if the ICF node has a system alias assigned
 
 4.1 Go to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
@@ -51,7 +51,7 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 If ICF node is green and alias is present then proceed to the [step 6](#step-6-activate-the-fronted-icf-nodes) (skip step 5).
 
-## Step 5 - Add alias and activate ICF node
+## Step 5 - Add alias and activate the ICF node
 
 5.1 Choose `Add system alias`, `New entry` and type `ZFIORITRACKER_SRV_0001` in "Service Doc. Identifier" and `LOCAL` in "SAP System Alias" mark "Default System" checkmark.
 
