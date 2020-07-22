@@ -40,7 +40,7 @@ If the entry is present then proceed directly to the [step 4](#step-4-check-if-i
 
 ![](/res/maint-service-add2.png)
 
-## Step 4 - Check if ICF node
+## Step 4 - Check if ICF node has alias assigned
 
 4.1 Go to `/n/IWFND/MAINT_SERVICE` transaction, find and click on `ZFIORITRACKER_SRV` entry.<br>
 
