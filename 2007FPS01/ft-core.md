@@ -8,22 +8,22 @@ Contains:
     with core relation: To-be apps
 
 
-# Location
+## Location
 Central system
 
-# Available extensions
+## Available extensions
 Optional relations that can be installed on Fiori Tracker core
 1. [FT Relation: "Catalogs, As-is"](ft-rel-catalogs-asis.md)
 2. [FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
 
-# Installation
+## Installation
 [Installation app for Fiori Tracker - core](in-ft-core.md)
 
-# Dependencies
+## Dependencies
 Independent - does not need any other product to be installed
 
-# Other applications that might use the product
+## Other applications that might use the product
 [Fiori Apps' Usage Report](fa.md)
 
-# Transport package
+## Transport package
 ZNYPE FT CEN COR
