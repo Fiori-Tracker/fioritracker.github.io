@@ -1,2 +1,3 @@
-[Products](/products.md)
-- [See how it works 📺](/how/intro.md)
+- [Products](/products.md)
+ - [Fiori Tracker - core](/ft-core.md)
+ - [Fiori Apps' Usage Report](/fa.md)
