@@ -1,12 +1,14 @@
 # Fiori Apps' Usage Report
 
+Plugin to capture raw start records on Managed system and send it to Central system.
+
 ### Location
 Has two parts:
 1. Located on Central system
 2. Located on Managed system
 
 ### Available extensions
-Optional extension that provides friendly application names and their linkage to other objects.
+Optional extension that resolves raw start records to a friendly application names.
 [Fiori Tracker Core](ft-core.md) with [FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
 
 ### Other applications that might use the product
