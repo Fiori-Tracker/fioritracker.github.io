@@ -1,7 +1,7 @@
 # Fiori Apps' Usage Report
 
 ## Location
-Has to parts:
+Has two parts:
 1. Located on Central system
 2. Located on Managed system
 
@@ -20,6 +20,6 @@ Independent - does not need any other product to be installed
 
 ## Transport package
 ZNYPE FA CEN REP - for Central system
-ZNYPE FA MAN REP - for Manage system
+ZNYPE FA MAN REP - for Managed system
 
 

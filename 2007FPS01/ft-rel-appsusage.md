@@ -1,8 +1,5 @@
 # FT Relation: "Apps' Usage"
 
-## Dependencies
-Requires [Fiori Apps' Usage Report](fa.md) to be installed
-
 ## Location
 Central system
 
@@ -16,7 +13,8 @@ None.
 [Installation app for FT Relation: "Apps' Usage"](in-ft-rel-appsusage.md)
 
 ## Dependencies
-Requires: [Fiori Apps' Usage Report](fa.md)
+Requires: 
+[Fiori Apps' Usage Report](fa.md)
 
 ## Transport package
 ZNYPE FT CEN FAU
