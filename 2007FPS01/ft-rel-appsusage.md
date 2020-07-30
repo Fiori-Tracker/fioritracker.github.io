@@ -3,18 +3,18 @@
 ### Location
 Central system
 
-### Available extensions
-None.
-
-### Other applications that might use the product
-[Fiori Tracker Core](ft-core.md)
-
 ### Installation apps
 [Installation app for FT Relation: "Apps' Usage"](in-ft-rel-appsusage.md)
+
+### Available extensions
+None.
 
 ### Dependencies
 Requires: 
 [Fiori Apps' Usage Report](fa.md)
+
+### Other applications that might use the product
+[Fiori Tracker Core](ft-core.md)
 
 ### Transport package
 ZNYPE FT CEN FAU

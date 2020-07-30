@@ -3,8 +3,8 @@
 1. [Fiori Tracker Core](ft-core.md)
 2. [Fiori Apps' Usage Report](fa.md)
 
-[FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
-[FT Relation: "Catalogs, As-is"](ft-rel-catalogs-asis.md)
+1. [FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
+2. [FT Relation: "Catalogs, As-is"](ft-rel-catalogs-asis.md)
 
 
 

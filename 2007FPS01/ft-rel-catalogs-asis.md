@@ -13,11 +13,10 @@ Has two parts:
 None.
 
 ### Dependencies
-Requires: 
-[Fiori Tracker Core](ft-core.md) on Central system
+Requires:  
 
 ### Other applications that might use the product
-None.
+[Fiori Tracker Core](ft-core.md) on Central system
 
 ### Transport package
 ZNYPE FT CEN AIC - for Central system<br>
