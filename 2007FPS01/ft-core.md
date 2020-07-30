@@ -13,7 +13,8 @@ Optional relations that can be installed on Fiori Tracker core
 2. [FT Apps Relation: "Apps' Usage"](ft-apps-rel-appsusage.md)
 
 #### Other applications that might use the product
-[Fiori Apps' Usage Report](fa.md)
+1. [Fiori Apps' Usage Report](fa.md)
+2. [App Catalogs Report](ac.md)
 
 #### Installation apps
 [Installation app for Fiori Tracker Core](in-ft-core.md)
