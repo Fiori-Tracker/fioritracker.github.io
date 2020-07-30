@@ -9,10 +9,10 @@ Has two parts:
 
 ### Available extensions
 Optional extension that resolves raw start records to a friendly application names.
-[Fiori Tracker Core](ft-core.md) with [FT Apps Relation: "Apps' Usage"](ft-rel-appsusage.md)
+[Fiori Tracker Core](ft-core.md) with [FT Apps Relation: "Apps' Usage"](ft-apps-rel-appsusage.md)
 
 ### Other applications that might use the product
-[FT Apps Relation: "Apps' Usage"](ft-rel-appsusage.md) 
+[FT Apps Relation: "Apps' Usage"](ft-apps-rel-appsusage.md) 
 
 ### Installation apps
 [Installation app for Fiori Apps' Usage Report](in-fa-cen.md) for Central system<br>

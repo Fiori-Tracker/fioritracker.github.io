@@ -10,7 +10,7 @@ Central system
 #### Available extensions
 Optional relations that can be installed on Fiori Tracker core
 1. [FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
-2. [FT Apps Relation: "Apps' Usage"](ft-rel-appsusage.md)
+2. [FT Apps Relation: "Apps' Usage"](ft-apps-rel-appsusage.md)
 
 #### Other applications that might use the product
 [Fiori Apps' Usage Report](fa.md)

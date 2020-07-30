@@ -4,7 +4,7 @@
 Central system
 
 ### Installation apps
-[Installation app for FT Apps Relation: "Apps' Usage"](in-ft-rel-appsusage.md)
+[Installation app for FT Apps Relation: "Apps' Usage"](in-ft-apps-rel-appsusage.md)
 
 ### Available extensions
 None.
