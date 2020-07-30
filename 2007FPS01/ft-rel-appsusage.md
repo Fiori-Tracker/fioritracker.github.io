@@ -9,7 +9,7 @@ None.
 ## Other applications that might use the product
 [Fiori Tracker Core](ft-core.md)
 
-## Installation
+## Installation apps
 [Installation app for FT Relation: "Apps' Usage"](in-ft-rel-appsusage.md)
 
 ## Dependencies

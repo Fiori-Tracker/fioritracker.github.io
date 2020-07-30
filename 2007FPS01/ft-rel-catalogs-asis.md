@@ -5,7 +5,7 @@ Has two parts:
 1. Located on Central system
 2. Located on Managed system
 
-## Installation
+## Installation apps
 
 ## Available extensions
 None.

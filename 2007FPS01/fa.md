@@ -12,7 +12,7 @@ Optional extension that provides friendly application names and their linkage to
 ## Other applications that might use the product
 [FT Relation: "Apps' Usage"](ft-rel-appsusage.md) 
 
-## Installation
+## Installation apps
 [Installation app for Fiori Apps' Usage Report](in-fa.md)
 
 ## Dependencies

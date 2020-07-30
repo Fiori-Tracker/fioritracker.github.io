@@ -15,7 +15,7 @@ Optional relations that can be installed on Fiori Tracker core
 ## Other applications that might use the product
 [Fiori Apps' Usage Report](fa.md)
 
-## Installation
+## Installation apps
 [Installation app for Fiori Tracker Core](in-ft-core.md)
 
 ## Dependencies
