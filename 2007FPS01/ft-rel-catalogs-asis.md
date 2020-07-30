@@ -6,8 +6,8 @@ Has two parts:
 2. Located on Managed system
 
 ## Installation apps
-[Installation app for FT Relation: "Catalogs, As-is" - Central system](in-ft-rel-cat-asis-cen.md)
-[Installation app for FT Relation: "Catalogs, As-is" - Managed system](in-ft-rel-cat-asis-man.md)
+1. [Installation app for FT Relation: "Catalogs, As-is" - Central system](in-ft-rel-cat-asis-cen.md)
+2. [Installation app for FT Relation: "Catalogs, As-is" - Managed system](in-ft-rel-cat-asis-man.md)
 
 ## Available extensions
 None.
