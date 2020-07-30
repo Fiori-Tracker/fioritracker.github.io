@@ -9,17 +9,14 @@ Has to parts:
 Optional extension that provides friendly application names and their linkage to other objects.
 [Fiori Tracker - core](ft-core.md)
 
-## Dependencies
-Independent - does not need any other product to be installed
+## Other applications that might use the product
+[FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
 
 ## Installation
 [Installation app for Fiori Apps' Usage Report](in-fa.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed
-
-## Other applications that might use the product
-[FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
 
 ## Transport package
 ZNYPE FA CEN REP - for Central system
