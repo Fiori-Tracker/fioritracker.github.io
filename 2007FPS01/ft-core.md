@@ -1,4 +1,4 @@
-# Fiori Tracker - core
+# Fiori Tracker Core
 Contains:
 Basic functions, apps: 
   - Applications with core relation: To-be catalogs
@@ -16,7 +16,7 @@ Optional relations that can be installed on Fiori Tracker core
 [Fiori Apps' Usage Report](fa.md)
 
 ## Installation
-[Installation app for Fiori Tracker - core](in-ft-core.md)
+[Installation app for Fiori Tracker Core](in-ft-core.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed

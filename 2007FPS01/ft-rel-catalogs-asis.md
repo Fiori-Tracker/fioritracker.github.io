@@ -12,7 +12,7 @@ None.
 
 ## Dependencies
 Requires: 
-[Fiori Tracker - core](ft-core.md)
+[Fiori Tracker Core](ft-core.md)
 
 ## Other applications that might use the product
 None.

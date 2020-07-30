@@ -7,7 +7,7 @@ Central system
 None.
 
 ## Other applications that might use the product
-[Fiori Tracker - core](ft-core.md)
+[Fiori Tracker Core](ft-core.md)
 
 ## Installation
 [Installation app for FT Relation: "Apps' Usage"](in-ft-rel-appsusage.md)

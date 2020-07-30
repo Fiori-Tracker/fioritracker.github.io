@@ -7,7 +7,7 @@ Has two parts:
 
 ## Available extensions
 Optional extension that provides friendly application names and their linkage to other objects.
-[Fiori Tracker - core](ft-core.md) with [FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
+[Fiori Tracker Core](ft-core.md) with [FT Relation: "Apps' Usage"](ft-rel-appsusage.md)
 
 ## Other applications that might use the product
 [FT Relation: "Apps' Usage"](ft-rel-appsusage.md) 
