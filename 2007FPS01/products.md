@@ -4,7 +4,7 @@
 2. [Fiori Apps' Usage Report](fa.md)
 
 1. [FT Apps Relation: "Apps' Usage"](ft-rel-appsusage.md)
-2. [FT Apps Relation: "Catalogs, As-is"](ft-rel-catalogs-asis.md)
+2. [FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
 
 
 
