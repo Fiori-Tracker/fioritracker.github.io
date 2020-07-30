@@ -1,8 +1,10 @@
 - [Products](/products.md)
  - [Fiori Tracker Core](/ft-core.md)
-   - [FT Apps Relation: Catalogs As-Is](/ft-apps-rel-catalogs-asis.md)
+   - [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
    - [FT Apps Relation: Apps' Usage](/ft-apps-rel-appsusage.md)
+   - [FT Apps Relation: Catalogs As-Is](/ft-apps-rel-catalogs-asis.md)
  - [Fiori Apps' Usage Report](/fa.md)
+ - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
-- [ Installation apps](/in.md)
+ - [ Installation apps](/in.md)
 
