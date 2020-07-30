@@ -13,13 +13,14 @@ Optional extension that provides friendly application names and their linkage to
 [FT Relation: "Apps' Usage"](ft-rel-appsusage.md) 
 
 ## Installation apps
-[Installation app for Fiori Apps' Usage Report](in-fa.md)
+[Installation app for Fiori Apps' Usage Report](in-fa-cen.md) for Central system<br>
+[Installation app for Fiori Apps' Usage Report](in-fa-man.md) for Managed system
 
 ## Dependencies
 Independent - does not need any other product to be installed
 
 ## Transport package
-ZNYPE FA CEN REP - for Central system
+ZNYPE FA CEN REP - for Central system<br>
 ZNYPE FA MAN REP - for Managed system
 
 
