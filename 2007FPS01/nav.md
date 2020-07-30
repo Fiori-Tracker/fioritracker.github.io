@@ -1,10 +1,2 @@
-- [For whom?](/about/for-whom.md)
-- [See how it works](/about/demo.md)
-- [What's new?](/whatsnew.md)
-- [Feature overview](/featureoverview.md)
-- Installation
- - [Introduction](/installation-guide/intro.md)
- - [Main part](/installation-guide/guide.md)
- - [Plugin for application usage](/installation-guide/plugin.md)
- - [Location](/installation-guide/location.md)
-- [Premier support](/premier-support.md)
+[Products](/products.md)
+- [See how it works 📺](/how/intro.md)
