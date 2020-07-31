@@ -8,11 +8,11 @@ Has two parts:
 2. Located on Managed system
 
 ### Available extensions
-Optional extension that enables view of the apps (friendly names) in relation to catalog.
-[Fiori Tracker Core](ft-core.md) with 
+Optional extension for Catalogs app that enables view of the apps (friendly names) in relation to catalog.
+[Fiori Tracker Core](ft-core.md) with [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 
 ### Other applications that might use the product
-[FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
+[FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 
 ### Installation apps
 
@@ -21,7 +21,7 @@ Optional extension that enables view of the apps (friendly names) in relation to
 Independent - does not need any other product to be installed
 
 ### Transport package
-ZNYPE AC CEN REP - for Central system<br>
-ZNYPE AC MAN REP - for Managed system
+ZNYPE CA CEN REP - for Central system<br>
+ZNYPE CA MAN REP - for Managed system
 
 

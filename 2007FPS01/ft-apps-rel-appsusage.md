@@ -1,10 +1,10 @@
-# FT Apps Relation: "Apps' Usage"
+# FT Apps Relation: Apps' Usage
 
 ### Location
 Central system
 
 ### Installation apps
-[Installation app for FT Apps Relation: "Apps' Usage"](in-ft-apps-rel-appsusage.md)
+[Installation app for FT Apps Relation: Apps' Usage](in-ft-apps-rel-appsusage.md)
 
 ### Available extensions
 None.
