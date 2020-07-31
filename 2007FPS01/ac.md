@@ -9,10 +9,10 @@ Has two parts:
 
 ### Available extensions
 Optional extension that enables view of the catalogs in relation to friendly application name.
-[Fiori Tracker Core](ft-core.md) with [FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
+[Fiori Tracker Core](ft-core.md) with [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
 ### Other applications that might use the product
-[FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
+[FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
 ### Installation apps
 
