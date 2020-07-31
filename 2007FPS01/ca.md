@@ -1,6 +1,6 @@
-# App Catalogs Report
+# Catalog Apps Report
 
-Addon provides catalogs of the chosen application. Addon collects it from Managed system and enables display from Central system.
+Addon provides application list of the chosen catalog. Addon collects it from Managed system and enables display from Central system.
 
 ### Location
 Has two parts:
@@ -8,8 +8,8 @@ Has two parts:
 2. Located on Managed system
 
 ### Available extensions
-Optional extension that enables view of the catalogs in relation to friendly application name.
-[Fiori Tracker Core](ft-core.md) with [FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
+Optional extension that enables view of the apps (friendly names) in relation to catalog.
+[Fiori Tracker Core](ft-core.md) with 
 
 ### Other applications that might use the product
 [FT Apps Relation: "Catalogs, As-is"](ft-apps-rel-catalogs-asis.md)
