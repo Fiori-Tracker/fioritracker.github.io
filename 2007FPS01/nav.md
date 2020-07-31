@@ -6,5 +6,5 @@
  - [Fiori Apps' Usage Report](/fa.md)
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
- - [ Installation apps](/in.md)
+- [ Installation apps](/in.md)
 
