@@ -19,9 +19,9 @@ Requires:
 
 ZNYPE FT CEN CR AP SV
 
-ZNYPE - prefix
-FT - Fiori Tracker dedicated extension
-CEN - Central system dedicated
-CR - Catalogs app relation
-AP - Applications
-SV - System value
+ZNYPE - prefix<br>
+FT - Fiori Tracker dedicated extension<br>
+CEN - Central system dedicated<br>
+CR - Catalogs app relation<br>
+AP - Applications<br>
+SV - System value<br>
