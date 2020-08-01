@@ -1,4 +1,4 @@
-# FT Catalogs Relation: "Apps, As-is"
+# FT Catalogs Relation: Apps, As-is
 
 ### Location
 Central system
