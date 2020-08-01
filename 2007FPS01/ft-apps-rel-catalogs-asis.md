@@ -17,4 +17,11 @@ Requires:
 [Fiori Tracker Core](ft-core.md) on Central system
 
 ### Transport package
-ZNYPE FT CEN AIC - for Central system<br>
+ZNYPE FT CEN AR CT SV
+
+ZNYPE - prefix
+FT - Fiori Tracker dedicated extension
+CEN - Central system dedicated
+AR - Applications app relation
+CT - Catalogs
+SV - System value
