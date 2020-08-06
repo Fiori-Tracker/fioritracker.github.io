@@ -1,8 +1,10 @@
 # Fiori Tracker Core
-Contains:
-Basic functions, apps: 
-  - Applications with core relation: To-be catalogs
-  - Catalogs with core relation: To-be apps
+
+Contains the following Fiori Launchpad Applications:  
+1. Applications (with core relation: To-be catalogs)
+2. Catalogs (with core relation: To-be apps)
+3. Applications admin
+4. Catalogs admin
 
 #### Location
 Central system
