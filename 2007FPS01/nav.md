@@ -7,5 +7,5 @@
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
 - [Installation apps](/in.md)
-- [Extending Fiori Tracker 2](/ext/intro.md) 
+- [Extending Fiori Tracker](/ext/intro.md) 
 
