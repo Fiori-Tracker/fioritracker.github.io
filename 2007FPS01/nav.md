@@ -6,6 +6,7 @@
  - [Fiori Apps' Usage Report](/fa.md)
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
+ - [Catalog Import](/ci.md)
 - [Installation apps](/in.md)
 - [Extending Fiori Tracker](/ext/intro.md) 
 
