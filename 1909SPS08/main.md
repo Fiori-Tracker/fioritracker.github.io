@@ -9,7 +9,7 @@ Includes
 
 and relations between them
 
-⚙️ **Enables comparison with actual system configuration**
+👐 **Enables comparison with actual system configuration**
 
 
 🍬 **and it's [free](/free.md)**
