@@ -18,6 +18,6 @@ This option is usually used for evaluation purposes. Both parts are installed in
 
 ## 3. Central system on SAP Solution Manager
 
-Please check the [location considerations](/deployment/location.md) for the disadvantages of this option.
+Please check the [location considerations](/deployment/location.md) for the advantages of this option.
 
 ![](res/option3.png)
