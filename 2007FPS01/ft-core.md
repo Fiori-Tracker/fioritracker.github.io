@@ -6,6 +6,10 @@ Contains the following Fiori Launchpad Applications:
 3. Applications admin
 4. Catalogs admin
 
+#### Launch path
+https://<host>:<port>/sap/bc/ui5_ui5/sap/zftapplications
+https://<host>:<port>/sap/bc/ui5_ui5/sap/zftcatalogs
+
 #### Location
 Central system
 
@@ -18,8 +22,10 @@ Optional relations that can be installed on Fiori Tracker core
 1. [Fiori Apps' Usage Report](fa.md)
 2. [App Catalogs Report](ac.md)
 
-#### Installation apps
-[Installation app for Fiori Tracker Core](in-ft-core.md)
+#### Installation (manual)
+
+#### Installation app
+[Installation app for Fiori Tracker Core](in-ft-core.md) (in preparation)
 
 #### Dependencies
 Independent - does not need any other product to be installed
