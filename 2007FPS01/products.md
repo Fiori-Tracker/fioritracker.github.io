@@ -5,6 +5,7 @@
 2. [Fiori Apps' Usage Report](fa.md)
 3. [App Catalogs Report](ac.md)
 4. [Catalog Import](ci.md)
+5. [AsIs](asis.md)
 
 ### Relations
 1. [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)

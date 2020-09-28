@@ -22,7 +22,8 @@ Optional extension that enables view of the catalogs in relation to friendly app
 
 
 ### Dependencies
-Independent - does not need any other product to be installed
+Requires:  
+[AsIs](asis.md)
 
 ### Transport package
 ZNYPE AC CEN REP - for Central system<br>

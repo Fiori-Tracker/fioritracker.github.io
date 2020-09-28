@@ -18,7 +18,8 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 
 
 ### Dependencies
-Independent - does not need any other product to be installed
+Requires:  
+[AsIs](asis.md)
 
 ### Transport package
 ZNYPE CA CEN REP - for Central system<br>

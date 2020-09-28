@@ -18,7 +18,8 @@ None.
 [Installation app for Catalog Import](in-ci-man.md) for Managed system
 
 ### Dependencies
-Independent - does not need any other product to be installed
+Requires:  
+[AsIs](asis.md)
 
 ### Transport package
 ZNYPE CI CEN - for Central system<br>
