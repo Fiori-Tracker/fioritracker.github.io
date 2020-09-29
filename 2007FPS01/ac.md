@@ -1,6 +1,6 @@
-# App Catalogs Report
+# App Catalogs Report - List of SAP Fiori catalogs assigned to an app in the chosen system
 
-Addon provides catalogs of the chosen application. Addon collects it from Managed system and enables display from Central system.
+Application provides the list of the catalogs of the chosen application in the chosen system.
 
 ### Location
 Has two parts:
