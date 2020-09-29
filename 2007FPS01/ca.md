@@ -1,6 +1,6 @@
-# Catalog Apps Report
+# Catalog Apps Report - List of apps in a catalog from the chosen system
 
-Addon provides application list of the chosen catalog. Addon collects it from Managed system and enables display from Central system.
+Application provides the list of applications from one catalog on a chosen system. 
 
 ### Location
 Has two parts:
