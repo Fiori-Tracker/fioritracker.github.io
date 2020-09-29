@@ -2,7 +2,7 @@
 
 Application provides the ist of SAP Fiori apps assigned to a catalog in the chosen system.
 
-
+![](/res/ca.png)
 
 ### Location
 Has two parts:
