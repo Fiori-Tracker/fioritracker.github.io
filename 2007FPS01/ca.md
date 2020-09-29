@@ -6,7 +6,7 @@ Application provides the list of SAP Fiori apps assigned to a catalog in the cho
 
 
 ### Launch path
-https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep/index.html
+https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep
 
 
 ### Location
