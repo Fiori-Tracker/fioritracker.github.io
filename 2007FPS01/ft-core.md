@@ -7,8 +7,8 @@ Contains the following Fiori Launchpad Applications:
 4. Catalogs admin
 
 #### Launch path
-https://<host>:<port>/sap/bc/ui5_ui5/sap/zftapplications
-https://<host>:<port>/sap/bc/ui5_ui5/sap/zftcatalogs
+https://`host:port`/sap/bc/ui5_ui5/sap/zftapplications <br>
+https://`host:port`/sap/bc/ui5_ui5/sap/zftcatalogs
 
 #### Location
 Central system

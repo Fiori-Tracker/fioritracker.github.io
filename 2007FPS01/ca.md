@@ -1,6 +1,6 @@
 # Catalog Apps Report
 
-Application provides the ist of SAP Fiori apps assigned to a catalog in the chosen system.
+Application provides the list of SAP Fiori apps assigned to a catalog in the chosen system.
 
 ![](res/ca.png)
 

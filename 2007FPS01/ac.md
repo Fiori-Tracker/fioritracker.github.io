@@ -10,7 +10,7 @@ Has two parts:
 2. Located on Managed system
 
 ### Launch path
-https://<host>:<port>/sap/bc/ui5_ui5/sap/zftappcatrep
+https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
 
 
 ### Available extensions
