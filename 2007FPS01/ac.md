@@ -1,6 +1,6 @@
-# App Catalogs Report - List of SAP Fiori catalogs assigned to an app in the chosen system
+# App Catalogs Report
 
-Application provides the list of the catalogs of the chosen application in the chosen system.
+Application provides the list of SAP Fiori catalogs assigned to SAP Fiori app in the chosen system.
 
 ### Location
 Has two parts:
