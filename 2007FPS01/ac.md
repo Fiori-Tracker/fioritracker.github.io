@@ -2,6 +2,8 @@
 
 Application provides the list of SAP Fiori catalogs assigned to SAP Fiori app in the chosen system.
 
+![](/res/ac.png) 
+
 ### Location
 Has two parts:
 1. Located on Central system
