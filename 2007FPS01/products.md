@@ -4,9 +4,9 @@
 1. [Fiori Tracker Core](ft-core.md)
 2. [Fiori Apps' Usage Report](fa.md)
 3. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
-3. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
-4. [Catalog Import](ci.md)
-5. [AsIs](asis.md)
+4. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
+5. [Catalog Import](ci.md)
+6. [AsIs](asis.md)
 
 ### Relations
 1. [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
