@@ -7,6 +7,10 @@ Has two parts:
 1. Located on Central system
 2. Located on Managed system
 
+### Launch path
+https://`host:port`/sap/bc/ui5_ui5/sap/zftcatimport
+
+
 ### Available extensions
 None.
 
