@@ -17,6 +17,15 @@ None.
 ### Other applications that might use the product
 [Fiori Tracker Core](/ft-core.md)
 
+### Manual Installation 
+
+1. service in /n/IWFND/MAINT_SERVICE
+2. SICF alias
+3. SICF nodes active
+4. Enable odata service
+5. pfcg roles
+
+
 ### Installation apps
 [Installation app for Catalog Import](in-ci-cen.md) for Central system<br>
 [Installation app for Catalog Import](in-ci-man.md) for Managed system
