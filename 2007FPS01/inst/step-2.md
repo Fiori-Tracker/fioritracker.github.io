@@ -2,12 +2,12 @@
 
 Service should be enabled by making sure that the following sub-steps are completed:
 
-1. Runtime objects generation in transaction SEGW
+#### 1. Runtime objects generation in transaction SEGW
 
 To generate objects please follow those steps:
 
 1.1. Start transaction SEGW
-1.2. Using the menu Project > Open - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZNYPECICEN_SVR please open proejct called ZNYPECICEN.
+1.2. Using the menu Project > Open - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZFIORITRACKER_SVR please open project called ZFIORITRACKER.
 
 ![](res/segw.png)
 
@@ -15,7 +15,7 @@ To generate objects please follow those steps:
 
 ![](res/segw_gen.png)
 
-2. Service is added to a Service Catalog
+#### 2. Service is added to a Service Catalog
 
 To add service please follow those steps:
 
