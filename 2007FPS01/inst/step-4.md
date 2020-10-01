@@ -2,7 +2,9 @@
 
 Service should be enabled by making sure that the following sub-steps are completed:
 
-1. Runtime objects generation in transaction SEGW. Please follow those steps:
+1. Runtime objects generation in transaction SEGW
+
+To generate objects please follow those steps:
 
 1.1. Start transaction SEGW
 1.2. Using the menu Project > Open - Open project with the respective service with 'Service name'.
@@ -14,6 +16,8 @@ Service should be enabled by making sure that the following sub-steps are comple
 ![](res/segw_gen.png)
 
 2. Service is added to a Service Catalog
+
+To add service please follow those steps:
 
 2.1 Start transaction /n/IWFND/MAINT_SERVICE
 
