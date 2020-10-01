@@ -1,4 +1,4 @@
-# Step 4 - Enable oData service
+# Step 2 - Enable oData service
 
 Service should be enabled by making sure that the following sub-steps are completed:
 
