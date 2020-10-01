@@ -7,7 +7,7 @@ Service should be enabled by making sure that the following sub-steps are comple
 To generate objects please follow those steps:
 
 1.1. Start transaction SEGW
-1.2. Using the menu Project > Open - Open project with the respective service with 'Service name'.
+1.2. Using the menu Project > Open - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZNYPECICEN_SVR please open proejct called ZNYPECICEN.
 
 ![](res/segw.png)
 
