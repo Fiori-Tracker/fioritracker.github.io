@@ -19,10 +19,11 @@ None.
 
 ### Manual Installation 
 
-2. SICF alias
-3. SICF nodes active
-4. [Enable odata service](/inst/step-4.md)
-5. pfcg roles
+
+
+1. [Activate SICF Frontend nodes](/inst/step-1.md)
+2. [Enable backend odata service](/inst/step-2.md)
+3. [Assign pfcg roles](/inst/step-3.md)
 
 
 ### Installation apps

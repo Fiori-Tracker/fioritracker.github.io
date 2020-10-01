@@ -21,7 +21,7 @@ To add service please follow those steps:
 
 2.1 Start transaction /n/IWFND/MAINT_SERVICE
 
-2.2 Find entry with 'Service name'
+2.2 Find entry with `Service name`
 
 If the entry is present then the procedure is completed if not please execute the following sub steps:
 
@@ -29,4 +29,4 @@ If the entry is present then the procedure is completed if not please execute th
 
 2.4 Provide System Alias: LOCAL and External Service Name as the 'Service name'.
 
-2.5 Select the record with 'Service name' and click on the Add selected services button.
+2.5 Select the record with `Service name` and click on the Add selected services button.
