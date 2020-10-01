@@ -19,8 +19,6 @@ None.
 
 ### Manual Installation 
 
-
-
 1. [Activate SICF Frontend nodes](/inst/step-1.md)
 2. [Enable backend odata service](/inst/step-2.md)
 3. [Assign pfcg roles](/inst/step-3.md)
