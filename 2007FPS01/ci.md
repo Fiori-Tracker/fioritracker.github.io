@@ -19,7 +19,6 @@ None.
 
 ### Manual Installation 
 
-1. service in /n/IWFND/MAINT_SERVICE
 2. SICF alias
 3. SICF nodes active
 4. [Enable odata service](/inst/step-4.md)
