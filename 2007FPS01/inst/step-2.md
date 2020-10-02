@@ -21,7 +21,7 @@ To enable oData service complete the sub-steps described below.
 
 2.2 Find entry with `Service name`
 
-If the entry is present then move to sub-step 3, in not, please execute the following steps:
+If the entry is present then move to sub-step 3 (Add system alias to ICF node), in not, please execute the following steps:
 
 2.3 Click on the **Add service** button.
 
@@ -37,8 +37,8 @@ If the entry is present then move to sub-step 3, in not, please execute the foll
 
 3.2 If ICF node is green and alias is present then the procedure is completed, if not, please execute the following steps:
 
-3.3 Choose **Add system alias**, New entry and type `Service name`_0001 in *Service Doc. Identifier* and "LOCAL" in *SAP System Alias* mark ***Default System** check-mark.
+3.3 Choose **Add system alias**, **New entry** and type `Service name`_0001 (f.e. ZFIORITRACKER_SRV_0001) in *Service Doc. Identifier* and "LOCAL" in *SAP System Alias* mark ***Default System** check-mark.
 
-3.4 Click on **ICF node** button and click **Activate**
+3.4 Click on **ICF node** button and from drop down chose **Activate**
 
 ![](res/maint-service-icf.png) 
