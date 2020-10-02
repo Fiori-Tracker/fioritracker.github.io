@@ -38,3 +38,5 @@ If the entry is present then move to sub-step 3, in not, please execute the foll
 3.3 Choose "Add system alias", New entry and type `Service name`_0001 in "Service Doc. Identifier" and "LOCAL" in "SAP System Alias" mark "Default System" check-mark.
 
 3.4 Click on "ICF node" button and click "Activate"
+
+![](res/maint-service-icf.png)
