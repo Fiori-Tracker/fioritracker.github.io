@@ -33,6 +33,8 @@ If the entry is present then move to sub-step 3, in not, please execute the foll
 
 3.1 In /n/IWFND/MAINT_SERVICE, chose `Service name`
 
+![](res/maint-service.png)
+
 3.2 If ICF node is green and alias is present then the procedure is completed, if not, please execute the following steps:
 
 3.3 Choose "Add system alias", New entry and type `Service name`_0001 in "Service Doc. Identifier" and "LOCAL" in "SAP System Alias" mark "Default System" check-mark.
