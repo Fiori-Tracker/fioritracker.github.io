@@ -28,6 +28,6 @@ None.
 Requires:  
 [AsIs](asis.md)
 
-[Technical information](/ci-tech.md)
+### [Technical information](/ci-tech.md)
 
 
