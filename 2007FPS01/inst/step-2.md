@@ -8,7 +8,7 @@ To enable oData service complete the sub-steps described below.
 
 To generate objects please follow those steps:
 
-1.1. Start transaction SEGW
+1.1. Start transaction SEGW<br>
 1.2. Using the menu Project > Open - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZFIORITRACKER_SVR please open project called ZFIORITRACKER.
 
 ![](res/segw.png)
