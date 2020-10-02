@@ -1,6 +1,8 @@
 # Step 2 - Enable oData service
 
-Service should be enabled by making sure that the following sub-steps are completed:
+To enable oData service complete the sub-steps described below. 
+
+*When description refers to `Service name` you need to put the name of the service specific for the run application. You can find the name of the service in application OData service section or message issued by application in case the service is not available.*
 
 #### 1. Runtime objects generation in transaction SEGW
 
