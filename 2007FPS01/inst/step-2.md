@@ -41,4 +41,4 @@ If the entry is present then move to sub-step 3, in not, please execute the foll
 
 3.4 Click on **ICF node** button and click **Activate**
 
-![](res/maint-service-icf.png)
+![](res/maint-service-icf.png) 
