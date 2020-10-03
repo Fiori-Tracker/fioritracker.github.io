@@ -29,4 +29,4 @@ Optional relations that can be installed on Fiori Tracker core
 #### Dependencies
 Independent - does not need any other product to be installed
 
-### [Technical information](/ft-core-tech.md)
+### [Technical information](/ft-core-tech.md) 
