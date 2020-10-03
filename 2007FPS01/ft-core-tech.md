@@ -1,9 +1,10 @@
 # Fiori Tracker Core - Technical information
 
 ### Frontend ICF nodes
-**/default_host/sap/bc/ui5_ui5/sap/**
-zftapps
-zftcats
+Paath: **default_host/sap/bc/ui5_ui5/sap/**
+Nodes: <br>
+zftapps<br>
+zftcats<br>
 
 ### Odata service
 ZNYPEFTCENCOR_SRV
