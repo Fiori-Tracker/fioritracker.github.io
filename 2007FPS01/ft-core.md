@@ -3,12 +3,12 @@
 This app replaces multiple spreadsheets that are usually used to document SAP Fiori launchpad configuration in SAP S/4 HANA projects implementation and during support.
 
 Key features:
-- Easy app identification (including documentation URL's)
+- Easy app identification (including documentation URLs)
 - Intuitive view on application's details 
 - Views dependent on application type (Fiori, SAP Gui, Custom, Extended)
 - Clarity on responsibility (unique stream ownership)
 - Naming conversion enforcement
-- Apps and catalogs linkage to other (available as extensions) types of information: roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app's usage statistics
+- Apps and catalogs linkage to other types of information (available as extensions): roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app's usage statistics
 
 Fiori Tracker Core contains the following Fiori Launchpad Applications:  
 1. Applications (with core relation: To-be catalogs)
