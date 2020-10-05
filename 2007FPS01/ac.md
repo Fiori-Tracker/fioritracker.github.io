@@ -9,10 +9,6 @@ Has two parts:
 1. Located on Central system
 2. Located on Managed system
 
-### Launch path
-https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
-
-
 ### Available extensions
 Optional extension that enables view of the catalogs in relation to friendly application name.
 [Fiori Tracker Core](ft-core.md) with [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
@@ -20,15 +16,20 @@ Optional extension that enables view of the catalogs in relation to friendly app
 ### Other applications that might use the product
 [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
-### Installation apps
+### Manual Installation 
+Execute the following steps:
+1. [Activate Frontend ICF nodes](/inst/step-1.md) for node `xxxx`
+2. [Enable backend odata service](/inst/step-2.md) for service `xxxx_SRV`
+3. [Assign pfcg roles](/inst/step-3.md)
 
+### Installation apps### Installation apps
+<in preparation>
 
 ### Dependencies
 Requires:  
 [AsIs](asis.md)
 
-### Transport package
-ZNYPE AC CEN REP - for Central system<br>
-ZNYPE AC MAN REP - for Managed system
+#### Technical information
+[Details](/ac-tech.md)
 
 

@@ -30,7 +30,6 @@ Requires:
 [AsIs](asis.md)
 
 #### Technical information
-
 [Details](/ca-tech.md)
 
 
