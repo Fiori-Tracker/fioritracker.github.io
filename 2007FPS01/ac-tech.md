@@ -6,7 +6,7 @@ Node: <br>
 zftappcatrep<br>
 
 ### oData service
-xxxP_SRV
+ZNYPEACCENREP_SRV
 
 ### Launch path
 https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
