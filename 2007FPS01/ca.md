@@ -18,8 +18,8 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 
 ### Manual Installation 
 Execute the following steps:
-1. [Activate Frontend ICF nodes](/inst/step-1.md) for nodes `zftapps` and `zftcats`
-2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPEFTCENCOR_SRV`
+1. [Activate Frontend ICF nodes](/inst/step-1.md) for node `zftcatapprep`
+2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPECACRNREP_SRV`
 3. [Assign pfcg roles](/inst/step-3.md)
 
 ### Installation apps
