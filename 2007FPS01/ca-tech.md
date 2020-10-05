@@ -1,7 +1,12 @@
 # Catalog Apps Report - Technical details
 
-### oData service
+### Frontend ICF nodes
+Paath: default_host/sap/bc/ui5_ui5/sap/<br>
+Node: <br>
+zftcatapprep<br>
 
+### oData service
+ZNYPECACRNREP_SRV
 
 ### Launch path
 https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep
