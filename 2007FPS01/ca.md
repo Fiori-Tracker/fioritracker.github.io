@@ -4,11 +4,6 @@ Application provides the list of SAP Fiori apps assigned to a catalog in the cho
 
 ![](res/ca.png)
 
-
-### Launch path
-https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep
-
-
 ### Location
 Has two parts:
 1. Located on Central system
@@ -21,6 +16,12 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 ### Other applications that might use the product
 [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 
+### Manual Installation 
+Execute the following steps:
+1. [Activate Frontend ICF nodes](/inst/step-1.md) for nodes `zftapps` and `zftcats`
+2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPEFTCENCOR_SRV`
+3. [Assign pfcg roles](/inst/step-3.md)
+
 ### Installation apps
 <in preparation>
 
@@ -28,8 +29,8 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 Requires:  
 [AsIs](asis.md)
 
-### Transport package
-ZNYPE CA CEN REP - for Central system<br>
-ZNYPE CA MAN REP - for Managed system
+#### Technical information
+
+[Details](/ca-tech.md)
 
 
