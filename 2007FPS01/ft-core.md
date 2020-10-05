@@ -38,4 +38,6 @@ Execute the following steps:
 #### Dependencies
 Independent - does not need any other product to be installed
 
-#### [Technical information](/ft-core-tech.md) 
+#### Technical information
+
+[Details](/ft-core-tech.md) 
