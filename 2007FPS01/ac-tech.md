@@ -3,7 +3,7 @@
 ### Frontend ICF nodes
 Paath: default_host/sap/bc/ui5_ui5/sap/<br>
 Node: <br>
-xxxxx<br>
+zftappcatrep<br>
 
 ### oData service
 xxxP_SRV
