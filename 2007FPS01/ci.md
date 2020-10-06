@@ -15,8 +15,9 @@ None.
 
 ### Manual Installation 
 
-1. [Activate Frontend ICF nodes](/inst/step-1.md)
-2. [Enable backend odata service](/inst/step-2.md)
+Basis:
+1. [Activate Frontend ICF nodes](/inst/step-1.md) for node `zftcatimport`
+2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPECICEN_SRV`
 3. [Assign pfcg roles](/inst/step-3.md)
 
 

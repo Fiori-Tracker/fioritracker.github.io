@@ -27,7 +27,7 @@ Using SAP Gui transaction `ZFTSETUP` start `8. Modify Managed systems`:
 
 ![](/res/managed-systems.png)
 
-For each managed system defined by column `System ID` provide respective `RFC destination` defined in Step 2 above. Leave the rest of the fields. They are updated with 
+For each managed system defined by column `System ID` provide respective `RFC destination` defined in Step 2 above. Leave the rest of the fields. They are updated automatically on *Connection status check*.
 
 ## Step 4 - Check connection status
 
