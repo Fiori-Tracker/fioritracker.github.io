@@ -33,6 +33,7 @@ UX Lead:
 Requires:  
 [AsIs](asis.md)
 
-### [Technical information](/ci-tech.md)
+### Technical information
+[Details](/ci-tech.md)
 
 
