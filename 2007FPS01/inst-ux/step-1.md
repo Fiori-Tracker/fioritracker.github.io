@@ -1,6 +1,6 @@
 # Step 1 - Configure managed systems
 
-1. Using SAP Gui transaction `ZNYPECIADMIN` start `1. Modify Managed systems`:
+1. Using SAP Gui `Admin transaction` start step `1. Modify Managed systems`:
 
 ![](res/managed-systems.png)
 
@@ -8,7 +8,7 @@ For each managed system defined by column `System ID` provide respective `RFC de
 
 2. Check connection status
 
-Using SAP Gui transaction `ZFTSETUP` start `2. Connection status check Modify Managed systems`:
+Using same SAP Gui `Admin transaction` start step `2. Connection status check Modify Managed systems`:
 
 For correctly configured systems it should show green light in column `status` as shown on below screenshot:
 

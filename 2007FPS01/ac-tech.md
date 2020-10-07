@@ -12,7 +12,7 @@ ZNYPEACCENREP_SRV
 https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
 
 ### Transport package
-ZNYPE AC CEN REP - for Central system<br>
-ZNYPE AC MAN REP - for Managed system
+ZNYPE**AC**CEN**REP** - for Central system<br>
+ZNYPE**AC**MAN**REP** - for Managed system
 
 

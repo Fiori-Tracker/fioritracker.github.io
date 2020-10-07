@@ -21,7 +21,7 @@ Basis:
 3. [Assign pfcg roles](/inst/step-3.md)
 
 UX Lead:
-1. [Configure Managed systems list](/inst-ux/step-1.md)
+1. [Configure Managed systems list](/inst-ux/step-1.md) using admin transaction: `ZNYPECIADMIN`
 
 
 
