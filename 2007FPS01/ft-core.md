@@ -1,6 +1,6 @@
 # Fiori Tracker Core
 
-This app replaces multiple spreadsheets that are usually used to document SAP Fiori launchpad configuration in SAP S/4 HANA projects implementation and during support.
+This product replaces multiple spreadsheets that are usually used to document SAP Fiori launchpad configuration in SAP S/4 HANA projects implementation and during support.
 
 Key features:
 - Easy app identification (including documentation URLs)
