@@ -11,7 +11,7 @@ To enable oData service complete the sub-steps described below.
 
 ![](res/segw.png)
 
-1.3. Go to Change mode and choose function **Generate** (you will be prompted for transport bad your user must be registered as developer)
+1.3. Go to Change mode and choose function **Generate** (you will be prompted for transport and your user must be registered as developer)
 
 ![](res/segw_gen.png)
 

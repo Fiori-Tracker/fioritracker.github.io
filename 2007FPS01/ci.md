@@ -23,8 +23,6 @@ Basis:
 UX Lead:
 1. [Configure Managed systems list](/inst-ux/step-1.md) using admin transaction: `ZNYPECIADMIN`
 
-
-
 ### Installation apps
 [Installation app for Catalog Import](in-ci-cen.md) for Central system<br>
 [Installation app for Catalog Import](in-ci-man.md) for Managed system
