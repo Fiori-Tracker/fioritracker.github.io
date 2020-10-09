@@ -24,3 +24,5 @@ Execute the following steps:
 ### Dependencies
 Independent - does not need any other product to be installed
 
+#### Technical information
+[Details](/asis-tech.md)
