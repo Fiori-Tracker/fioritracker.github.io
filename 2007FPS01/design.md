@@ -1,4 +1,4 @@
 # Design
 
-[Naming])(/design/naming.md)
+[Naming](/design/naming.md)
 [Rules](/design/rules.md)
