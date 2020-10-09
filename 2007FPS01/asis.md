@@ -8,6 +8,7 @@ Has two parts:
 2. Located on Managed system
 
 ### Available extensions
+None
 
 ### Other applications that use the product
 1. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
