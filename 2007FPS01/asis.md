@@ -21,6 +21,3 @@ Has two parts:
 ### Dependencies
 Independent - does not need any other product to be installed
 
-### Transport package
-ZNYPE ASIS CEN - for Central system<br>
-ZNYPE ASIS MAN - for Managed system
