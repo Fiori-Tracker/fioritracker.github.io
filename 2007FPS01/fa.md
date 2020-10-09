@@ -21,8 +21,6 @@ Optional extension that resolves raw start records to a friendly application nam
 ### Dependencies
 Independent - does not need any other product to be installed
 
-### Transport package
-ZNYPE FA CEN REP - for Central system<br>
-ZNYPE FA MAN REP - for Managed system
-
+#### Technical information
+[Details](/fa-tech.md)
 
