@@ -15,7 +15,7 @@ Has two parts:
 
 ### Manual Installation 
 Execute the following steps:
-1. [Import the transport](/inst/step-0.md) for As-is
+1. [Download and import the transport files](/inst/step-0.md) for As-is
 
 ### Installation apps
 [Installation app for AsIs](in-asis-cen.md) for Central system<br>
