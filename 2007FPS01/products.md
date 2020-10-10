@@ -1,6 +1,6 @@
 # Products
 
-Fiori Tracker is a platform of six different products that you can choose from and install separately, depending on your needs. Each product contains one or more SAP Fiori Launchpad applications.
+Fiori Tracker is a set of six products that you can choose from and install separately. Each product contains one or more SAP Fiori Launchpad applications.
 
 ### Main
 1. [Fiori Tracker Core](ft-core.md)
