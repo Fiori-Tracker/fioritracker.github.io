@@ -27,10 +27,7 @@ Optional relations that can be installed on Fiori Tracker core
 2. [App Catalogs Report](ac.md)
 
 #### Installation 
-Execute the following steps:
-1. [Activate Frontend ICF nodes](/inst/step-1.md) for nodes `zftapps` and `zftcats`
-2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPEFTCENCOR_SRV`
-3. [Assign pfcg roles](/inst/step-3.md)
+[Details](/inst/ft-core.md)
 
 #### Dependencies
 Independent - does not need any other product to be installed
