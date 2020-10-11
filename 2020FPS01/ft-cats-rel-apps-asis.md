@@ -3,8 +3,6 @@
 ### Location
 Central system
 
-### Installation apps
-
 ### Available extensions
 None.
 

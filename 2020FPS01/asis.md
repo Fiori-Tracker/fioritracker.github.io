@@ -14,13 +14,9 @@ None
 1. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
 2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an
 
-### Manual Installation 
+### Installation 
 Execute the following steps:
 1. [Download and import the transport files](/inst/step-0.md) for As-is
-
-### Installation apps
-[Installation app for AsIs](in-asis-cen.md) for Central system<br>
-[Installation app for AsIs](in-asis-man.md) for Managed system
 
 ### Dependencies
 Independent - does not need any other product to be installed

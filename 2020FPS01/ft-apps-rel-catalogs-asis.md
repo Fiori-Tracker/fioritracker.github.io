@@ -3,9 +3,6 @@
 ### Location
 Central system
 
-### Installation apps
-[Installation app for FT Apps Relation: Catalogs, As-is - Central system](in-ft-apps-rel-cat-asis.md)
-
 ### Available extensions
 None.
 
