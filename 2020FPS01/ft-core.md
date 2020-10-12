@@ -5,14 +5,12 @@ This product replaces multiple spreadsheets that are usually used to document SA
 ### Key features
 - Easy app identification (including documentation URLs)
 - Intuitive view on application's details 
-- Views dependent on application type (Fiori, SAP Gui, Custom, Extended)
 - Clarity on responsibility (unique stream ownership)
-- Naming conversion enforcement
 - Apps and catalogs linkage to other types of information (available as extensions): roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app's usage statistics
 
-Fiori Tracker Core contains the following Fiori Launchpad Applications:  
-1. Applications (with core relation: To-be catalogs)
-2. Catalogs (with core relation: To-be apps)
+Fiori Tracker Core contains the following applications:  
+1. FT applications (with core relation: To-be catalogs) - for keeping track of SAP Fiori launchpad enabled applications
+2. FT catalogs (with core relation: To-be apps) - for managing catalogs Using optional Fiori Tracker relations, you can link each entry for an application or catalog to other information records like system values (as-is) or application usage.
 
 #### Location
 Central system
