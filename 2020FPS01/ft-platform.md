@@ -16,13 +16,3 @@
 
 ### Plugin for as-is information
 [AsIs](asis.md) - Enables Managed system to sent the data to a Central system
-
-
-
-
-
-
-
-
-
-
