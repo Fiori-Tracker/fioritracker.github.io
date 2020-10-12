@@ -1,4 +1,4 @@
-# Products
+# Fiori Tracker platform
 
 ### Main 
 1. [Fiori Tracker Core](ft-core.md)
