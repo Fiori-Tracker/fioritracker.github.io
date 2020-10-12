@@ -1,6 +1,6 @@
 # Fiori Tracker platform
 
-### Main 
+### Main apps
 1. [Fiori Tracker Core](ft-core.md)
 
 Fiori Tracker is a set of two UI5 apps:
@@ -9,17 +9,15 @@ Fiori Tracker is a set of two UI5 apps:
 Using optional Fiori Tracker relations you can link each entry for an application or catalog to other information records like: system values (as-is) or application usage.
 
 ### Optional relations for Fiori Tracker
-System values:
+*System values relations*
 1. [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 2. [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
-Application usage:
+*Application usage relation*
 3. [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md)
 
 ### Import tools
 1. [Catalog Import](ci.md) - Let's you import your already configured catalogs into FT catalogs list
-
-
 
 ### Plugin for as-is information
 1. [AsIs](asis.md)
