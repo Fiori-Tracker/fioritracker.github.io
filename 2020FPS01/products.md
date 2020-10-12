@@ -1,12 +1,12 @@
 # Products
 
+### Main 
+1. [Fiori Tracker Core](ft-core.md)
+
 Fiori Tracker is a set of two UI5 apps:
 - FT applications - for keeping track on SAP Fiori launchpad enabled applications 
 - FT catalogs - for managing catalogs
 Using optional Fiori Tracker relations you can link each entry for an application or catalog to other information records like: system values (as-is) or application usage.
-
-### Main 
-1. [Fiori Tracker Core](ft-core.md)
 
 ### Optional relations for Fiori Tracker
 System values:
