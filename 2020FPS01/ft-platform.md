@@ -10,7 +10,7 @@ Using optional Fiori Tracker relations, you can link each entry for an applicati
 
 ### Optional relations for Fiori Tracker
 *System values relations*<br>
-[FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
+[FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)<br>
 [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
 *Application usage relation*<br>
