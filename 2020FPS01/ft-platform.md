@@ -9,11 +9,11 @@ Fiori Tracker is a set of two UI5 apps:
 Using optional Fiori Tracker relations, you can link each entry for an application or catalog to other information records like system values (as-is) or application usage.
 
 ### Optional relations for Fiori Tracker
-- System values relations
+**System values relations**
 [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
-- Application usage relation
+**Application usage relation**
 [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md)
 
 ### Import tools
