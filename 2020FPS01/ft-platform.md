@@ -19,10 +19,7 @@ Application usage:
 ### Import tools
 1. [Catalog Import](ci.md) - Let's you import your already configured catalogs into FT catalogs list
 
-### Reports
-1. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
-2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
-3. [Fiori Apps' Usage Report](fa.md) - 
+
 
 ### Plugin for as-is information
 1. [AsIs](asis.md)

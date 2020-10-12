@@ -1,4 +1,4 @@
-- [Products](/products.md)
+- [Fiori Tracker platform](/ft-platform.md)
  - [Fiori Tracker Core](/ft-core.md)
    - [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
    - [FT Apps Relation: Apps' Usage](/ft-apps-rel-appsusage.md)
