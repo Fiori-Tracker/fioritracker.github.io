@@ -1,10 +1,9 @@
-# Step 1 - Activate the Frontend ICF nodes
+# Step 1 - Download and import the transport files
 
-?> To activate the needed Frontend ICF nodes complete the sub-steps described below for each node.
+Download 
 
-1. Run **SICF** transaction, choose **Execute** and in the tree of services for path Path: `/default_host/sap/bc/ui5_ui5/sap/`, use right click on service and choose **Activate** for each `ICF node` you and to activate <br/>
+Import
 
-![](res/sicf-activate.png)
 
 
 

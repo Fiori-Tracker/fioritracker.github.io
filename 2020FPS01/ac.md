@@ -18,8 +18,8 @@ Optional extension that enables view of the catalogs in relation to friendly app
 
 ### Installation
 Execute the following steps:
-1. [Activate Frontend ICF nodes](/inst/step-1.md) for node `zftappcatrep`
-2. [Enable backend odata service](/inst/step-2.md) for service `ZNYPEACCENREP_SRV`
+1. [Activate Frontend ICF nodes](/inst/step-2.md) for node `zftappcatrep`
+2. [Enable backend odata service](/inst/step-3.md) for service `ZNYPEACCENREP_SRV`
 3. [Assign pfcg roles](/inst/step-3.md)
 
 ### Dependencies
