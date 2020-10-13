@@ -1,4 +1,4 @@
-# Step 1 - Activate the Frontend ICF nodes
+# Step 2 - Activate the Frontend ICF nodes
 
 ?> To activate the needed Frontend ICF nodes complete the sub-steps described below for each node.
 
