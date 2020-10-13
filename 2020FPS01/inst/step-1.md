@@ -1,9 +1,6 @@
 # Step 1 - Download and import the transport files
 
-Download 
+Download from `Release section`
 
-Import
-
-
-
+Import to Central or Managed system, depending on the the target system for the imported product.
 
