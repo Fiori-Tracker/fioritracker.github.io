@@ -11,7 +11,7 @@
 *Application usage relation*<br>
 [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md) - adds to an app a link to list of the users that are using the app in your systems
 
-### Import tools
+### Import tool
 [Catalog Import](ci.md) - Lets you import your catalogs from your system into the FT catalogs list.
 
 ### Plugin for as-is information

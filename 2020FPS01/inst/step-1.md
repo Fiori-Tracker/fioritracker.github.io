@@ -1,6 +1,14 @@
 # Step 1 - Download and import the transport files
 
-Download from `Release section`
+### 1. Download the transport files
+Go to http://get.fioritracker.org and download zip file for `Release`
 
-Import to Central or Managed system, depending on the the target system for the imported product.
+?> You should perform the two following steps in **Central system** or **Managed system**. The choice is dependent on which part of the Fiori Tracker platform you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.
+
+### 2. Unzip and place files in your transport folder
+Unizp the cofile and data files, and place them in the respective folder on your application server.
+
+### 3 Perform the import
+Using transaction **STMS** import the transport to your system.
+
 
