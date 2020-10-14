@@ -1,3 +1,5 @@
-# Step 4 - Assign pfcg roles
+# Step 4 - Assign Authorization role
 
-Based on [roles description](general/role-assignment.md) in transaction `PFCG` assign the authorization roles to the users that will work with Fiori Tracker apps.
+### 1. Assign role
+
+Go to transaction *PFCG* and assign `Role` to all users who should access the installed product.
