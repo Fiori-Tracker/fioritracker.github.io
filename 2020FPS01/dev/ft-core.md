@@ -1,0 +1,2 @@
+# FT core - development documentation
+
