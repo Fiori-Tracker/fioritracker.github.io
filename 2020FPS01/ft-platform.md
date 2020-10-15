@@ -1,7 +1,7 @@
 # Fiori Tracker platform
 
 ### Main apps
-[Fiori Tracker Core](ft-core.md) - Apps for keeping track of SAP Fiori launchpad enabled applications and catalogs
+[Fiori Tracker Core](ft-core.md) - This is a tool for keeping a record of the planned scope of implementation or maintenance of your SAP Fiori launchpad.
 
 ### Optional relations for Fiori Tracker
 *System values relations*<br>
