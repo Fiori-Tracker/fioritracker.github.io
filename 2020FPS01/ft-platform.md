@@ -1,12 +1,12 @@
 # Fiori Tracker platform
 
 ### Main apps
-[Fiori Tracker Core](ft-core.md) - This is a tool for keeping a record of the planned scope of implementation or maintenance of your SAP Fiori launchpad.
+[Fiori Tracker Core](ft-core.md) - This is a tool for keeping a record of the scope of implementation or maintenance of your SAP Fiori launchpad.
 
 ### Optional relations for Fiori Tracker
 *System values relations*<br>
 [FT Catalogs Relation: Apps As-is](/ft-cats-rel-apps-asis.md) - adds to a catalog a link to a list of apps in your systems<br>
-[FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md) - adds to an app a link to a list of catalogs in your systems 
+[FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md) - This relation shows a list of the catalogs that contain the selected application. You can see the list of the catalogs separately for each of your Managed systems. 
 
 *Application usage relation*<br>
 [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md) - adds to an app a link to list of the users that are using the app in your systems
