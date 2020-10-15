@@ -1,5 +1,7 @@
 # FT Apps Relation: Apps' Usage
 
+Apps' Usage relation shows the list of users that started the application. The list is available for each of your Managed systems.
+
 ### Location
 Central system
 
