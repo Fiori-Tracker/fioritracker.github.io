@@ -27,6 +27,6 @@ Requires:
 [AsIs](asis.md)
 
 #### Technical information
-[Details](/ac-tech.md)
+[Details](/tech/ac.md)
 
 
