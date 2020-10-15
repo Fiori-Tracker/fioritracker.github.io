@@ -22,4 +22,4 @@ Execute the following steps:
 Independent - does not need any other product to be installed
 
 #### Technical information
-[Details](/asis-tech.md)
+[Details](/tech/asis.md)
