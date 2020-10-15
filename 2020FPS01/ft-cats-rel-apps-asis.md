@@ -18,7 +18,6 @@ Requires:
 ### Installation 
 [Details](/inst/ft-cats-rel-apps-asis.md)
 
-
 ### Technical information
 [Details](/tech/ft-cats-rel-apps-asis.md)
 
