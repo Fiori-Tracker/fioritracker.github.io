@@ -1,6 +1,6 @@
 # Fiori Tracker Core
 
-This is a tool for keeping a record of your SAP Fiori launchpad's scope of implementation or maintenance. 
+Fiori Tracker Core is a pair of apps for keeping a record of your SAP Fiori launchpad's implementation or maintenance scope.
 
 ### Key features
 - Easy app identification 
