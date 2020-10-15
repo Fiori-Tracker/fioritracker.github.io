@@ -6,6 +6,7 @@ This is a tool for keeping a record of your SAP Fiori launchpad's scope of imple
 - Easy app identification 
 - Intuitive view on application's details 
 - Clarity on responsibility with unique stream ownership
+- Link between apps and catalogs
 - Apps and catalogs linkage to other types of information (available as extensions): roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app's usage statistics
 
 Fiori Tracker Core contains the following applications:  
