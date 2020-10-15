@@ -1,7 +1,9 @@
 # Fiori Tracker platform
 
+Fiori Tracker is a solution for keeping a record of your SAP Fiori launchpad's scope of implementation or maintenance. The scope is the list of the applications and catalogs you plan to implement or support (in app's called "To-be" records). Application and Catalog "To-be" records serve as a reference for comparison with actual system configuration (in app's called "As-is"). "As-is" relations enable the project team to control setting up the SAP Fiori launchpad, especially for many applications deployed in multiple systems.
+
 ### Main apps
-[Fiori Tracker Core](ft-core.md) - This is a tool for keeping a record of the scope of implementation or maintenance of your SAP Fiori launchpad.
+[Fiori Tracker Core](ft-core.md) - This is a tool for keeping a record of your SAP Fiori launchpad's applications and catalogs
 
 ### Optional relations for Fiori Tracker
 *System values relations*<br>
