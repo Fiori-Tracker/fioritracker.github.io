@@ -9,7 +9,7 @@
 [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md) - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.
 
 *Application usage relation*<br>
-[FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md) - adds to an app a link to list of the users that are using the app in your systems
+[FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md) - This relation shows the list of users that started the application. The list is available for each of your Managed systems.
 
 ### Import tool
 [Catalog Import](ci.md) - Lets you import your catalogs from your system into the FT catalogs list.
