@@ -14,13 +14,12 @@ Optional extension that resolves raw start records to a friendly application nam
 ### Other applications that might use the product
 [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage.md) 
 
-### Installation apps
-[Installation app for Fiori Apps' Usage Report](in-fa-cen.md) for Central system<br>
-[Installation app for Fiori Apps' Usage Report](in-fa-man.md) for Managed system
+### Installation
+[Details](/inst/fa.md)
 
 ### Dependencies
 Independent - does not need any other product to be installed
 
 #### Technical information
-[Details](/fa-tech.md)
+[Details](/tech/fa.md)
 
