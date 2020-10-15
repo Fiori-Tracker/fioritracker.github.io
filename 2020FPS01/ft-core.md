@@ -1,6 +1,6 @@
 # Fiori Tracker Core
 
-Fiori Tracker Core is a pair of apps for keeping a record of your SAP Fiori launchpad's implementation or maintenance scope.
+Fiori Tracker Core is a pair of apps for keeping a record of your SAP Fiori launchpad's implementation or maintenance scope. It makes a foundation for linking launchpad apps records with other project information types.
 
 ### Key features
 - Easy app identification 
