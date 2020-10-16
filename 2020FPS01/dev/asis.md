@@ -5,8 +5,7 @@ Base addon for retrieving data from Managed system and passing it to Central sys
 # General technical info
 [Details](/tech/asis.md)
 
-
-# działanie AsIs i procesów propagowania danych?
+# Działanie AsIs i procesów propagowania danych?
 
 urgens  table: ZCI_CTL
 callstack: 
@@ -22,13 +21,4 @@ _
 ZNYPECICEN->ZNYPECICEN-DOWNLOAD_CATALOGS()
 ZNYPECICEN->ZCL_ZNYPECICEN_DPC_EXT-/IWBEP/IF_MGW_APPL_SRV_RUNTIME~EXECUTE_ACTION() (edited) 
 
-
-
-10h
 urgens  taki call stack mam dla tabeli ZCI_CTL
-2h
-Kamil Wężniejewski  Nie dodałem jeszcze opisu do tego, jednak cała logika związana z tym jest w 2 klasach oraz 2 FM group do tych klas:
-ZNYPEASISCEN (class)
-ZNYPEASISCEN (FM group)
-ZNYPEASISMAN (class)
-ZNYPEASISMAN (FM group)
