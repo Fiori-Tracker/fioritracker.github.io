@@ -1,4 +1,4 @@
-# FT Apps Relation: Catalogs, As-is - development documentation
+# FT Apps Relation: Catalogs, As-is - development details
 
 ### 1. Technical details
 [Details](/tech/ft-apps-rel-catalogs-asis.md)

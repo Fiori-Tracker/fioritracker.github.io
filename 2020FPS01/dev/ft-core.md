@@ -1,2 +1,4 @@
-# FT core - development documentation
+# FT core - development details
+
+
 
