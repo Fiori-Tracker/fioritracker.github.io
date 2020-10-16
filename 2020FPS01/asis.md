@@ -20,5 +20,5 @@ None
 ### Dependencies
 Independent - does not need any other product to be installed
 
-#### Technical information
+### Technical information
 [Details](/tech/asis.md)

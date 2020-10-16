@@ -4,7 +4,7 @@ To enable oData service complete the sub-steps described below.
 
 ?> When description refers to `Service name`, you need to put the service’s name of the run application. If you don't know the `Service name` please refer to the technical section of each product.
 
-#### 1. Generate Runtime objects in transaction SEGW
+### 1. Generate Runtime objects in transaction SEGW
 
 1.1. Start transaction SEGW<br>
 1.2. Using the menu *Project > Open* - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZFIORITRACKER_SVR please open project called ZFIORITRACKER.
@@ -15,7 +15,7 @@ To enable oData service complete the sub-steps described below.
 
 ![](res/segw_gen.png)
 
-#### 2. Add the Service to Service Catalog
+### 2. Add the Service to Service Catalog
 
 2.1 Start transaction /n/IWFND/MAINT_SERVICE
 

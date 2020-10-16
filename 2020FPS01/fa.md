@@ -20,6 +20,6 @@ Optional extension that resolves raw start records to a friendly application nam
 ### Dependencies
 Independent - does not need any other product to be installed
 
-#### Technical information
+### Technical information
 [Details](/tech/fa.md)
 

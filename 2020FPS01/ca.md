@@ -26,7 +26,7 @@ Execute the following steps:
 Requires:  
 [AsIs](asis.md)
 
-#### Technical information
+### Technical information
 [Details](/tech/ca.md)
 
 
