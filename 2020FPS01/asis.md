@@ -15,8 +15,7 @@ None
 2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an
 
 ### Installation 
-Execute the following steps:
-1. [Download and import the transport files](/inst/step-0.md) for As-is
+[Details](/inst/asis.md)
 
 ### Dependencies
 Independent - does not need any other product to be installed
