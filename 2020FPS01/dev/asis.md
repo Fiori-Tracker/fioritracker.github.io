@@ -2,6 +2,10 @@
 
 Base addon for retrieving data from Managed system and passing it to Central system.
 
+# General technical info
+[Details](/tech/asis.md)
+
+
 # działanie AsIs i procesów propagowania danych?
 
 urgens  table: ZCI_CTL
