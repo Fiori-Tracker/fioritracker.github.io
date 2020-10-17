@@ -1,6 +1,7 @@
 # Internal pages
 
-[Design](/design/main.md)
-[Releasing](/rel/main.md)
+### 1. [Design](/design/main.md)
 
-[Development docs](/dev/main.md)
+### 2. [Development docs](/dev/main.md)
+
+### 3. [Releasing](/rel/main.md)

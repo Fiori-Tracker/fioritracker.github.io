@@ -60,7 +60,7 @@ ${SOURCE}EditSet must contain 'Selected' property.
 	* Type: Edm.String
 
 1. Selected
-	* Description: Property indicates whether entity is mapped to parent or is used only for displaying resouce in list
+	* Description: Property indicates whether entity is mapped to parent or is used only for displaying resource in list
 	* ABAP Field: SELECTED
 	* Type: Edm.Boolean
 
