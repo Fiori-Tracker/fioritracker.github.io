@@ -3,7 +3,7 @@
 ### 1. Download the transport files
 Go to `Product's release page` and download zip file for `Release`
 
-?> You should perform the two following steps in **Central system** or **Managed system**. The choice is dependent on which part of the Fiori Tracker platform you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.
+?> You should perform the two following steps in **Central system** or **Managed system**. The choice is dependent on which part of the Fiori Tracker family you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.
 
 ### 2. Unzip and place files in your transport folder
 Unizp the cofile and data files, and place them in the respective folder on your application server.

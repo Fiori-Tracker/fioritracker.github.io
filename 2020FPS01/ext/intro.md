@@ -1,6 +1,6 @@
 # Extending Fiori Tracker
 
-The Fiori Tracker platform lets you extend Application and Catalog functionality by building custom relations.
+The Fiori Tracker family lets you extend Application and Catalog functionality by building custom relations.
 
 # Rules for building custom relations
 
