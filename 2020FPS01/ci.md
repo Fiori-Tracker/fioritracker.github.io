@@ -2,6 +2,8 @@
 
 Tool to import the list of catalogs into as To-be relation in [Fiori Tracker Core](/ft-core.md)
 
+![](res/ci.png)
+
 ### Location
 Has two parts:
 1. Located on Central system
