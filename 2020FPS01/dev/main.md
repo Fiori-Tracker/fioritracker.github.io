@@ -2,7 +2,7 @@
 
 ## General topics
 
-### System status and button logic
+### System status logic
 [Logic in google sheet](https://docs.google.com/spreadsheets/d/1W4Zr-m4xZi5MDPHI6z5SJkT8zD0ye73jPEjtsuNB8yw/edit?usp=sharing)
 [Status of logic implementation in google sheets]
 
