@@ -1,6 +1,8 @@
 # Fiori Apps' Usage Report
 
-Plugin to capture raw start records on Managed system and send it to Central system.
+Report that shows raw start records from Managed systems.
+
+![](res/fa.png)
 
 ### Location
 Has two parts:
