@@ -3,12 +3,11 @@
    - [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
    - [FT Apps Relation: Catalogs As-Is](/ft-apps-rel-catalogs-asis.md)
    - [FT Apps Relation: Apps' Usage](/ft-apps-rel-appsusage.md)
- - [Fiori Apps' Usage Report](/fa.md)
+ - [Catalog Import](/ci.md)
  - [AsIs plugin](/asis.md)
  - [Extending Fiori Tracker](/ext/intro.md)
 - [Reports](reports.md)
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
- - [Catalog Import](/ci.md)
- 
+ - [Fiori Apps' Usage Report](/fa.md) 
 
