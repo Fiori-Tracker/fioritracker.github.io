@@ -1,5 +1,13 @@
 # Development documentation, architecture
 
+## General topics
+
+### System status and button logic
+[Logic in google sheet](https://docs.google.com/spreadsheets/d/1W4Zr-m4xZi5MDPHI6z5SJkT8zD0ye73jPEjtsuNB8yw/edit?usp=sharing)
+[Status of logic implementation in google sheets]
+
+## App specific topics
+
 ### Main apps
 [Fiori Tracker Core](/dev/ft-core.md) 
 
@@ -18,7 +26,6 @@
 [AsIs](/dev/asis.md) 
 
 ### Reports
-# Reports
 1. [Catalog Apps Report](/dev/ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
 2. [App Catalogs Report](dev/ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
 3. [Fiori Apps' Usage Report](dev/fa.md) - List of top most used applications identified by semantic object and action
