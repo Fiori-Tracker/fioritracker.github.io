@@ -16,14 +16,7 @@ None.
 [Fiori Tracker Core](/ft-core.md)
 
 ### Installation 
-
-Basis:
-1. [Activate Frontend ICF nodes](/inst/step-2.md) for node `zftcatimport`
-2. [Enable backend odata service](/inst/step-3.md) for service `ZNYPECICEN_SRV`
-3. [Assign pfcg roles](/inst/step-3.md)
-
-UX Lead:
-1. [Configure Managed systems list](/inst-ux/step-1.md) using admin transaction: `ZNYPECIADMIN`
+[Details](/inst/ci.md)
 
 ### Dependencies
 Requires:  
