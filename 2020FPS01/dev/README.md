@@ -5,7 +5,9 @@
 ### System status logic
 1. [Logic in google sheet](https://docs.google.com/spreadsheets/d/1W4Zr-m4xZi5MDPHI6z5SJkT8zD0ye73jPEjtsuNB8yw/edit?usp=sharing)
 2. [Status of logic implementation in google sheets](https://docs.google.com/spreadsheets/d/1IMpNUJXqhcF_yXLiDHI4kB_OUodeH3qB-Y32fITV0s0/edit?usp=sharing)
-3. [Priority for releasing](https://docs.google.com/spreadsheets/d/1PqqdhOZgQ4Nj9antMjUH505lcbAbho-EaRSMdcUEJis/edit?usp=sharing)
+
+### Priorities
+1. [Priority for releasing](https://docs.google.com/spreadsheets/d/1PqqdhOZgQ4Nj9antMjUH505lcbAbho-EaRSMdcUEJis/edit?usp=sharing)
 
 # App specific topics
 
