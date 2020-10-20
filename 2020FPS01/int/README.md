@@ -1,12 +1,12 @@
 # Internal pages
 
-### 1. Design
+# Design
 [Details](/design/main.md)
 
-### 2. Development docs
+# Development docs
 [Details](/dev/)
 
-### 3. [Releasing]
+# [Releasing]
 [Details](/rel/main.md)
  
 
