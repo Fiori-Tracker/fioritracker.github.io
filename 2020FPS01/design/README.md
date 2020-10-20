@@ -1,5 +1,7 @@
 # Design
 
-# [Naming](/design/naming.md)
+# Naming
+[Details](/design/naming.md)
 
-# [Rules](/design/rules.md)
+# Rules
+[Details](/design/rules.md)
