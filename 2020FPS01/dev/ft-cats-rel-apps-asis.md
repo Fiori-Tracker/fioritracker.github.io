@@ -6,7 +6,7 @@ This relation shows a list of currently configured applications in the selected 
 [Details](/tech/ft-cats-rel-apps-asis.md)
 
 ### Architecture
-[pptx](/dev/arch/ft-cats-rel-apps-asis.pptx)
+[pptx](dev/arch/ft-cats-rel-apps-asis.pptx)
 
 ### Processing
 ..
