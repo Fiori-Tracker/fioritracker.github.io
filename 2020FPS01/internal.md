@@ -4,7 +4,7 @@
 [Details](/design/main.md)
 
 ### 2. Development docs
-[Details](/dev)
+[Details](/dev/)
 
 ### 3. [Releasing]
 [Details](/rel/main.md)
