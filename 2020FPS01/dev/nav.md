@@ -1,1 +1,1 @@
-- [Developement](/dev/)
+- [Development](/dev/)
