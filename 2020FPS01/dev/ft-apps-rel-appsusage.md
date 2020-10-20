@@ -6,7 +6,7 @@ Apps' Usage relation shows the list of users that started the application. The l
 [Details](/tech/ft-apps-rel-appsusage)
 
 ### Architecture
-[pptx](/dev/arch/ft-apps-rel-appsusage.pptx)
+[pptx](dev/arch/ft-apps-rel-appsusage.pptx)
 
 ### Processing
 ..
