@@ -6,7 +6,7 @@
 # Development docs
 [Details](/dev/)
 
-# [Releasing]
+# Releasing
 [Details](/rel/)
  
 
