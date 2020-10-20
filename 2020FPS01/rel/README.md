@@ -1,9 +1,9 @@
 # Releasing main directory
 
-### 1. Transport preparation
+# Transport preparation
 1. [Details](/rel/trans.md)
 
-### 2. System for testing preparation
+# System for testing preparation
 1. [Details](/rel/sys.md)
 
 

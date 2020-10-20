@@ -7,6 +7,6 @@
 [Details](/dev/)
 
 # [Releasing]
-[Details](/rel/main.md)
+[Details](/rel/)
  
 
