@@ -8,7 +8,7 @@ Tool to import the list of catalogs into as To-be relation in [Fiori Tracker Cor
 [Details](/tech/ci.md)
 
 ### Architecture
-[pptx](//dev/arch/ci.pptx)
+[pptx](/dev/arch/ci.pptx)
 
 
 
