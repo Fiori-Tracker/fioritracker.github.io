@@ -1,7 +1,7 @@
 # Internal pages
 
 # Design
-[Details](/design/main.md)
+[Details](/design/)
 
 # Development docs
 [Details](/dev/)
