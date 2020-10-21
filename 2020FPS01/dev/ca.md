@@ -2,5 +2,7 @@
 
 ### Test cases
 
-Catalog name: SAP_BASIS_BC_EPM_PUR_TEST
+Catalog name: 
 
+SAP_BASIS_BC_EPM_PUR_TEST
+ZC_FT_ALL
