@@ -1,4 +1,4 @@
-# As-is - Installation
+# As-is - Installation for Central system
 
 Basis:
 1. [Download and import transports](/inst/step-1.md) from Product release page **Release planned for Nov 2020** Release `2020FPS01`
