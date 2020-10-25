@@ -16,6 +16,6 @@ https://blogs.sap.com/2016/06/28/change-the-transport-request-to-the-number-we-d
 
 ### 3 Distribte and activate tp
 
-![](/rel/dist.png)
+![](rel/dist.png)
 
 
