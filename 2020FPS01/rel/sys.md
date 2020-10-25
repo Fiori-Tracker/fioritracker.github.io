@@ -14,7 +14,7 @@ https://blogs.sap.com/2016/06/28/change-the-transport-request-to-the-number-we-d
 [transup](/rel/transup.abap.txt)<br>
 [transdown](/rel/transdown.abap.txt)
 
-### 3 Distribte and activate tp
+### 3 Distribute and activate tp
 
 ![](rel/dist.png)
 
