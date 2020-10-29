@@ -1,6 +1,6 @@
-# Step 1 - Configure managed systems
+# Configure managed systems
 
-1. Using SAP Gui `Admin transaction` start step `1. Modify Managed systems`:
+1. In your Centra system, using SAP Gui `Admin transaction` start step `1. Modify Managed systems`:
 
 ![](res/managed-systems.png)
 
