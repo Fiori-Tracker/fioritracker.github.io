@@ -2,7 +2,7 @@
 
 1. Using SAP Gui `Admin transaction` start step `1. Modify Managed systems`:
 
-![](inst/asis/res/managed-systems.png)
+![](res/managed-systems.png)
 
 For each managed system defined by column `System ID` provide respective `RFC destination` (see [how to prepare it](/inst-ux/rfc.md). Leave the rest of the fields - they are updated automatically on *Connection status check*.
 
@@ -12,4 +12,4 @@ Using same SAP Gui `Admin transaction` start step `2. Connection status check Mo
 
 For correctly configured systems it should show green light in column `status` as shown on below screenshot:
 
-![](inst/asis/res/connection-status.png)
+![](res/connection-status.png)
