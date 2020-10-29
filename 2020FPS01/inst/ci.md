@@ -8,6 +8,5 @@ General Basis expert steps
 
 As-is plugin, Basis expert steps<br>
 1. [Install As-is on Central system](/inst/asis/cen.md)
-2. [Configure Managed systems](inst/asis/sys.md)
-3. [Install As-is on each Managed system](/inst/asis/man.md)
+2. [Install As-is on each Managed system](/inst/asis/man.md)
 
