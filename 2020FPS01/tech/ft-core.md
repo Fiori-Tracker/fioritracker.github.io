@@ -1,8 +1,10 @@
 # Fiori Tracker Core - Technical information
 
 ## Frontend ICF nodes
+
 ### Path:
 * default_host/sap/bc/ui5_ui5/sap/
+
 ### Nodes:
 * zftapps
 * zftcats
@@ -21,12 +23,15 @@
 * ZNYPE_FT
 
 ## Fiori Launchpad Designer
+
 ### Catalog
 * ZCNYPEFT
+
 ### Group
 * ZGNYPEFT
 
 ### Tiles
+
 #### Fiori Tracker - Applications
 * Semantic Object: ZNYPEFTAPPS
 * Action: display
