@@ -14,12 +14,15 @@
 * ZNYPE_**CI**
 
 ## Fiori Launchpad Designer
+
 ### Catalog
 * ZCNYPE**CI**
+
 ### Group
 * ZGNYPE**CI**
 
 ### Tiles
+
 #### Catalog Import
 * Semantic Object: ZNYPECI
 * Action: display
