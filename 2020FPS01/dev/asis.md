@@ -12,7 +12,7 @@ Base addon for retrieving data from Managed system and passing it to Central sys
 stores general Managed system data including:
 - status - when `X` means that system is available
 - status_msg - 
-- status_code - stable status - when `system_failure` then system needs to be updated from ZFTASISADMINTOOL
+- status_code - stable status - when `system_failure` then system needs to be updated from ZFTASISADMINTOOL, this is to avail long timeouts when system is not avaialbe and present an quick result for enad user instead of application hanging for minutes until it fails due to timeout
 
 Statuses in this table are updated only manually with report ZNYPEASISSYSTEMSCHECK that uses FM Z_NYPEASIS_SYSCONNCHECK
 
