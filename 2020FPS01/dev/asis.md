@@ -17,5 +17,9 @@ stores general Managed system data inclding:
 - constant status (?)
 Statuses in this table are updated only manually with report ZNYPEASISSYSTEMSCHECK that uses FM Z_NYPEASIS_SYSCONNCHECK
 
-`ZNYPEASIS_SYS_ST` - Correspondig table for temporary use in ASIS CEN
+`ZNYPEASIS_SYS_ST` - Correspondig table for temporary use in ASIS CEN, modified only automatically (not for user):
+- current status of getting the data
+- last status
+
+
 Statuses in this table are updated with method znypeasiscen=>update_system_status
