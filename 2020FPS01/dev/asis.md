@@ -8,16 +8,15 @@ Base addon for retrieving data from Managed system and passing it to Central sys
 ### Architecture
 [Details](dev/arch/asis.pptx)
 
+`ZFT_SYSTEMS` - Main table for systems
+stores general Managed system data including:
+- status - when `X` means that system is available
+- status_msg - 
+- status_code - stable status - when *system_failure* then system needs to be updated from ZFTASISADMINTOOL
 
-
- `ZFT_SYSTEMS` - Main table for systems
-stores general Managed system data inclding:
-- status
-- status_msg
-- constant status (?)
 Statuses in this table are updated only manually with report ZNYPEASISSYSTEMSCHECK that uses FM Z_NYPEASIS_SYSCONNCHECK
 
-`ZNYPEASIS_SYS_ST` - Correspondig table for temporary use in ASIS CEN, modified only automatically (not for user):
+`ZNYPEASIS_SYS_ST` - Corresponding table for temporary use in ASIS CEN, modified only automatically (not for user):
 - current status of getting the data
 - last status
 
