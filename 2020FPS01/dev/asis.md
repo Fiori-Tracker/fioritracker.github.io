@@ -23,4 +23,7 @@ Statuses in this table are updated only manually with report `ZNYPEASISSYSTEMSCH
 
 Statuses in this table are updated with method `znypeasiscen=>update_system_status`
 
-Updates logic:
+Update logic:
+- FM call to get the data
+- if data is not returned then check what is the error with `FUNCTION_EXISTS`
+- update on fields status, status_msg, module_exists
