@@ -1,0 +1,250 @@
+*&---------------------------------------------------------------------*
+*& Report ZTRANSDOWN
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT ZTRANSDOWN.
+
+
+* PARAMETERS: lv_as_fn TYPE sapb-sappfad
+* DEFAULT '/usr/sap/trans/data/R900915.NPL'.
+
+PARAMETERS p_req LIKE e071-trkorr MODIF ID rq
+default 'NPLK900918'.
+
+PARAMETERS: lv_cl_pa TYPE string
+DEFAULT 'C:\download\'.
+
+
+START-OF-SELECTION.
+
+  CONSTANTS blocksize TYPE i VALUE 524287.
+  CONSTANTS packagesize TYPE i VALUE 8.
+
+  TYPES ty_datablock(blocksize) TYPE x.
+
+  data lv_cl_fn TYPE string.
+
+  DATA lv_fil TYPE epsf-epsfilnam.
+  DATA lv_dir TYPE epsf-epsdirnam.
+
+  DATA ls_data TYPE ty_datablock.
+  DATA lt_data TYPE STANDARD TABLE OF ty_datablock.
+
+  DATA lv_block_len TYPE i.
+  DATA lv_package_len TYPE i.
+  DATA lv_subrc TYPE sy-subrc.
+  DATA lv_msgv1 LIKE sy-msgv1.
+  DATA lv_processed_so_far TYPE p.
+  DATA lv_append TYPE c.
+  DATA lv_status TYPE string.
+  DATA lv_filesize TYPE p.
+  DATA lv_percent TYPE i.
+
+DATA : gv_dir_trans_path LIKE cst_rswatch01_alv-dirname,
+       gv_slash ,gv_dotname_cofile(20), gv_dotname_data(20),
+       gv_path_cofile LIKE sapb-sappfad,
+       gv_path_data LIKE sapb-sappfad.
+
+DATA gv_front_path_cofile LIKE sapb-sappfad.
+DATA gv_front_path_data LIKE sapb-sappfad.
+DATA gv_err.
+data: lv_as_fn TYPE sapb-sappfad.
+
+*--1-- Path of DIR_TRANS folder :
+
+  CALL 'C_SAPGPARAM' ID 'NAME'  FIELD 'DIR_TRANS'
+                     ID 'VALUE' FIELD gv_dir_trans_path.
+
+* --2-- Slash type :
+
+  FIND '\' IN gv_dir_trans_path.
+  IF sy-subrc EQ 0.
+    gv_slash = '\'.
+  ELSE.
+    gv_slash = '/'.
+  ENDIF.
+
+* --3-- Cofiles / Data File Paths :
+
+  CONCATENATE :
+    'K' p_req+4 '.' p_req(3) INTO gv_dotname_cofile,
+
+    gv_dir_trans_path gv_slash 'cofiles'
+    gv_slash gv_dotname_cofile
+    INTO gv_path_cofile,
+
+    'R' p_req+4 '.' p_req(3) INTO gv_dotname_data,
+
+    gv_dir_trans_path gv_slash
+    'data' gv_slash gv_dotname_data INTO gv_path_data.
+
+
+*cofile downolad
+
+  CONCATENATE lv_cl_pa gv_dotname_cofile  INTO lv_cl_fn.
+
+ lv_as_fn = gv_path_cofile.
+
+
+  "Determine size
+  SPLIT lv_as_fn AT '/' INTO lv_dir lv_fil.
+  CALL FUNCTION 'EPS_GET_FILE_ATTRIBUTES'
+    EXPORTING
+      file_name      = lv_fil
+      dir_name       = lv_dir
+    IMPORTING
+      file_size_long = lv_filesize.
+
+  "Open the file on application server
+  OPEN DATASET lv_as_fn FOR INPUT IN BINARY MODE MESSAGE lv_msgv1.
+  IF sy-subrc <> 0.
+    MESSAGE e048(cms) WITH lv_as_fn lv_msgv1 RAISING file_read_error.
+    EXIT.
+  ENDIF.
+
+  lv_processed_so_far = 0.
+  DO.
+
+    REFRESH lt_data.
+    lv_package_len = 0.
+    DO packagesize TIMES.
+      CLEAR ls_data.
+      CLEAR lv_block_len.
+      READ DATASET lv_as_fn INTO ls_data MAXIMUM LENGTH blocksize LENGTH lv_block_len.
+      lv_subrc = sy-subrc.
+      IF lv_block_len > 0.
+        lv_package_len = lv_package_len + lv_block_len.
+        APPEND ls_data TO lt_data.
+      ENDIF.
+      "End of file
+      IF lv_subrc <> 0.
+        EXIT.
+      ENDIF.
+    ENDDO.
+
+    IF lv_package_len > 0.
+      "Put file to client
+      IF lv_processed_so_far = 0.
+        lv_append = ' '.
+      ELSE.
+        lv_append = 'X'.
+      ENDIF.
+      CALL FUNCTION 'GUI_DOWNLOAD'
+        EXPORTING
+          bin_filesize         = lv_package_len
+          filename             = lv_cl_fn
+          filetype             = 'BIN'
+          append               = lv_append
+          show_transfer_status = abap_false
+        TABLES
+          data_tab             = lt_data.
+
+
+      lv_processed_so_far = lv_processed_so_far + lv_package_len.
+      "Status display
+      lv_percent = lv_processed_so_far * 100 / lv_filesize.
+      lv_status = |{ lv_percent }% - { lv_processed_so_far } bytes downloaded of { lv_filesize }|.
+      CALL FUNCTION 'SAPGUI_PROGRESS_INDICATOR'
+        EXPORTING          "percentage = lv_percent - will make it fash
+          text = lv_status.
+    ENDIF.
+
+    "End of file
+    IF lv_subrc <> 0.
+      EXIT.
+    ENDIF.
+
+
+  ENDDO.
+
+  "Close the file on application server
+  CLOSE DATASET lv_as_fn.
+
+
+* ------------
+
+  lv_as_fn =  gv_path_data.
+
+  clear lv_cl_fn.
+  CONCATENATE lv_cl_pa gv_dotname_data INTO lv_cl_fn.
+
+
+
+*------------------ same code
+
+  "Determine size
+  SPLIT lv_as_fn AT '/' INTO lv_dir lv_fil.
+  CALL FUNCTION 'EPS_GET_FILE_ATTRIBUTES'
+    EXPORTING
+      file_name      = lv_fil
+      dir_name       = lv_dir
+    IMPORTING
+      file_size_long = lv_filesize.
+
+  "Open the file on application server
+  OPEN DATASET lv_as_fn FOR INPUT IN BINARY MODE MESSAGE lv_msgv1.
+  IF sy-subrc <> 0.
+    MESSAGE e048(cms) WITH lv_as_fn lv_msgv1 RAISING file_read_error.
+    EXIT.
+  ENDIF.
+
+  lv_processed_so_far = 0.
+  DO.
+
+    REFRESH lt_data.
+    lv_package_len = 0.
+    DO packagesize TIMES.
+      CLEAR ls_data.
+      CLEAR lv_block_len.
+      READ DATASET lv_as_fn INTO ls_data MAXIMUM LENGTH blocksize LENGTH lv_block_len.
+      lv_subrc = sy-subrc.
+      IF lv_block_len > 0.
+        lv_package_len = lv_package_len + lv_block_len.
+        APPEND ls_data TO lt_data.
+      ENDIF.
+      "End of file
+      IF lv_subrc <> 0.
+        EXIT.
+      ENDIF.
+    ENDDO.
+
+    IF lv_package_len > 0.
+      "Put file to client
+      IF lv_processed_so_far = 0.
+        lv_append = ' '.
+      ELSE.
+        lv_append = 'X'.
+      ENDIF.
+      CALL FUNCTION 'GUI_DOWNLOAD'
+        EXPORTING
+          bin_filesize         = lv_package_len
+          filename             = lv_cl_fn
+          filetype             = 'BIN'
+          append               = lv_append
+          show_transfer_status = abap_false
+        TABLES
+          data_tab             = lt_data.
+
+
+      lv_processed_so_far = lv_processed_so_far + lv_package_len.
+      "Status display
+      lv_percent = lv_processed_so_far * 100 / lv_filesize.
+      lv_status = |{ lv_percent }% - { lv_processed_so_far } bytes downloaded of { lv_filesize }|.
+      CALL FUNCTION 'SAPGUI_PROGRESS_INDICATOR'
+        EXPORTING          "percentage = lv_percent - will make it fash
+          text = lv_status.
+    ENDIF.
+
+    "End of file
+    IF lv_subrc <> 0.
+      EXIT.
+    ENDIF.
+
+
+  ENDDO.
+
+  "Close the file on application server
+  CLOSE DATASET lv_as_fn.
+
+  write:/'all good'.
