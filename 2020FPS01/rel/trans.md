@@ -12,8 +12,8 @@ add transports with:
 
 ### 2. Helpers
 
-[transup](/rel/transup.abap.txt)
-[transdown](/rel/transdown.abap.txt)
+[transup](rel/transup.abap.txt)
+[transdown](rel/transdown.abap.txt)
 
 ### 3. Distribute and activate tp
 
