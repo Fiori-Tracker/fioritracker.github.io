@@ -10,4 +10,4 @@
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
  - [Fiori Apps' Usage Report](/fa.md) 
-
+- [FAQ](/faq.md)
