@@ -12,4 +12,4 @@ This relation shows a list of currently configured applications in the selected 
 ..
 
 ### Test cases
-https://sap.nype.pl:44300/sap/bc/ui5_ui5/sap/zftapps/indexFT.html#/detail-system/0242ac11-0002-1eeb-83c1-099544276743/AppSysCatalog
+https://sap.nype.pl:44300/sap/bc/ui5_ui5/sap/zftcats/indexFT.html#/detail-system/00000213-2300-0000-0000-000000000000/CatSysApplication
