@@ -11,4 +11,5 @@ This relation shows a list of currently configured applications in the selected 
 ### Processing
 ..
 
-
+### Test cases
+https://sap.nype.pl:44300/sap/bc/ui5_ui5/sap/zftcats/indexFT.html#/detail-system/00000213-2300-0000-0000-000000000000/CatSysApplication
