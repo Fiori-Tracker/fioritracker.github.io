@@ -50,3 +50,4 @@
 - [Dark theme 🕶️](/dark-theme.md)
 - [Other tools 🔧](/tools.md)
 - [Getting transports 🚚](/trans.md)
+- [Other releases 📦](/rel.md)
