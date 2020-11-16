@@ -21,7 +21,7 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 
 ### Dependencies
 Requires:  
-[AsIs](asis.md)
+[As-is](asis.md)
 
 ### Technical information
 [Details](/tech/ca.md)

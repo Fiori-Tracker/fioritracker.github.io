@@ -17,7 +17,7 @@ Optional extension that enables view of the catalogs in relation to friendly app
 [FT Apps Relation: Catalogs, As-is](ft-apps-rel-catalogs-asis.md)
 
 ### Dependencies
-Requires: [AsIs](asis.md)
+Requires: [As-is](asis.md)
 
 ### Technical information
 [Details](/tech/ac.md)

@@ -20,4 +20,4 @@ Fiori Tracker is a suite of SAP Fiori-native apps for keeping a record of your S
 [Catalog Import](ci.md) - Lets you import your catalogs from your system into the FT catalogs list.
 
 ### Plugin for as-is information
-[AsIs](asis.md) - Enables Managed system to sent the data to a Central system
+[As-is](asis.md) - Enables Managed system to sent the data to a Central system
