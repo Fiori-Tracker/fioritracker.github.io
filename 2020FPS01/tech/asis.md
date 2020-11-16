@@ -1,24 +1,26 @@
-# As-is - Technical information
+# As-is Plugin - Technical Dnformation
 
-## Launch path
-* https://`host:port`/sap/bc/ui5_ui5/sap/zftsys
+## Central System Components
+
+### Launch Path
+* https://`host:port`/sap/bc/ui5_ui5/sap/
+zftsys
 
 ### Transport package
-* ZNYPE**ASIS**CEN - for Central system
-* ZNYPE**ASIS**MAN - for Managed system
+* ZNYPE**ASIS**CEN
 
-## oData service name
+### oData Service Name
 * ZNYPEASISCEN_SRV
 
-## PFCG Role:
+### PFCG Role:
 * ZNYPE_**ASIS**
 
-## Fiori Launchpad Designer
+### Fiori Launchpad Designer
 
-### Catalog
+#### Catalog
 * ZCNYPE**ASIS**
 
-### Group
+#### Group
 * ZGNYPE**ASIS**
 
 ### Tiles
@@ -28,3 +30,8 @@
 * Action: display
 * ID: nype.ft.sys
 * Icon: sap-icon://it-system
+
+## Managed System Components
+
+### Transport Package
+* ZNYPE**ASIS**MAN

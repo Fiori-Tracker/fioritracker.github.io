@@ -1,20 +1,20 @@
-# Catalog Apps Report - Technical details
+# Catalog Apps Report - Technical Details
 
 ## Central System Components
 
-### Launch path
+### Launch Path
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep
 
 ### Transport Package
 * ZNYPE**CA**CEN**REP**
 
-### Frontend ICF nodes
+### Frontend ICF Nodes
 * Path:
     * default_host/sap/bc/ui5_ui5/sap/
 * Node:
     * zftcatapprep
 
-### oData service
+### oData Service Name
 * ZNYPECACENREP_SRV
 
 

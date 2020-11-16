@@ -1,24 +1,25 @@
-# Catalog Import - Technical information
+# Catalog Import - Technical Details
 
-## Launch path
+## Central System Components
+
+### Launch Path
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftcatimport
 
-## Transport package
-* ZNYPE**CI**CEN - for Central system
-* ZNYPE**CI**MAN - for Managed system
+### Transport Package
+* ZNYPE**CI**CEN
 
-## oData service name
+### oData Service Name
 * ZNYPECICEN_SRV
 
-## PFCG Role:
+### PFCG Role:
 * ZNYPE_**CI**
 
-## Fiori Launchpad Designer
+### Fiori Launchpad Designer
 
-### Catalog
+#### Catalog
 * ZCNYPE**CI**
 
-### Group
+#### Group
 * ZGNYPE**CI**
 
 ### Tiles
@@ -28,3 +29,8 @@
 * Action: display
 * ID: nype.ft.catimport
 * Icon: sap-icon://Fiori2/F0283
+
+## Managed System Components
+
+### Transport Package
+* ZNYPE**CI**MAN
