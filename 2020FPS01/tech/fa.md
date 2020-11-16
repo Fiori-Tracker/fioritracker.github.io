@@ -8,6 +8,15 @@
 ### Transport Package
 * ZNYPE**FA**CEN**REP**
 
+### Frontend ICF nodes
+* Path:
+    * default_host/sap/bc/ui5_ui5/sap/
+* Node:
+    * zftappusagerep
+
+### oData service
+* ZNYPEFACENREP_SRV
+
 ## Managed System Components
 
 ### Transport Package

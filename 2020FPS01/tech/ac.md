@@ -1,7 +1,15 @@
 # App Catalogs Report - Technical details
 
+## Central System Components
+
+### Launch path
+* https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
+
+### Transport Package
+* ZNYPE**AC**CEN**REP**
+
 ### Frontend ICF nodes
-* Paath:
+* Path:
     * default_host/sap/bc/ui5_ui5/sap/
 * Node:
     * zftappcatrep
@@ -9,11 +17,7 @@
 ### oData service
 * ZNYPEACCENREP_SRV
 
-### Launch path
-* https://`host:port`/sap/bc/ui5_ui5/sap/zftappcatrep
+## Managed System Components
 
-### Transport package
-* ZNYPE**AC**CEN**REP** - for Central system
-* ZNYPE**AC**MAN**REP** - for Managed system
-
-
+### Transport Package
+* ZNYPE**AC**MAN**REP**
