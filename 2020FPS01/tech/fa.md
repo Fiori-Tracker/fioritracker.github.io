@@ -1,33 +1,14 @@
 # Fiori Apps' Usage Report - Technical information
 
-## Launch path
+## Central System Components
+
+### Launch path
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftappusagerep
 
-## Transport Packages for Central and Managed systems
 ### Central system
 * ZNYPE**FA**CEN**REP**
 
+## Managed System Components
+
 ### Managed system
 * ZNYPE**FA**MAN**REP**
-
-## oData service name
-* ZNYPEFACENREP_SRV
-
-## PFCG Role:
-* ZCNYPE
-
-## Fiori Launchpad Designer
-
-### Catalog
-* ZCNYPE
-
-### Group
-* ZGNYPE
-
-### Tiles
-
-#### Catalog Import
-* Semantic Object: ZNYPE
-* Action: display
-* ID: nype.ft.sys
-* Icon: sap-icon://it-system
