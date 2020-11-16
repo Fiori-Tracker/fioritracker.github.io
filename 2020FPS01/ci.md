@@ -20,7 +20,7 @@ None.
 
 ### Dependencies
 Requires:  
-[AsIs](asis.md)
+[As-is](asis.md)
 
 ### Technical information
 [Details](/tech/ci.md)
