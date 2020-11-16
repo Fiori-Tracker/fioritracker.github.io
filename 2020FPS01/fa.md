@@ -1,6 +1,6 @@
 # Fiori Apps' Usage Report
 
-Report that shows raw start records from Managed systems.
+Report that shows applications' usage by users statistics. The statistics are available for each Managed system separately.
 
 ![](res/fa.png)
 
