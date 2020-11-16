@@ -10,4 +10,24 @@
 ### Managed system
 * ZNYPE**FA**MAN**REP**
 
+## oData service name
+* 
 
+## PFCG Role:
+* 
+
+## Fiori Launchpad Designer
+
+### Catalog
+* 
+
+### Group
+* 
+
+### Tiles
+
+#### Catalog Import
+* Semantic Object: 
+* Action: display
+* ID: nype.ft.sys
+* Icon: sap-icon://it-system
