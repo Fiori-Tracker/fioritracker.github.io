@@ -11,7 +11,7 @@
 * ZNYPE**FA**MAN**REP**
 
 ## oData service name
-* ZNYPE_
+* ZNYPEFACENREP_SRV
 
 ## PFCG Role:
 * ZCNYPE
