@@ -1,4 +1,4 @@
-# Fiori Apps' Usage Report - Technical information
+# Fiori Apps' Usage Report - Technical details
 
 ## Central System Components
 
