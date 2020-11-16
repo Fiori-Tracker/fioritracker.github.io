@@ -1,5 +1,5 @@
 # Installation for AsIs Managed system
-Installation for [AsIs](asis.md)
+Installation for [As-is](asis.md)
 
 # Package
 

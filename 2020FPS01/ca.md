@@ -14,7 +14,7 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 [Fiori Tracker Core](ft-core.md) with [FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
 
 ### Other applications that might use the product
-[FT Catalogs Relation: Apps As-Is](/ft-cats-rel-apps-asis.md)
+[FT Catalogs Relation: Apps As-is](/ft-cats-rel-apps-asis.md)
 
 ### Installation 
 [Details](/inst/ca.md)
