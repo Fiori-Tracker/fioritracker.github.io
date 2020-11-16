@@ -4,7 +4,6 @@
 
 
 ### Naming conventions
-
 1. BSP name is the same as the repo name and should comply with the following:
 - short
 - prefixed with "ft" (this is to avoid duplications in FT users systems , we are not using NYPE as for naming ddic objects as it too long to type in URL)
