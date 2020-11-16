@@ -8,6 +8,6 @@
 * ZNYPE**FA**CEN**REP**
 
 ### Managed system
-* ZNYPE**FA**MAN**REP** - for Managed system
+* ZNYPE**FA**MAN**REP**
 
 
