@@ -1,12 +1,11 @@
-# As-is Plugin - Technical Dnformation
+# As-is Plugin - Technical Details
 
 ## Central System Components
 
 ### Launch Path
-* https://`host:port`/sap/bc/ui5_ui5/sap/
-zftsys
+* https://`host:port`/sap/bc/ui5_ui5/sap/zftsys
 
-### Transport package
+### Transport Package
 * ZNYPE**ASIS**CEN
 
 ### oData Service Name
