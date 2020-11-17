@@ -8,7 +8,7 @@ Odata Service Name: ZNYPEFTCENCOR_SRV
 
 #### App: "FT Applications"
 
-Launch paths:
+Launch :
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftapps
 
 Frontend ICF nodes
@@ -31,7 +31,7 @@ Tile: "FT Core Applications"<br>
 
 #### App: "FT Catalogs"
 
-Launch paths:
+Launch path:
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftcats
 
 Frontend ICF nodes
