@@ -6,18 +6,16 @@ Transport Package: ZNYPE**FT**CEN**COR**
 
 Odata Service Name: ZNYPEFTCENCOR_SRV
 
-#### Apps: "FT Applications" & "FT Catalogs"
+#### App: "FT Applications"
 
 Launch paths:
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftapps
-* https://`host:port`/sap/bc/ui5_ui5/sap/zftcats
 
 Frontend ICF nodes
 * Path:
     * default_host/sap/bc/ui5_ui5/sap/
-* Nodes:
+* Node:
     * zftapps
-    * zftcats
 
 PFCG Role: ZNYPE_FT
 
@@ -30,6 +28,23 @@ Tile: "FT Core Applications"<br>
 * Action: display
 * ID: nype.ft.app
 * Icon: sap-icon://grid
+
+#### App: "FT Catalogs"
+
+Launch paths:
+* https://`host:port`/sap/bc/ui5_ui5/sap/zftcats
+
+Frontend ICF nodes
+* Path:
+    * default_host/sap/bc/ui5_ui5/sap/
+* Node:
+    * zftcats
+
+PFCG Role: ZNYPE_FT
+
+Fiori Launchpad Designer Settings<br>
+* Catalog: ZCNYPEFT
+* Group: ZGNYPEFT
 
 Tile: "FT Core Catalogs"<br>
 * Semantic Object: ZNYPEFTCATS
