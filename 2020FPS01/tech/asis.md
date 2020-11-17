@@ -10,7 +10,7 @@ oData Service Name: ZNYPEASISCEN_SRV
 
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftsys
 
-Fiori Launchpad Designer<br>
+Fiori Launchpad Designer Settings<br>
 * Catalog: ZCNYPE**ASIS**
 * Group: ZGNYPE**ASIS**
 

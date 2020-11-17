@@ -6,7 +6,7 @@ Transport Package: ZNYPE**FT**CEN**COR**
 
 Odata Service Name: ZNYPEFTCENCOR_SRV
 
-#### App: "FT Core"
+#### Apps: "FT Applications" & "FT Catalogs"
 
 Launch paths:
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftapps
@@ -21,7 +21,7 @@ Frontend ICF nodes
 
 PFCG Role: ZNYPE_FT
 
-Fiori Launchpad Designer<br>
+Fiori Launchpad Designer Settings<br>
 * Catalog: ZCNYPEFT
 * Group: ZGNYPEFT
 
