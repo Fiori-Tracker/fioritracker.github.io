@@ -1,44 +1,37 @@
-# Fiori Tracker Core - Technical information
+# Fiori Tracker Core - Technical Details
 
-## Frontend ICF nodes
+## Central System Components
 
-### Path:
-* default_host/sap/bc/ui5_ui5/sap/
+Transport Package: ZNYPE**FT**CEN**COR**
 
-### Nodes:
-* zftapps
-* zftcats
+Odata Service Name: ZNYPEFTCENCOR_SRV
 
-## Odata service
-* ZNYPEFTCENCOR_SRV
+#### App: "FT Core"
 
-## Launch path
+Launch paths:
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftapps
 * https://`host:port`/sap/bc/ui5_ui5/sap/zftcats
 
-## Transport package
-* ZNYPE**FT**CEN**COR**
+Frontend ICF nodes
+* Path:
+    * default_host/sap/bc/ui5_ui5/sap/
+* Nodes:
+    * zftapps
+    * zftcats
 
-## PFCG Role:
-* ZNYPE_FT
+PFCG Role: ZNYPE_FT
 
-## Fiori Launchpad Designer
+Fiori Launchpad Designer<br>
+* Catalog: ZCNYPEFT
+* Group: ZGNYPEFT
 
-### Catalog
-* ZCNYPEFT
-
-### Group
-* ZGNYPEFT
-
-### Tiles
-
-#### Fiori Tracker - Applications
+Tile: "FT Core Applications"<br>
 * Semantic Object: ZNYPEFTAPPS
 * Action: display
 * ID: nype.ft.app
 * Icon: sap-icon://grid
 
-#### Fiori Tracker - Catalogs
+Tile: "FT Core Catalogs"<br>
 * Semantic Object: ZNYPEFTCATS
 * Action: display
 * ID:  nype.ft.catalog
