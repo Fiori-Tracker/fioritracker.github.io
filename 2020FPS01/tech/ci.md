@@ -10,7 +10,7 @@ oData Service Name: ZNYPECICEN_SRV
 
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftcatimport
 
-Fiori Launchpad Designer settings<br>
+Fiori Launchpad Designer Settings<br>
 * Catalog: ZCNYPE**CI**
 * Group: ZGNYPE**CI**
 
