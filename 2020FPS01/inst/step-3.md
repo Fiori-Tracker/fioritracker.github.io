@@ -6,7 +6,7 @@ To enable oData service complete the sub-steps described below.
 
 ### 1. Generate Runtime objects in transaction SEGW
 
-1.1. Start transaction SEGW<br>
+1.1. Start SAP Gui transaction **SEGW**<br>
 1.2. Using the menu *Project > Open* - Open project named as the first part of the `Service name`. Fe. if `Service name` is ZFIORITRACKER_SVR please open project called ZFIORITRACKER.
 
 ![](res/segw.png)
@@ -17,7 +17,7 @@ To enable oData service complete the sub-steps described below.
 
 ### 2. Add the Service to Service Catalog
 
-2.1 Start transaction /n/IWFND/MAINT_SERVICE
+2.1 Start SAP Gui transaction **/n/IWFND/MAINT_SERVICE**
 
 2.2 Find entry with `Service name`
 
