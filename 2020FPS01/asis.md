@@ -1,11 +1,11 @@
-# As-is plugin
+# "As-is" API
 
 Plugin installed in Central and Managed systems. For Central system it enables the functionality to receive and store the data from Managed systems. For Managed systems it enables the function of sending the data.
 
 ### Location
 Has two parts:
-1. Located on Central system
-2. Located on Managed system
+1. Main API module located on Central system
+2. Connector located on Managed system
 
 ### Available extensions
 None

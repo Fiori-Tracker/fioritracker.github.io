@@ -4,9 +4,9 @@
 
 https://blogs.sap.com/2016/06/28/change-the-transport-request-to-the-number-we-decide/
 
-1. SE16N
+1. SE16
 
-2. E070L table
+2. `E070L` table
 
 3.Table content
 
@@ -16,7 +16,7 @@ https://blogs.sap.com/2016/06/28/change-the-transport-request-to-the-number-we-d
 
 6. Display
 
-7. Switch on the debugging /h in the menu bar and enter
+7. Switch on the debugging /h in the menu bar and press `enter`
 
 8. Edit the code “Show to Edit” as shown
 

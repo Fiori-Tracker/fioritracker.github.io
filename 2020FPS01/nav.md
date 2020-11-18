@@ -1,10 +1,11 @@
 - [Fiori Tracker Suite](/ft-suite.md)
+
  - [Fiori Tracker Core](/ft-core.md)
  - [Fiori Tracker Extensions](/ft-ext.md)
    - [Relations](/ft-rel.md)
-   - [Catalog Import](/ci.md)
-   - [As-is plugin](/asis.md)
+   - [Catalog Import](/ci.md) 
    - [Extending Fiori Tracker](/ext/intro.md)
+- [As-is API](/asis.md)
 - [Reports](reports.md)
  - [Catalog Apps Report](/ca.md)
  - [App Catalogs Report](/ac.md)
