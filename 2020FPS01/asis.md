@@ -1,6 +1,6 @@
 # "As-is" API
 
-Plugin installed in Central and Managed systems. For Central system it enables the functionality to receive and store the data from Managed systems. For Managed systems it enables the function of sending the data.
+API installed in Central accompanied by Connector installed on Managed systems. For the Central system, API enables the functionality to receive and store the data from Managed systems. For a Managed system, Connector enables the function of sending the data.
 
 ### Location
 Has two parts:
