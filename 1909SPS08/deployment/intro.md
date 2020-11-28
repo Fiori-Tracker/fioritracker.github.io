@@ -16,7 +16,7 @@ This option is usually used for evaluation purposes. Both parts are installed in
 
 ![](res/option2.png)
 
-## 3. Central system on SAP Solution Manager
+## 3. Central system on system that is outside your landscape
 
 Please check the [location considerations](/deployment/location.md) for the advantages of this option.
 
