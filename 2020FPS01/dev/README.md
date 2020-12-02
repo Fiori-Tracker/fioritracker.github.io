@@ -2,7 +2,6 @@
 
 # General topics
 
-
 ### Naming conventions
 1. BSP name is the same as the repo name and should comply with the following:
 - short (use the )
@@ -27,9 +26,6 @@
 
 *Application usage relation*<br>
 [FT Apps Relation: Apps' Usage](/dev/ft-apps-rel-appsusage.md) 
-
-### Import tool
-[Catalog Import](/dev/ci.md)
 
 ### Plugin for as-is information
 [AsIs](/dev/asis.md) 
