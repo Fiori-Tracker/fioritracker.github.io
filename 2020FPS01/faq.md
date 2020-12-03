@@ -2,7 +2,7 @@
 
 ### 1. Is it really free?
 
-Yes it is. We get enough value from exposure.
+Yes it is. We get enough value from paid add-ons and exposure.
 
 ### 2. Does is send any data (statistics) to outside servers (what is the security model)?
 
