@@ -2,7 +2,7 @@
 
 ### 1. Is it really free?
 
-Yes it is. We get enough value from paid add-ons and exposure.
+Yes it is. We are able to maintain Fiori Tracker with income that [commercial pieces](https://help.fioritracker.app/2020FPS01) of Fiori Tracker Suite provide.
 
 ### 2. Does is send any data (statistics) to outside servers (what is the security model)?
 
