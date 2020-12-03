@@ -2,9 +2,9 @@
 
 ## Central System Components
 
-Transport Package: ZNYPE**CR**CEN
+Transport Package: ZNYPE**CR**
 
-oData Service Name: ZNYPECRCEN_SRV
+oData Service Name: ZNYPECR_SRV
 
 #### App: "FT Catalog Report"
 
