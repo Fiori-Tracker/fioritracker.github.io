@@ -15,7 +15,8 @@ None
 
 ### Dependents
 1. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
-2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an
+2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
+3. [Catalog Report](cr.md) - List of all SAP Fiori catalogs available in the chosen system
 
 ### Dependencies
 Independent - does not need any other product to be installed
