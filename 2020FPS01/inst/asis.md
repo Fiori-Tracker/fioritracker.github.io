@@ -1,7 +1,7 @@
-# As-is - Installation
+# "As-is" API - Installation
 
-### 1. Installation for Central system
+### 1. Installation of "As-is" Main API located on Central system
 [Details](/inst/asis/cen.md)
 
-### 2. Installation for Managed system
+### 2. Installation of "As-is" Connector located on Managed system
 [Details](/inst/asis/man.md)
