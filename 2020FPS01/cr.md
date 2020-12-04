@@ -1,8 +1,11 @@
 # Catalogs Report
 
-Report showing the list of the catalogs in a selected system
+The Catalog report lets you list the catalogs from all your systems. You can export each list to an Excel spreadsheet. Catalog Import uses "As-is" API.
 
 ![](res/cr.png)
+
+### Installation 
+[Details](/inst/cr.md)
 
 ### Location
 Located on Central system
@@ -12,9 +15,6 @@ None.
 
 ### Other applications that might use the product
 None.
-
-### Installation 
-[Details](/inst/cr.md)
 
 ### Dependencies
 Requires:  

@@ -1,4 +1,4 @@
-# Catalog Import - Installation
+# Catalog Report - Installation
 
 General Basis expert steps
 1. [Download and import transports](/inst/step-1.md) from Product release page [Product release page](https://github.com/fioritracker/cat-imp/releases) Release `2020FPS01`
