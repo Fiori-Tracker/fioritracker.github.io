@@ -4,8 +4,11 @@ API installed in Central accompanied by Connector installed on Managed systems. 
 
 ### Location
 Has two parts:
-1. Main API module located on Central system
-2. Connector located on Managed system
+1. "As-is" Main API located on Central system
+2. "As-is" Connector located on Managed system
+
+### Installation 
+[Details](/inst/asis.md)
 
 ### Available extensions
 None
@@ -16,9 +19,6 @@ None
 
 ### Dependencies
 Independent - does not need any other product to be installed
-
-### Installation 
-[Details](/inst/asis.md)
 
 ### Technical information
 [Details](/tech/asis.md)
