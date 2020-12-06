@@ -37,7 +37,7 @@ If the entry is present then move to sub-step 3 (Add system alias to ICF node), 
 
 3.2 If ICF node is green and alias is present then the procedure is completed, if not, please execute the following steps:
 
-3.3 Choose **Add system alias**, **New entry** and type `Service name`_0001 (f.e. ZFIORITRACKER_SRV_0001) in *Service Doc. Identifier* and "LOCAL" in *SAP System Alias* mark ***Default System** check-mark.
+3.3 Choose **Add system alias**, **New entry** and in column in *Service Doc. Identifier* type `Service name`_0001 (f.e. ZFIORITRACKER_SRV_0001), in *SAP System Alias* type "LOCAL" and in columnet *Default System* mark the check-mark.
 
 3.4 Click on **ICF node** button and from drop down chose **Activate**
 
