@@ -1,6 +1,6 @@
 # Systems
 
-The Catalog report lets you list the catalogs from all your systems. You can export each list to an Excel spreadsheet. Catalog Import uses "As-is" API.
+This app list of all systems configured for "As-is" API. Systems app uses "As-is" API.
 
 ![](res/sy.png)
 
