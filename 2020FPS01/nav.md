@@ -10,6 +10,6 @@
  - [Catalog Apps Report](/ca.md)
  - [Fiori Apps' Usage Report](/fa.md) 
 - [Support tools](support.md)
- - [Systems list](sy.md)
+ - [Systems](sy.md)
 - [Installation](/inst.md)
 - [FAQ](/faq.md)
