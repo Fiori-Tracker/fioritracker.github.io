@@ -8,18 +8,18 @@ Has two parts:
 2. "As-is" Connector located on Managed system
 
 ### Installation 
-[Details](/inst/asis.md)
+[Details](asis/FPS01/inst.md)
 
 ### Available extensions
 None
 
 ### Dependents
-1. [Catalog Apps Report](ca.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
-2. [App Catalogs Report](ac.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
-3. [Catalog Report](cr.md) - List of all SAP Fiori catalogs available in the chosen system
+1. [Catalog Apps Report](ca/FPS01/main.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
+2. [App Catalogs Report](ac/FPS01/main.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
+3. [Catalog Report](cr/FPS01/main.md) - List of all SAP Fiori catalogs available in the chosen system
 
 ### Dependencies
 Independent - does not need any other product to be installed
 
 ### Technical information
-[Details](/tech/asis.md)
+[Details](asis/FPS01/tech.md)
