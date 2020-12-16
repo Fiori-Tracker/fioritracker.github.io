@@ -1,4 +1,4 @@
-- [Fiori Tracker Suite](/suite.md)
+- [Fiori Tracker Suite](/suite/SPS02/main.md)
  - [Fiori Tracker Core](/core/SPS02/main.md)
  - [Fiori Tracker Extensions](/ft-ext.md)
    - [Relations](/ft-rel.md)
