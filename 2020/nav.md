@@ -4,7 +4,7 @@
    - [Relations](/rel/FPS01/main.md)
  - [Extending Fiori Tracker](/extending/FPS01/main.md)
 - [As-is API](/asis/FPS01/main.md)
-- [Reports](/reports.md)
+- [Reports](/reports/FPS01/main.md)
  - [Catalogs Report](/cr/FPS01/main.md) 
  - [App Catalogs Report](/ac/FPS01/main.md)
  - [Catalog Apps Report](/ca/FPS01/main.md)
