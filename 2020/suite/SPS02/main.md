@@ -6,5 +6,5 @@ Fiori Tracker is a suite of SAP Fiori-native apps for keeping a record of your S
 [Fiori Tracker Core](/core/SPS02/main.md) - The kit of two apps for keeping a record of your SAP Fiori launchpad's applications and catalogs
 
 ### Extensions
-[Fiori Tracker Extensions](/ext/SPS02/main.md)
+[Fiori Tracker Extensions](/ext/FPS01/main.md)
 
