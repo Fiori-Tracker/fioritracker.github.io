@@ -5,7 +5,7 @@ The Catalog report lets you list the catalogs from all your systems. You can exp
 ![](res/cr.png)
 
 ### Installation 
-[Details](/inst.md)
+[Details](inst.md)
 
 ### Location
 Located on Central system
@@ -21,6 +21,6 @@ Requires:
 [As-is](asis.md)
 
 ### Technical information
-[Details](/tech.md)
+[Details](tech.md)
 
 
