@@ -5,7 +5,7 @@ The Catalog report lets you list the catalogs from all your systems. You can exp
 ![](res/cr.png)
 
 ### Installation 
-[Details](inst.md)
+[Details](cr/FPS01/inst.md)
 
 ### Location
 Located on Central system
@@ -18,9 +18,9 @@ None.
 
 ### Dependencies
 Requires:  
-[As-is](asis.md)
+[As-is](asis/FPS01/main.md)
 
 ### Technical information
-[Details](tech.md)
+[Details](cr/FPS01/tech.md)
 
 
