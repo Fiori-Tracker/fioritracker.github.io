@@ -2,7 +2,6 @@
  - [Fiori Tracker Core](/core/SPS02/main.md)
  - [Fiori Tracker Extensions](/ext/FPS01/main.md)
    - [Relations](/rel/FPS01/main.md)
- - [Extending Fiori Tracker](/extending/FPS01/main.md)
 - [As-is API](/asis/FPS01/main.md)
 - [Reports](/reports/FPS01/main.md)
  - [Catalogs Report](/cr/FPS01/main.md) 
