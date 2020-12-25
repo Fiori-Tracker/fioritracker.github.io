@@ -7,7 +7,7 @@ General Basis expert steps
 4. [Assign pfcg roles](/inst/step-4.md) for role `ZNYPE_CR`
 
 As-is API, Basis expert steps<br>
-1. [Install As-is Main API on Central system](/asis/inst-cen.md)
-2. [Install As-is Connector on each Managed system](/asis/inst-man.md)
+1. [Install As-is Main API on Central system](asis/FPS01/inst-cen.md)
+2. [Install As-is Connector on each Managed system](asis/FPS01/inst-man.md)
 
-If you are installing Catalog Report for the first time please check [Evaluation deployment](/cr-eval-dep.md) for details on installing Catalog Report to one system (f.e. Sandbox).
+If you are installing Catalog Report for the first time please check [Evaluation deployment](cr/FPS01/cr-eval-dep.md) for details on installing Catalog Report to one system (f.e. Sandbox).
