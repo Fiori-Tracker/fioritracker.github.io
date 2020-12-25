@@ -9,7 +9,5 @@
  - [App Catalogs Report](/ac/FPS01/main.md)
  - [Catalog Apps Report](/ca/FPS01/main.md)
  - [Fiori Apps' Usage Report](/fa/FPS01/main.md) 
-- [Support tools](/support.md)
- - [Systems](/sy/FPS01/main.md)
 - [Installation](/inst.md)
 - [FAQ](/faq.md)
