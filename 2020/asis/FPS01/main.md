@@ -14,9 +14,9 @@ Has two parts:
 None
 
 ### Dependents
-1. [Catalog Apps Report](ca/FPS01/main.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
-2. [App Catalogs Report](ac/FPS01/main.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
-3. [Catalog Report](cr/FPS01/main.md) - List of all SAP Fiori catalogs available in the chosen system
+1. [Catalog Report](cr/FPS01/main.md) - List of all SAP Fiori catalogs available in the chosen system
+2. [Catalog Apps Report](ca/FPS01/main.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
+3. [App Catalogs Report](ac/FPS01/main.md) - List of SAP Fiori catalogs assigned to an app in the chosen system
 
 ### Dependencies
 Independent - does not need any other product to be installed
