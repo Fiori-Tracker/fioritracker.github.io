@@ -17,10 +17,10 @@ Optional extension that resolves raw start records to a friendly application nam
 [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage/FPS01/main.md) 
 
 ### Installation
-[Details](FPS01/fa/inst.md)
+[Details](fa/FPS01/inst.md)
 
 ### Dependencies
 Independent - does not need any other product to be installed
 
 ### Technical information
-[Details](FPS01/fa/tech.md)
+[Details](fa/FPS01/tech.md)
