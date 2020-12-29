@@ -8,7 +8,7 @@ To install Fiori Tracker please follow the installations guides that are in the 
 
 We designed each Fiori Tracker Suite product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.
 
-### Summary of all product releases
+### Information summary of all products
 
 Below table shows Latest releases with system location.
 
