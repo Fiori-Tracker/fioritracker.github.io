@@ -2,23 +2,28 @@
   <ftCore>
     <name>FT Core</name>
     <latestrel>SPS02</latestrel>
-    <relplandate>-</relplandate>
+    <relplandate></relplandate>
   </ftCore>
   <asisCen>
     <name>"As-is" Main API</name>
     <latestrel>FPS01</latestrel>
-    <relplandate>-</relplandate>
+    <relplandate></relplandate>
   </asisCen>
   <asisMan>
     <name>"As-is" Connector</name>
     <latestrel>FPS01</latestrel>
-    <relplandate>-</relplandate>
+    <relplandate></relplandate>
   </asisMan>
   <cr>
     <name>Catalog Report</name>
     <latestrel>FPS01</latestrel>
-    <relplandate>-</relplandate>
+    <relplandate></relplandate>
   </cr>
+  <ac>
+    <name>App Catalogs Report</name>
+    <latestrel>**to be released**</latestrel>
+    <relplandate>Jan 2021</relplandate>
+  </ac>
   <ftCatsRelAppsAsis>
     <name>FT Catalogs Relation: Apps As-is</name>
     <latestrel>*to be released*</latestrel>
