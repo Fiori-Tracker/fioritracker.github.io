@@ -21,22 +21,22 @@
   </cr>
   <ac>
     <name>App Catalogs Report</name>
-    <latestrel>**to be released**</latestrel>
+    <latestrel>to be released</latestrel>
     <relplandate>Jan 2021</relplandate>
   </ac>
   <ftCatsRelAppsAsis>
     <name>FT Catalogs Relation: Apps As-is</name>
-    <latestrel>*to be released*</latestrel>
+    <latestrel>to be released</latestrel>
     <relplandate>Jan 2021</relplandate>
   </ftCatsRelAppsAsis>
   <ftAppsRelCatsAsis>
     <name>FT Apps Relation: Catalogs, As-is</name>
-    <latestrel>**to be released**</latestrel>
+    <latestrel>to be released</latestrel>
     <relplandate>Mar 2021</relplandate>
   </ftAppsRelCatsAsis>
   <ftAppsRelAppsUsage>
     <name>FT Apps Relation: Apps' Usage</name>
-    <latestrel>[to be released]</latestrel>
+    <latestrel>to be released</latestrel>
     <relplandate>Mar 2021</relplandate>
   </ftAppsRelAppsUsage>
 </prod>
