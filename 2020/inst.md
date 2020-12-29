@@ -10,6 +10,8 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 
 ### Summary of all product releases
 
+Below table shows Latest releases with system location.
+
 |Product|Central|Managed|Latest release|Planned release|
 |--|--|--|--|--|
 |${prod/ftCore/name}|${prod/ftCore/cen}|${prod/ftCore/man}|${prod/ftCore/latestrel}|${prod/ftCore/relplandate}|
