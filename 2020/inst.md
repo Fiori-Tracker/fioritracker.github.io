@@ -13,8 +13,9 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 |Product|Latest release|Planned release|
 |--|--|--|
 |${prod/ftcore/name}|${prod/ftcore/latestrel}|${prod/ftcore/relplandate}|
-|${prod/asis-cen/name}|${prod/asis-cen/latestrel}|${prod/asis-cen/relplandate}|
-|${prod/asis-man/name}|${prod/asis-man/latestrel}|${prod/asis-man/relplandate}|
-|${prod/cr/name}|${prod/cr/latestrel}|${prod/cr/latestrel/relplandate}}
-
-
+|${prod/asisCen/name}|${prod/asisCen/latestrel}|${prod/asisCen/relplandate}|
+|${prod/asisMan/name}|${prod/asisMan/latestrel}|${prod/asisMan/relplandate}|
+|${prod/cr/name}|${prod/cr/latestrel}|${prod/cr/latestrel/relplandate}|
+|${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/latestrel}|${prod/ftCatsRelAppsAsis/latestrel/relplandate}|
+|${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/latestrel}|${prod/ftAppsRelCatsAsis/latestrel/relplandate}|
+|${prod/cr/name}|${prod/cr/latestrel}|${prod/cr/latestrel/relplandate}|

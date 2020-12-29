@@ -1,38 +1,38 @@
 <prod>
-  <ftcore>
+  <ftCore>
     <name>FT Core</name>
     <latestrel>SPS02</latestrel>
     <relplandate>-</relplandate>
-  </ftcore>
-  <asis-cen>
+  </ftCore>
+  <asisCen>
     <name>"As-is" Main API</name>
     <latestrel>FPS01</latestrel>
     <relplandate>-</relplandate>
-  </asis-cen>
-<asis-man>
+  </asisCen>
+  <asisMan>
     <name>"As-is" Connector</name>
     <latestrel>FPS01</latestrel>
     <relplandate>-</relplandate>
-  </asis-man>
+  </asisMan>
   <cr>
     <name>Catalog Report</name>
     <latestrel>FPS01</latestrel>
     <relplandate>-</relplandate>
   </cr>
-  <ft-cats-rel-apps-asis>
+  <ftCatsRelAppsAsis>
     <name>FT Catalogs Relation: Apps As-is</name>
     <latestrel>[to be released]</latestrel>
     <relplandate>Jan 2021</relplandate>
-  </ft-cats-rel-apps-asis>
-  <ft-apps-rel-cats-asis>
+  </ftCatsRelAppsAsis>
+  <ftAppsRelCatsAsis>
     <name>FT Apps Relation: Catalogs, As-is</name>
     <latestrel>[to be released]</latestrel>
     <relplandate>Mar 2021</relplandate>
-  </ft-apps-rel-cats-asis>
-  <ft-apps-rel-appsusage>
+  </ftAppsRelCatsAsis>
+  <ftAppsRelAppsUsage>
     <name>FT Apps Relation: Apps' Usage</name>
     <latestrel>[to be released]</latestrel>
     <relplandate>Mar 2021</relplandate>
-  </ft-apps-rel-cats-asis>
+  </ftAppsRelAppsUsage>
 </prod>
 
