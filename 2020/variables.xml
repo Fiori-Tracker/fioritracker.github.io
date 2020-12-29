@@ -1,18 +1,11 @@
-<var>
-  <foo>fooValue</foo>
-  <latestrel>
-    <ftcore>SPS02</ftcore>
-    <ci>FPS01</ci>
-    <cr>FPS01</cr>
-  </latestrel>
-  <products>
-    <ftcore>
-      <name>FT Core</name>
-      <latestrel>SPS02</latestrel>
-    </ftcore>
-    <cr>
-      <name>FT Core</name>
-      <latestrel>SPS02</latestrel>
-    </cr>
-    </products>
-  </var>
+<prod>
+  <ftcore>
+    <name>FT Core</name>
+    <latestrel>SPS02</latestrel>
+  </ftcore>
+  <cr>
+    <name>FT Core</name>
+    <latestrel>SPS02</latestrel>
+  </cr>
+</prod>
+

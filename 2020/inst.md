@@ -12,6 +12,8 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 
 |Product|Latest release|
 |--|--|
-|${var/products/ftcore}|{var/products/ftcore}|
+|${prod/ftcore/name}|${prod/ftcore/latestrel}|
+|--|--|
+|${prod/cr/name}|${prod/cr/latestrel}|
 
 
