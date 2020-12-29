@@ -5,10 +5,15 @@
     <relplandate>-</relplandate>
   </ftcore>
   <asis-cen>
-    <name>"As-is" API</name>
+    <name>"As-is" Main API</name>
     <latestrel>FPS01</latestrel>
     <relplandate>-</relplandate>
   </asis-cen>
+<asis-man>
+    <name>"As-is" Connector</name>
+    <latestrel>FPS01</latestrel>
+    <relplandate>-</relplandate>
+  </asis-man>
   <cr>
     <name>Catalog Report</name>
     <latestrel>FPS01</latestrel>
