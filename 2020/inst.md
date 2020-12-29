@@ -14,9 +14,9 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 |--|--|--|--|--|
 |${prod/ftCore/name}|${prod/ftCore/cen}|${prod/ftCore/man}|${prod/ftCore/latestrel}|${prod/ftCore/relplandate}|
 |${prod/asisCen/name}|${prod/asisCen/cen}|${prod/asisCen/man}|${prod/asisCen/latestrel}|${prod/asisCen/relplandate}|
-|${prod/asisMan/name}|${prod/asisMan/latestrel}|${prod/asisMan/relplandate}|
-|${prod/cr/name}|${prod/cr/latestrel}|${prod/cr/relplandate}|
-|${prod/ac/name}|${prod/ac/latestrel}|${prod/ac/relplandate}|
-|${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/latestrel}|${prod/ftCatsRelAppsAsis/relplandate}|
-|${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/latestrel}|${prod/ftAppsRelCatsAsis/relplandate}|
-|${prod/ftAppsRelAppsUsage/name}|${prod/ftAppsRelAppsUsage/latestrel}|${prod/ftAppsRelAppsUsage/relplandate}|
+|${prod/asisMan/name}|${prod/asisMan/cen}|${prod/asisMan/man|${prod/asisMan/latestrel}|${prod/asisMan/relplandate}|
+|${prod/cr/name}|${prod/cr/cen}|${prod/cr/man|${prod/cr/latestrel}|${prod/cr/relplandate}|
+|${prod/ac/name}|${prod/ac/cen}|${prod/ac/man|${prod/ac/latestrel}|${prod/ac/relplandate}|
+|${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/cen}|${prod/ftCatsRelAppsAsis/man|${prod/ftCatsRelAppsAsis/latestrel}|${prod/ftCatsRelAppsAsis/relplandate}|
+|${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/cen}|${prod/ftAppsRelCatsAsis/man|${prod/ftAppsRelCatsAsis/latestrel}|${prod/ftAppsRelCatsAsis/relplandate}|
+|${prod/ftAppsRelAppsUsage/name}|${prod/ftAppsRelAppsUsage/cen}|${prod/ftAppsRelAppsUsage/man|${prod/ftAppsRelAppsUsage/latestrel}|${prod/ftAppsRelAppsUsage/relplandate}|
