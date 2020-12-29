@@ -10,10 +10,10 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 
 ### Summary of all product releases
 
-|Product|Latest release|Planned release|
-|--|--|--|
-|${prod/ftCore/name}|${prod/ftCore/latestrel}|${prod/ftCore/relplandate}|
-|${prod/asisCen/name}|${prod/asisCen/latestrel}|${prod/asisCen/relplandate}|
+|Product|Central|Managed|Latest release|Planned release|
+|--|--|--|--|--|
+|${prod/ftCore/name}|${prod/ftCore/cen}|${prod/ftCore/man}|${prod/ftCore/latestrel}|${prod/ftCore/relplandate}|
+|${prod/asisCen/name}|${prod/asisCen/cen}|${prod/asisCen/man}|${prod/asisCen/latestrel}|${prod/asisCen/relplandate}|
 |${prod/asisMan/name}|${prod/asisMan/latestrel}|${prod/asisMan/relplandate}|
 |${prod/cr/name}|${prod/cr/latestrel}|${prod/cr/relplandate}|
 |${prod/ac/name}|${prod/ac/latestrel}|${prod/ac/relplandate}|
