@@ -19,6 +19,8 @@ Below table shows Latest releases with system location.
 |${prod/asisMan/name}|${prod/asisMan/cen}|${prod/asisMan/man}|${prod/asisMan/latestrel}|${prod/asisMan/relplandate}|
 |${prod/cr/name}|${prod/cr/cen}|${prod/cr/man}|${prod/cr/latestrel}|${prod/cr/relplandate}|
 |${prod/ac/name}|${prod/ac/cen}|${prod/ac/man}|${prod/ac/latestrel}|${prod/ac/relplandate}|
+|${prod/ca/name}|${prod/ca/cen}|${prod/ca/man}|${prod/ca/latestrel}|${prod/ca/relplandate}|
+|${prod/fa/name}|${prod/fa/cen}|${prod/fa/man}|${prod/fa/latestrel}|${prod/fa/relplandate}|
 |${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/cen}|${prod/ftCatsRelAppsAsis/man}|${prod/ftCatsRelAppsAsis/latestrel}|${prod/ftCatsRelAppsAsis/relplandate}|
 |${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/cen}|${prod/ftAppsRelCatsAsis/man}|${prod/ftAppsRelCatsAsis/latestrel}|${prod/ftAppsRelCatsAsis/relplandate}|
 |${prod/ftAppsRelAppsUsage/name}|${prod/ftAppsRelAppsUsage/cen}|${prod/ftAppsRelAppsUsage/man}|${prod/ftAppsRelAppsUsage/latestrel}|${prod/ftAppsRelAppsUsage/relplandate}|

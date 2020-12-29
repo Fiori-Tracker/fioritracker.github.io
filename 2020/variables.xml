@@ -2,58 +2,72 @@
   <ftCore>
     <name>FT Core</name>
     <latestrel>SPS02</latestrel>
-    <relplandate> </relplandate>
+    <relplandate></relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </ftCore>
   <asisCen>
     <name>"As-is" Main API</name>
     <latestrel>FPS01</latestrel>
-    <relplandate> </relplandate>
+    <relplandate></relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </asisCen>
   <asisMan>
     <name>"As-is" Connector</name>
     <latestrel>FPS01</latestrel>
-    <relplandate> </relplandate>
-    <cen> </cen>
+    <relplandate></relplandate>
+    <cen></cen>
     <man>X</man>
   </asisMan>
   <cr>
     <name>Catalog Report</name>
     <latestrel>FPS01</latestrel>
-    <relplandate> </relplandate>
+    <relplandate></relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </cr>
   <ac>
     <name>App Catalogs Report</name>
     <latestrel>to be released</latestrel>
     <relplandate>Jan 2021</relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </ac>
+  <ca>
+    <name>Catalog Apps Report</name>
+    <latestrel>to be released</latestrel>
+    <relplandate>Jan 2021</relplandate>
+    <cen>X</cen>
+    <man></man>
+  </ca>
+  <fa>
+    <name>Fiori Apps' Usage Report</name>
+    <latestrel>to be released</latestrel>
+    <relplandate>Feb 2021</relplandate>
+    <cen>X</cen>
+    <man></man>
+  </fa>
   <ftCatsRelAppsAsis>
     <name>FT Catalogs Relation: Apps As-is</name>
     <latestrel>to be released</latestrel>
     <relplandate>Jan 2021</relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </ftCatsRelAppsAsis>
   <ftAppsRelCatsAsis>
     <name>FT Apps Relation: Catalogs, As-is</name>
     <latestrel>to be released</latestrel>
     <relplandate>Mar 2021</relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </ftAppsRelCatsAsis>
   <ftAppsRelAppsUsage>
     <name>FT Apps Relation: Apps' Usage</name>
     <latestrel>to be released</latestrel>
     <relplandate>Mar 2021</relplandate>
     <cen>X</cen>
-    <man> </man>
+    <man></man>
   </ftAppsRelAppsUsage>
 </prod>
 
