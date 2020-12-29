@@ -4,6 +4,11 @@
     <latestrel>SPS02</latestrel>
     <relplandate>-</relplandate>
   </ftcore>
+  <asis-cen>
+    <name>"As-is" API</name>
+    <latestrel>FPS01</latestrel>
+    <relplandate>-</relplandate>
+  </asis-cen>
   <cr>
     <name>Catalog Report</name>
     <latestrel>FPS01</latestrel>
@@ -14,5 +19,15 @@
     <latestrel>[to be released]</latestrel>
     <relplandate>Jan 2021</relplandate>
   </ft-cats-rel-apps-asis>
+  <ft-apps-rel-cats-asis>
+    <name>FT Apps Relation: Catalogs, As-is</name>
+    <latestrel>[to be released]</latestrel>
+    <relplandate>Mar 2021</relplandate>
+  </ft-apps-rel-cats-asis>
+  <ft-apps-rel-appsusage>
+    <name>FT Apps Relation: Apps' Usage</name>
+    <latestrel>[to be released]</latestrel>
+    <relplandate>Mar 2021</relplandate>
+  </ft-apps-rel-cats-asis>
 </prod>
 
