@@ -2,7 +2,7 @@
     <foo>fooValue</foo>
     <bar>barValue</bar>
     <latestrel>
-        <ftcore>2021SPS02</ftcore>
+        <ftcore>2020SPS02</ftcore>
         <ci>2020FPS01</ci>
         <cr>2020FPS01</cr>
     </latestrel>
