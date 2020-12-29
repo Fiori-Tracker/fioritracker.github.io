@@ -13,7 +13,7 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 Below table shows Latest releases with system location.
 
 |Product|Central|Managed|Latest release|
-|--|--|--|--|--|
+|--|--|--|--|
 |${prod/ftCore/name}|${prod/ftCore/cen}|${prod/ftCore/man}|${prod/ftCore/latestrel}|
 |${prod/asisCen/name}|${prod/asisCen/cen}|${prod/asisCen/man}|${prod/asisCen/latestrel}|
 |${prod/asisMan/name}|${prod/asisMan/cen}|${prod/asisMan/man}|${prod/asisMan/latestrel}|
