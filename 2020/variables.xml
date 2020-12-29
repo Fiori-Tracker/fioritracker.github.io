@@ -29,42 +29,42 @@
   </cr>
   <ac>
     <name>App Catalogs Report</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Jan 2021</latestrel>
     <relplandate>Jan 2021</relplandate>
     <cen>X</cen>
     <man> </man>
   </ac>
   <ca>
     <name>Catalog Apps Report</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Jan 2021</latestrel>
     <relplandate>Jan 2021</relplandate>
     <cen>X</cen>
     <man> </man>
   </ca>
   <fa>
     <name>Fiori Apps' Usage Report</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Feb 2021</latestrel>
     <relplandate>Feb 2021</relplandate>
     <cen>X</cen>
     <man> </man>
   </fa>
   <ftCatsRelAppsAsis>
     <name>FT Catalogs Relation: Apps As-is</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Jan 2021</latestrel>
     <relplandate>Jan 2021</relplandate>
     <cen>X</cen>
     <man> </man>
   </ftCatsRelAppsAsis>
   <ftAppsRelCatsAsis>
     <name>FT Apps Relation: Catalogs, As-is</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Mar 2021</latestrel>
     <relplandate>Mar 2021</relplandate>
     <cen>X</cen>
     <man> </man>
   </ftAppsRelCatsAsis>
   <ftAppsRelAppsUsage>
     <name>FT Apps Relation: Apps' Usage</name>
-    <latestrel>to be released</latestrel>
+    <latestrel>Planned for Mar 2021</latestrel>
     <relplandate>Mar 2021</relplandate>
     <cen>X</cen>
     <man> </man>
