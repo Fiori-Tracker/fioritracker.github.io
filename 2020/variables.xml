@@ -2,10 +2,17 @@
   <ftcore>
     <name>FT Core</name>
     <latestrel>SPS02</latestrel>
+    <relplandate>-</relplandate>
   </ftcore>
   <cr>
-    <name>FT Core</name>
-    <latestrel>SPS02</latestrel>
+    <name>Catalog Report</name>
+    <latestrel>FPS01</latestrel>
+    <relplandate>-</relplandate>
   </cr>
+  <ft-cats-rel-apps-asis>
+    <name>FT Catalogs Relation: Apps As-is</name>
+    <latestrel>[to be released]</latestrel>
+    <relplandate>Jan 2021</relplandate>
+  </ft-cats-rel-apps-asis>
 </prod>
 
