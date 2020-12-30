@@ -17,16 +17,17 @@
     "dev": "lite-server"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
     "@ui5/cli": "^1.5.5",
     "eslint": "^5.16.0",
+    "grunt": "^1.0.4",
     "karma": "^4.0.1",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.2",
     "karma-ui5": "^1.0.0",
     "lite-server": "^2.4.0",
     "local-web-server": "^3.0.3",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "serve": "^11.3.2"
   },
   "dependencies": {},
   "peerDependencies": {}
