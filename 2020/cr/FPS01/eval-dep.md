@@ -8,4 +8,4 @@ The products that you need to install are:
 2. "As-is" Main API
 3. "As-is" Connector
 
-![](res/cr-eval-dep.png)
+![](res/eval-dep.png)
