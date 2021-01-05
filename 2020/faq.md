@@ -14,6 +14,6 @@ No. Premier support is optional and you can continue using Fiori Tracker as it i
 
 ### 4. What are the prerequisites/minimal requirements for installation?
 
-Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NrtWeaver version at least 7.52 ([see details](inst/min.md))
+Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
 
 

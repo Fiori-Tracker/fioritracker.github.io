@@ -28,4 +28,4 @@ Below table shows Latest releases with system location.
 
 ### Minimal requirements
 
-Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NrtWeaver version at least 7.52 ([see details](inst/min.md))
+Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
