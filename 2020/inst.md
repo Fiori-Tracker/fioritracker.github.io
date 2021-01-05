@@ -24,3 +24,8 @@ Below table shows Latest releases with system location.
 |${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/cen}|${prod/ftCatsRelAppsAsis/man}|${prod/ftCatsRelAppsAsis/latestrel}|
 |${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/cen}|${prod/ftAppsRelCatsAsis/man}|${prod/ftAppsRelCatsAsis/latestrel}|
 |${prod/ftAppsRelAppsUsage/name}|${prod/ftAppsRelAppsUsage/cen}|${prod/ftAppsRelAppsUsage/man}|${prod/ftAppsRelAppsUsage/latestrel}|
+
+
+### Minimal requirements
+
+Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NrtWeaver version at least 7.52 ([see details](inst/min.md))

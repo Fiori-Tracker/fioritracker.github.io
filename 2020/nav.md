@@ -9,4 +9,5 @@
  - [Catalog Apps Report](/ca/FPS01/main.md)
  - [Fiori Apps' Usage Report](/fa/FPS01/main.md) 
 - [Installation](/inst.md)
+ - [Minimal requirements](inst/min.md)
 - [FAQ](/faq.md)
