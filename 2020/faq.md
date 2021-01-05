@@ -10,7 +10,10 @@ No data is send to any outside servers. Fiori Tracker does not need external acc
 
 ### 3. Is the Premier support mandatory after certain time period?
 
-No, Premier support is optional and you can continue using Fiori Tracker as it is, free of charge as long as you want.
+No. Premier support is optional and you can continue using Fiori Tracker as it is, free of charge as long as you want.
 
+### 4. What are the prerequisites/minimal requirements for installation?
+
+Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NrtWeaver version at least 7.52 ([see details](inst/min.md))
 
 
