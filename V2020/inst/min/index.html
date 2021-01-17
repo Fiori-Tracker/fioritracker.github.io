@@ -14,7 +14,7 @@
     
     
       
-        <title>Step 2 - Activate the Frontend ICF nodes - Fiori Tracker</title>
+        <title>Minimal requirements - Fiori Tracker</title>
       
     
     
@@ -60,7 +60,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#step-2-activate-the-frontend-icf-nodes" class="md-skip">
+        <a href="#minimal-installation-requirements-for-all-fiori-tracker-suite-products" class="md-skip">
           Skip to content
         </a>
       
@@ -91,7 +91,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Step 2 - Activate the Frontend ICF nodes
+              Minimal requirements
             
           </span>
         </div>
@@ -299,7 +299,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../inst/" class="md-nav__link">
+    <a href="../" class="md-nav__link">
       Installation
     </a>
   </li>
@@ -310,11 +310,20 @@
       
 
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../inst/min.md" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
       Minimal requirements
     </a>
+    
   </li>
 
     
@@ -360,14 +369,16 @@
               
                 
                 
-                <h1 id="step-2-activate-the-frontend-icf-nodes">Step 2 - Activate the Frontend ICF nodes</h1>
-<blockquote>
-<p>To activate the needed Frontend ICF nodes complete the sub-steps described below for each node.</p>
-</blockquote>
-<ol>
-<li>Run SAP Gui <strong>SICF</strong> transaction, choose <strong>Execute</strong> and in the tree of services for path Path: <code>/default_host/sap/bc/ui5_ui5/sap/</code>, use right click on service and choose <strong>Activate</strong> for each <code>ICF node</code> you and to activate <br/></li>
-</ol>
-<p><img alt="" src="../res/sicf-activate.png" /></p>
+                <h1 id="minimal-installation-requirements-for-all-fiori-tracker-suite-products">Minimal installation requirements for all Fiori Tracker Suite products</h1>
+<p><strong>Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND).</strong></p>
+<p>Fiori Tracker Suite will work in both HUB and Embedded deployment.</p>
+<p>Here is the list of compatible systems versions that we have verified Fiori Tracker Suite:
+- SAP S/4 HANA 1809
+- SAP S/4 HANA 1709
+- SAP S/4 HANA 1610</p>
+<p>It should also work with:
+- SAP S/4 HANA 1503</p>
+<p>Details: Fiori Tracker frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above SP).). For systems that do not have UI5 library in this version Fiori Tracker can be still run from Technical launchpad.</p>
                 
               
               
@@ -382,6 +393,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Installation
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../faq/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                FAQ
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
