@@ -36,6 +36,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
     
       
     
@@ -168,7 +170,7 @@
 
   <li class="md-nav__item">
     <a href="../suite/SPS02/main/" class="md-nav__link">
-      Fiori Tracker Suite
+      Suite
     </a>
   </li>
 
@@ -181,7 +183,7 @@
 
   <li class="md-nav__item">
     <a href="../core/SPS02/main/" class="md-nav__link">
-      Fiori Tracker Core
+      Core
     </a>
   </li>
 
@@ -194,7 +196,7 @@
 
   <li class="md-nav__item">
     <a href="../ext/FPS01/main/" class="md-nav__link">
-      Fiori Tracker Extensions
+      Extensions
     </a>
   </li>
 
@@ -258,7 +260,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../ac/FPS01/main.md" class="md-nav__link">
+    <a href="../ac/FPS01/main/" class="md-nav__link">
       App Catalogs Report
     </a>
   </li>
@@ -305,9 +307,52 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Installation
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" class="md-nav__link md-nav__link--active">
       Installation
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#information-summary-of-all-products" class="md-nav__link">
+    Information summary of all products
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#minimal-requirements" class="md-nav__link">
+    Minimal requirements
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -356,6 +401,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#information-summary-of-all-products" class="md-nav__link">
+    Information summary of all products
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#minimal-requirements" class="md-nav__link">
+    Minimal requirements
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -367,12 +441,89 @@
               
                 
                 
-                <h1 id="installation-general-considerations">Installation - general considerations</h1>
-<p>To install Fiori Tracker Business products please follow the installations guides that are in the <strong>Installation</strong> section of each product page.</p>
-<p>We designed each Fiori Tracker Business product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.</p>
+                <h1 id="installation-general-considerations">Installation - General considerations</h1>
 <blockquote>
-<p>Release 2020 FPS01 is not downward compatible with previous releases. It should <strong>not</strong> be installed on top of older releases. If you have used previous releases and would like to move to release 2020 FPS01 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)</p>
+<p>Release 2020 SPS02 is not downward compatible with releases prior to 2020 FPS01. It should <strong>not</strong> be installed on top those releases. If you have used releases prior to 2020 FPS01 and would like to move to release 2020 SPS02 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)</p>
 </blockquote>
+<h2 id="overview">Overview</h2>
+<p>To install Fiori Tracker please follow the installations guides that are in the <strong>Installation</strong> section of each product page. </p>
+<p>We designed each Fiori Tracker Suite product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.</p>
+<h2 id="information-summary-of-all-products">Information summary of all products</h2>
+<p>Below table shows Latest releases with system location.</p>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Central</th>
+<th>Managed</th>
+<th>Latest release</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>${prod/ftCore/name}</td>
+<td>${prod/ftCore/cen}</td>
+<td>${prod/ftCore/man}</td>
+<td>${prod/ftCore/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/asisCen/name}</td>
+<td>${prod/asisCen/cen}</td>
+<td>${prod/asisCen/man}</td>
+<td>${prod/asisCen/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/asisMan/name}</td>
+<td>${prod/asisMan/cen}</td>
+<td>${prod/asisMan/man}</td>
+<td>${prod/asisMan/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/cr/name}</td>
+<td>${prod/cr/cen}</td>
+<td>${prod/cr/man}</td>
+<td>${prod/cr/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/ac/name}</td>
+<td>${prod/ac/cen}</td>
+<td>${prod/ac/man}</td>
+<td>${prod/ac/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/ca/name}</td>
+<td>${prod/ca/cen}</td>
+<td>${prod/ca/man}</td>
+<td>${prod/ca/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/fa/name}</td>
+<td>${prod/fa/cen}</td>
+<td>${prod/fa/man}</td>
+<td>${prod/fa/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/ftCatsRelAppsAsis/name}</td>
+<td>${prod/ftCatsRelAppsAsis/cen}</td>
+<td>${prod/ftCatsRelAppsAsis/man}</td>
+<td>${prod/ftCatsRelAppsAsis/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/ftAppsRelCatsAsis/name}</td>
+<td>${prod/ftAppsRelCatsAsis/cen}</td>
+<td>${prod/ftAppsRelCatsAsis/man}</td>
+<td>${prod/ftAppsRelCatsAsis/latestrel}</td>
+</tr>
+<tr>
+<td>${prod/ftAppsRelAppsUsage/name}</td>
+<td>${prod/ftAppsRelAppsUsage/cen}</td>
+<td>${prod/ftAppsRelAppsUsage/man}</td>
+<td>${prod/ftAppsRelAppsUsage/latestrel}</td>
+</tr>
+</tbody>
+</table>
+<h2 id="minimal-requirements">Minimal requirements</h2>
+<p>Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 (<a href="inst/min.md">see details</a>)</p>
                 
               
               
