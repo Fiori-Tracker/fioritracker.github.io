@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/ac/FPS01/tech/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/ac/SPS02/inst/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>App Catalogs Report - Technical Details - Fiori Tracker</title>
+        <title>App Catalogs Report - Installation - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#app-catalogs-report-technical-details" class="md-skip">
+        <a href="#app-catalogs-report-installation" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              App Catalogs Report - Technical Details
+              App Catalogs Report - Installation
             
           </span>
         </div>
@@ -307,7 +307,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../main/" class="md-nav__link">
+    <a href="../../FPS01/main/" class="md-nav__link">
       App Catalogs Report
     </a>
   </li>
@@ -401,41 +401,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#central-system-components" class="md-nav__link">
-    Central System Components
-  </a>
-  
-    <nav class="md-nav" aria-label="Central System Components">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#app-app-catalogs-report" class="md-nav__link">
-    App: "App Catalogs Report"
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#managed-system-components" class="md-nav__link">
-    Managed System Components
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -447,19 +412,18 @@
               
                 
                 
-                <h1 id="app-catalogs-report-technical-details">App Catalogs Report - Technical Details</h1>
-<h2 id="central-system-components">Central System Components</h2>
-<p>Transport Package: ZNYPE<strong>AC</strong>CEN<strong>REP</strong></p>
-<p>oData Service Name: ZNYPEACCENREP_SRV</p>
-<h4 id="app-app-catalogs-report">App: "App Catalogs Report"</h4>
-<p>Launch Path: https://<code>host:port</code>/sap/bc/ui5_ui5/sap/zftappcatrep</p>
-<p>Frontend ICF Nodes
-* Path:
-    * default_host/sap/bc/ui5_ui5/sap/
-* Node:
-    * zftappcatrep</p>
-<h2 id="managed-system-components">Managed System Components</h2>
-<p>Transport Package: ZNYPE<strong>AC</strong>MAN<strong>REP</strong></p>
+                <h1 id="app-catalogs-report-installation">App Catalogs Report - Installation</h1>
+<p>Basis:</p>
+<ol>
+<li><a href="../../../inst/step-1/">Download and import transports</a> from <a href="https://github.com/fioritracker/ac/releases">Product release page</a> Release <code>2020FPS01</code> /<em>Planned for Feb 2021</em>/</li>
+<li><a href="../../../inst/step-2/">Activate Frontend ICF nodes</a> for node <code>zftappcatrep</code></li>
+<li><a href="../../../inst/step-3/">Enable backend odata service</a> for service <code>ZNYPEACCENREP_SRV</code></li>
+<li><a href="../../../inst/step-3/">Assign pfcg roles</a></li>
+</ol>
+<p>UX Lead:</p>
+<ol>
+<li><a href="../../../inst/step-1/">Configure Managed systems list</a> using admin transaction: <code>ZNYPEACADMIN</code></li>
+</ol>
                 
               
               
