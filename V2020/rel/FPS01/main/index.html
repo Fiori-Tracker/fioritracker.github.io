@@ -272,16 +272,36 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#system-values-relations" class="md-nav__link">
-    System values relations
+  <a href="#standard-relations" class="md-nav__link">
+    Standard relations
   </a>
   
 </li>
       
         <li class="md-nav__item">
+  <a href="#optional-relations" class="md-nav__link">
+    Optional relations
+  </a>
+  
+    <nav class="md-nav" aria-label="Optional relations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#system-values-relations" class="md-nav__link">
+    System values relations
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#application-usage-relation" class="md-nav__link">
     Application usage relation
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -455,16 +475,36 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#system-values-relations" class="md-nav__link">
-    System values relations
+  <a href="#standard-relations" class="md-nav__link">
+    Standard relations
   </a>
   
 </li>
       
         <li class="md-nav__item">
+  <a href="#optional-relations" class="md-nav__link">
+    Optional relations
+  </a>
+  
+    <nav class="md-nav" aria-label="Optional relations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#system-values-relations" class="md-nav__link">
+    System values relations
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#application-usage-relation" class="md-nav__link">
     Application usage relation
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -482,11 +522,17 @@
                 
                 
                 <h1 id="fiori-tracker-relations">Fiori Tracker Relations</h1>
-<p><code>Relations</code> are optional snap-ins that you can add to Fiori Tracker Core apps to extend their functionality.  You can pick and choose the relations that are relevant to your project.</p>
-<h2 id="system-values-relations">System values relations</h2>
-<p><a href="../../../ft-cats-rel-apps-asis/FPS01/main/">FT Catalogs Relation: Apps As-is</a> - This relation shows a list of currently configured applications in the selected catalog. It enables you to view the list in each of your Managed systems.<br>
-<a href="../../../ft-apps-rel-catalogs-asis/FPS01/main/">FT Apps Relation: Catalogs, As-is</a> - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.</p>
-<h2 id="application-usage-relation">Application usage relation</h2>
+<p><code>Relations</code> represent the link form records for applications and catalogs to any other objects that you would like to track.</p>
+<h2 id="standard-relations">Standard relations</h2>
+<p>There are two standard relations that come with FT Applications and FT Catalog apps:</p>
+<p><a href="../../../core/SPS03/apps-rel-tobe-cats/">FT Apps Relation: To-be Catalogs</a> - for keeping "To-be" assignments of apps to catalogs</p>
+<p><a href="../../../core/SPS03/cats-rel-tobe-apps/">FT Catalogs Relation: To-be Apps</a> - for keeping "To-be" assignments of catalogs to applications </p>
+<p>In addition to standard relations you can install optional ones. You choose the relations that are relevant to your project. Theres is also a possibility to build you own custom relations.</p>
+<h2 id="optional-relations">Optional relations</h2>
+<h3 id="system-values-relations">System values relations</h3>
+<p><a href="../../../ft-cats-rel-apps-asis/FPS01/main/">FT Catalogs Relation: Apps As-is</a> - This relation shows a list of currently configured applications in the selected catalog. It enables you to view the list in each of your Managed systems.<br></p>
+<p><a href="../../../ft-apps-rel-catalogs-asis/FPS01/main/">FT Apps Relation: Catalogs, As-is</a> - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.</p>
+<h3 id="application-usage-relation">Application usage relation</h3>
 <p><a href="../../../ft-apps-rel-appsusage/FPS01/main/">FT Apps Relation: Apps' Usage</a> - This relation shows the list of users that started the application. The list is available for each of your Managed systems.</p>
                 
               
