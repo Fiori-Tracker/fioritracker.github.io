@@ -8,7 +8,6 @@
  - [Catalogs Report](/cr.md) 
  - [App Catalogs Report](/ac.md)
  - [Catalog Apps Report](/ca.md)
- - [Fiori Apps' Usage Report](/fa.md) 
 - [Support tools](support.md)
  - [Systems](sy.md)
 - [Installation](/inst.md)
