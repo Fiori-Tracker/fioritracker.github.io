@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/core/SPS03/conf/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>Installation of "As-is" Main API located on Central system - Fiori Tracker</title>
+        <title>Configuration - Fiori Tracker Core - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#installation-of-as-is-main-api-located-on-central-system" class="md-skip">
+        <a href="#configuration-fiori-tracker-core" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Installation of "As-is" Main API located on Central system
+              Configuration - Fiori Tracker Core
             
           </span>
         </div>
@@ -213,7 +213,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/main/" class="md-nav__link">
+    <a href="../main/" class="md-nav__link">
       Fiori Tracker Core
     </a>
   </li>
@@ -226,7 +226,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/ext/" class="md-nav__link">
+    <a href="../ext/" class="md-nav__link">
       Extensions
     </a>
   </li>
@@ -239,7 +239,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/rel/" class="md-nav__link">
+    <a href="../rel/" class="md-nav__link">
       Relations
     </a>
   </li>
@@ -257,7 +257,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../main/" class="md-nav__link">
+    <a href="../../../asis/SPS02/main/" class="md-nav__link">
       As-is API
     </a>
   </li>
@@ -401,6 +401,28 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-modify-area-codes" class="md-nav__link">
+    1.  Modify area codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-modify-application-types" class="md-nav__link">
+    2.  Modify application types
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -412,18 +434,13 @@
               
                 
                 
-                <h1 id="installation-of-as-is-main-api-located-on-central-system">Installation of "As-is" Main API located on Central system</h1>
-<p>General Basis expert steps:</p>
-<ol>
-<li><a href="../../../inst/step-1/">Download and import transports</a> from <a href="https://github.com/fioritracker/asis-cen/releases">Product release page</a> Release <code>2020SPS02</code></li>
-<li><a href="../../../inst/step-2/">Activate Frontend ICF nodes</a> for node <code>zftdc</code></li>
-<li><a href="../../../inst/step-3/">Enable backend odata service</a> for service <code>ZNYPEASISCEN_SRV</code></li>
-<li><a href="../../../inst/step-4/">Assign pfcg roles</a> for role <code>ZNYPE_ASISCEN</code></li>
-</ol>
-<p>Configuration steps:</p>
-<ol>
-<li><a href="../sys/">Configure the list of the systems you want to manage</a></li>
-</ol>
+                <h1 id="configuration-fiori-tracker-core">Configuration - Fiori Tracker Core</h1>
+<p>To configure Fiori Tracker core use SAP Gui transaction <strong>ZFTADMIN</strong>:</p>
+<p><img alt="" src="../res/zftadmin.png" /></p>
+<h2 id="1-modify-area-codes">1.  Modify area codes</h2>
+<p>This function allows you to set you functional area codes.</p>
+<h2 id="2-modify-application-types">2.  Modify application types</h2>
+<p>Allows you to modify or add the application types.</p>
                 
               
               
