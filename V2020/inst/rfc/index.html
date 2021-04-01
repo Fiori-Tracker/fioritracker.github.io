@@ -415,10 +415,28 @@
                 <h1 id="how-to-prepare-the-rfc-destinations-for-managed-systems">How to prepare the RFC destinations for Managed systems</h1>
 <p>You will need RFC destinations for each system that you plan to manage with Fiori Tracker apps. Please set RFC destinations In your Central system using transaction <em>sm59</em>. Each RFC destination should point to one of your managed systems.</p>
 <p>The user set in RFC destination needs to have type SYSTEM and the following authorizations:</p>
-<p>Authorization: S_RFC<br>
-ACTVT: 16<br>
+<p>Authorization object: S_RFC</p>
+<p>ACTVT: 16<br>
 RFC_TYPE: FUGR<br>
-RFC_NAME: Z_FTASIS<br></p>
+RFC_NAME: ZNYPEASISMAN<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUGR<br>
+RFC_NAME: SUNI<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUNC<br>
+RFC_NAME: Z_NYPEASISMAN_GET_CATALOGS<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUNC<br>
+RFC_NAME: Z_NYPEASISMAN_GET_APPLICATIONS<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUNC<br>
+RFC_NAME: Z_NYPEASIS_MAN_GET_VERSION<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUNC<br>
+RFC_NAME: RFC_PING<br></p>
+<p>ACTVT: 16<br>
+RFC_TYPE: FUNC<br>
+RFC_NAME: FUNCTION_EXISTS<br></p>
                 
               
               
