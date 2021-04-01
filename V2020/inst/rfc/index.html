@@ -416,27 +416,50 @@
 <p>You will need RFC destinations for each system that you plan to manage with Fiori Tracker apps. Please set RFC destinations In your Central system using transaction <em>sm59</em>. Each RFC destination should point to one of your managed systems.</p>
 <p>The user set in RFC destination needs to have type SYSTEM and the following authorizations:</p>
 <p>Authorization object: S_RFC</p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUGR<br>
-RFC_NAME: ZNYPEASISMAN<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUGR<br>
-RFC_NAME: SUNI<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUNC<br>
-RFC_NAME: Z_NYPEASISMAN_GET_CATALOGS<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUNC<br>
-RFC_NAME: Z_NYPEASISMAN_GET_APPLICATIONS<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUNC<br>
-RFC_NAME: Z_NYPEASIS_MAN_GET_VERSION<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUNC<br>
-RFC_NAME: RFC_PING<br></p>
-<p>ACTVT: 16<br>
-RFC_TYPE: FUNC<br>
-RFC_NAME: FUNCTION_EXISTS<br></p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACTVT</td>
+<td>16</td>
+</tr>
+<tr>
+<td>RFC_TYPE</td>
+<td>FUGR</td>
+</tr>
+<tr>
+<td>RFC_NAME</td>
+<td>ZNYPEASISMAN, SUNI</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACTVT</td>
+<td>16</td>
+</tr>
+<tr>
+<td>RFC_TYPE</td>
+<td>FUNC</td>
+</tr>
+<tr>
+<td>RFC_NAME</td>
+<td>Z_NYPEASISMAN_GET_CATALOGS, Z_NYPEASISMAN_GET_APPLICATIONS, Z_NYPEASIS_MAN_GET_VERSION, RFC_PING, FUNCTION_EXISTS</td>
+</tr>
+</tbody>
+</table>
                 
               
               
