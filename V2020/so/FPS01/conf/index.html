@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/ch/FPS01/inst/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/so/FPS01/conf/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>Change Requests - Installation - Fiori Tracker</title>
+        <title>Sign-offs configuration - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#change-requests-installation" class="md-skip">
+        <a href="#sign-offs-configuration" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Change Requests - Installation
+              Sign-offs configuration
             
           </span>
         </div>
@@ -333,7 +333,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../main/" class="md-nav__link">
+    <a href="../../../ch/FPS01/main/" class="md-nav__link">
       Change Requests
     </a>
   </li>
@@ -346,7 +346,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../so/FPS01/main/" class="md-nav__link">
+    <a href="../main/" class="md-nav__link">
       Sign-offs
     </a>
   </li>
@@ -425,16 +425,22 @@
               
                 
                 
-                <h1 id="change-requests-installation">Change Requests - Installation</h1>
-<p>General:</p>
+                <h1 id="sign-offs-configuration">Sign-offs configuration</h1>
+<p>To configure Sign-off start SAP Gui transaction <strong>ZSOADMIN</strong>:</p>
+<p><a href="../res/soadmin.png"><img alt="" src="../res/soadmin.png" /></a></p>
+<p>In the Admin tool screen choose one of the functions.</p>
 <ol>
-<li><a href="../../../inst/step-1/">Download and import transports</a> from Product release page <a href="https://github.com/fioritracker/ch/releases">Product release page</a> Release <code>2020FPS01</code></li>
-<li><a href="../../../inst/step-2/">Activate Frontend ICF nodes</a> for node <code>zftchcr</code></li>
-<li><a href="../../../inst/step-3/">Enable backend odata service</a> for service <code>ZNYPECH_SRV</code></li>
-<li><a href="../../../inst/step-4/">Assign pfcg roles</a> for role <code>ZNYPE_CH</code></li>
+<li>Enable FT Core - Relation: Sing-offs</li>
 </ol>
-<p>See also <a href="../inst-opt/">an optional step</a> for installing FT Core - Applications and Catalogs Relation: Change Requests</p>
-<p>.</p>
+<p>Choose this function to enable relation in FT core. For details please refer to <a href="../../../rel-so/FPS01/main.md">relation section</a>.</p>
+<ol>
+<li>Modify types</li>
+</ol>
+<p>This function let's you set up the list of your sign-off types. </p>
+<ol>
+<li>Modify users</li>
+</ol>
+<p>This function let's you configure default assignees for each of your areas. Based on the content type assignment to area, the user to be set as default is determined. This is to avoid the need for numerous updates in case of the person responsible change.</p>
                 
               
               
