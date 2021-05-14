@@ -1,4 +1,4 @@
-# Other tools that are using Fiori Tracker database
+# Other tools that use Fiori Tracker database
 
 There are other tools that are using Fiori Tracker's database with the master data for SAP Fiori launchpad content:
 
