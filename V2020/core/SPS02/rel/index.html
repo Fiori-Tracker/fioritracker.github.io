@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/ro/FPS01/cats/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/core/SPS02/rel/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>FT Catalogs - Fiori Tracker</title>
+        <title>Fiori Tracker Relations - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#ft-catalogs" class="md-skip">
+        <a href="#fiori-tracker-relations" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              FT Catalogs
+              Fiori Tracker Relations
             
           </span>
         </div>
@@ -213,7 +213,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/main/" class="md-nav__link">
+    <a href="../../SPS03/main/" class="md-nav__link">
       Fiori Tracker Core
     </a>
   </li>
@@ -226,7 +226,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/ext/" class="md-nav__link">
+    <a href="../../SPS03/ext/" class="md-nav__link">
       Extensions
     </a>
   </li>
@@ -239,7 +239,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../core/SPS03/rel/" class="md-nav__link">
+    <a href="../../SPS03/rel/" class="md-nav__link">
       Relations
     </a>
   </li>
@@ -257,7 +257,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../main/" class="md-nav__link">
+    <a href="../../../ro/FPS01/main/" class="md-nav__link">
       Roles
     </a>
   </li>
@@ -385,6 +385,48 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#standard-relations" class="md-nav__link">
+    Standard relations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#optional-relations" class="md-nav__link">
+    Optional relations
+  </a>
+  
+    <nav class="md-nav" aria-label="Optional relations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#system-value-relations" class="md-nav__link">
+    System value relations
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#info-records-relations" class="md-nav__link">
+    Info records relations
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -396,8 +438,25 @@
               
                 
                 
-                <h1 id="ft-catalogs">FT Catalogs</h1>
-<p><a href="res/cats.gif"><img alt="" src="res/cats.gif" /></a></p>
+                <h1 id="fiori-tracker-relations">Fiori Tracker Relations</h1>
+<p><code>Relations</code> represent the link form records for applications and catalogs to any other objects that you would like to track.</p>
+<h2 id="standard-relations">Standard relations</h2>
+<p>There are two standard relations that come with FT Applications and FT Catalog apps:</p>
+<p>FT Apps Relation: <a href="../../SPS03/apps-rel-tobe-cats/">To-be Catalogs</a> - for keeping "To-be" assignments of apps to catalogs</p>
+<p>FT Catalogs Relation: <a href="../../SPS03/cats-rel-tobe-apps/">To-be Apps</a> - for keeping "To-be" assignments of catalogs to applications </p>
+<p>In addition to standard relations you can install optional ones. You choose the relations that are relevant to your project. Theres is also a possibility to build you own custom relations.</p>
+<h2 id="optional-relations">Optional relations</h2>
+<h3 id="system-value-relations">System value relations</h3>
+<p>FT Catalogs Relation: <a href="../../../cats-rel-apps-asis/FPS01/main/">Apps As-is</a> - This relation shows a list of currently configured applications in the selected catalog. It enables you to view the list in each of your Managed systems.<br></p>
+<p>FT Apps Relation: <a href="../../../apps-rel-catalogs-asis/FPS01/main/">Catalogs, As-is</a> - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.</p>
+<p>FT Apps Relation: <a href="../../../apps-rel-appsusage/FPS01/main/">Apps Usage</a> (paid)
+This relation shows how many times the user started the app. You can see the start count in each system configured to send the data (active Apps Usage Plugin).</p>
+<h3 id="info-records-relations">Info records relations</h3>
+<p>FT Apps and Catalogs Relation: <a href="../../../rel-ch/FPS01/main/">Change Requests</a> The Change Request relation shows a list of change requests linked to an application or catalog.</p>
+<p>FT Apps and Catalogs Relation: <a href="../../../rel-so/FPS01/main/">Sign-offs</a> The Sign-offs relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)</p>
+<p>FT Apps and Catalogs Relation: Comments (Coming in April 2021)</p>
+<p>FT Apps and Catalogs Relation: Test users (Coming in April 2021)</p>
+<p>FT Apps and Catalogs Relation: History (Coming in April 2021)</p>
                 
               
               
