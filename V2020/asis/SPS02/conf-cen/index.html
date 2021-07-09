@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/ac/FPS01/rel/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/asis/SPS02/conf-cen/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>Apps Relation: Catalogs, As-is - Installation steps - Fiori Tracker</title>
+        <title>Central part's configuration parameters - "As-is" API Main (Central part) - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#apps-relation-catalogs-as-is-installation-steps" class="md-skip">
+        <a href="#central-parts-configuration-parameters-as-is-api-main-central-part" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Apps Relation: Catalogs, As-is - Installation steps
+              Central part's configuration parameters - "As-is" API Main (Central part)
             
           </span>
         </div>
@@ -322,7 +322,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../../asis/SPS02/main/" class="md-nav__link">
+    <a href="../main/" class="md-nav__link">
       As-is API
     </a>
   </li>
@@ -422,11 +422,31 @@
               
                 
                 
-                <h1 id="apps-relation-catalogs-as-is-installation-steps">Apps Relation: Catalogs, As-is - Installation steps</h1>
-<ol>
-<li>In SAP Gui start transaction <strong>ZACADMIN</strong></li>
-<li>In report screen choose <em>1. Enable FT Core - Apps Relation: Catalogs, As-is</em></li>
-</ol>
+                <h1 id="central-parts-configuration-parameters-as-is-api-main-central-part">Central part's configuration parameters - "As-is" API Main (Central part)</h1>
+<p>To change Central part configuration start the transaction <strong>zasisadmin</strong> and press button labeled: <strong>4. Edit configuration</strong>. This will open a maintenance view for table ZNYPEASIS_CONF:</p>
+<p><a href="res/zasisdmin.png"><img alt="" src="res/zasisdmin.png" /></a></p>
+<p>The table below descries all available parameters:</p>
+<table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Value</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>INCOMP_HIDE</td>
+<td><strong>TRUE</strong></td>
+<td>When set to TRUE the version compatibility warning will not show</td>
+</tr>
+<tr>
+<td>PUBLISH</td>
+<td><strong>X</strong></td>
+<td>When set to X the "As-is" will publish its table copies to components registered in API</td>
+</tr>
+</tbody>
+</table>
                 
               
               
