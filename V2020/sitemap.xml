@@ -646,6 +646,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/role-apps/</loc>
+         <lastmod>2021-10-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/tracked/SPS03/roles/</loc>
          <lastmod>2021-10-29</lastmod>
          <changefreq>daily</changefreq>
