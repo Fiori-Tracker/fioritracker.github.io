@@ -666,6 +666,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/role-hist/</loc>
+         <lastmod>2021-11-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/tracked/SPS03/role-sign-offs/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
