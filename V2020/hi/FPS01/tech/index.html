@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/so/FPS01/conf/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/hi/FPS01/tech/">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.4">
     
     
       
-        <title>Sign-offs configuration - Fiori Tracker</title>
+        <title>Catalog Report - Technical Details - Fiori Tracker</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#sign-offs-configuration" class="md-skip">
+        <a href="#catalog-report-technical-details" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +98,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Sign-offs configuration
+              Catalog Report - Technical Details
             
           </span>
         </div>
@@ -573,7 +573,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../main/" class="md-nav__link">
+    <a href="../../../so/FPS01/main/" class="md-nav__link">
       Sign-offs
     </a>
   </li>
@@ -713,23 +713,22 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#1-enable-ft-core-relation-sing-offs" class="md-nav__link">
-    1. Enable FT Core - Relation: Sing-offs
+  <a href="#central-system-components" class="md-nav__link">
+    Central System Components
+  </a>
+  
+    <nav class="md-nav" aria-label="Central System Components">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#app-ft-catalog-report" class="md-nav__link">
+    App: "FT Catalog Report"
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#2-modify-types" class="md-nav__link">
-    2. Modify types
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#3-modify-users" class="md-nav__link">
-    3. Modify users
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -746,16 +745,21 @@
               
                 
                 
-                <h1 id="sign-offs-configuration">Sign-offs configuration</h1>
-<p>To configure Sign-off start SAP Gui transaction <strong>ZSOADMIN</strong>:</p>
-<p><a href="../res/soadmin.png"><img alt="" src="../res/soadmin.png" /></a></p>
-<p>In the Admin tool screen choose one of the functions.</p>
-<h2 id="1-enable-ft-core-relation-sing-offs">1. Enable FT Core - Relation: Sing-offs</h2>
-<p>Choose this function to enable relation in FT core. For details please refer to <a href="../../../rel-so/FPS01/main/">relation section</a>.</p>
-<h2 id="2-modify-types">2. Modify types</h2>
-<p>This function lets you set up the list of your sign-off types. </p>
-<h2 id="3-modify-users">3. Modify users</h2>
-<p>This function lets you configure default assignees for each of your areas. Based on the content type assignment to area, the user to be set as default is determined. This is to avoid the need for numerous updates in case of the person responsible change.</p>
+                <h1 id="catalog-report-technical-details">Catalog Report - Technical Details</h1>
+<h2 id="central-system-components">Central System Components</h2>
+<p>Transport Package: ZNYPE<strong>CR</strong></p>
+<p>oData Service Name: ZNYPECR_SRV</p>
+<h3 id="app-ft-catalog-report">App: "FT Catalog Report"</h3>
+<p>Launch Path: https://<code>host:port</code>/sap/bc/ui5_ui5/sap/zftcr</p>
+<p>Fiori Launchpad Designer Settings<br>
+* Catalog: ZCNYPE<strong>CR</strong>
+* Group: ZGNYPE<strong>CR</strong></p>
+<p>Tile: "Catalogs Report"<br>
+* Semantic Object: ZNYPECR
+* Action: display
+* ID: nype.ft.cr
+* Icon: sap-icon://menu</p>
+<p>PFCG Role: ZNYPE_<strong>CR</strong></p>
                 
               
               
