@@ -146,6 +146,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/asis/SPS02/check/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/asis/SPS02/conf-cen/</loc>
          <lastmod>2021-12-01</lastmod>
          <changefreq>daily</changefreq>
