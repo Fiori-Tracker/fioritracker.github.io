@@ -731,6 +731,41 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-apps-asis/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-apps-tobe/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-change-req/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-comm/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-hist/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-roles-tobe/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cat-sign-offs/</loc>
+         <lastmod>2021-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/tracked/SPS03/cats/</loc>
          <lastmod>2021-12-01</lastmod>
          <changefreq>daily</changefreq>
