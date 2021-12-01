@@ -353,8 +353,22 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#3-synchronize-data" class="md-nav__link">
-    3. Synchronize data
+  <a href="#3-configure-as-is-main-api-to-connect-to-manage-systems" class="md-nav__link">
+    3. Configure "As-is" Main API to connect to Manage systems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-check-if-the-central-system-can-access-the-managed-systems" class="md-nav__link">
+    4. Check if the Central system can access the Managed systems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-synchronize-data" class="md-nav__link">
+    5. Synchronize data
   </a>
   
 </li>
@@ -378,19 +392,26 @@
 <li>"As-is" Main API located on Central system</li>
 <li>"As-is" Connector located on Managed system</li>
 </ol>
-<p>Step 1 describes the steps you need to perform on Cental system and step 2 for Managed system:</p>
+<p>Steps 1, 3, and 4 describe the steps you need to perform on the Cental system and step 2 for the Managed system:</p>
 <h2 id="1-install-as-is-main-api-on-central-system"><a href="../inst-cen/">1. Install "As-is" Main API on Central system</a></h2>
 <h2 id="2-install-as-is-connector-on-managed-system"><a href="../inst-man/">2. Install "As-is" Connector on Managed system</a></h2>
-<h2 id="3-synchronize-data">3. Synchronize data</h2>
+<h2 id="3-configure-as-is-main-api-to-connect-to-manage-systems"><a href="../sys/">3. Configure "As-is" Main API to connect to Manage systems</a></h2>
+<h2 id="4-check-if-the-central-system-can-access-the-managed-systems">4. Check if the Central system can access the Managed systems</h2>
+<ol>
+<li>Start the <em>Manage systems</em> app</li>
+<li>Open the system you have configured and then press <em>Edit scope</em></li>
+<li>In column <em>Plugin status message</em>, you should see "2020 SPS02"</li>
+</ol>
+<h2 id="5-synchronize-data">5. Synchronize data</h2>
 <ol>
 <li>
-<p>On Central system login to SAP Fiori launchpad using one of the users set in step 1 and from group <em>As-is Main API</em> start <em>Data Collection Request</em> app.</p>
+<p>On the Central system, log in to SAP Fiori launchpad using one of the users set in step 1 and from the group <em>As-is Main API</em> start <em>Data Collection Request</em> app.</p>
 </li>
 <li>
 <p>Click button <em>Create request</em></p>
 </li>
 <li>
-<p>Wait until synchronization finishes. To check the progress of the synchronization status press button <em>Refresh</em></p>
+<p>Wait until synchronization finishes. To check the progress of the synchronization status, press the button <em>Refresh</em></p>
 </li>
 </ol>
 
