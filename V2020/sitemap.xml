@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/ai/FPS01/main/</loc>
+         <lastmod>2021-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/apps-rel-appsusage/FPS01/main/</loc>
          <lastmod>2021-12-11</lastmod>
          <changefreq>daily</changefreq>
@@ -607,6 +612,11 @@
     </url>
     <url>
          <loc>https://help.fioritracker.org/V2020/inst/step-5/</loc>
+         <lastmod>2021-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/mi/FPS01/main/</loc>
          <lastmod>2021-12-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
