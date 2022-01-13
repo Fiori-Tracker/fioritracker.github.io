@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/spreadsheet-challenges/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/to-be/</loc>
          <lastmod>2022-01-13</lastmod>
          <changefreq>daily</changefreq>
