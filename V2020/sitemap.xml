@@ -941,6 +941,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/usecases/SPS03/recording-test-results/</loc>
+         <lastmod>2022-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/usecases/SPS03/requirements-gathering/</loc>
          <lastmod>2022-02-16</lastmod>
          <changefreq>daily</changefreq>
