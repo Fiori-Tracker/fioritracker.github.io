@@ -46,12 +46,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/learn-more/</loc>
+         <lastmod>2022-04-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/premier/</loc>
          <lastmod>2022-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.fioritracker.org/V2020/spreadsheet-challenges/</loc>
+         <lastmod>2022-04-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/support/</loc>
          <lastmod>2022-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
