@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/asis/SPS02/inst-publish-param/">
       
       <link rel="icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
     
     
       
-        <title>Installation of "As-is" Main API located on Central system - Fiori Tracker</title>
+        <title>Step 6 - Set the parameter for publish function - Fiori Tracker</title>
       
     
     
@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#installation-of-as-is-main-api-located-on-central-system" class="md-skip">
+        <a href="#step-6-set-the-parameter-for-publish-function" class="md-skip">
           Skip to content
         </a>
       
@@ -101,7 +101,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Installation of "As-is" Main API located on Central system
+              Step 6 - Set the parameter for publish function
             
           </span>
         </div>
@@ -284,16 +284,26 @@
               
                 
                 
-                <h1 id="installation-of-as-is-main-api-located-on-central-system">Installation of "As-is" Main API located on Central system</h1>
-<p>General Basis expert steps:</p>
+                <h1 id="step-6-set-the-parameter-for-publish-function">Step 6 - Set the parameter for publish function</h1>
 <ol>
-<li><a href="../../../inst/step-1/">Download and import transports</a> from <a href="https://github.com/fioritracker/asis-cen/releases">Product release page</a> Release <code>2020SPS02</code></li>
-<li><a href="../../../inst/step-2/">Activate Frontend ICF nodes</a> for node <code>zftdc</code> and <code>zftsy</code></li>
-<li><a href="../../../inst/step-3/">Enable backend odata service</a> for service <code>ZNYPEASISCEN_SRV</code></li>
-<li><a href="../../../inst/step-4/">Assign pfcg roles</a> for role <code>ZNYPE_ASISCEN</code></li>
-<li><a href="../inst-sys-relations/">Enable: Systems Relation: "Catalogs, As-is" and "Apps, As-is"</a></li>
-<li><a href="../inst-publish-param/">Set the parameter for publish function</a></li>
+<li>Go to SAP Gui transaction <strong>ZFTASISADMIN</strong> and press the button labeled: <em>3. Edit configuration</em>. Pressing the button will open a maintenance view for table ZNYPEASISCEN_CONF:</li>
 </ol>
+<p><a href="res/asis-conf.png"><img alt="" src="res/asis-conf.png" /></a>
+2. In the configuration table add the following entries:</p>
+<table>
+<thead>
+<tr>
+<th>Config key</th>
+<th>Config value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PUBLISH</td>
+<td>X</td>
+</tr>
+</tbody>
+</table>
                 
               
               
