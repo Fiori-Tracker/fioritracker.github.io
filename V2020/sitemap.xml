@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.fioritracker.org/V2020/satisfied-intrests-and-roles/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.fioritracker.org/V2020/spreadsheet-challenges/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
@@ -1012,6 +1017,11 @@
     </url>
     <url>
          <loc>https://help.fioritracker.org/V2020/usecases/SPS03/support-handover/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.fioritracker.org/V2020/usecases/SPS03/tech-category/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
