@@ -9,14 +9,14 @@
       
       
       
-        <link rel="canonical" href="https://help.fioritracker.org/V2020/asis/SPS02/conf-cen/">
+        <link rel="canonical" href="https://help.fioritracker.org/V2020/usecases/SPS03/naming-apps/">
       
       <link rel="icon" href="../../../assets/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
     
     
       
-        <title>Central part's configuration parameters - "As-is" API Main (Central part) - Fiori Tracker</title>
+        <title>Naming conventions - Fiori Tracker</title>
       
     
     
@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#central-parts-configuration-parameters-as-is-api-main-central-part" class="md-skip">
+        <a href="#naming-conventions" class="md-skip">
           Skip to content
         </a>
       
@@ -101,7 +101,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Central part's configuration parameters - "As-is" API Main (Central part)
+              Naming conventions
             
           </span>
         </div>
@@ -273,6 +273,28 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-using-the-name-of-the-bsp" class="md-nav__link">
+    1. Using the name of the BSP
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-using-the-number-assigned-to-a-change-request" class="md-nav__link">
+    2. Using the number assigned to a change request
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -284,31 +306,13 @@
               
                 
                 
-                <h1 id="central-parts-configuration-parameters-as-is-api-main-central-part">Central part's configuration parameters - "As-is" API Main (Central part)</h1>
-<p>To change Central part configuration start the transaction <strong>zasisadmin</strong> and press button labeled: <strong>4. Edit configuration</strong>. This will open a maintenance view for table ZNYPEASIS_CONF:</p>
-<p><a href="../res/asis-conf.png"><img alt="" src="../res/asis-conf.png" /></a></p>
-<p>The table below descries all available parameters:</p>
-<table>
-<thead>
-<tr>
-<th>Key</th>
-<th>Value</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>INCOMP_HIDE</td>
-<td><strong>TRUE</strong></td>
-<td>When set to TRUE the version compatibility warning will not show</td>
-</tr>
-<tr>
-<td>PUBLISH</td>
-<td><strong>X</strong></td>
-<td>When set to X the "As-is" will publish its table copies to components registered in API</td>
-</tr>
-</tbody>
-</table>
+                <h1 id="naming-conventions">Naming conventions</h1>
+<p>Here are two naming conventions for custom apps that user can consider:</p>
+<h3 id="1-using-the-name-of-the-bsp">1. Using the name of the BSP</h3>
+<p>Using the name of the BSP object used to store UI5 project in ABAP repository. For example "ZFTCA". </p>
+<p>For other type of Fiori launchpad enabled apps one can use the prefix for the app type and the unique ID that is used within this type of the app. For example, for a Multidimensional reports application can be prefixed with "ZMD".</p>
+<h3 id="2-using-the-number-assigned-to-a-change-request">2. Using the number assigned to a change request</h3>
+<p>This number (often assigned ot so called WRICEF) is used to identify the change request for requirement to create the application.</p>
                 
               
               
