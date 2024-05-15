@@ -17,7 +17,6 @@ extra_css:
 markdown_extensions:
   - admonition  
 plugins:
-  - macros
   - search
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
