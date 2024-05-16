@@ -1,3 +1,6 @@
+---
+description: 'Fiori Tracker offers flexible installation options for SAP landscapes. Follow component-specific guides.'
+---
 # Installation for Fiori Tracker Core
 
 Execute the following steps in the {% if  prod.core.cen == 'X' %} Central system: {% endif %} {% if  prod.core.man == 'X' %} Managed system: {% endif %}

@@ -1,3 +1,6 @@
+---
+description: 'Download transport files from release page. Unzip and place in transport folder. Import transports using STMS transaction.'
+---
 # Step 1 - Download and import the transport files
 
 ## 1. Download the transport files

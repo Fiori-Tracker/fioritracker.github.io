@@ -1,3 +1,6 @@
+---
+description: 'Use SU01 to assign roles for accessing installed products.'
+---
 # Step 4 - Assign Authorization role
 
 ## 1. Assign role

@@ -1,3 +1,6 @@
+---
+description: 'Fiori Tracker philosophy: Automate routine tasks, maintain planned vs actual configurations, accessible to all team members, integrate with system setup, open for extensions.'
+---
 # Philosophy
 
 Before deciding to use Fiori Tracker suite, it's a good idea to understand the philosophy behind the project. That way, you can make sure it fits with what you're trying to achieve.

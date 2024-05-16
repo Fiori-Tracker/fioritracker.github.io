@@ -1,3 +1,6 @@
+---
+description: 'Enable OData service: Generate runtime objects in SEGW, add service to catalog in /n/IWFND/MAINT_SERVICE, add system alias to ICF node and activate.'
+---
 # Step 3 - Enable oData service
 
 To enable oData service complete the steps described below. 

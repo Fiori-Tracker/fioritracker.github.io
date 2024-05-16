@@ -1,3 +1,6 @@
+---
+description: 'Fiori Tracker Core allows documenting planned launchpad apps in FT Applications and catalogs in FT Catalogs. Map apps to catalogs for full scope view.'
+---
 # Fiori Tracker user manual
 
 To start documenting your applications and catalogs together with links between them, you will use component called “Fiori Tracker Core,” which has two Fiori applications:

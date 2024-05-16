@@ -1,3 +1,6 @@
+---
+description: 'Run SICF transaction, navigate to /default_host/sap/bc/ui5_ui5/sap/, right-click and activate each required ICF node.'
+---
 # Step 2 - Activate the Frontend ICF nodes
 
 !!! Note

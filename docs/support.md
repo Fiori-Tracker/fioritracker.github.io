@@ -1,3 +1,6 @@
+---
+description: 'Report bugs/ideas via Discord or Github. Free team support available. Premier paid support guarantees response times, upgrades, monthly reviews.'
+---
 # Fiori Tracker Support
 
 ## Bugs and ideas

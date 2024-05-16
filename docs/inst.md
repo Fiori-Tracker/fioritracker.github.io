@@ -1,3 +1,6 @@
+---
+description: 'Fiori Tracker offers flexible installation options for SAP landscapes. Follow component-specific guides.'
+---
 # Installation - General considerations
 
 
