@@ -22,6 +22,8 @@ markdown_extensions:
 plugins:
   - search
   - macros
+  - social:
+      enabled: !ENV [CI, false]
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
