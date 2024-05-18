@@ -14,7 +14,9 @@ theme:
   logo: 'assets/images/logo.png'
   custom_dir: overrides
 extra_css:
-  - stylesheets/extra.css  
+  - stylesheets/extra.css
+extra_javascript:
+  - assets/javascripts/extra.js
 markdown_extensions:
   - admonition
   - pymdownx.emoji:
