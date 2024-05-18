@@ -4,9 +4,9 @@ description: 'Run SICF transaction, navigate to /default_host/sap/bc/ui5_ui5/sap
 # Step 2 - Activate the Frontend ICF nodes
 
 !!! Note
-    To activate the needed Frontend ICF nodes complete the sub-steps described below for each node.
+    To activate the needed Frontend ICF nodes complete the sub-steps described below for the `ICF node`.
 
-1. Run SAP Gui **SICF** transaction, choose **Execute** and in the tree of services for path Path: `/default_host/sap/bc/ui5_ui5/sap/`, use right click on service and choose **Activate** for each `ICF node` you want to activate <br/>
+1. Run SAP Gui **SICF** transaction, choose **Execute** and in the tree of services for path `Path: /default_host/sap/bc/ui5_ui5/sap/`, use right click on service and choose **Activate** for the `ICF node`:
 
 [ ![](res/sicf-activate.png) ](res/sicf-activate.png)
 
