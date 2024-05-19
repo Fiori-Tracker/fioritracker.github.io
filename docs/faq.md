@@ -1,4 +1,4 @@
-# Fiori Tracker - Frequently Asked Questions
+# Your questions, answered
 
 ### 1. Is it really free?
 
