@@ -20,11 +20,15 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+hooks:
+  - overrides/hooks/change_logo_for_social_cards.py
 plugins:
   - search
   - macros
   - social:
       enabled: !ENV [CI, false]
+      cards_layout_options:
+        background_color: "#0d0d72"  # same color as the corner in the social_logo.png
   - redirects:
       redirect_maps:
         '1909FPS03.md': 'index.md'
