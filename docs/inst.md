@@ -40,13 +40,7 @@ We have designed Fiori Tracker components to enable flexible installation option
 
 The minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
 
-## Components compatibility
 
-[Details](inst/comp.md)
-
-## Bugs and ideas
-
-[Details](bugs-ideas.md)
 
 
 
