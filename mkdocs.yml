@@ -22,6 +22,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 hooks:
   - overrides/hooks/change_logo_for_social_cards.py
+  - overrides/hooks/adjust_redirects_html.py
 plugins:
   - search
   - macros
@@ -30,6 +31,9 @@ plugins:
       cards_layout_options:
         background_color: "#0d0d72"  # same color as the corner in the social_logo.png
   - redirects:
+      # file redirects return a status 200 code, but redirect the page via <head> tags
+      # keep it for a few weeks to see if the online search results will change or if we 
+      # have to only use the 404.html page + JavaScript approach, even though robots don't run JS
       redirect_maps:
         '1909FPS03.md': 'index.md'
         '1909SPS06.md': 'index.md'
