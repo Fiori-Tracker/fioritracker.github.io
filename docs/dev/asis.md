@@ -6,7 +6,7 @@ Base addon for retrieving data from Managed system and passing it to Central sys
 [Details](/tech/asis.md)
 
 ## Architecture
-[Details](dev/arch/asis.pptx)
+[Details](arch/asis.pptx)
 
 `ZFT_SYSTEMS` - Main table for systems
 stores general Managed system data including:

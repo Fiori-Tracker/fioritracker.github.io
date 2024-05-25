@@ -2,12 +2,42 @@ site_name: Fiori Tracker
 site_url: https://fioritracker.org
 site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralized platform for collaborating on requirements.'
 nav:
-    - User manual: user-manual.md
-    - Learn more: learn-more.md
-    - Installation: inst.md
-    - Support: support.md  
-    - Philosophy: philosophy.md   
-    - Impressum: impressum.md
+  - User manual: user-manual.md
+  - Learn more: learn-more.md
+  - Installation: inst.md
+  - Support: support.md  
+  - Philosophy: philosophy.md   
+  - Impressum: impressum.md
+
+# Explicitly confirm there is awareness of files not in nav
+not_in_nav: |
+  /index.md
+  /*/
+  /as-is.md
+  /bugs-ideas.md
+  /com.md
+  /comp-main.md
+  /faq.md
+  /info-records.md
+  /info.md
+  /premier.md
+  /satisfied-intrests-and-roles.md
+  /to-be.md
+  /tracked.md
+  /ui5lib-options.md
+  /usecases.md
+
+# Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+    absolute_links: warn  # If needed change to 'relative_to_docs'
+  links:
+    not_found: warn
+    anchors: warn
+    absolute_links: warn  # If needed change to 'relative_to_docs'
+    unrecognized_links: warn
 theme: 
   name: 'material'
   favicon: 'assets/images/favicon.ico'

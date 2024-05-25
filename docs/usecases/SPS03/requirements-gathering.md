@@ -7,7 +7,7 @@ Collecting requirements in the preparation phase of SAP implementation requires 
  Rather than storing your Fiori launchpad content details in spreadsheets, you manage them as ["To-be" records](../../to-be.md) with a dedicated app: Fiori Tracker. 
  
  
- The application serves as a single, shared point of truth accessible to all team members, enabling simultaneous edits. The app also enables data quality control, as it limits possible entries only to the correct ones. The application also checks certain fields to prevent duplication. The check is crucial, for example, for catalogs and [Fiori app identifiers](app-identification.md). You can see how the existing apps are linked with the existing catalogs and what impact the changes will have to the catalogs. You get the view on the history of the changes. All changes [get logged with user, date, and time stamp](../../../hi/FPS01/main/).
+ The application serves as a single, shared point of truth accessible to all team members, enabling simultaneous edits. The app also enables data quality control, as it limits possible entries only to the correct ones. The application also checks certain fields to prevent duplication. The check is crucial, for example, for catalogs and [Fiori app identifiers](app-identification.md). You can see how the existing apps are linked with the existing catalogs and what impact the changes will have to the catalogs. You get the view on the history of the changes. All changes [get logged with user, date, and time stamp](../../hi/FPS01/main.md).
  
 ## The challenges
 

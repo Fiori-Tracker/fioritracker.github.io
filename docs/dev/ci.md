@@ -1,6 +1,6 @@
 # Catalog Import - Development details
 
-Tool to import the list of catalogs into as To-be relation in [Fiori Tracker Core](/ft-core.md)
+Tool to import the list of catalogs into as To-be relation in [Fiori Tracker Core](ft-core.md)
 
 [![](res/ci.png)](res/ci.png)
 
@@ -8,7 +8,7 @@ Tool to import the list of catalogs into as To-be relation in [Fiori Tracker Cor
 [Details](/tech/ci.md)
 
 ## Architecture
-[pptx](dev/arch/ci.pptx)
+[pptx](arch/ci.pptx)
 
 
 

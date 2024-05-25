@@ -6,4 +6,4 @@ Fiori Tracker shows who is responsible for each SAP Fiori application. The infor
 
 Fiori Tracker determines the name of the responsible consultant based on the functional stream name (business area). Each app is tied to stream, and stream has the name of the consultant assigned. Using stream assignment enables the change of the name of the consultant without updating all apps attributes. Allocation by area helps you deal with team turnovers.
 
-Responsible consultant determination is available for all Fiori Launchpad content, including business catalogs, groups, and roles. Fiori Tracker also uses area-consultant assignment to populate the default assignee in the [sign-off function](../../../so/FPS01/main/).
+Responsible consultant determination is available for all Fiori Launchpad content, including business catalogs, groups, and roles. Fiori Tracker also uses area-consultant assignment to populate the default assignee in the [sign-off function](../../so/FPS01/main.md).
