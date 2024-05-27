@@ -15,7 +15,7 @@ Fiori Tracker offers a stack of relations linking your SAP Fiori application to 
 
 ## [Satisfied Interests and Roles](satisfied-intrests-and-roles.md)
 
-## [Use cases](usecases.md)
+## [Use cases](usecases/index.md)
 
 ## [Tracked content](tracked.md)
 
