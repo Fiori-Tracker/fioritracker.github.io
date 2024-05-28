@@ -1,4 +1,12 @@
+---
+date: 2020-02-25
+slug: "SPS03/requirements-gathering"
+---
 # Fiori Launchpad Content requirements gathering
+
+Single, shared point of truth accessible to all team members, enabling simultaneous edits.
+
+<!-- more -->
 
 Collecting requirements in the preparation phase of SAP implementation requires teamwork. Both technical and functional experts are involved. For large projects with multiple streams, the team needs a central directory of agreed Fiori Launchpad content. Usually, the team uses a shared spreadsheet. Unfortunately, shared sheets often get out of sync, making most of the parts out of date. Once they are out of date, handling any catalog or role changes becomes a nightmare.
 

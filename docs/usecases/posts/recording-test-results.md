@@ -1,4 +1,12 @@
+---
+date: 2020-02-23
+slug: "SPS03/recording-test-results"
+---
 # Recording test results
+
+Recording test results.
+
+<!-- more -->
 
 Each SAP system is subject to upgrades. With each update, you may want to confirm that the applications enabled in the SAP Fiori launchpad are working properly. Fiori Tracker has functions available for:
 

@@ -1,4 +1,12 @@
+---
+date: 2020-02-15
+slug: "SPS03/changes-history"
+---
 # Tracking the history of changes in the app
+
+Tracking the history of changes in the app.
+
+<!-- more -->
 
 Projects often track the change requests. They keep records of the changes in Jira or Solution Manager, but the link to an exact SAP Fiori application is unavailable. This makes tracking the changes time-consuming or impossible. 
 

@@ -1,4 +1,12 @@
+---
+date: 2020-02-20
+slug: "SPS03/clarity-of-resp"
+---
 # Clarity of responsibility 
+
+Diffused responsibility on the content that is shared.
+
+<!-- more -->
 
 One of the goals of project management is clarity of responsibility.
 

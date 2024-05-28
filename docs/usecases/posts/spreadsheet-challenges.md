@@ -1,4 +1,12 @@
+---
+date: 2020-02-24
+slug: "SPS03/spreadsheet-challenge"
+---
 # Avoiding the challenges of storing Fiori content records in the spreadsheet
+
+Content duplication, 1 to N mapping, and consistency
+
+<!-- more -->
 
 The following are the challenges that the team will face when storing scope detail in the spreadsheet.
 
