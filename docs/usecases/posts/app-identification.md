@@ -1,4 +1,12 @@
+---
+date: 2020-02-27
+slug: "SPS03/app-identification"
+---
 # Universal application identification
+
+Clear identification of the applications in scope.
+
+<!-- more -->
 
 ## Challenges
 

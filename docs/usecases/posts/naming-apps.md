@@ -1,6 +1,12 @@
+---
+date: 2020-01-01
+slug: "SPS03/naming-apps"
+---
 # Naming conventions
 
 Here are two naming conventions for custom apps that user can consider:
+
+<!-- more -->
 
 ### 1. Using the name of the BSP 
 
