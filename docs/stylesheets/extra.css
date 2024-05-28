@@ -1,3 +1,8 @@
 .md-header {
     background-color: #c0c0c0;
 }
+
+/* Small blog post excerpts */
+.md-post--excerpt { 
+    margin-bottom: 0rem;
+}
