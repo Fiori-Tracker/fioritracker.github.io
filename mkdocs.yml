@@ -203,12 +203,20 @@ extra:
     provider: google
     property: G-3SXC9PW73K 
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/fiori-tracker/
-    - icon: fontawesome/brands/twitter
-      link: http://twitter.com/fioritracker
+    - icon: fontawesome/solid/building
+      link: https://npe.cm/?ref=fioritracker
+    - icon: fontawesome/brands/github
+      link: https://github.com/fioritracker/
+    - icon: fontawesome/brands/linkedin-in
+      link: https://linkedin.com/company/fiori-tracker/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/fioritracker
+    - icon: fontawesome/brands/facebook-f
+      link: https://facebook.com/fioritracker/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UC6bx5QiaM3KRE8qgshBrurg
+      link: https://youtube.com/channel/UC6bx5QiaM3KRE8qgshBrurg
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xGNzmej4KE
   prod:  
     core:
       name: 'Fiori Tracker Core'
