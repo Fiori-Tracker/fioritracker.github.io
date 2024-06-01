@@ -46,4 +46,4 @@ App records kept in the spreadsheet cause many challenges. Here are the most imp
 - Duplication
 - Lack of 1 to N relation maintenance
 
-See ["The challenges of storing Fiori content records in the spreadsheet"](usecases/SPS03/spreadsheet-challenges.md) for more details.
+See ["The challenges of storing Fiori content records in the spreadsheet"](usecases/posts/spreadsheet-challenges.md) for more details.

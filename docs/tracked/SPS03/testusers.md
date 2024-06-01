@@ -16,6 +16,6 @@ Or, mapped directly to role:
 
 [![](res/tu-rol.png)](res/tu-rol.png)
 
-See also how you can use the app to keep [Centralized test users lists with passwords](../../usecases/SPS03/test-users.md).
+See also how you can use the app to keep [Centralized test users lists with passwords](../../usecases/posts/test-users.md).
 
 
