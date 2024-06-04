@@ -1,3 +1,6 @@
+---
+description: 'Minimal installation requirements'
+---
 # Minimal installation requirements for all Fiori Tracker Suite apps
 
 !!! Note
