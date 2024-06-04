@@ -1,6 +1,6 @@
 ---
 title: 'Minimal installation requirements'
-description: 'Fiori Tracker frontend part requires SAP NetWeaver version at least 7.52 with SAP Gateway with SAP UI5 library at least version: 1.48.9'
+description: 'Fiori Tracker requires SAP NetWeaver version at least 7.52 with SAP Gateway and SAP UI5 library version: 1.48.9'
 ---
 # Minimal installation requirements for all Fiori Tracker Suite apps
 
