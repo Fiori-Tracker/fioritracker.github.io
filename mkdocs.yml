@@ -17,6 +17,7 @@ not_in_nav: |
   /bugs-ideas.md
   /com.md
   /comp-main.md
+  /contact-success.md
   /faq.md
   /info-records.md
   /info.md
@@ -49,6 +50,7 @@ extra_javascript:
   - assets/javascripts/extra.js
 markdown_extensions:
   - admonition
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
