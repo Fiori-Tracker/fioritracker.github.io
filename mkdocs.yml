@@ -17,6 +17,8 @@ not_in_nav: |
   /bugs-ideas.md
   /com.md
   /comp-main.md
+  /contact.md
+  /contact-success.md
   /faq.md
   /info-records.md
   /info.md
@@ -49,6 +51,7 @@ extra_javascript:
   - assets/javascripts/extra.js
 markdown_extensions:
   - admonition
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -76,7 +79,9 @@ plugins:
         '1909SPS08.md': 'index.md'
         '2020.md': 'index.md'
         '2020FPS01.md': 'index.md'
+        'learn-more.md': 'explore-fiori-tracker-details.md'
         'installation.md': 'index.md'
+        'satisfied-intrests-and-roles.md': 'satisfied-interests-and-roles.md'
         'V2020.md': 'index.md'
         'V2020/ac/FPS01/inst-opt.md': 'ac/FPS01/inst-opt.md'
         'V2020/ac/FPS01/inst.md': 'ac/FPS01/inst.md'
@@ -142,7 +147,7 @@ plugins:
         'V2020/inst/step-2.md': 'inst/step-2.md'
         'V2020/inst/step-3.md': 'inst/step-3.md'
         'V2020/inst/step-4.md': 'inst/step-4.md'
-        'V2020/learn-more.md': 'learn-more.md'
+        'V2020/learn-more.md': 'explore-fiori-tracker-details.md'
         'V2020/philosophy.md': 'philosophy.md'
         'V2020/premier.md': 'premier.md'
         'V2020/rel-ch/FPS01/main.md': 'rel-ch/FPS01/main.md'
@@ -151,7 +156,7 @@ plugins:
         'V2020/ro/FPS01/inst.md': 'ro/FPS01/inst.md'
         'V2020/ro/FPS01/main.md': 'ro/FPS01/main.md'
         'V2020/ro/FPS01/roles.md': 'ro/FPS01/roles.md'
-        'V2020/satisfied-intrests-and-roles.md': 'satisfied-intrests-and-roles.md'
+        'V2020/satisfied-intrests-and-roles.md': 'satisfied-interests-and-roles.md'
         'V2020/so/FPS01/conf.md': 'so/FPS01/conf.md'
         'V2020/so/FPS01/inst-opt.md': 'so/FPS01/inst-opt.md'
         'V2020/suite/SPS03/main.md': 'suite/SPS03/main.md'

@@ -28,6 +28,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install -r requirements.txt
-      - run: python .github/scripts/replace_text.py
       - run: mkdocs gh-deploy --force
       
