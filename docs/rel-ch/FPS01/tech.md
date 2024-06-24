@@ -10,11 +10,13 @@ oData Service Name: ZNYPExx_SRV
 
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftxx
 
-Fiori Launchpad Designer Settings<br>
+Fiori Launchpad Designer Settings
+
 * Catalog: ZCNYPE**xx**
 * Group: ZGNYPE**xx**
 
-Tile: "Catalogs Report"<br>
+Tile: "Catalogs Report"
+
 * Semantic Object: ZNYPExx
 * Action: display
 * ID: nype.ft.xx

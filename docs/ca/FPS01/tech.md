@@ -11,6 +11,7 @@ oData Service Name: ZNYPECACENREP_SRV
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftcatapprep
 
 Frontend ICF Nodes
+
 * Path:
     * default_host/sap/bc/ui5_ui5/sap/
 * Node:
