@@ -1,10 +1,11 @@
 ---
-description: 'Download transport files from release page. Unzip and place in transport folder. Import transports using STMS transaction.'
+description: 'Obtain transport files. Unzip and place in transport folder. Import transports using STMS transaction.'
 ---
-# Step 1 - Download and import the transport files
+# Step 1 - Obtain and import the transport files
 
-## 1. Download the transport files
-Go to `Product's release page` and download zip file for the `Release`
+## 1. Contact Nype
+
+Contact Nype's representative to obtain the zip file with transports.
 
 !!! Note
     You should perform the two following steps in **Central system** or **Managed system**. The choice is dependent on which part of the Fiori Tracker family you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.

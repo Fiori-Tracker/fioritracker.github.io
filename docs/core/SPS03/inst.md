@@ -6,7 +6,7 @@ description: 'Fiori Tracker offers flexible installation options for SAP landsca
 Execute the following steps in the {% if  prod.core.cen == 'X' %} Central system: {% endif %} {% if  prod.core.man == 'X' %} Managed system: {% endif %}
 
 
-1. [Download and import transports](../../inst/step-1.md) from Product release page [http://get.fioritracker.org](http://get.fioritracker.org) Release `2020SPS03`
+1. [Obtain the and import](../../inst/step-1.md) transports files
 2. [Activate Frontend ICF nodes](../../inst/step-2.md) for nodes `zftapps` and `zftcats`
 3. [Enable backend odata service](../../inst/step-3.md) for service `ZNYPECOR_SRV`
 4. [Assign pfcg roles](../../inst/step-4.md) for role `ZNYPE_FT`
