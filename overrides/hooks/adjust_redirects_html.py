@@ -24,7 +24,7 @@ HTML_TEMPLATE = """
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>{{ config.site_name }}</title>
     <link rel="canonical" href="{url}" />
-    <meta name="robots" content="noindex, follow">
+    <meta name="robots" content="index, follow">
     <noscript>
       <meta http-equiv="refresh" content="0;url={url}" />
     </noscript>

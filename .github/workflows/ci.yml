@@ -28,5 +28,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force
+      - run: python .github/scripts/prepare_structure.py
+      - run: mkdocs build
+      - run: mkdocs gh-deploy --config-file mkdocs_for_deploy.yml --force
       
