@@ -28,6 +28,7 @@ not_in_nav: |
   /tracked.md
   /ui5lib-options.md
   /usecases.md
+  /full-install.md
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
