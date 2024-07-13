@@ -10,8 +10,10 @@ Since its first release in 2018, we have continued to give our all to improving 
 |--|--|
 | 2024 May | Introduction of first version of Fiori Role Testing component |
 | 2023 Dec | Major rework of the data model enabling better relation maintenance |
-| 2020 February | App Usage Report improvements eliminating double counts on legacy app types |
-| 2018 August | First customer installation - numerous reworks based on the feedback from the customer |
+| 2022 June | "App Import component" - major rework 
+| 2020 February | "App Usage Report" improvements eliminating double counts on legacy app types |
+| 2022 Feb | "App Import component" added - for automatic import of all installed applications
+| 2018 August | First customer installation with "Apps" and "Catalogs" - numerous reworks based on the feedback from the customer |
 | 2018 July | First release |
 
 
