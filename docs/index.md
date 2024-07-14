@@ -18,11 +18,14 @@ It links app records to catalogs, roles, [Fiori App Usage](fa/FPS01/main.md) and
 
 [![](res/tiles.png)](res/tiles.png)
 
-## Compatibility
-Compatible with SAP S/4HANA releases from 1610 to 2023.
-
-## Offer
+# Offer
 
 Please contact us to get an offer tailored to your needs.
 
-[Get an offer](contact.md){: .md-button .md-button--primary }
+[Get an offer](contact.md){ .md-button .md-button--primary }
+
+[Get it for free](contact.md?free=true){ .md-button .md-button--primary }
+
+# Compatibility
+
+Compatible with SAP S/4HANA releases from 1610 to 2023.

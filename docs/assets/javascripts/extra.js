@@ -141,6 +141,11 @@ document.addEventListener("DOMContentLoaded", () => {
       gtag("event", "sign_up_success");
   }
 
+  const searchParams = new URLSearchParams(location.search);
+  const freeParam = searchParams.get("free");
+  const freeValue = freeParam && freeParam === "true";
+  const freeSubject = "Fiori Tracker: Get for free request";
+
   const form = document.querySelector("#extFormWrapper > form");
 
   if (form) {
@@ -162,5 +167,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
           form.submit();
       });
+
+      const messageElement = form.querySelector('[name="message"]');
+      if (messageElement) {
+          if (freeValue && !messageElement.value.trim()) {
+              messageElement.value = freeSubject;
+          }
+      }
   }
 });

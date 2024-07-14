@@ -4,6 +4,9 @@ description: Get in touch and let's work together.
 ---
 # Contact Form
 
+!!! info
+    Read more about what is needed [to get Fiori Tracker for free](get-for-free.md).
+
 <div id="extFormWrapper">
     <form method="POST">
         <label for="fullname">Full Name:</label>
