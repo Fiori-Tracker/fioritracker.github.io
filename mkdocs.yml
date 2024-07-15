@@ -63,6 +63,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
 hooks:
   - overrides/hooks/change_logo_for_social_cards.py
   - overrides/hooks/adjust_redirects_html.py
