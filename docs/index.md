@@ -16,7 +16,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     Your project scope definition and foundation for custom application documentation
     
-    [:octicons-arrow-right-24: Getting started](satisfied-interests-and-roles.md)
+    [:octicons-arrow-right-24: Reliable living docs](usecases/SPS03/requirements-gathering/)
 
 -   :material-crowd:{ .lg .middle } __Project collaboration platform__
 
@@ -30,7 +30,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     ---
 
-    Comes as a native SAP Fiori app that you can install on any SAP system
+    Comes as a native SAP Fiori app that you can install on any SAP system, blueprint docs tied to actual SAP Fiori system config
 
     [:octicons-arrow-right-24: Deployment options](inst/dep.md)
 
