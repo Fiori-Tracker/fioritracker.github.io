@@ -69,7 +69,7 @@ hooks:
   - overrides/hooks/change_logo_for_social_cards.py
   - overrides/hooks/adjust_redirects_html.py
   - overrides/hooks/canonical_merge.py
-  - overrides/hooks/sap-icons.py
+  - overrides/hooks/sap_icons.py
 plugins:
   - search
   - macros
