@@ -26,7 +26,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     [:octicons-arrow-right-24: Satisfied Interests](satisfied-interests-and-roles.md)
 
--   :material-home-circle-outline:{ .lg .middle } __Hosted in your SAP landscape__
+-   :ext-sap-logo-shape:{ .lg .middle } __Hosted in your SAP landscape__
 
     ---
 
