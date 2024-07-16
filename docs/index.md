@@ -10,7 +10,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
 <div class="grid cards" markdown>
 
--   :ext-sap-logo-shape:{ .lg .middle } __Single source of truth__
+-   :material-arrow-collapse-all:{ .lg .middle } __Single source of truth__
 
     ---
 
