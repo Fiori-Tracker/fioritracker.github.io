@@ -123,8 +123,7 @@ extra:
       link: https://youtube.com/channel/UC6bx5QiaM3KRE8qgshBrurg
     - icon: fontawesome/brands/discord
       link: https://npe.cm/discord
-    - icon: ext/nype/logo
-      link: https://npe.cm/
+
   prod:  
     core:
       name: 'Fiori Tracker Core'
