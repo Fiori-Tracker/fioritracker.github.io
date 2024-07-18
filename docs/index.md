@@ -16,7 +16,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     Your project scope definition and foundation for custom application documentation
     
-    [:octicons-arrow-right-24: Reliable living docs](usecases/SPS03/requirements-gathering/)
+    [:octicons-arrow-right-24: Reliable living docs](usecases/posts/requirements-gathering.md)
 
 -   :material-crowd:{ .lg .middle } __Project collaboration platform__
 
