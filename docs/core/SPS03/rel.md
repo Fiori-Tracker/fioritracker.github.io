@@ -33,8 +33,5 @@ FT Apps and Catalogs Relation: [Change Requests](../../rel-ch/FPS01/main.md) {{ 
 
 FT Apps and Catalogs Relation: [Sign-offs](../../rel-so/FPS01/main.md) {{ prod.RelSo.desc }}
 
-FT Apps and Catalogs Relation: [Comments](../../rel-cm/FPS01/main.md)
-
 FT Apps and Catalogs Relation: [Test users](../../rel-tu/FPS01/main.md)
 
-FT Apps and Catalogs Relation: [History](../../rel-hs/FPS01/main.md)
