@@ -113,8 +113,6 @@ extra:
     provider: google
     property: G-3SXC9PW73K 
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/fioritracker/
     - icon: fontawesome/brands/linkedin-in
       link: https://linkedin.com/company/fiori-tracker/
     - icon: fontawesome/brands/x-twitter

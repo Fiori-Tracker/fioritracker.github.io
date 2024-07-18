@@ -38,7 +38,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     ---
 
-    Install Fiori Tracker by importing transport requests and following the guide
+    Import the transport requests and follow the guide
 
     [:octicons-arrow-right-24: Installation](inst.md)
 
