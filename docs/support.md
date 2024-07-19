@@ -9,7 +9,7 @@ If you find a bug or, in case you have any suggestions for improvements, please 
 
 ## Standard support
 
-Fiori Tracker comes free of charge. We offer our team support on Discord and through Github issue. Depending on the current availability and topic we will schedule a call to solve possible issues.
+We offer our team support on Discord and through Github issue. Depending on the current availability and topic we will schedule a call to solve possible issues.
 
 ## Premier Support
 
