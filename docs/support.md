@@ -5,7 +5,7 @@ description: 'Report bugs/ideas via Discord or Github. Free team support availab
 
 ## Bugs and ideas
 
-If you find a bug or, in case you have any suggestions for improvements, please contact us on [Fiori Tracker support Discord](https://discord.gg/xGNzmej4KE) or [open an issue on GitHub](bugs-ideas.md).
+If you find a bug or, in case you have any suggestions for improvements, please contact us on [Fiori Tracker support Discord](https://npe.cm/discord) or [open an issue on GitHub](bugs-ideas.md).
 
 ## Standard support
 
@@ -20,5 +20,5 @@ Fiori Tracker comes free of charge. We offer our team support on Discord and thr
 3.	Guaranteed Fiori Tracker adjustments for each SAP system upgrade
 4.	Monthly review with current issues resolution and report of Fiori Tracker status
 
-Nype offers Premier support as a service paid yearly. For a detailed offer, contact our project manager at ft@nypesap.com.
+Nype offers Premier support as a service paid yearly. For a detailed offer, [contact us](contact.md).
 
