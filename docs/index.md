@@ -30,7 +30,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     ---
 
-    Comes as a native SAP Fiori app that you can install on any SAP system, blueprint docs tied to actual SAP Fiori system config
+    Comes as a native SAP Fiori app that you can install on any SAP system. Blueprint docs tied to actual SAP Fiori system config
 
     [:octicons-arrow-right-24: Deployment options](inst/dep.md)
 
@@ -38,7 +38,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     ---
 
-    Import the transport requests and follow the guide
+    Import the transport requests and follow the guide. Compatible with SAP S/4HANA 1610-2023.
 
     [:octicons-arrow-right-24: Installation](inst.md)
 
@@ -50,12 +50,10 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
 ## Offer
 
-Please contact us to get an offer tailored to your needs.
+Contact us to get an offer.
 
 [Get an offer](contact.md){ .md-button .md-button--primary }
 
 [Get it for free](contact.md?free=true){ .md-button .md-button--primary }
 
-## Compatibility
 
-Compatible with SAP S/4HANA releases from 1610 to 2023.
