@@ -75,6 +75,7 @@ def process_config_and_save_new(config: Path):
     prefix = f"{PREFIX_DIR}/"
 
     nav_re = re.compile(r":\s+(.*?\.md)")
+    nav_re_subsection = re.compile(r"-\s+(.*?\.md)")  # For blog
     redirects_re = re.compile(r"'(.*?\.md)':\s+'(.*?\.md)'")
 
     new_docs = Path(NEW_DOCS)
@@ -129,6 +130,10 @@ def process_config_and_save_new(config: Path):
             regex = nav_re.search(line)
             if regex:
                 lines[i] = line.replace(regex.groups()[0], prefix + regex.groups()[0])
+            if ":" not in line:
+                regex2 = nav_re_subsection.search(line)
+                if regex2:
+                    lines[i] = line.replace(regex2.groups()[0], prefix + regex2.groups()[0])
 
         if not_in_nav_region:
             lines[i] = line.replace("/", f"/{prefix}", 1)

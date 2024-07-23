@@ -22,7 +22,7 @@ def on_nav(nav: Navigation, config: MkDocsConfig, files):
     for name, instance in config.plugins.items():
         instance: BlogPlugin
         if name.startswith("material/blog"):
-            if instance.config.blog_dir.strip("/") == BLOG_ROOT:
+            if instance.config.blog_dir.strip("/").endswith(BLOG_ROOT):
                 blog_parent = instance.blog.parent
 
     if blog_parent is None:
