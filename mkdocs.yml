@@ -9,6 +9,8 @@ nav:
   - Philosophy: philosophy.md   
   - Change log: changelog.md
   - Impressum: impressum.md
+  - Usecases:
+    - usecases/index.md
 # CI:nav
 
 site_dir: site  # Default, but changed in CI
@@ -53,6 +55,9 @@ theme:
   favicon: 'assets/images/favicon.ico'
   logo: 'assets/images/logo.png'
   custom_dir: overrides
+  features:
+    - navigation.indexes
+    - navigation.expand
 extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
@@ -70,6 +75,7 @@ hooks:
   - overrides/hooks/adjust_redirects_html.py
   - overrides/hooks/canonical_merge.py
   - overrides/hooks/sap_icons.py
+  - overrides/hooks/display_blog_nav_only.py
 plugins:
   - search
   - macros
