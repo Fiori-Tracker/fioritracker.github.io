@@ -1,6 +1,8 @@
 ---
 date: 2020-02-20
 slug: "SPS03/clarity-of-resp"
+categories:
+  - Project management
 ---
 # Clarity of responsibility 
 

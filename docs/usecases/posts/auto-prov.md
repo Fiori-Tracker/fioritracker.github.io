@@ -1,6 +1,8 @@
 ---
 date: 2020-02-14
 slug: "SPS03/auto-prov"
+categories:
+  - Automation
 ---
 # Automation of access grating
 

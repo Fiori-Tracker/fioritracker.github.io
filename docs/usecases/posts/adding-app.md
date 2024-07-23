@@ -1,6 +1,8 @@
 ---
 date: 2020-02-21
 slug: "SPS03/adding-app"
+categories:
+  - Blueprinting
 ---
 # Adding an application to a user
 

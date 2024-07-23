@@ -1,6 +1,8 @@
 ---
 date: 2020-02-15
 slug: "SPS03/changes-history"
+categories:
+  - Governance
 ---
 # Tracking the history of changes in the app
 

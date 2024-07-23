@@ -1,6 +1,8 @@
 ---
 date: 2020-02-27
 slug: "SPS03/app-identification"
+categories:
+  - Blueprinting
 ---
 # Universal application identification
 
