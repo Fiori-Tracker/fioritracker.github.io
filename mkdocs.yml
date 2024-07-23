@@ -80,6 +80,7 @@ plugins:
   - search
   - macros
   - blog:
+      archive: false
       blog_dir: usecases
       post_url_format: "{slug}"
       post_readtime: false
