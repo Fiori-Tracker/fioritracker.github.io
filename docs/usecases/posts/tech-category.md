@@ -1,6 +1,8 @@
 ---
 date: 2020-02-16
 slug: "SPS03/tech-category"
+categories:
+  - Project management
 ---
 # Transparency of app technology categories
 

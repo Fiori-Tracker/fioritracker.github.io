@@ -1,6 +1,8 @@
 ---
 date: 2020-02-13
 slug: "SPS03/test-users"
+categories:
+  - Project management
 ---
 # Centralized test users lists with passwords
 

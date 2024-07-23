@@ -1,6 +1,8 @@
 ---
 date: 2020-02-28
 slug: "SPS03/support-handover"
+categories:
+  - Project management
 ---
 # Handover to support
 

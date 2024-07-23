@@ -1,6 +1,8 @@
 ---
 date: 2020-02-24
 slug: "SPS03/spreadsheet-challenge"
+categories:
+  - Project management
 ---
 # Avoiding the challenges of storing Fiori content records in the spreadsheet
 

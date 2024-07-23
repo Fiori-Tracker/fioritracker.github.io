@@ -1,6 +1,8 @@
 ---
 date: 2020-02-26
 slug: "SPS03/scope-control"
+categories:
+  - Project management
 ---
 # Scope control
 

@@ -1,6 +1,8 @@
 ---
 date: 2020-01-01
 slug: "SPS03/naming-apps"
+categories:
+  - Project management
 ---
 # Naming conventions
 

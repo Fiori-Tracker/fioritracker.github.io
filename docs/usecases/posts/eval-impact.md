@@ -1,6 +1,8 @@
 ---
 date: 2020-02-22
 slug: "SPS03/eval-impact"
+categories:
+  - Project management
 ---
 # Evaluating upgrade impact
 

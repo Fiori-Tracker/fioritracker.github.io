@@ -1,6 +1,8 @@
 ---
 date: 2020-02-25
 slug: "SPS03/requirements-gathering"
+categories:
+  - Blueprinting
 ---
 # Fiori Launchpad Content requirements gathering
 

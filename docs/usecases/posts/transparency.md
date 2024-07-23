@@ -1,6 +1,8 @@
 ---
 date: 2020-02-18
 slug: "SPS03/transparency"
+categories:
+  - Project management
 ---
 # SAP Fiori setup transparency
 
