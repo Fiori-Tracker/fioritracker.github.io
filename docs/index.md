@@ -44,7 +44,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
 </div>
 
-## Screenshots 
+## Feature highlights
 
 [![Fiori Tracker Tiles](res/ss00.png)](res/ss00.png)
 
