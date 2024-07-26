@@ -44,9 +44,25 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
 </div>
 
-## Screenshots
+## Screenshots 
+<div class="grid" markdown>
 
-[![](res/tiles.png)](res/tiles.png)
+[![Application list](res/ss01.png)](res/ss01.png){ align=left width=300 } 
+    
+- "Fiori library" for your SAP S/4HANA project with all applications in scope, including custom and extended ones
+- Includes specific attributes like git repository, documentation link or others defined by you
+
+</div>
+
+<div class="grid" markdown>
+
+- Mapping to Roles, Catalogs, Test users
+- Functional area assignment for clarity of responsibility
+
+[![Application list](res/ss02.png)](res/ss02.png){ align=right width=300 } 
+    
+
+</div>
 
 ## Offer
 
