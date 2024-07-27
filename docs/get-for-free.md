@@ -8,5 +8,5 @@ Get our product for free by allowing us to feature your company name as a Fiori 
 
 Limited slots available!
 
-[Get it for free](contact.md?free=true){ .md-button .md-button--primary }
+[Get it for free](free-offer.md){ .md-button .md-button--primary }
 

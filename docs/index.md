@@ -71,8 +71,8 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
 Contact us to get an offer.
 
-[Get an offer](contact.md){ .md-button .md-button--primary }
+[Get an offer](offer.md){ .md-button .md-button--primary }
 
-[Get it for free](contact.md?free=true){ .md-button .md-button--primary }
+[Get it for free](free-offer.md){ .md-button .md-button--primary }
 
 
