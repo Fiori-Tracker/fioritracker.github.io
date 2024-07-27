@@ -1,5 +1,1 @@
-mkdocs-material==9.5.27
-mkdocs-material[imaging]
-mkdocs-macros-plugin==1.0.5
-mkdocs-redirects==1.2.1
-mkdocs-minify-plugin==0.8.0
+git+https://github.com/nypesap/mkdocs-nype.git#egg=mkdocs_nype

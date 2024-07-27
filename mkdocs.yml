@@ -51,13 +51,17 @@ validation:
     absolute_links: warn  # 'relative_to_docs' should not be used as CI adds V2020
     unrecognized_links: warn
 theme: 
-  name: 'material'
+  name: nype
   favicon: 'assets/images/favicon.ico'
   logo: 'assets/images/logo.png'
   custom_dir: overrides
   features:
     - navigation.indexes
     - navigation.expand
+  nype_config:
+    js:
+      contact_form_action_hex: 6148523063484d364c79396d62334a74637935316269317a6447463061574d75593239744c325a76636d317a4c7a45354e6a6b31597a5268597a4e6d4e6a426b5954646b59325268595455304d4459334e32597a5a57517a4d47466d4e546c6a5a44513d
+    old_prefix: V2020
 extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
@@ -70,12 +74,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
-hooks:
-  - overrides/hooks/change_logo_for_social_cards.py
-  - overrides/hooks/adjust_redirects_html.py
-  - overrides/hooks/canonical_merge.py
-  - overrides/hooks/sap_icons.py
-  - overrides/hooks/display_blog_nav_only.py
 plugins:
   - search
   - macros
@@ -91,15 +89,11 @@ plugins:
   - minify:
       enabled: !ENV [CI, false]
       minify_html: true
-      minify_js: true
-      minify_css: true
+      minify_js: false
+      minify_css: false
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
-      js_files:
-        - assets/javascripts/extra.js
-      css_files:
-        - assets/stylesheets/extra.css
   - redirects:
       # file redirects return a status 200 code, but redirect the page via <head> tags
       # keep it for a few weeks to see if the online search results will change or if we 
@@ -113,6 +107,11 @@ plugins:
         'learn-more.md': 'explore-fiori-tracker-details.md'
         'installation.md': 'index.md'
         'satisfied-intrests-and-roles.md': 'satisfied-interests-and-roles.md'
+  - custom_social_logo
+  - custom_redirects
+  - canonical_merge
+  - sap_icons
+  - only_blog_nav
 # CI:redirects
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:

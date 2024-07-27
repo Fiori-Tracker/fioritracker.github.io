@@ -1,25 +1,9 @@
-{% extends "base.html" %}
+{% extends "nype-base.html" %}
 
 {% block extrahead %}
+  {{ super() }}
   <link rel="icon" sizes="192x192" href="{{ 'assets/images/logo.png' | url }}">
   <link rel="apple-touch-icon" href="{{ 'assets/images/logo.png' | url }}" />
   <meta property="robots" content="index, follow" />
   <meta name="google-site-verification" content="kybL94lh6dMw65bYG17jKh1kM_JhhxyY5DvIuZv2V54" />
-{% endblock %}
-
-{% block scripts %}
-  <script>
-  // Remove the errorRef if the page was successfully loaded after the JS redirect
-  document.addEventListener("DOMContentLoaded", () => {
-    const content = document.querySelector(".md-content__inner");
-    if (content.innerHTML.includes("404 - Not found")) {
-      return;
-    }
-    const locationSearch = new URLSearchParams(window.location.search);
-    if (locationSearch.get("errorRef")) {
-      window.history.replaceState({}, document.title, window.location.pathname);
-    }
-  });
-  </script>
-  {{ super() }}
 {% endblock %}

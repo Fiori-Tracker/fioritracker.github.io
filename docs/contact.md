@@ -1,14 +1,17 @@
 ---
 title: Contact Us
 description: Get in touch and let's work together.
+nype_config:
+  js:
+    contact_form: true
 ---
 # Contact Form
 
 !!! info
     Read more about what is needed [to get Fiori Tracker for free](get-for-free.md).
 
-<div id="extFormWrapper">
-    <form method="POST">
+<div class="nype-form-wrapper">
+    <form class="nype-form" method="POST">
         <label for="fullname">Full Name:</label>
         <input 
             class="md-input" 
@@ -47,7 +50,6 @@ description: Get in touch and let's work together.
         ></textarea>
         <button 
             class="md-button md-button--primary"
-            id="extSubmitForm"
             type="submit"
         >Submit</button>
     </form>
