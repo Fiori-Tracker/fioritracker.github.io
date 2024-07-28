@@ -20,5 +20,5 @@ We offer our team support on Discord and through Github issue. Depending on the 
 3.	Guaranteed Fiori Tracker adjustments for each SAP system upgrade
 4.	Monthly review with current issues resolution and report of Fiori Tracker status
 
-Nype offers Premier support as a service paid yearly. For a detailed offer, [contact us](contact.md).
+Nype offers Premier support as a service paid yearly. For a detailed offer, [contact us](offer.md).
 

@@ -4,6 +4,7 @@ description: Get in touch and let's work together.
 nype_config:
   js:
     contact_form: true
+    contact_form_free_subject: 'Fiori Tracker: Offer request'
 ---
 # Offer Form
 

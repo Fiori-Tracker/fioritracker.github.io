@@ -1,6 +1,6 @@
 ---
-title: Get free offer
-description: Get in touch and let's work together.
+title: Free offer
+description: Get our product for free by allowing us to feature your company name as a Fiori Role Testing customer. Limited slots available!
 nype_config:
   js:
     contact_form: true
@@ -8,8 +8,9 @@ nype_config:
 ---
 # Free Offer Form
 
-!!! info
-    Read more about what is needed [to get Fiori Tracker for free](get-for-free.md).
+Get Fiori Tracker for free by allowing us to feature your company name as a Fiori Tracker customer. 
+
+Limited slots available!
 
 <div class="nype-form-wrapper">
     <form class="nype-form" method="POST">
