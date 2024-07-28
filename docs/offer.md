@@ -3,8 +3,8 @@ title: Get offer
 description: Get in touch and let's work together.
 nype_config:
   js:
-    contact_form: true
-    contact_form_free_subject: 'Fiori Tracker: Offer request'
+    contact_form_subject: 'Fiori Tracker: Offer request'
+  js_include: contact_form_action_hex
 ---
 # Offer Form
 

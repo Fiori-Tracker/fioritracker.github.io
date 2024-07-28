@@ -1,6 +1,8 @@
 ---
 title: Message Sent
 nype_config:
+  js:
+    contact_form_success: true
   container_css: hide-h1 justify
 ---
 **Thanks for getting in touch!**
