@@ -4,7 +4,7 @@ title: Track your SAP Fiori launchpad apps
 
 # Track your SAP Fiori launchpad apps
 
-Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delays by simplifying the SAP Fiori app management process. It links app records to catalogs, roles, [Fiori App Usage](fa/FPS01/main.md) and other records. You can use the records to simplify the process of getting SAP Fiori launchpad [content requirements](usecases/posts/requirements-gathering.md). 
+Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delays by simplifying the SAP Fiori app management process. It links app records to catalogs, roles, [Fiori App Usage](https://help.fioriappsusage.org) and other records. You can use the records to simplify the process of getting SAP Fiori launchpad [content requirements](usecases/posts/requirements-gathering.md). 
 
 ## Benefits
 

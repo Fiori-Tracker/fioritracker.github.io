@@ -16,5 +16,5 @@ You can choose from the list of available components and install only the ones y
 | [{{ prod.ci.name }}](ci/SPS02/main.md)             | {{ prod.ci.desc }}      |
 | [{{ prod.ai.name }}](ai/FPS01/main.md)             | {{ prod.ai.desc }}      |
 | [{{ prod.mi.name }}](mi/FPS01/main.md)             | {{ prod.mi.desc }}      |
-| [{{ prod.fa.name }}](fa/FPS01/main.md)             | {{ prod.fa.desc }}      |
+| [{{ prod.fa.name }}](https://help.fioriappsusage.org)             | {{ prod.fa.desc }}      |
 | [{{ prod.gv.name }}](gv/FPS01/main.md)             | {{ prod.gv.desc }}      |
