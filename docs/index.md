@@ -38,7 +38,7 @@ Fiori Tracker [helps SAP teams](satisfied-interests-and-roles.md) minimize delay
 
     ---
 
-    Import the transport requests and follow the guide. Compatible with SAP S/4HANA 1610-2023.
+    Import the transport requests and follow the guide. Compatible with all SAP S/4HANA releases.
 
     [:octicons-arrow-right-24: Installation](inst.md)
 
