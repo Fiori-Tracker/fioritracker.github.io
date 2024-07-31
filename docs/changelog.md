@@ -8,7 +8,9 @@ Since its first release in 2018, we have continued to give our all to improving 
 
 | Date| Major change|
 |--|--|
-| 2024 May | "Fiori Role Testing" component - Introduction of first version |
+| 2024 July | Major improvements in ["Fiori Role Testing"](https://fioriroletesting.com/) - for example App ID and testing status of each app |
+| 2024 May | ["Fiori Role Testing"](https://fioriroletesting.com/) component - Introduction of first version |
+| 2024 April | ["Test User Report"](https://fioritracker.org/tracked/SPS03/testusers/) - Introduction of the first version
 | 2023 December | Major rework of the data model enabling better relation maintenance |
 | 2022 June | "App Import" component - major rework |
 | 2020 February | "App Usage Report" - improvements eliminating double counts on legacy app types |
