@@ -24,7 +24,7 @@ not_in_nav: |
   /as-is.md
   /bugs-ideas.md
   /com.md
-  /comp-main.md
+  /fiori-tracker-suite-application-list.md
   /contact.md
   /contact-success.md
   /faq.md
@@ -40,6 +40,7 @@ not_in_nav: |
   /ui5lib-options.md
   /usecases.md
   /full-install.md
+  /sap-fiori-test-users.md
 # CI:not_in_nav
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites

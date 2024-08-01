@@ -6,5 +6,5 @@ The Catalog Report lets you list the catalogs from all your systems. You can exp
 
 ## [Installation](inst.md)
 
-See also: [List of available components](../../comp-main.md)
+See also: [List of available components](../../fiori-tracker-suite-application-list.md)
 
