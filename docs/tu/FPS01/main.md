@@ -9,9 +9,6 @@ You can use the app to keep [Centralized test users lists with passwords](../../
 [![](res/tu2.gif)](res/tu2.gif)
 
 
-## [Installation](inst.md)
-
-## [Configuration](conf.md)
 
 
 
