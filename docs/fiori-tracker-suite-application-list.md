@@ -1,6 +1,6 @@
-# List of available components
+# "Fiori Tracker Suite" application list
 
-You can choose from the list of available components and install only the ones you plan to use. 
+Fiori Tracker Suite is composed of number of 15 applications. Here is the list of all of them. 
 
 | Component                                          | Description             | 
 |----------------------------------------------------|-------------------------|
