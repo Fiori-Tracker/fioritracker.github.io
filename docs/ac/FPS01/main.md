@@ -4,6 +4,4 @@ Application provides the list of SAP Fiori catalogs assigned to SAP Fiori app in
 
 [![](res/ac.png) ](res/ac.png) 
 
-## [Installation](inst.md)
 
-## [Available extensions](ext.md)
