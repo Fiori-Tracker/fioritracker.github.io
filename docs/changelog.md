@@ -7,7 +7,7 @@ nype_config:
 
 Since its first release in 2018, we have continued to give our all to improving Fiori Tracker. Here is the list of significant improvements over its 6-year history:
 
-::timeline:: center alternate class="no-separators"
+::timeline:: center alternate class="no-separators compact-timeline"
 
 - title: '[Fiori Role Testing](https://fioriroletesting.com/)'
   sub_title: 2024 July
