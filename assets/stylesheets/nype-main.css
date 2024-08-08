@@ -1,0 +1,215 @@
+/* #region Selectable classes */
+
+/* Hide title heading */
+.nype-hide-h1 + .md-container .md-content__inner > h1,
+.nype-hide-action + .md-container .md-content__inner > .md-content__button {
+    display: none;
+}
+
+/* Center content */
+@media screen and (min-width: 30rem) {
+    .nype-content-only + .md-container .md-content {
+        max-width: 37rem;
+        margin: auto;
+    }
+}
+
+/* Overall better text formatting */
+.nype-justify + .md-container .md-content {
+    text-align: justify;
+}
+
+/* #endregion */
+
+/* #region Animated elements */
+
+:root > * {
+    --nype-pulse-primary-color: var(--md-primary-fg-color);
+    --nype-pulse-accent-color: var(--md-accent-fg-color);
+}
+
+@keyframes alert {
+    0% {
+        transform: rotate(0deg);
+        color: var(--nype-pulse-accent-color);
+    }
+
+    25% {
+        transform: rotate(-15deg) scale(1.5);
+        color: var(--nype-pulse-primary-color);
+    }
+
+    50% {
+        transform: rotate(0deg);
+        color: var(--nype-pulse-accent-color);
+    }
+
+    75% {
+        transform: rotate(15deg) scale(1.5);
+        color: var(--nype-pulse-primary-color);
+    }
+
+    100% {
+        transform: rotate(0deg);
+        color: var(--nype-pulse-accent-color);
+    }
+}
+
+.twemoji.nype-pulse {
+    animation: alert 2500ms infinite;
+}
+
+/* #endregion */
+
+/* #region Contact Us Form and related */
+
+/* For the nype-show-email button */
+.nype-code-button {
+    cursor: pointer;
+    outline: 0.1em solid var(--md-accent-fg-color);
+    border-radius: 0.2em;
+}
+
+.nype-code-button:hover code {
+    color: var(--md-accent-fg-color);
+}
+
+/* For the Contact Form */
+.nype-form-wrapper {
+    width: 100%;
+}
+
+@media screen and (max-width: 45em) {
+    .nype-form {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 45em) {
+    .nype-form {
+        width: 50%;
+    }
+}
+
+.nype-form > .md-input {
+    display: block;
+    margin: 0 0 0.5rem 0;
+    width: 100%;
+    background: inherit;
+}
+
+.nype-form > .md-input:focus-visible {
+    outline: .1em solid var(--md-accent-fg-color);
+    border: unset;
+}
+
+.nype-form > .md-input:valid {
+    outline: .1em solid #00dfc8;
+    border: unset;
+}
+
+.nype-form > textarea.md-input {
+    border-top: unset;
+    border-right: unset;
+    border-left: unset;
+    color: var(--md-typeset-color);
+    font-family: var(--md-text-font-family);
+    font-feature-settings: "kern", "liga";
+    height: 5rem;
+    padding-top: 0.6em;
+}
+
+.nype-form > button {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+/* Contact Success */
+.twemoji.nype-large-emoji {
+    height: 7rem;
+    width: 100%;
+}
+
+.twemoji.nype-large-emoji svg {
+    height: 7rem;
+    width: 7rem;
+    margin: 0 auto;
+    max-height: unset;
+}
+
+/* #endregion */
+
+/* #region CTA Sections - custom_cta_sections */
+
+.nype-cta {
+    margin: 1rem auto;
+    text-align: center;
+    width: 50%;
+}
+
+.nype-cta-title {
+    font-weight: 700;
+}
+
+.nype-cta-description:hover .twemoji {
+    animation: alert 2500ms infinite;
+}
+
+.nype-cta p {
+    margin: unset;
+}
+
+/* #endregion */
+
+/* #region Overrides for custom modules */
+
+/* Neoteroi https://github.com/Neoteroi/mkdocs-plugins */
+
+.nt-timeline.no-separators .nt-timeline-content {
+    border-bottom: unset;
+}
+
+.nt-timeline .nt-timeline-sub-title {
+    color: var(--md-default-fg-color--light);
+}
+
+/* Align colors more with material */
+
+.nt-timeline-dot {
+    background-color: var(--md-typeset-a-color) !important;
+}
+
+.nt-timeline.vertical.center .nt-timeline-before {
+    background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(150, 150, 150) 90%) no-repeat center/2px 100%;
+}
+
+.nt-timeline.vertical.center .nt-timeline-items {
+    background: radial-gradient(circle, rgb(150, 150, 150) 0%, rgb(150, 150, 150) 100%) no-repeat center/2px 100%;
+}
+
+.nt-timeline.vertical.center .nt-timeline-after {
+    background: linear-gradient(rgb(150, 150, 150) 0%, rgba(255, 255, 255, 0) 50%) no-repeat center/2px 100%;
+}
+
+/* Compact timeline layout with smaller gaps between items */
+
+.compact-timeline :is(.nt-timeline-title, .nt-timeline-sub-title) {
+    font-size: inherit;
+}
+
+.compact-timeline .nt-timeline-title {
+    font-weight: 700;
+    margin-bottom: unset;
+}
+
+.compact-timeline .nt-timeline-item {
+    padding-bottom: unset;
+}
+
+.compact-timeline .nt-timeline-content {
+    padding-bottom: unset;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+
+/* #endregion */

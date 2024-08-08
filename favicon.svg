@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>Nype Fiori Tracker Logo</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-316.443,316.443,-118.828,-118.828,668.066,216.167)">
+			<stop offset=".001" stop-color="#0ae4c7"/>
+			<stop offset=".823" stop-color="#006dc6"/>
+			<stop offset="1" stop-color="#01143c"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(271.288,0,0,267.345,6,189.974)">
+			<stop offset="0" stop-color="#0ae4c7"/>
+			<stop offset="1" stop-color="#006dc6"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<path id="Path-2" class="s0" d="m277.3 373.4l224.6-224.4c6.7-6.8 6.7-17.8 0-24.5l-64.5-64.5c-6.7-6.7-17.7-6.7-24.5 0l-220.5 220.6"/>
+	<path id="Path-1" class="s1" d="m184.9 272.4l-77.2-77c-7.3-7.2-19.2-7.2-26.5 0l-69.7 69.6c-7.3 7.2-7.3 19.1 0 26.4l160.9 160.5c7.3 7.2 19.3 7.2 26.5 0l78.4-78.5z"/>
+</svg>
