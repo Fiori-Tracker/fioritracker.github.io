@@ -41,6 +41,7 @@ not_in_nav: |
   /usecases.md
   /full-install.md
   /sap-fiori-test-users.md
+  /advocate-invitation.md
 # CI:not_in_nav
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
