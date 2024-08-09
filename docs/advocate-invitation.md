@@ -2,7 +2,9 @@
 title: Advocate invitation
 description: We are seeking functional experts to use and promote Fiori Tracker at their clients projects.
 nype_config:
-  js_include: contact_form_action_hex contact_form_email_hex
+  js:
+    contact_form_subject: 'Advocate invitation: ...'
+  js_include: contact_form_email_hex
 ---
 # Fiori Tracker advocate invitation
 
@@ -19,4 +21,4 @@ Benefits for functional consultants:
 
 If the customer agrees to have their name published on the Fiori Tracker customer list, the tool is free. If they prefer to pay instead, the functional consultant earns 25% of the price as an advocate.
 
-Contact Greg Malewski at <span class="nype-code-button nype-show-email">Show e-mail</span>  if you are interested.
+Contact Greg Malewski at <span class="nype-code-button nype-show-email" markdown>`Show e-mail`</span> if you are interested.
