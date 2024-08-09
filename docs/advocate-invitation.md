@@ -1,5 +1,5 @@
 ---
-title: Fiori Tracker advocate invitation
+title: Advocate invitation
 description: We are seeking functional experts to use and promote Fiori Tracker at their clients projects.
 ---
 # Fiori Tracker advocate invitation
