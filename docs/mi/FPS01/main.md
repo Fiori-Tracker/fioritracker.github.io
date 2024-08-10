@@ -1,5 +1,6 @@
 # {{ prod.mi.name }}
-
 {{ prod.mi.desc }}
 
-[See more details on the dedicated page.](https://help.fioritracker.app/2020/mi/FPS01/main)
+The tool lets you list applications with tits mappings to catalogs and import them to [Fiori Tracker App](../../tracked/SPS03/apps.md) for documentation purposes (stored as so-called "To-be" records). Mappings Import uses free ["As-is" API](../../asis/SPS02/main.md).
+
+[![Mappings Import](res/mi.png)](res/mi.png)
