@@ -17,9 +17,26 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      - name: Download variable dependency list from the theme
+        run: wget -O requirements-theme.txt https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/requirements.txt
+      - name: Install Python
+        id: install-python
+        uses: actions/setup-python@v5
         with:
           python-version: 3.x
+          cache: pip
+      - name: Process Python Cache
+        id: cache-requirements
+        uses: actions/cache@v4
+        with:
+          path: venv
+          key: requirements-${{ steps.install-python.outputs.python-version }}-${{ hashFiles('requirements*.txt') }}
+      - name: Install Uncached Requirements
+        if: steps.cache-requirements.outputs.cache-hit != 'true'
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
       - run: mkdir -p .cache; echo mkdocs-material > .cache/safe
       - uses: actions/cache@v4
         with:
@@ -27,11 +44,10 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install -r requirements.txt
-      - run: python -m mkdocs_nype --minify --inject-minified
-      - run: python .github/scripts/prepare_structure.py
-      - run: mkdocs build --strict
-      - run: mkdocs build --config-file mkdocs_for_deploy.yml --strict
+      - run: venv/bin/python -m mkdocs_nype --minify --inject-minified
+      - run: venv/bin/python .github/scripts/prepare_structure.py
+      - run: venv/bin/python -m mkdocs build --strict
+      - run: venv/bin/python -m mkdocs build --config-file mkdocs_for_deploy.yml --strict
       - name: Prepare deploy archive
         run: |
           mv site_for_deploy/ site/
