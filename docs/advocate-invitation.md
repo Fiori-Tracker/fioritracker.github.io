@@ -20,7 +20,7 @@ We are seeking functional experts to use and promote Fiori Tracker at their clie
 
     Self-service tool to navigate SAP Fiori configuration with ease. Explore, plan and add SAP Fiori apps to your SAP S/4HANA scope.
     
-    [:octicons-arrow-right-24: Reliable living docs](usecases/posts/transparency.md)
+    [:octicons-arrow-right-24: Configuration clarity](usecases/posts/SAP-Fiori-setup-transparency.md)
 
 -   :material-stamper:{ .lg .middle } __Ensuring alignment with authorization team needs__
 
@@ -28,7 +28,7 @@ We are seeking functional experts to use and promote Fiori Tracker at their clie
 
     Keeps the standards for providing adequate input for authorizations and development teams
 
-    [:octicons-arrow-right-24: Satisfied Interests](satisfied-interests-and-roles.md)
+    [:octicons-arrow-right-24: Follow standards](usecases/posts/alignment-with-authorization-team.md)
 
 -   :fontawesome-solid-fingerprint:{ .lg .middle } __Clear identification of the apps__
 
@@ -42,7 +42,7 @@ We are seeking functional experts to use and promote Fiori Tracker at their clie
 
     ---
 
-    Import the transport requests and follow the guide. Compatible with all SAP S/4HANA releases.
+    List the apps, catalogs and roles from your functional area.
 
     [:octicons-arrow-right-24: Clear assignment](usecases/posts/clarity-of-resp.md)
 
