@@ -2,4 +2,6 @@
 
 {{ prod.ci.desc }}
 
-[See more details on the dedicated page.](https://help.fioritracker.app/2020/ci/SPS02/main/)
+The tool lets you list the catalogs from all your systems and import them to [Fiori Tracker App](../../tracked/SPS03/apps.md) for documentation purposes (stored as so-called "To-be" records). Catalog Import uses free ["As-is" API](../../asis/SPS02/main.md).
+
+[![](res/ci.png)](res/ci.png)
