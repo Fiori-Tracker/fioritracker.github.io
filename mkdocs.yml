@@ -94,14 +94,8 @@ plugins:
       enabled: !ENV [CI, false]
       cards_layout_options:
         background_color: "#0d0d72"  # same color as the corner in the social_logo.png
-  - minify:
+  - minify_html:
       enabled: !ENV [CI, false]
-      minify_html: true
-      minify_js: false
-      minify_css: false
-      htmlmin_opts:
-          remove_comments: true
-      cache_safe: true
   - redirects:
       # file redirects return a status 200 code, but redirect the page via <head> tags
       # keep it for a few weeks to see if the online search results will change or if we 
