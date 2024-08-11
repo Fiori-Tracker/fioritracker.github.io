@@ -4,7 +4,7 @@ slug: "SPS03/spreadsheet-challenge"
 categories:
   - Project management
 ---
-# Avoiding the challenges of storing Fiori content records in the spreadsheet
+# Avoiding the pain of using spreadsheets for SAP Fiori content management
 
 Content duplication, 1 to N mapping, and consistency
 

@@ -8,10 +8,10 @@ nav:
   - Support: support.md  
   - Philosophy: philosophy.md   
   - History: history.md
-  - Impressum: impressum.md
   - Usecases:
     - usecases/index.md
   - Executive Summary: executive-summary.md
+  - Impressum: impressum.md
 # CI:nav
 
 site_dir: site  # Default, but changed in CI
