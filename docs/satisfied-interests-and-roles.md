@@ -1,6 +1,6 @@
 # Satisfied Interests and Roles
 
-|  Project manager                              |        Functional expert  |    Support expert     | Tester | Developer |
+|  Project manager                              |        [Functional expert](for-functional-experts.md)  |    Support expert     | Tester | Developer |
 |-----------------------------------------------|---------------------------|----------------------|-----|--|
 | Accurate identification of deliverables       | Standards for providing adequate input for development and roles and authorizations teams  | Accurate identification of the application to which support requests apply |  Accurate identification of the applications for testing |   |
 | Handle for tracking status of app documentation preparation | Handle for working on app documentation | Handle for accessing app documentation |  Handle for accessing app documentation |  Handle for working on app technical documentation | 
