@@ -21,8 +21,6 @@ jobs:
         run: |
           wget -O requirements-theme.txt https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/requirements.txt
           wget -O pyproject-theme.toml https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/pyproject.toml
-      - name: Install 7zip
-        run: sudo apt-get install -y 7zip
       - name: Install Python
         id: install-python
         uses: actions/setup-python@v5
@@ -55,11 +53,11 @@ jobs:
       - name: Prepare deploy archive
         run: |
           mv site_for_deploy/ site/
-          7zz a site.7z site/
-          sha256sum site.7z > checksum
+          zip -r site.zip site/
+          sha256sum site.zip > checksum
           sha256sum -c checksum
           mkdir -p deploy
-          7zz a deploy/deploy.7z site.7z checksum
+          zip deploy/deploy.zip site.zip checksum
       - name: Deploy files via rsync and SSH
         uses: easingthemes/ssh-deploy@v5.1.0
         with:
