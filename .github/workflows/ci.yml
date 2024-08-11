@@ -18,7 +18,9 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - name: Download variable dependency list from the theme
-        run: wget -O requirements-theme.txt https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/requirements.txt
+        run: |
+          wget -O requirements-theme.txt https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/requirements.txt
+          wget -O pyproject-theme.toml https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/pyproject.toml
       - name: Install Python
         id: install-python
         uses: actions/setup-python@v5
@@ -30,7 +32,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: venv
-          key: requirements-${{ steps.install-python.outputs.python-version }}-${{ hashFiles('requirements*.txt') }}
+          key: requirements-${{ steps.install-python.outputs.python-version }}-${{ hashFiles('requirements*.txt', 'pyproject*.toml') }}
       - name: Install Uncached Requirements
         if: steps.cache-requirements.outputs.cache-hit != 'true'
         run: |
