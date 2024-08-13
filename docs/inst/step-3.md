@@ -13,8 +13,7 @@ To enable oData service complete the steps described below.
 1.1. Start SAP Gui transaction `SEGW`<br>
 1.2. Using the menu `Project` > `Open` - Open the project related to your `service name`. 
 
-To identify the project name, use the part of the `service name` preceding the underscore sign. 
-Example: If the service name is `ZFOO_SVR` please open project called `ZFOO`.
+To identify the project name, use the part of the `service name` preceding the underscore sign, in this case `service name_projectname`.
 
 [![](res/segw.png)](res/segw.png)
 

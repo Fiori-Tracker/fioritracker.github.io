@@ -90,36 +90,33 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Only replace <code> elements to have a more fine-tuned targeting
-  // If the innerHTML value is a perfect match with the placehoder then replace it 
-  // with the whole newNodes structure. Example: `service name`
-  // If the innerHTML includes the placehoder, but isn't a perfect match then
-  // check if there is exactly 1 ParamValue and replace the placeholder with it and
-  // inject the newly found node within the newNodes structure. Also omit the last 
-  // textNode in the newNodes. Example: `service name_0001`
   const internalCodeElements = document.querySelectorAll(".md-content__inner code");
   for (const el of internalCodeElements) {
+    // If the innerHTML value is a perfect match with the placehoder then replace it 
+    // with the whole newNodes structure. Example: `service name`
     if (el.innerHTML === placeholder[step]) {
 
       // Perfect match replace everything as prepared
       el.replaceWith(...newNodes.map(n => n.cloneNode(true)));
 
-    } else if (el.innerHTML.includes(placeholder[step]) && param.length === 1) {
+    }
+    // If the innerHTML includes the placeholder, but isn't a perfect match then check if there is 
+    // exactly 1 ParamValue and there is the `_projectname` value.
+    // Replace the whole innerHTML of the code node as the textNode can be omitted. Example: `service name_projectname`
+    else if (el.innerHTML.includes(placeholder[step]) && el.innerHTML.includes("_projectname") && param.length === 1) {
 
-      // Partial match of the placeholder, make adjustments
-      const codeCopy = el.cloneNode(true);
+      // Replace the whole text with the prefix of the param. Assuming the prefix is separated with `_`
+      // 
+      el.innerHTML = param[0].split("_")[0];
+
+    }
+    // If the innerHTML includes the placeholder, but isn't a perfect match then check if there is 
+    // exactly 1 ParamValue.
+    // Replace the placeholder within it and the textNode can be omitted. Example: `service name_0001`
+    else if (el.innerHTML.includes(placeholder[step]) && param.length === 1) {
 
       // Replace the placeholder inside the bigger amount of text
-      codeCopy.innerHTML = codeCopy.innerHTML.replace(placeholder[step], param[0]);
-
-      // Replace the new <code> with the modified copy
-      newNodes[0] = codeCopy;
-
-      // Remove last node with the data representation text
-      newNodes.splice(newNodes.length - 1);
-
-      // Once all was done replace everything
-      el.replaceWith(...newNodes.map(n => n.cloneNode(true)));
+      el.innerHTML = el.innerHTML.replace(placeholder[step], param[0]);
     }
   }
-
 });
