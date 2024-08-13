@@ -12,10 +12,6 @@ nav:
     - usecases/index.md
   - Executive Summary: executive-summary.md
   - Impressum: impressum.md
-# CI:nav
-
-site_dir: site  # Default, but changed in CI
-docs_dir: docs  # Default, but changed in CI
 
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
@@ -43,18 +39,17 @@ not_in_nav: |
   /sap-fiori-test-users.md
   /advocate-invitation.md
   /for-functional-experts.md
-# CI:not_in_nav
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
   nav:
     omitted_files: warn
     not_found: warn
-    absolute_links: warn  # 'relative_to_docs' should not be used as CI adds V2020
+    absolute_links: warn  # If needed change to 'relative_to_docs'
   links:
     not_found: warn
     anchors: warn
-    absolute_links: warn  # 'relative_to_docs' should not be used as CI adds V2020
+    absolute_links: warn  # If needed change to 'relative_to_docs'
     unrecognized_links: warn
 theme: 
   name: nype
@@ -66,7 +61,6 @@ theme:
   nype_config:
     contact_form_action_hex: 6148523063484d364c79396d62334a74637935316269317a6447463061574d75593239744c325a76636d317a4c7a45354e6a6b31597a5268597a4e6d4e6a426b5954646b59325268595455304d4459334e32597a5a57517a4d47466d4e546c6a5a44513d
     contact_form_email_hex: 5047456761484a6c5a6a306962574670624852764f6d6474514735775a53356a6253492b5a323141626e426c4c6d4e745043396850673d3d
-    old_prefix: V2020
     more_favicons: true
     safari_mask_color: '#08d1c7'
 extra_css:
@@ -112,11 +106,9 @@ plugins:
         'satisfied-intrests-and-roles.md': 'satisfied-interests-and-roles.md'
   - custom_social_logo
   - custom_redirects
-  - canonical_merge
   - sap_icons
   - only_blog_nav:
       hook_blog_dir: usecases
-# CI:redirects
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:

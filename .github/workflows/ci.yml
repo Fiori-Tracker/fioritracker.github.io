@@ -47,12 +47,9 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: venv/bin/python -m mkdocs_nype --minify --inject-minified
-      - run: venv/bin/python .github/scripts/prepare_structure.py
       - run: venv/bin/python -m mkdocs build --strict
-      - run: venv/bin/python -m mkdocs build --config-file mkdocs_for_deploy.yml --strict
       - name: Prepare deploy archive
         run: |
-          mv site_for_deploy/ site/
           zip -r site.zip site/
           sha256sum site.zip > checksum
           sha256sum -c checksum
