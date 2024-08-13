@@ -90,6 +90,7 @@ plugins:
       blog_dir: usecases
       post_url_format: "{slug}"
       post_readtime: false
+      pagination: false
   - social:
       enabled: !ENV [CI, false]
       cards_layout_options:
