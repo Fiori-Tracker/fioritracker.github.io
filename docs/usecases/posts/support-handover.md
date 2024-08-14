@@ -6,7 +6,7 @@ categories:
 ---
 # SAP Fiori launchpad configuration - handover to support
 
-Transferring SAP Fiori launchpad setup know-how after the implementatio
+Transferring SAP Fiori launchpad setup know-how after the implementation
 
 <!-- more -->
 
