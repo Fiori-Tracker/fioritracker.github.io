@@ -22,7 +22,7 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
     ---
 
-    Self-service tool for all SAP S/4HANA project members: Functional, Basis, Authorizations experts and Developers
+    Self-service tool for all SAP S/4HANA project members: [Functional](for-functional-experts.md), Basis, Authorizations experts and Developers
 
     [:octicons-arrow-right-24: Satisfied Interests](satisfied-interests-and-roles.md)
 

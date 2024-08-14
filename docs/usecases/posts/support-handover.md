@@ -1,13 +1,13 @@
 ---
 date: 2020-02-28
-slug: "SPS03/support-handover"
+slug: "SAP-Fiori-launchpad-configuration-support-handover"
 categories:
   - Project management
 ---
-# Handover to support
+# SAP Fiori launchpad configuration - handover to support
 
-Accessing SAP Fiori launchpad set up know-how
+Transferring SAP Fiori launchpad setup know-how after the implementatio
 
 <!-- more -->
 
-When the system goes live your support team will start receiving questions from end-users. It is important, that they know how SAP Fiori launchpad was set up, otherwise the business will suffer. For small teams, handover can be easy to manage. In larger implementations, your support team might be part of a separate organization. Sometimes the external consulting company that will operate the support, competes with the one that carried out the implementation. If this is the case, a support handover document could be useful. A support handover documentation heal in Fiori Tracker captures all of this information in one place.
+Your support team will begin receiving end-user questions once the system is live. They need a clear understanding of the SAP Fiori launchpad setup to prevent any disruptions. Small teams can easily manage the handover. During large SAP projects, your support team might belong to a separate organization. Sometimes, an external consulting firm might take over support post-implementation. In such situations, it is essential to have a support handover document. Fiori Tracker holds all this vital information structured and in one place.
