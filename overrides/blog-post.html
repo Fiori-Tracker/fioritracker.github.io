@@ -38,7 +38,7 @@
                 {% for author in page.authors %}
                   <div class="md-profile md-post__profile">
                     <span class="md-author md-author--long">
-                      <img src="{{ author.avatar }}" alt="{{ author.name }}" />
+                      <img src="{{ author.avatar | url }}" alt="{{ author.name }}" />
                     </span>
                     <span class="md-profile__description">
                       <strong>
@@ -57,7 +57,7 @@
             {% endif %}
 
             <!-- Post metadata -->
-            {% if false %}
+            {% if not page.file.src_uri.startswith("usecases/") %}
             <ul class="md-post__meta md-nav__list">
               <li class="md-nav__item md-nav__item--section">
                 <div class="md-post__title">

@@ -5,7 +5,7 @@
 
 <!-- Post excerpt -->
 <article class="md-post md-post--excerpt">
-    {% if false %}
+    {% if not page.file.src_uri.startswith("usecases/") %}
     <header class="md-post__header">
   
       <!-- Post authors -->
@@ -13,7 +13,7 @@
         <nav class="md-post__authors md-typeset">
           {% for author in post.authors %}
             <span class="md-author">
-              <img src="{{ author.avatar }}" alt="{{ author.name }}" />
+              <img src="{{ author.avatar | url }}" alt="{{ author.name }}" />
             </span>
           {% endfor %}
         </nav>
