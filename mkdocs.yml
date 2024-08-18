@@ -2,8 +2,8 @@ site_name: Fiori Tracker
 site_url: https://fioritracker.org
 site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralized platform for collaborating on requirements.'
 nav:
-  - User Manual: user-manual.md
   - Explore Details: explore-fiori-tracker-details.md
+  - User Manual: user-manual.md
   - Installation: inst.md
   - Support: support.md  
   - Philosophy: philosophy.md   
