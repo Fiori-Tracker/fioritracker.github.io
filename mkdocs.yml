@@ -68,6 +68,7 @@ extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
   - assets/javascripts/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/timeago.js/4.0.2/timeago.min.js
 markdown_extensions:
   - admonition
   - attr_list
