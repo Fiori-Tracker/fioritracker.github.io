@@ -77,6 +77,19 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
     **Application Service Owner global ERP**<br>
     **Global mining and minerals processing company**
 
+<div class="grid cards" markdown>
+
+<!-- 
+    ext:latest_blog_posts | 
+    root=customer-list; 
+    amount=3; 
+    display=markdown; 
+    title=:material-package-variant-closed-check:{ .lg .middle } Recent installations; 
+    read_more=:octicons-arrow-right-24: All customers;
+-->
+
+</div>
+
 ## Offer
 
 Contact us to get an offer.

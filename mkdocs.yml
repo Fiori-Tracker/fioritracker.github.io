@@ -116,6 +116,7 @@ plugins:
   - sap_icons
   - only_blog_nav:
       hook_blog_dir: usecases
+  - latest_blog_posts
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
