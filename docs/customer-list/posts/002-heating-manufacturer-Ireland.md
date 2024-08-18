@@ -7,7 +7,6 @@ categories:
 # Heating and cooling equipment producer (Ireland)
 
 Implemented and operated by: SAP BI/Analytics Team<br>
-Monitored systems: SAP S/4HANA 2021, Production system with 400 users
 
 <!-- more -->
 
