@@ -2,6 +2,7 @@ site_name: Fiori Tracker
 site_url: https://fioritracker.org
 site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralized platform for collaborating on requirements.'
 nav:
+  - Customer list: customer-list/index.md
   - Explore Details: explore-fiori-tracker-details.md
   - User Manual: user-manual.md
   - Installation: inst.md
@@ -82,6 +83,12 @@ plugins:
   - blog:
       archive: false
       blog_dir: usecases
+      post_url_format: "{slug}"
+      post_readtime: false
+      pagination: false
+  - blog:
+      archive: false
+      blog_dir: customer-list
       post_url_format: "{slug}"
       post_readtime: false
       pagination: false
