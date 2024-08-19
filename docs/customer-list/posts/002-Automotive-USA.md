@@ -2,7 +2,7 @@
 date: 2022-09-01
 slug: "Luxury-electric-vehicles-producer-USA"
 description: SAP S/4HANA production for 564 custom apps and 23 876 standard apps 
-categories:
+industries:
   - Automotive
 ---
 # Luxury electric vehicles producer (USA)

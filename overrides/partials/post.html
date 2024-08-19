@@ -46,6 +46,24 @@
               {% endfor -%}
             </li>
           {% endif %}
+
+          <!-- Post industries -->
+          {% if post.industries %}
+            <li class="md-meta__item">
+              {# lang.t("blog.categories.in") #}
+              {% set ind_len = post.industries | length %}
+              Industr{{ 'y' if ind_len < 2 else 'ies' }}
+              {% for industry in post.industries %}
+                <a
+                  href="{{ industry.url | url }}"
+                  class="md-meta__link"
+                >
+                  {{- industry.title -}}
+                </a>
+                {%- if loop.revindex > 1 %}, {% endif -%}
+              {% endfor -%}
+            </li>
+          {% endif %}
   
           <!-- Post readtime -->
           {% if post.config.readtime %}

@@ -1,7 +1,7 @@
 ---
 date: 2022-07-01
 slug: "Ferro-alloys-producer-and-exporter-India"
-categories:
+industries:
   - Ferros metal
 ---
 # Ferro alloys producer and exporter (India)

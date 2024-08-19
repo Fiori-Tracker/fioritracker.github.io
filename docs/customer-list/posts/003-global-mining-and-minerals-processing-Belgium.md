@@ -2,7 +2,7 @@
 date: 2021-05-01
 slug: "global-mining-and-minerals-processing-Belgium"
 description: Upgrade preparation aid / Key apps and potential for deprecation identification / Simplified analysis
-categories:
+industries:
   - Mining
 ---
 # Global mining and minerals processing company (Belgium)

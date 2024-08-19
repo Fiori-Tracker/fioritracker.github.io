@@ -114,6 +114,24 @@
                       </li>
                     {% endif %}
 
+                    <!-- Post industries -->
+                    {% if page.industries %}
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          {% include ".icons/material/briefcase.svg" %}
+                          <span class="md-ellipsis">
+                            {{ lang.t("blog.categories.in") }}
+                            {% for industry in page.industries %}
+                              <a href="{{ industry.url | url }}">
+                                {{- industry.title -}}
+                              </a>
+                              {%- if loop.revindex > 1 %}, {% endif -%}
+                            {% endfor -%}
+                          </span>
+                        </div>
+                      </li>
+                    {% endif %}
+
                     <!-- Post readtime -->
                     {% if page.config.readtime %}
                       {% set time = page.config.readtime %}

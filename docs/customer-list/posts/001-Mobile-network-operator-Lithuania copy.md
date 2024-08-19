@@ -1,7 +1,7 @@
 ---
 date: 2018-08-01
 slug: "mobile-network-operator-Lithuania"
-categories:
+industries:
   - Telecommunications
 ---
 # Mobile network operator (Lithuania)

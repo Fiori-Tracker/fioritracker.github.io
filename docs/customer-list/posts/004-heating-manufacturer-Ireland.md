@@ -1,7 +1,7 @@
 ---
 date: 2022-05-01
 slug: "heating-manufacturer-Ireland"
-categories:
+industries:
   - Manufacturing
 ---
 # Heating and cooling equipment producer (Ireland)

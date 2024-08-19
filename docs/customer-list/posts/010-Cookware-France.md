@@ -1,7 +1,7 @@
 ---
 date: 2024-03-01
 slug: "cookware-manufacturer-France"
-categories:
+industries:
   - Manufacturing
 ---
 # One of world's largest cookware manufacturers (France)

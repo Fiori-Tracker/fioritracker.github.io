@@ -1,7 +1,7 @@
 ---
 date: 2022-02-01
 slug: "Automobiles-manufacturer-Australia"
-categories:
+industries:
   - Manufacturing
 ---
 # Subsidiary of world's largest automobiles and motorcycles manufacturer (Australia)

@@ -124,6 +124,11 @@ plugins:
   - only_blog_nav:
       hook_blog_dir: customer-list
   - latest_blog_posts
+  - custom_blog_categorization:
+      hook_blog_dir: customer-list
+      render_name: Industries
+      code_name: industries
+      url_format: industry/{slug}
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
