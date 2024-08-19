@@ -2,7 +2,8 @@ site_name: Fiori Tracker
 site_url: https://fioritracker.org
 site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralized platform for collaborating on requirements.'
 nav:
-  - Customer list: customer-list/index.md
+  - Customer list: 
+    - customer-list/index.md
   - Explore Details: explore-fiori-tracker-details.md
   - User Manual: user-manual.md
   - Installation: inst.md
@@ -93,6 +94,7 @@ plugins:
       archive: false
       blog_dir: customer-list
       post_url_format: "{slug}"
+      post_date_format: "yyyy MMMM"  # Due to the blog implementation the last instance sets this value globally, use `unique_blog_date` to mitigate this bug when needed
       post_readtime: false
       pagination: false
   - social:
@@ -119,6 +121,8 @@ plugins:
   - sap_icons
   - only_blog_nav:
       hook_blog_dir: usecases
+  - only_blog_nav:
+      hook_blog_dir: customer-list
   - latest_blog_posts
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
