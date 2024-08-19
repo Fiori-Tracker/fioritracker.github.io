@@ -4,3 +4,4 @@ description: Explore how global companies like those in manufacturing and tech u
 ---
 # Customer list
 
+Customer feedback is key to software maturity, driving essential fixes and improvements. These customers played a vital role in shaping Fiori Tracker:
