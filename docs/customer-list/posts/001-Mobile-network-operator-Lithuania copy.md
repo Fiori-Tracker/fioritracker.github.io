@@ -1,5 +1,5 @@
 ---
-date: 2018-11-01
+date: 2018-08-01
 slug: "mobile-network-operator-Lithuania"
 categories:
   - Telecommunications
