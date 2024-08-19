@@ -78,6 +78,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - neoteroi.timeline
+  - toc:
+      permalink: true
 plugins:
   - search
   - macros

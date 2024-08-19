@@ -7,7 +7,7 @@ categories:
 # Finance (Germany)
 
 Implemented and operated by: SAP Developer Team<br>
-Systems: SAP S/4HANA 2021, directory of SAP Fiori launchpad enabled custom nad extended applications
+Systems: SAP S/4HANA 1909, 2021, directory of SAP Fiori launchpad enabled custom nad extended applications
 
 <!-- more -->
 
