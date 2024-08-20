@@ -84,8 +84,8 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
     root=customer-list; 
     amount=3; 
     display=markdown; 
-    title=:material-package-variant-closed-check:{ .lg .middle } Recent installations; 
-    read_more=:octicons-arrow-right-24: All customers;
+    title=:material-package-variant-closed-check:{ .lg .middle } Featured installations; 
+    read_more=:octicons-arrow-right-24: Customer list;
 -->
 
 </div>
