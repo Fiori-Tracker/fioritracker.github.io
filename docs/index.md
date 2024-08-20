@@ -92,10 +92,6 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
 ## Offer
 
-Contact us to get an offer.
-
-[Get an offer](offer.md){ .md-button .md-button--primary }
-
-[Get it for free](free-offer.md){ .md-button .md-button--primary }
+[Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary }   it's free because we are looking for exposure
 
 
