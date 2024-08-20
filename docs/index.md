@@ -61,7 +61,7 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
 [![SAP Fiori Role Testing](res/ss04.png)](res/ss04.png){ align=left width=300 } 
     
-- [SAP Fiori Role Testing Monitoring](https://foriroletesting.com) to ensure the team tests all SAP Fiori applications before production deployment
+- [SAP Fiori Role Testing Monitoring](https://fioriroletesting.com) to ensure the team tests all SAP Fiori applications before production deployment
 
 </div>
 
