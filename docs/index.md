@@ -50,20 +50,37 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
 <div class="grid" markdown>
 
-[![Application list](res/ss01.png)](res/ss01.png){ align=left width=300 } 
+- [SAP Fiori App Usage log](https://help.fioriappsusage.org) with unique app IDs for all apps, including extended and custom apps
+
+[![Application detail screen](res/ss03.png)](res/ss03.png){ align=right width=300 } 
     
-- "Fiori library" for your SAP S/4HANA project with all applications in scope, including custom and extended ones
-- You can enable attributes like Git repo, docs link, or any you choose.
+</div>
+
+
+<div class="grid" markdown>
+
+[![SAP Fiori Role Testing](res/ss04.png)](res/ss04.png){ align=left width=300 } 
+    
+- [SAP Fiori Role Testing Monitoring](https://foriroletesting.com) to ensure the team tests all SAP Fiori applications before production deployment
 
 </div>
 
 <div class="grid" markdown>
 
+- "Fiori library" for your SAP S/4HANA project with all applications in scope, including custom and extended ones
+- You can enable attributes like Git repo, docs link, or any you choose.
+
+[![Application list](res/ss01.png)](res/ss01.png){ align=right width=300 } 
+
+</div>
+
+<div class="grid" markdown>
+
+[![Application detail screen](res/ss02.png)](res/ss02.png){ align=left width=300 } 
+
 - Mapping to Roles, Catalogs, [Test users](sap-fiori-test-users/overview.md)
 - Functional area assignment for clarity of responsibility
 
-[![Application detail screen](res/ss02.png)](res/ss02.png){ align=right width=300 } 
-    
 </div>
 
 ## Trusted by our customers
@@ -92,6 +109,6 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
 ## Offer
 
-[Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary }   it's free because we are looking for exposure
+[Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary }  help us get exposure
 
 
