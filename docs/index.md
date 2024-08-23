@@ -4,7 +4,20 @@ title: Track your SAP Fiori launchpad apps
 
 # Track your SAP Fiori launchpad apps
 
-Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-roles.md), reducing delays. It connects app records with catalogs, roles, and [usage data](https://help.fioriappsusage.org), making it easier to [gather and maintain requirements](usecases/posts/requirements-gathering.md) for SAP Fiori launchpad content.
+Stay ahead with [testing insights](https://help.fioriappsusage.org). Link app records to catalogs and roles for [organized](satisfied-interests-and-roles.md) SAP Fiori launchpad setup.
+
+[![Fiori Tracker Tiles](res/fau-ss.png)](res/fau-ss.png)
+
+## Trusted by our customers
+
+!!! quote " "
+
+    The Fiori App Usage report, part of the Fiori Tracker Suite, has helped us tremendously in the preparation for our upgrade from S4HANA 1809 with a standalone Gateway to S4HANA 2022 Embedded Gateway. Clearly showing which apps were the most important and which could be deprecated, reducing the scope/workload for the upgrade team.  This analysis alone is an almost impossible task without Fiori Tracker, while SAP captures such analytics for every user, it is cryptic and difficult/impossible to mine. The Fiori App Usage Report makes this very clear and easy.
+
+    The report has also helped us, more than once, to audit which user had executed -unwillingly- a certain wrong action, enabling us to further optimize the roles associated to the App. The Fiori Tracker Suite is filling a huge gap left by SAP to make such usage statistics visible to the customer.
+
+    **Application Service Owner global ERP**<br>
+    **Global mining and minerals processing company**
 
 ## Benefits
 
@@ -83,16 +96,7 @@ Fiori Tracker [streamlines SAP Fiori app management](satisfied-interests-and-rol
 
 </div>
 
-## Trusted by our customers
 
-!!! quote " "
-
-    The Fiori App Usage report, part of the Fiori Tracker Suite, has helped us tremendously in the preparation for our upgrade from S4HANA 1809 with a standalone Gateway to S4HANA 2022 Embedded Gateway. Clearly showing which apps were the most important and which could be deprecated, reducing the scope/workload for the upgrade team.  This analysis alone is an almost impossible task without Fiori Tracker, while SAP captures such analytics for every user, it is cryptic and difficult/impossible to mine. The Fiori App Usage Report makes this very clear and easy.
-
-    The report has also helped us, more than once, to audit which user had executed -unwillingly- a certain wrong action, enabling us to further optimize the roles associated to the App. The Fiori Tracker Suite is filling a huge gap left by SAP to make such usage statistics visible to the customer.
-
-    **Application Service Owner global ERP**<br>
-    **Global mining and minerals processing company**
 
 <div class="grid cards" markdown>
 
