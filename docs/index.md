@@ -19,6 +19,19 @@ Stay ahead with [testing insights](https://help.fioriappsusage.org). Link app re
     **Application Service Owner global ERP**<br>
     **Global mining and minerals processing company**
 
+<div class="grid cards" markdown>
+
+<!-- 
+    ext:latest_blog_posts | 
+    root=customer-list; 
+    amount=3; 
+    display=markdown; 
+    title=:material-package-variant-closed-check:{ .lg .middle } See who is unlocking the potential of its SAP S/4HANA; 
+    read_more=:octicons-arrow-right-24: Featured installations;
+-->
+
+</div>
+
 ## Benefits
 
 <div class="grid cards" markdown>
@@ -95,23 +108,6 @@ Stay ahead with [testing insights](https://help.fioriappsusage.org). Link app re
 - Functional area assignment for clarity of responsibility
 
 </div>
-
-
-
-<div class="grid cards" markdown>
-
-<!-- 
-    ext:latest_blog_posts | 
-    root=customer-list; 
-    amount=3; 
-    display=markdown; 
-    title=:material-package-variant-closed-check:{ .lg .middle } Featured installations; 
-    read_more=:octicons-arrow-right-24: Customer list;
--->
-
-</div>
-
-## Offer
 
 [Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary }  help us get exposure
 
