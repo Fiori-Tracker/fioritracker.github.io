@@ -1,6 +1,6 @@
 ---
 title: Free offer
-description: Get our product for free by allowing us to feature your company name as a Fiori Role Testing customer. Limited slots available!
+description: Get our product for free by allowing us to feature your company name as a Fiori Tracker customer. Limited slots available!
 nype_config:
   js:
     contact_form_subject: 'Fiori Tracker: Get for free request'
