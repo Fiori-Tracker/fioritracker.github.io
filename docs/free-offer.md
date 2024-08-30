@@ -5,6 +5,7 @@ nype_config:
   js:
     contact_form_subject: 'Fiori Tracker: Get for free request'
   js_include: contact_form_action_hex
+
 ---
 # Free Offer Form
 
