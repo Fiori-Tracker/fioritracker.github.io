@@ -33,13 +33,13 @@ Limited slots available!
             required
             type="text"
         >
-        <label for="email">E-mail:</label>
+        <label for="email">Company e-mail:</label>
         <input
             autocomplete="email"
             class="md-input"
             id="email"
             name="email"
-            placeholder="Input your e-mail"
+            placeholder="Input your company e-mail"
             required
             type="email"
         >
