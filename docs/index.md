@@ -4,7 +4,7 @@ title: Track your SAP Fiori launchpad apps
 
 # Track your SAP Fiori launchpad apps
 
-Stay ahead with [testing insights](https://help.fioriappsusage.org). Link app records to catalogs and roles for [organized](satisfied-interests-and-roles.md) SAP Fiori launchpad setup.
+Stay ahead with [app usage insights](https://help.fioriappsusage.org). Link app records to catalogs and roles for [organized](satisfied-interests-and-roles.md) SAP Fiori launchpad setup.
 
 [![Fiori Tracker Tiles](res/fau-ss.png)](res/fau-ss.png)
 
