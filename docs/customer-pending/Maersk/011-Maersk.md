@@ -9,12 +9,12 @@ industries:
 # Maersk 
 
 - Implemented and operated by: SAP Technology Platform team<br>
-- Monitored SAP landscapes:  SAP S/4HANA 2021 Finance, SAP S/4HANA 2021 Ships<br>
+- Monitored SAP landscapes:  SAP S/4HANA 2021 Finance and Landside business<br>
 <!-- more -->
 
 !!! quote " "
 
-    *We plan to use Fiori Tracker Suite, for our migration from standalone Gateway to Embedded Gateway. With Fiori Tracker, we aim to identify the most important apps and those that can be deprecated, simplifying the upgrade team's workload.*
+    *We plan to use Fiori Tracker Suite, for our migration from Standalone Gateway to Embedded Gateway. With Fiori Tracker, we aim to identify the most important apps and those that can be deprecated, simplifying the upgrade team's workload.*
          
     *Post-migration, we will also focus on improving performance. Fiori Tracker will help us streamline our app portfolio, ensuring the embedded deployment runs faster and more efficiently."*
 
@@ -28,6 +28,8 @@ industries:
 
 At a glance: 
 
+- Two systems: SAP S/4HANA 2021 dedicated for Finance and SAP S/4HANA 2021 dedicated Landside Transportation
+- SAP Fiori apps for processes: Lead to Agreement, Service Delivery, Account to Report, Order to Cash, Procure to Pay
 - Support of SAP Gateway migration 
 - App Optimization: Identify key apps, deprecate others
 - Focus on performance improvements post-migration
