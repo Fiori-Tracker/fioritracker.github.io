@@ -6,7 +6,7 @@ slug: "Maersk"
 industries:
   - Logistics
 ---
-# Maersk sprints ahead with Fiori Tracker app usage insights
+# Maersk SAP team sharpens its game plan with Fiori Tracker
 
 - Implemented and operated by: SAP Technology Platform team<br>
 - Monitored SAP landscapes:  SAP S/4HANA 2021 Finance and Landside business<br>
