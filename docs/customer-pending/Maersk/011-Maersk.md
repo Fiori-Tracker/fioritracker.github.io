@@ -1,6 +1,6 @@
 ---
 title: Maersk - Case study
-description: <<We plan to use Fiori Tracker, for our migration from standalone SAP Gateway>> - Gokul Radhakrishnan, SAP Senior Solution Archiect
+description: We plan to use Fiori Tracker, for our migration from standalone SAP Gateway- Gokul Radhakrishnan, SAP Senior Solution Archiect
 date: 2024-09-05
 slug: "Maersk"
 industries:
