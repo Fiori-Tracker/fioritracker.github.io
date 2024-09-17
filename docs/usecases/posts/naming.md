@@ -3,6 +3,8 @@ date: 2020-02-19
 slug: "SPS03/naming"
 categories:
   - Project management
+  - Automation
+  - Governance
 ---
 # Enforcing naming conventions
 
