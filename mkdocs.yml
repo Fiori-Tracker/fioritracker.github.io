@@ -132,7 +132,7 @@ plugins:
   - similar_blog_posts:
       title: See also
       hook_blog_dir: usecases
-      max_shown: -1
+      max_shown: 5
 copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
