@@ -4,14 +4,14 @@ site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralize
 nav:
   - Customer list: 
     - customer-list/index.md
-  - Explore Details: explore-fiori-tracker-details.md
+  - Use cases:
+    - usecases/index.md
   - User Manual: user-manual.md
   - Installation: inst.md
   - Support: support.md  
+  - Explore Details: explore-fiori-tracker-details.md
   - Philosophy: philosophy.md   
   - History: history.md
-  - Usecases:
-    - usecases/index.md
   - Executive Summary: executive-summary.md
   - Impressum: impressum.md
 

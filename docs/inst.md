@@ -14,7 +14,7 @@ We have designed Fiori Tracker components to enable flexible installation option
 
 ## Minimal requirements
 
-The [minimal requirement](inst/min.md) is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52. Fiori Tracker is compatible with all SAP S/4HANA 1610-2023 and there also an option to run it on ECC systems (without S/4 HANA).
+The [minimal requirement](inst/min.md) is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52. Fiori Tracker is compatible with all SAP S/4HANA 1610-2023 and there also an option to run it on ECC systems (without SAP S/4HANA).
 
 
 
