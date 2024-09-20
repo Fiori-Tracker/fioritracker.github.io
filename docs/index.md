@@ -1,5 +1,7 @@
 ---
 title: Track your SAP Fiori launchpad apps
+nype_config:
+  container_css: content-only justify wide-content
 ---
 
 # Track your SAP Fiori launchpad apps
