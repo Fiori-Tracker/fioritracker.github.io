@@ -7,9 +7,14 @@ nav:
   - Use cases:
     - usecases/index.md
   - User Manual: user-manual.md
-  - Installation: inst.md
-  - Support: support.md  
-  - Explore Details: explore-fiori-tracker-details.md
+  - Explore Details: 
+    - explore-fiori-tracker-details.md
+    - Satisfied Interests and Roles: satisfied-interests-and-roles.md
+    - Tracked content: tracked.md
+    - Components: fiori-tracker-suite-application-list.md
+    - Frequently Asked Questions: faq.md
+    - Insallation: inst.md
+    - Support: support.md
   - Philosophy: philosophy.md   
   - History: history.md
   - Executive Summary: executive-summary.md
@@ -59,6 +64,7 @@ theme:
   logo: 'assets/images/logo.png'
   custom_dir: overrides
   features:
+    - navigation.tabs
     - navigation.indexes
   nype_config:
     contact_form_action_hex: 6148523063484d364c79396d62334a74637935316269317a6447463061574d75593239744c325a76636d317a4c7a45354e6a6b31597a5268597a4e6d4e6a426b5954646b59325268595455304d4459334e32597a5a57517a4d47466d4e546c6a5a44513d

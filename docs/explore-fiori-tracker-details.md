@@ -13,10 +13,3 @@ Fiori Tracker offers a stack of relations linking your SAP Fiori application to 
 
 [![](res/bubbles.png)](res/bubbles.png)
 
-## [Satisfied Interests and Roles](satisfied-interests-and-roles.md)
-
-## [Tracked content](tracked.md)
-
-## [Components](fiori-tracker-suite-application-list.md)
-
-## [Frequently Asked Questions](faq.md)
