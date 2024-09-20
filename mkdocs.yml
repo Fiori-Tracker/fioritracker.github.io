@@ -15,9 +15,12 @@ nav:
     - Frequently Asked Questions: faq.md
     - Insallation: inst.md
     - Support: support.md
-  - Philosophy: philosophy.md   
-  - History: history.md
-  - Executive Summary: executive-summary.md
+    - Philosophy: philosophy.md  
+    - History: history.md
+  - Executive Summary: 
+    - executive-summary.md
+    - Philosophy: philosophy.md  
+    - History: history.md
   - Impressum: impressum.md
 
 # Explicitly confirm there is awareness of files not in nav
