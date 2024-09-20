@@ -2,7 +2,7 @@
 
 ### 1. Is it really free?
 
-Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list. We are able to maintain Fiori Tracker with an income that [commercial pieces](com.md) of Fiori Tracker Suite provide.
+Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list. 
 
 ### 2. Does Fiori Tracker send any data (statistics) to the outside servers (what is the security model)?
 
