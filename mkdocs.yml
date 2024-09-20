@@ -125,10 +125,10 @@ plugins:
   - custom_social_logo
   - custom_redirects
   - sap_icons
-  - only_blog_nav:
-      hook_blog_dir: usecases
-  - only_blog_nav:
-      hook_blog_dir: customer-list
+  # - only_blog_nav:
+  #     hook_blog_dir: usecases
+  # - only_blog_nav:
+  #     hook_blog_dir: customer-list
   - latest_blog_posts
   - custom_blog_categorization:
       hook_blog_dir: customer-list
