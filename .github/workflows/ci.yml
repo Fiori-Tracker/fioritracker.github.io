@@ -4,68 +4,16 @@ on:
     branches:
       - master 
       - main
-env:
-  CI: true
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - name: Download variable dependency list from the theme
-        run: |
-          wget -O requirements-theme.txt https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/requirements.txt
-          wget -O pyproject-theme.toml https://raw.githubusercontent.com/nypesap/mkdocs-nype/main/pyproject.toml
-      - name: Install Python
-        id: install-python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.x
-          cache: pip
-      - name: Process Python Cache
-        id: cache-requirements
-        uses: actions/cache@v4
-        with:
-          path: venv
-          key: requirements-${{ steps.install-python.outputs.python-version }}-${{ hashFiles('requirements*.txt', 'pyproject*.toml') }}
-      - name: Install Uncached Requirements
-        if: steps.cache-requirements.outputs.cache-hit != 'true'
-        run: |
-          python -m venv venv
-          source venv/bin/activate
-          pip install -r requirements.txt
-      - run: mkdir -p .cache; echo mkdocs-material > .cache/safe
-      - uses: actions/cache@v4
-        with:
-          key: mkdocs-material-${{ hashfiles('.cache/**') }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: venv/bin/python -m mkdocs_nype --minify --inject-minified
-      - run: venv/bin/python -m mkdocs build --strict
-      - name: Prepare deploy archive
-        run: |
-          zip -r site.zip site/
-          sha256sum site.zip > checksum
-          sha256sum -c checksum
-          mkdir -p deploy
-          zip deploy/deploy.zip site.zip checksum
-      - name: Deploy files via rsync and SSH
-        uses: easingthemes/ssh-deploy@v5.1.0
-        with:
-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: deploy/
-          remote_host: ${{ secrets.SSH_HOST }}
-          remote_port: ${{ secrets.SSH_PORT }}
-          remote_user: ${{ secrets.SSH_USER }}
-          target: ${{ secrets.SSH_TARGET }}
-          script_after_required: true
-          script_after: |
-            export SSH_TARGET=${{ secrets.SSH_TARGET }}
-            ${{ secrets.SSH_COMMAND }}
-      
+    uses: nypesap/mkdocs-nype/.github/workflows/reusable_deploy.yml@main
+    secrets:
+      SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      SSH_HOST: ${{ secrets.SSH_HOST }}
+      SSH_PORT: ${{ secrets.SSH_PORT }}
+      SSH_USER: ${{ secrets.SSH_USER }}
+      SSH_TARGET: ${{ secrets.SSH_TARGET }}
+      SSH_COMMAND: ${{ secrets.SSH_COMMAND }}
