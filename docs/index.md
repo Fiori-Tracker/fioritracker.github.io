@@ -21,6 +21,7 @@ Stay ahead with [app usage insights](https://help.fioriappsusage.org). Link app 
     **Application Service Owner global ERP**<br>
     **Global mining and minerals processing company**
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));" markdown>
 <div class="grid cards" markdown>
 
 <!-- 
@@ -32,6 +33,13 @@ Stay ahead with [app usage insights](https://help.fioriappsusage.org). Link app 
     read_more=:octicons-arrow-right-24: Featured installations;
 -->
 
+</div>
+
+<div style="padding: 0 1em; display: flex; align-items: center;" markdown>
+
+[Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary } help us get exposure
+
+</div>
 </div>
 
 ## Benefits
