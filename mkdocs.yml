@@ -24,10 +24,6 @@ nav:
     - History: history.md
   - Impressum: impressum.md
 
-# Exclude pages from being added, keep in serve mode
-draft_docs: |
-  /customer-pending/
-
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
   /index.md
@@ -80,6 +76,8 @@ theme:
     contact_form_email_hex: 5047456761484a6c5a6a306962574670624852764f6d6474514735775a53356a6253492b5a323141626e426c4c6d4e745043396850673d3d
     more_favicons: true
     safari_mask_color: '#08d1c7'
+    exclude_via_robots: |
+      /customer-pending/
 extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
