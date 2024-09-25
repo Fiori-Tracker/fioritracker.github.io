@@ -52,4 +52,4 @@ We are seeking functional experts to use and promote Fiori Tracker at their clie
 
 If the customer agrees to have their name published on the Fiori Tracker customer list, the tool is free. If they prefer to pay instead, the functional consultant earns 25% of the price as an advocate.
 
-Contact Greg Malewski at <span class="nype-code-button nype-show-email" markdown>`Show e-mail`</span> if you are interested.
+Contact Greg Malewski at {% include 'hidden_email.md' %} if you are interested.

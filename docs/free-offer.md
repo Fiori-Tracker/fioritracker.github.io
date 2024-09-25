@@ -13,47 +13,4 @@ Get Fiori Tracker for free by allowing us to feature your company name as a Fior
 
 Limited slots available!
 
-<div class="nype-form-wrapper">
-    <form class="nype-form" method="POST">
-        <label for="fullname">Full Name:</label>
-        <input 
-            class="md-input" 
-            id="fullname"
-            name="fullname"
-            placeholder="Input your name"
-            required
-            type="text"
-        >
-        <label for="companyname">Company Name:</label>
-        <input 
-            class="md-input" 
-            id="companyname"
-            name="companyname"
-            placeholder="Input your company name"
-            required
-            type="text"
-        >
-        <label for="email">Company e-mail:</label>
-        <input
-            autocomplete="email"
-            class="md-input"
-            id="email"
-            name="email"
-            placeholder="Input your company e-mail"
-            required
-            type="email"
-        >
-        <label for="message">What can we do for you?:</label>
-        <textarea
-            class="md-input"
-            id="message"
-            name="message"
-            placeholder="Input your message"
-            required
-        ></textarea>
-        <button 
-            class="md-button md-button--primary"
-            type="submit"
-        >Submit</button>
-    </form>
-</div>
+{% include 'contact_form.md' %}

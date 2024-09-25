@@ -98,7 +98,8 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-  - macros
+  - macros:
+      on_error_fail: !ENV [CI, false]
   - blog:
       archive: false
       blog_dir: usecases
