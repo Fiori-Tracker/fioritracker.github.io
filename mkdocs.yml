@@ -24,6 +24,10 @@ nav:
     - History: history.md
   - Impressum: impressum.md
 
+# Exclude pages from being added, keep in serve mode
+draft_docs: |
+  /customer-pending/
+
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
   /index.md
