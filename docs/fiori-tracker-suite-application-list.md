@@ -6,7 +6,7 @@ Fiori Tracker Suite is composed of number of 15 applications. Here is the list o
 |----------------------------------------------------|-------------------------|
 | [{{ prod.core.nameshort }}](core/SPS03/main.md)    | {{prod.core.desc}}      |
 | [{{ prod.ro.nameshort }}](ro/FPS01/main.md)        | {{ prod.ro.desc }}      |
-| [Catalog and App reports](cat-app/SPS02/main.md)   | {{ prod.catAppRep.desc}}|
+| [Catalog and App reports](app-and-catalog-reports/index.md)   | {{ prod.catAppRep.desc}}|
 | [{{ prod.ch.name }}](ch/FPS01/main.md)             | {{ prod.ch.desc }}      |
 | [{{ prod.so.name }}](so/FPS01/main.md)             | {{ prod.so.desc }}      |
 | [{{ prod.tu.name }}](sap-fiori-test-users/overview.md)             | {{ prod.tu.desc }}      |
