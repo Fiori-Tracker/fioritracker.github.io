@@ -38,7 +38,7 @@ We are seeking functional experts to use and promote Fiori Tracker at their clie
 
     [:octicons-arrow-right-24: Universal app IDs](usecases/posts/app-identification.md)
 
--   :material-hand-front-right:{ .lg .middle } __Clarity of responsibility__
+-   :material-badge-account-horizontal-outline:{ .lg .middle } __Clarity of responsibility__
 
     ---
 
