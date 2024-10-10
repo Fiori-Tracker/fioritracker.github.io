@@ -1,8 +1,8 @@
 ---
 title: Features for SAP functional experts
-description: SAP functional experts benefits provided by the tool.
+description: How Fiori Tracker boosts SAP functional experts productivity
 ---
-# Why SAP functional experts use Fiori Tracker
+# How Fiori Tracker boosts SAP functional experts productivity
 
 <div class="grid cards" markdown>
 
