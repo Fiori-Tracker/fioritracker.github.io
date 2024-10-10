@@ -119,6 +119,5 @@ Stay ahead with [app usage insights](https://help.fioriappsusage.org). Link app 
 
 </div>
 
-[Get an offer](offer.md){ .md-button .md-button--primary } [Get it for free](free-offer.md){ .md-button .md-button--primary }  help us get exposure
 
 
