@@ -144,6 +144,9 @@ plugins:
       title: See also
       hook_blog_dir: usecases
       max_shown: 5
+  - server_redirects:
+      raw_redirects:
+        /V?2020/(.+): /$1
 copyright: Copyright &copy; 2024 Nype
 extra:
   analytics:
