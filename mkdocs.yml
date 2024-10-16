@@ -105,6 +105,19 @@ plugins:
       pagination: false
       hide_read_more: true
       hide_post_metadata: true
+      blog_cards: all
+      blog_card_continues:
+        _default: Open {category} use case
+      blog_card_icons:
+        _default: material/file-document
+        # sap_icons plugin allows to use ext/ SAP icons
+        Automation: ext/process
+        Blueprinting: ext/newspaper
+        Governance: ext/company-view
+        Project management: ext/manager
+        Scope management: ext/bar-chart
+        Support: ext/headset
+        Testing: ext/wrench
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list
