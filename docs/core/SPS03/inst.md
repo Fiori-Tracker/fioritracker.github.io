@@ -14,4 +14,3 @@ Execute the following steps in the {% if  prod.core.cen == 'X' %} Central system
 If you are installing the components in the system that had their previous versions, please perform [Fiori launchpad cache reset](../../inst/flpcache.md) for the bsp applications: `zftapps` and `zftcats.`
 
 If you are installing Fiori Tracker Core for the first time please check [Evaluation deployment](eval-dep.md) for details on installing Fiori Tracker Core to one system (f.e. Sandbox).
-
