@@ -5,10 +5,14 @@ description: 'Enable OData service: Generate runtime objects in SEGW, add servic
 
 To enable oData service complete the steps described below. 
 
+!!! info
+
+    Follow these steps for each project / service one by one, not simultaneously. 
+
 ## 1. Generate Runtime objects in transaction SEGW
 
 1.1. Start SAP Gui transaction `SEGW`<br>
-1.2. Using the menu `Project` > `Open` - Open the project `service name_projectname`.
+1.2. Using the menu `Project` > `Open` - Open the `service name_projectname`.
 
 [![](res/segw.png)](res/segw.png)
 

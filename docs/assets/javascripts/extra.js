@@ -77,13 +77,14 @@ document.addEventListener("DOMContentLoaded", () => {
     newNodes.push(codeElement);
     // Add comma between the values
     if (i !== param.length - 1) {
-      newNodes.push(document.createTextNode(", "));
+      const itemSep = singularForStep[step] !== "service" ? ", " : " / ";
+      newNodes.push(document.createTextNode(itemSep));
     }
   }
 
   // Add a word to represent the data, easier to get singular and plural values right
   // instead of static word in text
-  if (param.length === 1) {
+  if (param.length === 1 || singularForStep[step] === "service") {
     newNodes.push(document.createTextNode(` ${singularForStep[step]}`));
   } else {
     newNodes.push(document.createTextNode(` ${singularForStep[step]}s`));
@@ -100,23 +101,37 @@ document.addEventListener("DOMContentLoaded", () => {
       el.replaceWith(...newNodes.map(n => n.cloneNode(true)));
 
     }
-    // If the innerHTML includes the placeholder, but isn't a perfect match then check if there is 
-    // exactly 1 ParamValue and there is the `_projectname` value.
-    // Replace the whole innerHTML of the code node as the textNode can be omitted. Example: `service name_projectname`
-    else if (el.innerHTML.includes(placeholder[step]) && el.innerHTML.includes("_projectname") && param.length === 1) {
+    // If the innerHTML includes the placeholder, but isn't a perfect match then adjust the nodes.
+    // Example: `service name_projectname`, `service name_0001`
+    else if (el.innerHTML.includes(placeholder[step])) {
 
-      // Replace the whole text with the prefix of the param. Assuming the prefix is separated with `_`
-      // 
-      el.innerHTML = param[0].split("_")[0];
+      const dynamicNodes = [];
+      const testWithPlaceholder = el.innerText.trim();
 
-    }
-    // If the innerHTML includes the placeholder, but isn't a perfect match then check if there is 
-    // exactly 1 ParamValue.
-    // Replace the placeholder within it and the textNode can be omitted. Example: `service name_0001`
-    else if (el.innerHTML.includes(placeholder[step]) && param.length === 1) {
+      for (const n of newNodes) {
+        const node = n.cloneNode(true);
+        if (node.nodeType !== Node.TEXT_NODE) {
+          // Remove the "SRV" suffix after "_". Assuming "_" as the separator.
+          if (el.innerHTML.includes("_projectname")) {
+            node.innerText = node.innerText.split("_")[0];
+          // Replace the placeholder inside the bigger amount of text.
+          } else {
+            node.innerText = testWithPlaceholder.replace(placeholder[step], node.innerText);
+          }
+        }
+        dynamicNodes.push(node);
+      }
+      
+      if (el.innerHTML.includes("_projectname")) {
+        if (param.length === 1 || singularForStep[step] === "service") {
+          dynamicNodes[dynamicNodes.length - 1] = document.createTextNode(" project");
+        } else {
+          dynamicNodes[dynamicNodes.length - 1] = document.createTextNode(" projects");
+        }
+      }
+      
+      el.replaceWith(...dynamicNodes);
 
-      // Replace the placeholder inside the bigger amount of text
-      el.innerHTML = el.innerHTML.replace(placeholder[step], param[0]);
     }
   }
 });
