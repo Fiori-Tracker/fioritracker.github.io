@@ -2,7 +2,7 @@
 date: 2020-02-23
 slug: "SPS03/recording-test-results"
 categories:
-  - Testing
+- Test management
 ---
 # Recording test results
 
