@@ -117,7 +117,7 @@ plugins:
         Project management: ext/manager
         Scope management: ext/bar-chart
         Support: ext/headset
-        Testing: ext/wrench
+        Test management: ext/wrench
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list
