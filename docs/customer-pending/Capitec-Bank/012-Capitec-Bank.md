@@ -26,7 +26,7 @@ industries:
 
 At a glance: 
 
-- SAP S/4HANA 2022 
+- SAP S/4HANA 2020 
 - 2000 end-users across bank's subsidiaries
 - App Optimization: Identify key apps, deprecate others
 - Streamlining apps for faster deployment
