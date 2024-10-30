@@ -230,7 +230,7 @@ extra:
     fr:
       name: 'Fiori Role Testing'
       nameshort: 'Fiori Role Testing'
-      desc: 'Spot untested apps automatically'
+      desc: 'The app tracks role testing to maintain the quality of production deployment.'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
