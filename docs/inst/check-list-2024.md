@@ -1,4 +1,4 @@
-# Fiori Tracker app with their technical components - check list
+# Fiori Tracker apps with their technical components - check list
 
 
     
