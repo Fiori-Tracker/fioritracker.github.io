@@ -1,6 +1,6 @@
 ---
 title: Maersk - Case study
-description: We plan to use Fiori Tracker, for our migration from standalone SAP Gateway- Gokul Radhakrishnan, SAP Senior Solution Archiect
+description: We plan to use Fiori Tracker, for our migration from standalone SAP Gateway- Gokul Radhakrishnan, SAP Senior Solution Architect
 date: 2024-09-05
 slug: "Maersk"
 industries:
@@ -16,9 +16,9 @@ industries:
 
     *We plan to use Fiori Tracker Suite, for our migration from Standalone Gateway to Embedded Gateway. With Fiori Tracker, we aim to identify the most important apps and those that can be deprecated, simplifying the upgrade team's workload.*
          
-    *Post-migration, we will also focus on improving performance. Fiori Tracker will help us streamline our app portfolio, ensuring the embedded deployment runs faster and more efficiently."*
+    *Post-migration, we will also focus on improving performance. Fiori Tracker will help us streamline our app portfolio, ensuring the embedded deployment runs faster and more efficiently.*
 
-    [![Sibelco](maersk.svg){ align=right }](https://maersk.com/)
+    [![Maersk](maersk.svg){ align=right }](https://maersk.com/)
 
     ***Gokul Radhakrishnan***<br>
     *SAP Technology Platform*<br>
