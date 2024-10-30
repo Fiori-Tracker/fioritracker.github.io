@@ -33,6 +33,10 @@ At a glance:
 
 About [Capitec Bank](https://www.capitecbank.co.za)
 
-- Based in Copenhagen, Denmark, with subsidiaries and offices across 130 countries and over 100,000 employees worldwide
-- Business activities include shipping, port operation, supply chain management and warehousing
+- South African retail bank and financial services company
+- The largest retail bank in South Africa, based on number of customers, with 120,000 customers opening new accounts per month
 - [https://www.capitecbank.co.za](https://www.capitecbank.co.za)
+
+
+
+ 
