@@ -27,14 +27,14 @@ industries:
 At a glance: 
 
 - SAP S/4HANA 2020 
-- 2000 end-users across bank's subsidiaries
+- 2 000 end-users across bank's subsidiaries
 - App Optimization: Identify key apps
 - Streamlining apps for faster deployment
 
 About [Capitec Bank](https://www.capitecbank.co.za)
 
 - South African retail bank and financial services company
-- The largest retail bank in South Africa, based on number of customers, with 120,000 customers opening new accounts per month
+- The largest retail bank in South Africa, based on number of customers, with 120 000 customers opening new accounts per month
 - [https://www.capitecbank.co.za](https://www.capitecbank.co.za)
 
 
