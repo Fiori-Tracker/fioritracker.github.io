@@ -19,8 +19,8 @@ industries:
     [![Capitec-Bank](capitec-logo.svg){ align=right width="200" }](https://www.capitecbank.co.za)
 
     ***Andrew Opio-Ogwal***<br>
-    *SAP Technology*<br>
-    *SAP Authorizations and GRC Team Lead*<br>
+    *SAP Security and Controls*<br>
+    *Lead Analyst/Developer*<br>
     *Capitec Bank* 
 
 
@@ -28,7 +28,7 @@ At a glance:
 
 - SAP S/4HANA 2020 
 - 2000 end-users across bank's subsidiaries
-- App Optimization: Identify key apps, deprecate others
+- App Optimization: Identify key apps
 - Streamlining apps for faster deployment
 
 About [Capitec Bank](https://www.capitecbank.co.za)
