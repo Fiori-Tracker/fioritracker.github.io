@@ -8,7 +8,7 @@ nav:
     - usecases/index.md
   - User Manual: user-manual.md
   - Explore Details: 
-    - explore-fiori-tracker-details.md
+    - explore-fiori-tracker-details/index.md
     - Satisfied Interests and Roles: satisfied-interests-and-roles.md
     - Tracked content: tracked.md
     - Components: fiori-tracker-suite-application-list.md
@@ -144,9 +144,7 @@ plugins:
         '1909SPS08/index.md': 'index.md'
         '2020/index.md': 'index.md'
         '2020FPS01/index.md': 'index.md'
-        'learn-more.md': 'explore-fiori-tracker-details.md'
         'installation.md': 'index.md'
-        'satisfied-intrests-and-roles.md': 'satisfied-interests-and-roles.md'
   - custom_social_logo
   - custom_redirects
   - sap_icons

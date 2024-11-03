@@ -8,9 +8,9 @@ categories:
 date: 2024-09-01
 slug: Matching-SAP-user-licenses-to-real-user-needs
 ---
-# Learning about unused applications
+# Matching SAP user licenses to real user needs
 
-Making the most of your system by identifying unused applications
+Matching SAP user licenses to real user needs
 
 <!-- more -->
 
