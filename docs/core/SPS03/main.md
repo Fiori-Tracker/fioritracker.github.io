@@ -17,6 +17,5 @@ Fiori Tracker Core replaces Excel spreadsheets in tracking applications' assignm
 
 ## [Configuration](conf.md)
 
-## [Available extensions](ext.md)
 
 
