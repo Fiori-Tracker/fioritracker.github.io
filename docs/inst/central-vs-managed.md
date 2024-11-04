@@ -3,7 +3,7 @@ nype_config:
   container_css: content-only justify wide-content
 ---
 
-# Central system vs. Managed system breakdown
+# Central vs. Managed systems breakdown
 
 ## Products with Central and Managed components
 

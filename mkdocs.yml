@@ -592,7 +592,7 @@ extra:
       ro: 'ZNYPE_FTMAN, ZNYPE_FTMEM'
     asisCen:
       name: 'As-is Main'
-      desc: 'Collects system data.'
+      desc: 'Collects and enables synchronization of SAP Fiori setup data.'
       nameshort: 'As-is API'
       main: '2020'
       latestrel: 'SPS02'
@@ -605,7 +605,7 @@ extra:
       ro: 'ZNYPE_ASISCEN'
     asisMan:
       name: 'As-is Connector'
-      desc: 'Enables single system data synchronization.'
+      desc: 'Captures SAP Fiori setup from single system.'
       main: '2020'
       latestrel: 'SPS02'
       cen: 'X'
