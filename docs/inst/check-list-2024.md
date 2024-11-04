@@ -1,9 +1,13 @@
-# Fiori Tracker apps with their technical components - check list
+---
+nype_config:
+  container_css: content-only justify wide-content
+---
 
+# Products with their technical components - check list
 
     
 
-| Component                                          | Front-end nodes      | Odata service | Authorization role | Description    | 
+| Product name                                          | Front-end nodes      | Odata service | Authorization role | Description    | 
 |----------------------------------------------------|----------------------|---------------|-----------|---------|
 | [{{ prod.core.nameshort }}](../core/SPS03/main.md)    | {{prod.core.fnode}} | {{prod.core.odata}} | {{prod.core.ro}} | {{prod.core.desc}} |
 | [{{ prod.fa.name }}](https://help.fioriappsusage.org) | {{prod.fa.fnode}} | {{prod.fa.odata}} | {{prod.fa.ro}} | {{prod.fa.desc}} |
