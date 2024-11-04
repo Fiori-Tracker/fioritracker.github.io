@@ -17,7 +17,7 @@ In addition to standard relations, you can install optional ones. You choose the
 
 FT Catalogs Relation: [Apps As-is](../../cats-rel-apps-asis/FPS01/main.md) - This relation shows a list of currently configured applications in the selected catalog. It enables you to view the list in each of your Managed systems.<br>
 
-FT Apps Relation: [Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md) - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.
+FT Apps Relation: Catalogs, As-is - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.
 
 FT Apps Relation: [Apps Usage](../../apps-rel-appsusage/FPS01/main.md) (paid)
 This relation shows how many times the user started the app. You can see the start count in each system configured to send the data (active Apps Usage Plugin).
