@@ -11,7 +11,7 @@ Fiori Tracker Core replaces Excel spreadsheets in tracking applications' assignm
 - Intuitive view on application's details 
 - Clarity on responsibility with unique stream ownership
 - Link between apps and catalogs
-- Apps and catalogs [linkage to other types of information](rel.md) (available as extensions): roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app usage statistics
+- Apps and catalogs linkage to other types of information: roles, test users, change requests, comments, change history records, implementation and test status, actual system information values and app usage statistics
 
 ## [Installation](inst.md)
 
