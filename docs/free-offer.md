@@ -9,8 +9,9 @@ nype_config:
 ---
 # Free Offer Form
 
-Get Fiori Tracker for free by allowing us to feature your company name as a Fiori Tracker customer. The offer is exclusive to SAP end-customers. 
+Get Fiori Tracker for free by allowing us to feature your company name as a Fiori Tracker customer. The offer is exclusive to SAP end-customers. Consulting partners: contact us for partnerships at {% include 'hidden_email.md' %}.
 
 Limited slots available!
 
 {% include 'contact_form.md' %}
+
