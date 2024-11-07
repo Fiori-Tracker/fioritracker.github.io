@@ -4,7 +4,7 @@ description: Get our product for free by allowing us to feature your company nam
 nype_config:
   js:
     contact_form_subject: 'Fiori Tracker: Get for free request'
-  js_include: contact_form_action_hex
+  js_include: contact_form_action_hex contact_form_email_hex
 
 ---
 # Free Offer Form
@@ -14,3 +14,9 @@ Get Fiori Tracker for free by allowing us to feature your company name as a Fior
 Limited slots available!
 
 {% include 'contact_form.md' %}
+
+!!! Note
+
+    Free offer is exclusive to SAP end-customers. **Consulting partners** interested in partnerships, reach out at {% include 'hidden_email.md' %}.
+
+
