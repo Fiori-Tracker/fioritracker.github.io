@@ -105,7 +105,7 @@ plugins:
       pagination: false
       hide_read_more: true
       hide_post_metadata: true
-      blog_cards: index-grouped-combo-a
+      blog_cards: index-grouped-combo-a+all
       blog_card_continues:
         _default: Open {category} use case
       blog_card_icons:
