@@ -2,26 +2,37 @@
 title: Maximize your system by exploring unused apps
 description: There is a good chance that only fraction of project apps is in use
 categories: 
-- Scope management
-- Test management
-date: 2024-09-01
+  - Scope management
+  - Test management
+  - Customer Favorites
+date: 2024-08-01
 slug: learning-about-unused
 ---
 # Learning about unused applications
 
-Making the most of your system by identifying unused applications
+Make the most of your system by identifying unused applications
 
 <!-- more -->
 
-Your business has had SAP S/4HANA for some time already with, let’s say, 100 SAP Fiori applications configured. There is a good chance that only 50 of those apps are in use, and you are probably not fully leveraging the system. 
+## Problem statement
 
-With the Fiori App Usage report you can learn which SAP Fiori applications your company might start using to get the most out of your S/4HANA investment.
+If you've had SAP S/4HANA for a while, you likely have dozens (if not hundreds) of Fiori apps configured. But how many of those are actually in use? For many businesses, the answer is surprisingly low—often, half or more of the apps remain untouched.
+
+## Solution overview
+
+The Fiori App Usage Report helps you see which applications are underutilized or unused, giving you valuable insights to make the most of your SAP S/4HANA system.
 
 [![](res/rarely-used.png)](res/rarely-used.png)
 
-Knowing about unused applications:
 
-- creates opportunities for training and consultation
-- can trigger an investigation into issues that make the business reluctant to use specific applications
+## Why this matters
+Identifying unused apps can:
 
+- Highlight areas where employees might need additional training
+- Reveal issues that could be discouraging business from using specific apps (complex interfaces or irrelevant features)
+- Uncover potential to streamline processes by promoting useful, underutilized apps
+- For consulting partners creates opportunities for consultation
 
+## Bottom Line
+
+With the Fiori App Usage Report, you can ensure you’re fully leveraging your SAP S/4HANA system, reducing waste, and potentially unlocking new productivity gains.

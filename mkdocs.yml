@@ -111,21 +111,23 @@ plugins:
       blog_card_icons:
         _default: material/file-document
         # sap_icons plugin allows to use ext/ SAP icons
-        Automation: ext/process
+        Customer Favorites: material/diamond-stone
+        Test management: material/magnify
         Blueprinting: ext/newspaper
         Governance: ext/company-view
         Project management: ext/manager
-        Scope management: ext/bar-chart
+        Scope management: material/cash-fast
         Support: ext/headset
-        Test management: ext/wrench
+        Automation: ext/process
       categories_allowed:
-        - Automation
+        - Customer Favorites
+        - Test management
         - Blueprinting
+        - Support
         - Governance
         - Scope management
-        - Support
-        - Test management
         - Project management
+        - Automation
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list

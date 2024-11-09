@@ -3,6 +3,7 @@ date: 2024-09-10
 slug: preparation-for-upgrade
 categories:
   - Project management
+  - Customer Favorites
 ---
 # Preparation for upgrade
 

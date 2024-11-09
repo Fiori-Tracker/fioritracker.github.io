@@ -5,7 +5,8 @@ categories:
 - Scope management
 - Test management
 - Project management
-date: 2024-09-01
+- Customer Favorites
+date: 2024-10-01
 slug: Matching-SAP-user-licenses-to-real-user-needs
 ---
 # Matching SAP user licenses to real user needs
