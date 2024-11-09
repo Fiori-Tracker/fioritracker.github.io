@@ -105,7 +105,7 @@ plugins:
       pagination: false
       hide_read_more: true
       hide_post_metadata: true
-      blog_cards: all
+      blog_cards: index-grouped-combo-a
       blog_card_continues:
         _default: Open {category} use case
       blog_card_icons:
@@ -118,6 +118,14 @@ plugins:
         Scope management: ext/bar-chart
         Support: ext/headset
         Test management: ext/wrench
+      categories_allowed:
+        - Automation
+        - Blueprinting
+        - Governance
+        - Scope management
+        - Support
+        - Test management
+        - Project management
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list
