@@ -3,7 +3,6 @@ title: Matching SAP user licenses to real user needs
 description: Matching SAP user licenses to real user needs
 categories: 
 - Scope management
-- Test management
 - Project management
 - Customer Favorites
 date: 2024-10-01
