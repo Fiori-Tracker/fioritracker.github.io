@@ -1,15 +1,18 @@
 ---
-description: 'Fiori Tracker Suite tracks planned ("to-be") and actual ("as-is") launchpad apps and catalogs. Add-ons link apps to catalogs, roles, usage stats.'
+description: Fiori Tracker catalogs all SAP Fiori launchpad apps, tracking usage by unique app ID for accurate insights.
 ---
-# Learn more about Fiori Tracker
+# Learn more
 
-## Fiori Tracker Suite
+Fiori Tracker shows SAP usage by individual application IDs and names. To give its users precise information about started applications, it keeps an inventory of all SAP Fiori launchpad-enabled applications. This inventory is the **Master list of SAP Fiori launchpad applications**, organized by unique application IDs and kept in Fiori Tracker table. The Master list is populated semi-automatically based on the system set up as one of the Fiori Tracker installation steps.
 
-Fiori Tracker is a [suite of SAP Fiori-native apps](../fiori-tracker-suite-application-list.md) for tracking your SAP Fiori launchpad's implementation scope. The scope is the list of the applications and catalogs you plan to implement or support (referred to as ["To-be" records](../to-be.md)). Application's and catalog's ["To-be" records](../to-be.md) serve as a reference configuring SAP Fiori launchpad and for comparison with actual system configuration (called ["As-is"](../as-is.md)). "As-is" relations enable the project team to control setting up the SAP Fiori launchpad, witch is crucial in projects with many applications deployed across multiple systems.
+Apart fromm usage logs The Master list of applications can be used to:
 
-## Relations
+1. Define and control the scope of SAP S/4HANA project
+2. Link applications to other records like planed business catalogs, roles, test users
 
-Fiori Tracker offers a stack of relations linking your SAP Fiori application to related records like mapping to catalogs, roles, and usage statistics.
 
-[![](res/bubbles.png)](res/bubbles.png)
+
+
+
+
 
