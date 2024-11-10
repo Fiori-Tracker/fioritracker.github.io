@@ -50,6 +50,7 @@ not_in_nav: |
   /sap-fiori-test-users.md
   /advocate-invitation.md
   /for-functional-experts.md
+  /customer-reference-preparation.md
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
@@ -84,6 +85,10 @@ extra_javascript:
   - assets/javascripts/extra.js
 markdown_extensions:
   - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
