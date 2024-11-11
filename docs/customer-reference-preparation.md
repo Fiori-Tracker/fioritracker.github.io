@@ -78,9 +78,10 @@ Below is the description of what we need:
 3. We publish this customer reference article on the Fiori Tracker page, LinkedIn, and SAP Community.
 4. We are sending you the transport files and instructions on installing the product
 5. If needed, we support you with installation 
-- Call with screen sharing
-- Discord
-- If we get access to your system, we can install it for you
+    - Call with screen sharing
+    - Discord
+    - If we get access to your system, we can install it for you
+
 6. You start using Fiori Tracker
 7. After one moth of use we would adopt the testimonial describing the feedback regarding actual experience with the tool
 
