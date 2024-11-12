@@ -16,7 +16,7 @@ No. Premier support is optional. You can continue using Fiori Tracker as it is, 
 
 The minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
 
-### 5. Will the Fiori Tracker release 2020 work on my S/4 HANA system on a different release (1610, 1709, 1809, 1909, 2021)?
+### 5. Will the Fiori Tracker release 2020 work on my S/4HANA system on a different release (1610, 1709, 1809, 1909, 2021)?
 
 Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2021. Refer [Minimal requirements](inst/min.md) for more details.
 

@@ -7,7 +7,7 @@ This is the recommended option.
 
 ![](res/opt1.png)
 
-## 2. Central system on system outside the S/4 HANA landscape
+## 2. Central system on system outside the S/4HANA landscape
 
 ![](res/opt2.png)
 
