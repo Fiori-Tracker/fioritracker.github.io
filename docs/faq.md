@@ -18,7 +18,7 @@ The minimal requirement is any SAP system with GAP Gateway (software component S
 
 ### 5. Will the Fiori Tracker release 2020 work on my S/4 HANA system on a different release (1610, 1709, 1809, 1909, 2021)?
 
-Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4 HANA releases from 1610 to 2021. Refer [Minimal requirements](inst/min.md) for more details.
+Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2021. Refer [Minimal requirements](inst/min.md) for more details.
 
 ### 6. What details do you need for troubleshooting the issues?
 

@@ -1,7 +1,7 @@
 # Deployment options
 Below we have described the main deployment options. Note that other options are also possible, so you are not limited only to those. In case you have doubts, please contact us to go through the details.
 
-## 1. Central system on the Quality assurance system in SAP Business Suite or SAP S/4 HANA landscape
+## 1. Central system on the Quality assurance system in SAP Business Suite or SAP S/4HANA landscape
 
 This is the recommended option.
 
