@@ -11,7 +11,10 @@ Contact Nype's representative to obtain the zip file with transports.
 Unzip the cofile and data files, and place them in the respective folder on your application server.
 
 ## 3 Perform the import
-Using the transaction **STMS** import the transport to your system. Please specify the target client as the transports contain client specific configuration like Authorization Roles.
+Using SAP Gui transaction **STMS** import the transport to your system. 
+
+  - Please specify the target client as the transports contain client specific configuration like Authorization Roles.
+  - Please mark the option "Overwrite originals" and "Ignore Invalid Component Version"
 
 Recommended order:
 
