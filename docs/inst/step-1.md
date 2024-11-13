@@ -27,3 +27,5 @@ Recommended order:
 7. FRT-Report.zip
 8. FT-roles.zip
 9. FT-users.zip
+
+[![](res/stms.png)](res/stms.png)
