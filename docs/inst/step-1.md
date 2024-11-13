@@ -13,4 +13,14 @@ Unzip the cofile and data files, and place them in the respective folder on your
 ## 3 Perform the import
 Using the transaction **STMS** import the transport to your system. Please specify the target client as the transports contain client specific configuration like Authorization Roles.
 
+Recommended order:
 
+1. FT-Core.zip
+2. FAU-Report.zip
+3. FAU-plugin.zip
+4. FT-asisapimain.zip
+5. FT-asisapiconn.zip
+6. FT-Import.zip
+7. FRT-Report.zip
+8. FT-roles.zip
+9. FT-users.zip
