@@ -29,9 +29,12 @@ Fiori Tracker keeps a Master list of SAP Fiori launchpad applications. The list 
 ## Key features
 1. Application list
 2. Filtering on the "App type" property
-   - You can list all custom and extended apps and get a list of the required technical documentation.
+   
+    - You can list all custom and extended apps and get a list of the required technical documentation.
+
 3. "App Area" property 
-   -The person responsible for the area allows the identification of the functional analyst accountable for app requirements.
+   
+    - The person responsible for the area allows the identification of the functional analyst accountable for app requirements.
 
 ## Benefits
 
