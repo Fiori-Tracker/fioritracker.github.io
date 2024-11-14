@@ -131,8 +131,10 @@ plugins:
         - Support
         - Governance
         - Scope management
+        - DevOps and Release Management
         - Project management
         - Automation
+
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list
