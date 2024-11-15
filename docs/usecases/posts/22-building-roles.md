@@ -1,10 +1,12 @@
 ---
-date: 2024-04-01
+date: 2024-01-01
 slug: building-roles
 title: Building SAP Fiori Roles
 description: Usage Stats shape user roles to fit actual needs
 categories: 
+- Security & Compliance
 - Scope management
+
 ---
 # Building roles
 

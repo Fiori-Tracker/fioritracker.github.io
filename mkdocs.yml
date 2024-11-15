@@ -124,9 +124,12 @@ plugins:
         Scope management: material/cash-fast
         Support: ext/headset
         Automation: ext/process
+        Security & Compliance: material/castle
+        DevOps and Release Management: material/infinity
       categories_allowed:
         - Customer Favorites
         - Test management
+        - Security & Compliance
         - Blueprinting
         - Support
         - Governance
