@@ -24,8 +24,8 @@ Recommended order:
 4. FT-asisapimain.zip
 5. FT-asisapiconn.zip
 6. FT-Import.zip
-7. FT-roles.zip
-8. FT-users.zip
+7. FT-users.zip
+8. FT-roles.zip
 9. FRT-Report.zip (Requires FT-roles.zip)
 
 
