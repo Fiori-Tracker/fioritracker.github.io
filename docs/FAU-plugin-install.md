@@ -4,6 +4,8 @@ description: 'Install the components in the described order by following the ste
 ---
 # Fiori App Usage Plugin installation 
 
+All the steps below should be executed in your **Managed system**.
+
 1. [Obtain the and import](inst/step-1-fau-plugin.md) transports files for Fiori App Usage Plugin
 
 2. [Activate Frontend ICF node](inst/step-2.md): `zftappusageplug`
@@ -12,7 +14,7 @@ description: 'Install the components in the described order by following the ste
 
 4. [Assign pfcg roles](inst/step-4.md): `ZNYPE_FAMEM`
 
-5. [Set the parameter for activation key](inst/step-5-fau-plugin.md)
+5. [Set the parameters for activation key and the RFC destination of the Central system](inst/step-5-fau-plugin.md)
 
 
 
