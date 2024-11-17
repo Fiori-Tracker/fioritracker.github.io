@@ -4,10 +4,6 @@
 
 [![](res/faman-conf.png)](res/faman-conf.png)
 
-2 . Prepare the RFC destination pointing to your Central system with Fiori App Usage Report component installed.
-
-
-
 3 . Press the button labeled: *1. Edit configuration.* Pressing the button will open a maintenance view for table ZNYPEFAMAN_SC:
 
 [![](res/faman-conf-tab.png)](res/faman-conf-tab.png)

@@ -14,7 +14,9 @@ All the steps below should be executed in your **Managed system**.
 
 4. [Assign pfcg roles](inst/step-4.md): `ZNYPE_FAMEM`
 
-5. [Set the parameters for activation key and the RFC destination of the Central system](inst/step-5-fau-plugin.md)
+5. [Prepare the RFC destination pointing to your Central system with Fiori App Usage Report component installed](inst/rfc-FAU-plugin.md)
+
+6. [Set the parameters for activation key and the RFC destination of the Central system](inst/step-5-fau-plugin.md)
 
 
 
