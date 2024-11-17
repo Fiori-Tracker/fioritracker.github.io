@@ -1,10 +1,6 @@
-# How to prepare the RFC destinations for Central system
+# How to prepare the RFC destination pointing from Managed system to Central system
 
-On each Managed system you need to create an RFC destination pointing to your Central system.
-
-Create RFC destination in your Managed system using SAP Gui transaction **SM59**. 
-
-The user set in RFC destination should have type SYSTEM, and the following authorizations:
+On  Managed system you need to create an RFC destination pointing to your Central system. Create RFC destination in your using SAP Gui transaction **SM59**.  The user set in RFC destination should have type SYSTEM, and the following authorizations:
 
 Authorization object: S_RFC
 
