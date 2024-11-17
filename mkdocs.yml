@@ -51,6 +51,7 @@ not_in_nav: |
   /advocate-invitation.md
   /for-functional-experts.md
   /customer-reference-preparation.md
+  /FAU-plugin-install.md
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
