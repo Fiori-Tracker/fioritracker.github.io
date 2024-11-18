@@ -16,3 +16,10 @@ The "Modify area codes" function allows you to define the names of the areas use
 
 Allows you to modify or add the application types.
 
+## 4. Modify application properties
+
+Allows you to choose additional properties. 
+
+## 5. Modify relations
+
+Allows you to choose available relations. 
