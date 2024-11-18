@@ -18,7 +18,7 @@ Allows you to modify or add the application types.
 
 ## 4. Modify application properties
 
-Allows you to choose additional properties. 
+Allows you to [choose additional properties](../apps-prop-conf.md). 
 
 ## 5. Modify relations
 
