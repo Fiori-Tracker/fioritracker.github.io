@@ -45,6 +45,12 @@ Stay ahead with SAP S/4HANA [app usage insights](https://help.fioriappsusage.org
 ## Benefits
 
 <div class="grid cards" markdown>
+-   :material-scissors-cutting:{ .lg .middle } __Optimizing SAP licenses__
+
+    ---
+    Matching SAP user licenses to real user needs
+    
+    [:octicons-arrow-right-24: Cut SAP license costs ](usecases/posts/23-license-counting.md)
 
 -   :material-arrow-collapse-all:{ .lg .middle } __Single source of truth__
 
