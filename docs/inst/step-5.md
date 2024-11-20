@@ -11,11 +11,11 @@
 |ACTIVATION_KEY|*Report key provided by Nype's representative*|
 | LOGMODE                      | **FULL** |
 
-3 . Go to SAP Gui transaction **ZFAMANADMIN**. Entering transaction will initialize the plugin configuration.
+3 . Go to SAP Gui transaction `ZFAMANADMIN`. Entering transaction will initialize the plugin configuration.
 
 [![](res/faman-conf.png)](res/faman-conf.png)
 
-4 . Press the button labeled: 1. Edit configuration. Pressing the button will open a maintenance view for table ZNYPEFAMAN_SC:
+4 . Press the button labeled: *1. Edit configuration.* Pressing the button will open a maintenance view for table `ZNYPEFAMAN_SC`:
 
 [![](res/faman-conf-tab.png)](res/faman-conf-tab.png)
 
