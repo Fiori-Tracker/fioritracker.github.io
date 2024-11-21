@@ -17,7 +17,7 @@
 
 4 . Press the button labeled: *1. Edit configuration.* Pressing the button will open a maintenance view for table `ZNYPEFAMAN_SC`:
 
-[![](res/faman-conf-tab.png)](res/faman-conf-tab.png)
+[![](res/faman-conf-tab-for-full-inst.png)](res/faman-conf-tab-for-full-inst.png)
 
 5 . In the configuration table add the entry for Plugin activation key:
 

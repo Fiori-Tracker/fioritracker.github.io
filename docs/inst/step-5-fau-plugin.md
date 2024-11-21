@@ -8,12 +8,12 @@
 
 [![](res/faman-conf-tab.png)](res/faman-conf-tab.png)
 
-4 . In the configuration table add the entry for Plugin activation key:
+4 . In the configuration table add the following entries for Plugin configuration:
 
-| Key                          | Value     | Description                                                                                                                                                                    |
-|------------------------------|-----------|------------------------------------------------------------------------------|
-| TARGET_RFC                   | **RFC name**      | [RFC destination](rfc-FAU-plugin.md) name of the Central system.         |
-|ACTIVATION_KEY| **Activation key** |Plugin key provided by Nype's representative|
-
+| Key            | Value              | Description           |
+|----------------|--------------------|-----------------------|
+| TARGET_RFC     | **RFC name**       | [RFC destination](rfc-FAU-plugin.md) name of the Central system. |
+| ACTIVATION_KEY | **Activation key** |Plugin key provided by Nype's representative|
+| LOGMODE        |FULL                | Enables sending the Log records |
 
 See also: [How to get the SAP system installation number](installation-number.md)
