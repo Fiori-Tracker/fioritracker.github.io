@@ -22,7 +22,6 @@ nav:
     - Satisfied Interests and Roles: satisfied-interests-and-roles.md
     - Philosophy: philosophy.md  
     - History: history.md
-  - Impressum: impressum.md
 
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
@@ -52,6 +51,7 @@ not_in_nav: |
   /for-functional-experts.md
   /customer-reference-preparation.md
   /FAU-plugin-install.md
+  /impressum.md
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
