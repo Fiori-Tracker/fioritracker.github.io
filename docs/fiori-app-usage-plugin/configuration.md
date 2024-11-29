@@ -1,19 +1,13 @@
 # Fiori App Usage Plugin configuration (Managed system)
 
-To change Central part configuration start the transaction `ZFACENADMIN` and press button labeled: **2. Edit configuration**. This action will open a configuration screen:
+To change Central part configuration start the transaction `ZFAMANADMIN` and press button *2. Edit configuration*. This action will open a configuration screen:
 
-[![](res/fiori-app-usage-report-config.png)](res/fiori-app-usage-report-config.png)
-
+[![](res/fiori-app-usage-plugin-config.png)](res/fiori-app-usage-plugin-config.png)
 
 The table below describes all available parameters:
 
-| Key                   | Value     | Description            |
-|-----------------------|-----------|------------------------|
-| ACTIVATION_KEY        | *key*     | Value is provided by Nype team         |
-| INCOMP_HIDE           | **TRUE** | When set to TRUE the version compatibility warning will not show |
-| LOGMODE               | **FULL** | Plugin will write down usage records only when this parameter is set to **FULL**. You can disable the plugin without removing the Fiori Apps Usage role from users by deleting this parameter.|
-
-
-
-
-
+| Key                          | Value     | Description                                                                                                                                                                   |
+|------------------------------|-----------|------------------------------------------------------------------------------|
+| FLP_ICON                     | **HIDE**      | When Value is set to HIDE the SAP Fiori launchpad icon for the plugin is not displayed         |
+| SYSTEM_ID                    | **ID of a Central system**      | This setting enables overwriting the real system ID to one set by the parameter         |
+| TARGET_RFC                   | **RFC name**      | RFC destination name of the Central system         |
