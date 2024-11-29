@@ -1,6 +1,6 @@
 # Specification records
 
-The Specification records reflect the state of the content that your project plans to implement.
+The Specification records are part of your project's technical specification. During implementation, they define the project's deliverables, and during support, they document what is operational. Specifications records bridge the gap between business requirements and technical execution. Without clear and detailed specifications, projects often face miscommunication or rework.
  
 Working with Specification records is particularly valuable during:
 
