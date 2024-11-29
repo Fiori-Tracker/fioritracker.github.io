@@ -1,6 +1,6 @@
 # Role List app
 
-The app keeps ["To-be" records](../../to-be.md) of the roles in scope. Role List app comes with two build-in relations: "To-be" catalogs and "To-be" applications. 
+The app keeps [Specification records](../../to-be.md) of the roles in scope. Role List app comes with two build-in relations: Specification catalogs and Specification applications. 
 
 Catalogs relation list the catalogs you have linked to your role:
 

@@ -5,7 +5,7 @@ Fiori Tracker can keep records of all your catalogs. Catalogs entry serves as a 
 [![](res/cat-list.png)](res/cat-list.png)
 ## Linkage to other content types
  
- Catalog "To-be" entry serves as a reference for catalog-related content types lists. The content you can list with the catalog is:
+ Catalog Specification entry serves as a reference for catalog-related content types lists. The content you can list with the catalog is:
 
 | [To-be](../../to-be.md) | [As-is](../../as-is.md) | [Info records](../../info-records.md)|
 |-|-|-|
