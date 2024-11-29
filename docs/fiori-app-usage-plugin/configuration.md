@@ -6,8 +6,10 @@ To change Central part configuration start the transaction `ZFAMANADMIN` and pre
 
 The table below describes all available parameters:
 
-| Key                          | Value     | Description                                                                                                                                                                   |
-|------------------------------|-----------|------------------------------------------------------------------------------|
-| FLP_ICON                     | **HIDE**      | When Value is set to HIDE the SAP Fiori launchpad icon for the plugin is not displayed         |
-| SYSTEM_ID                    | **ID of a Central system**      | This setting enables overwriting the real system ID to one set by the parameter         |
-| TARGET_RFC                   | **RFC name**      | RFC destination name of the Central system         |
+| Key                          | Value     | Description   |
+|------------------------------|-----------|---------------|
+| ACTIVATION_KEY  | *key*      | Value is provided by Nype team         |
+| FLP_ICON        | **HIDE**   | When Value is set to HIDE the SAP Fiori launchpad icon for the plugin is not displayed   |
+| SYSTEM_ID       | **ID of a Managed system**  | This setting enables overwriting the real system ID to one set by the parameter         |
+| LOGMODE         | **FULL** | Plugin sends usage records only when this parameter is set to **FULL**. Delete this parameter to stop sending usage records. This allows stopping log sending without removing user's Fiori App Usage role.
+| TARGET_RFC      | **RFC name**      | RFC destination name of the Central system         |

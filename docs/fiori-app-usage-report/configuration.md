@@ -10,5 +10,5 @@ The table below describes all available parameters:
 |-----------------------|-----------|------------------------|
 | ACTIVATION_KEY        | *key*     | Value is provided by Nype team         |
 | INCOMP_HIDE           | **TRUE** | When set to TRUE the version compatibility warning will not show |
-| LOGMODE               | **FULL** | Plugin will write down usage records only when this parameter is set to **FULL**. You can disable the plugin without removing the Fiori Apps Usage role from users by deleting this parameter.|
+| LOGMODE               | **FULL** | Plugin will write down usage records only when this parameter is set to **FULL**. Delete this parameter to stop writing usage records. This allows stopping log collection without removing user's Fiori App Usage role.|
 
