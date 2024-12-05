@@ -1,6 +1,6 @@
 # Content type: Catalogs linked to Roles (To-be)
 
-For each Catalog, you can list the [To-be](../../to-be.md) Roles that contain it.
+For each Catalog, you can list the [To-be](../../specification-records.md) Roles that contain it.
 
 [![](res/cat-roles.png)](res/cat-roles.png)
 

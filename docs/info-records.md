@@ -4,7 +4,7 @@
 
 In addition to "Info records" Fiori Tracker suite leverages two more types of records: 
 
-1. [Specification](to-be.md)
+1. [Specification](specification-records.md)
 2. ["As-is"](as-is.md)
 
  

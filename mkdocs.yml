@@ -41,7 +41,6 @@ not_in_nav: |
   /offer.md
   /premier.md
   /satisfied-interests-and-roles.md
-  /to-be.md
   /tracked.md
   /ui5lib-options.md
   /usecases.md
@@ -52,6 +51,7 @@ not_in_nav: |
   /customer-reference-preparation.md
   /FAU-plugin-install.md
   /impressum.md
+  /specification-records.md
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
