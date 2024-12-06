@@ -5,8 +5,8 @@ description: 'Fiori Tracker Core allows documenting planned launchpad apps in FT
 
 To start documenting your applications and catalogs together with links between them, you will use component called “Fiori Tracker Core,” which has two Fiori applications:
 
-FT Applications (with core relation: To-be catalogs) – for keeping “To-be” records of applications in scope
-FT Catalogs (with core relation: To-be apps) – for keeping “To-be” records of catalogs in scope
+FT Applications (with core relation: Specification catalogs) – for keeping “Specification” records of applications in scope
+FT Catalogs (with core relation: Specification apps) – for keeping “Specification” records of catalogs in scope
 
 [![](res/tiles.png)](res/tiles.png)
 *Fiori Tracker Core group tiles*
@@ -48,7 +48,7 @@ Add button creates an entry for the new catalog:
 The app uses the same functional area set to assign catalog and use Fiori Tracker reports on a specific stream or to assign stream default person responsible for sing-offs.
 
 Maintaining mapping between catalogs and applications
-Once all catalogs are in, you can map applications to catalogs. You can do that from a catalog perspective by opening chosen catalog detail view and its “Applications To-be” relation and choosing “Edit”:
+Once all catalogs are in, you can map applications to catalogs. You can do that from a catalog perspective by opening chosen catalog detail view and its “Applications Specification” relation and choosing “Edit”:
 
 [![](res/cat-apps.png)](res/cat-apps.png)
 *View with a chosen catalog record and its “Applications To-Be” relation in the “FT Catalogs” app*

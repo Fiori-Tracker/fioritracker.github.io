@@ -1,6 +1,6 @@
-# Content type: Catalogs linked to Apps (To-be)
+# Content type: Catalogs linked to Apps (Specification)
 
-For each Catalog, you can list the [To-be](../../specification-records.md) applications included in it.
+For each Catalog, you can list the [Specification](../../specification-records.md) applications included in it.
 
 [![](res/app-cats-tobe.png)](res/app-cats-tobe.png)
 

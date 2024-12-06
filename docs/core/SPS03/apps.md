@@ -4,7 +4,7 @@ With the help of the application "FT Applications," you can store the records of
 
 [![](res/apps.gif)](res/apps.gif)
 
-## Attributes of App To-be record
+## Attributes of App Specification record
 
 Fiori Tracker keeps the following attributes for an app entry:
 
