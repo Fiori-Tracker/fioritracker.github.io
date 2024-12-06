@@ -1,14 +1,14 @@
-## Specifying SAP Fiori launchpad applications
+# Specifying SAP Fiori launchpad applications
 
-To start working with Fiori Tracker, you need to specify all applications that you plan to enable in your SAP Fiori Launchpad. You do that with the “FT Applications” app. The app starts with the current list of all applications in your project scope.
+To start working with Fiori Tracker, you need to specify all applications that you plan to enable in your SAP Fiori Launchpad. You do that with the `FT Applications` app. The app starts with the current list of all applications in your project scope.
 
 [![](res/list.png)](res/list.png)
-*Starting view of “FT Applications” app*
+*Starting view of `FT Applications` app*
 
 With the “Add” function, you can add a new application entry:
 
 [![](res/add2.png)](res/add2.png)
-*Create an application record form in the “FT Applications” app*
+*Create an application record form in the `FT Applications` app*
 
 The recorded details include:
 

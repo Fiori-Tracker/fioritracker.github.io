@@ -9,6 +9,8 @@ nav:
   - Features: 
     - features/index.md
     - Specifying apps: features/specifying-apps.md
+    - Specifying catalogs: features/specifying-catalogs.md
+    - Mapping apps to a catalog: features/mapping-apps-to-a-catalog.md
   - Explore Details: 
     - explore-fiori-tracker-details/index.md
     - Satisfied Interests and Roles: satisfied-interests-and-roles.md
