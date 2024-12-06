@@ -6,7 +6,9 @@ nav:
     - customer-list/index.md
   - Use cases:
     - usecases/index.md
-  - User Manual: user-manual.md
+  - Features: 
+    - features/index.md
+    - Specifying apps: features/specifying-apps.md
   - Explore Details: 
     - explore-fiori-tracker-details/index.md
     - Satisfied Interests and Roles: satisfied-interests-and-roles.md
