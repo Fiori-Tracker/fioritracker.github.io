@@ -2,6 +2,8 @@ site_name: Fiori Tracker
 site_url: https://fioritracker.org
 site_description: 'Fiori Tracker simplifies SAP Fiori app management. Centralized platform for collaborating on requirements.'
 nav:
+  - Customer references:
+    - customer-references/index.md
   - Customer list: 
     - customer-list/index.md
   - Use cases:
@@ -151,6 +153,15 @@ plugins:
   - blog:
       archive_name: Annual recap
       blog_dir: customer-list
+      post_url_format: "{slug}"
+      post_date_format: "yyyy MMMM"  # Due to the blog implementation the last instance sets this value globally, use `unique_blog_date` to mitigate this bug when needed
+      post_readtime: false
+      pagination: false
+      hide_read_more: true
+
+  - blog:
+      archive_name: Annual recap
+      blog_dir: customer-references
       post_url_format: "{slug}"
       post_date_format: "yyyy MMMM"  # Due to the blog implementation the last instance sets this value globally, use `unique_blog_date` to mitigate this bug when needed
       post_readtime: false
