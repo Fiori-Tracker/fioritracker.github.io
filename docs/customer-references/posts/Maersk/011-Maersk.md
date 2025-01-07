@@ -8,7 +8,7 @@ industries:
 ---
 # Maersk SAP team sharpens its game plan with Fiori Tracker
 
-[![Maersk](maersk.svg){ align=right }](https://maersk.com/)
+[![Maersk](maersk.svg)](https://maersk.com/)
 { class="excerpt-logo" }
 
 - Implemented and operated by: SAP Technology Platform team<br>
