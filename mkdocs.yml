@@ -308,7 +308,7 @@ extra:
       rep: 'ai'
       pay: 'paid'
       fnode: 'zftai'
-      odata: 'ZNYPEFAI_SRV'
+      odata: 'ZNYPEAI_SRV'
       ro: 'ZNYPE_AI'
     gv:
       name: 'Gover'
@@ -579,7 +579,7 @@ extra:
       rep: 'ai'
       pay: 'paid'
       fnode: 'zftai'
-      odata: 'ZNYPEFAI_SRV'
+      odata: 'ZNYPEAI_SRV'
       ro: 'ZNYPE_AI'
     mi:
       name: 'Mapping Import'
@@ -880,7 +880,7 @@ extra:
       rep: 'ai'
       pay: 'paid'
       fnode: 'zftai'
-      odata: 'ZNYPEFAI_SRV'
+      odata: 'ZNYPEAI_SRV'
       ro: 'ZNYPE_AI'
     mi:
       name: 'Mapping Import'

@@ -8,7 +8,7 @@ description: 'Install the components in the described order by following linked 
 
 2. [Activate Frontend ICF nodes](inst/step-2.md): `zftapps`, `zftcats`, `zftdc`, `zftsy`, `zftroles`,  `zftusers`, `zftappusagerep`, `zfaadmin`, `zftappusageplug`, `zfaul`, `zftai`, `znypeat`
 
-3. [Enable backend oData services](inst/step-3.md): `ZNYPECOR_SRV`, `ZNYPEASISCEN_SRV`, `ZNYPERO_SRV`, `ZNYPEUS_SRV`, `ZNYPEFACEN_SRV`, `ZNYPEFAMAN_SRV`, `ZNYPEAT_SRV`, `ZNYPEFAI_SRV`
+3. [Enable backend oData services](inst/step-3.md): `ZNYPECOR_SRV`, `ZNYPEASISCEN_SRV`, `ZNYPERO_SRV`, `ZNYPEUS_SRV`, `ZNYPEFACEN_SRV`, `ZNYPEFAMAN_SRV`, `ZNYPEAT_SRV`, `ZNYPEAI_SRV`
 
 4. [Assign pfcg roles](inst/step-4.md): `ZNYPE_FTMAN`, `ZNYPE_FTMEM`, `ZNYPE_ASISCEN`, `ZNYPE_ROMAN`, `ZNYPE_USMAN`, `ZNYPE_FAMAN`, `ZNYPE_FAMEM`, `ZNYPE_FRMAN`, `ZNYPE_AI`
 
