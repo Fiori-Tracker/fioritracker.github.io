@@ -9,9 +9,9 @@ nype_config:
 
 | Product  |Component                                             | Placement         | Front-end nodes      | Odata service | Authorization role | Description  | 
 | -- |-------------------------------------------------------|-------------------|----------------------|---------------|--------------------|-----|
-| [{{ product.fau.name }}](https://help.fioriappsusage.org) | {{ comp.fam.name }} | Central system | {{comp.fam.fnode}} | {{comp.fam.odata}} | {{comp.fam.ro}} | {{comp.fam.desc}} |
+| [{{ prod.fa.name }}](https://help.fioriappsusage.org) | {{ comp.fam.name }} | Central system | {{comp.fam.fnode}} | {{comp.fam.odata}} | {{comp.fam.ro}} | {{comp.fam.desc}} |
 |                                                       | {{ comp.fap.name }} | Managed system | {{comp.fap.fnode}} | {{comp.fap.odata}} | {{comp.fap.ro}} | {{comp.fap.desc}} |
-| [{{ product.asis.nameshort }}](../asis/SPS02/main.md) | {{ comp.asisCen.name }} | Central system | {{comp.asisCen.fnode}} | {{comp.asisCen.odata}} | {{comp.asisCen.ro}}| {{comp.asisCen.desc}} |
+| [{{ prod.asisCen.nameshort }}](../asis/SPS02/main.md) | {{ comp.asisCen.name }} | Central system | {{comp.asisCen.fnode}} | {{comp.asisCen.odata}} | {{comp.asisCen.ro}}| {{comp.asisCen.desc}} |
 |                                                       | {{ comp.asisMan.name }} | Managed system | {{comp.asisMan.fnode}} | {{comp.asisMan.odata}} | {{comp.asisMan.ro}}| {{comp.asisMan.desc}} |
 
 
