@@ -278,7 +278,7 @@ extra:
       pay: 'free'
       fnode: 'znypeat'
       odata: 'ZNYPEAT_SRV'
-      ro: 'ZNYPE_FRMEN, ZNYPE_FRMAN'
+      ro: 'ZNYPE_FRMAN'
     cr:
       name: 'Catalog Report'
       main: '2020'
