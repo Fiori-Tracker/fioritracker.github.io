@@ -473,7 +473,7 @@ extra:
       man: ' '
       rep: 'ai'
       pay: 'paid'
-      fnode: 'zftai'
+      fnode: 'zftai, zftfl'
       odata: 'ZNYPEAI_SRV'
       ro: 'ZNYPE_AI'
     mi:
