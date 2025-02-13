@@ -202,17 +202,13 @@ plugins:
   - server_redirects:
       raw_redirects:
         /V?2020/(.+): /$1
-<<<<<<< HEAD
         /nr/m001: https://fioritracker.org/inst/step-1/
         /nr/m002: https://fioritracker.org/inst/step-2/
         /nr/m003: https://fioritracker.org/inst/step-3/
         /nr/m004: https://fioritracker.org/inst/step-4/
         /nr/m005: https://fioritracker.org/ui5lib-options/
 
-copyright: Copyright &copy; 2024 Nype
-=======
 copyright: Copyright &copy; 2025 Nype
->>>>>>> 0972bc10 (docs: year)
 extra:
   analytics:
     provider: google
