@@ -18,5 +18,5 @@ All the steps below should be executed in your **Managed system**.
 
 6. [Set the parameters for activation key and the RFC destination of the Central system](inst/step-5-fau-plugin.md)
 
-
+7. [VCheck if the plugin works](inst/check-fau-plugin.md)
 
