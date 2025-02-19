@@ -25,7 +25,7 @@ industries:
 
     ***Gokul Radhakrishnan***<br>
     *SAP Technology Platform*<br>
-    *SAP Senior Solution Archiect*<br>
+    *SAP Senior Solution Architect*<br>
     *Maersk* 
 
 
