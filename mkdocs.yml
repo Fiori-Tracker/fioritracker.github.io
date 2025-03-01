@@ -171,10 +171,6 @@ plugins:
       enabled: !ENV [CI, false]
       cards_layout_options:
         background_color: "#0d0d72"  # same color as the corner in the social_logo.png
-  - minify_html:
-      enabled: !ENV [CI, false]
-      keep_html_and_head_opening_tags: true
-      keep_closing_tags: true
   - redirects:
       # file redirects return a status 200 code, but redirect the page via <head> tags
       # keep it for a few weeks to see if the online search results will change or if we 
