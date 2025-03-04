@@ -1,5 +1,7 @@
 # Your questions, answered
 
+## Fiori Tracker (general)
+
 ### 1. Is it really free?
 
 Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list. 
@@ -18,7 +20,7 @@ The minimal requirement is any SAP system with GAP Gateway (software component S
 
 ### 5. Will the Fiori Tracker release 2020 work on my S/4HANA system on a different release (1610, 1709, 1809, 1909, 2021)?
 
-Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2021. Refer [Minimal requirements](inst/min.md) for more details.
+Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2022. Refer [Minimal requirements](inst/min.md) for more details.
 
 ### 6. What details do you need for troubleshooting the issues?
 
@@ -47,3 +49,49 @@ App records kept in the spreadsheet cause many challenges. Here are the most imp
 - Lack of 1 to N relation maintenance
 
 See ["The challenges of storing Fiori content records in the spreadsheet"](usecases/posts/spreadsheet-challenges.md) for more details.
+
+### 10. How to get the SAP system installation number?
+
+Please check the [detailed description](inst/installation-number.md).
+
+## Fiori App Usage Report
+
+### 1. Is there any way that I can pull the historical data?
+
+The data is collected when the Fiori App Usage Plugin is active for the user, so there is no way to pull the historical data.
+
+### 2. What is the architecture of the solution?
+
+Please find the details on the [Architecture page](https://help.fioriappsusage.org/2020/arch/architecture/).
+
+### 3. How is the solution deployed?
+
+Fiori App Usage Report is deployed by importing the transports. Please find the details on the [Deployment page](https://help.fioriappsusage.org/2020/FPS01/deployment/deployment/).
+
+### 4. How much time does it take to implement the Fiori App Usage and start collecting the usage records?
+
+You can set up and start using Fiori App Usage in a couple of hours. We will send you descriptions that will guide you through all the required steps. Should you encounter any problem, you can reach Fiori App Usage team on the support Discord channel or ask the team for a screen-sharing session.
+
+### 5. Can I use my roles instead of the ones provided in Fiori App Usage transport requests?
+
+Yes. [See how to create or extend an existing role](https://help.fioriappsusage.org/2020/FPS01/extend-existing-role/).
+
+### 6. Should we install Fiori App Usage Report on SAP Solution Manager?
+
+SAP Solution Manager is a very good choice when it comes to using Fiori App Usage Report and Fiori Tracker suite tools when your main landscape can get temporarily offline (upgrades and other maintenance activities). The only reason we do not encourage our users to use SAP Solution Manager is that most of the installations are on NetWeaver below 7.52 while Fiori Tracker Suite component need at least NetWeaver 7.52. If your SAP Solution Manager is on 7.52 then it is a perfect place for installation.
+
+### 7. Do you have a demo of the application? 
+
+We can arrange a call to demo Fiori App Usage Report on our systems. Please let us know using [this form](https://help.fioriappsusage.org/offer/) if you would like to have a call. We will send the timing proposition.
+
+### 8. What are all roles needed for manager and user?
+
+Please check the [summary](inst/roles.md).
+
+### 9. What is the Fiori App Usage impact on applications and system performance?
+
+Fiori App usage impacts overall system performance as little as possible. See the details in [Fiori App Usage performance influence section](https://help.fioriappsusage.org/2020/FPS01/performance/).
+
+### 10. Why should we use a third-party solution instead of waiting for the same function delivered by SAP out of the box?
+
+Any solution to the application usage reporting problem will require identifying the applications covered by the project. As the Fiori App Usage Report's key aspect is the identification, you can start tracking the app usage with the Fiori App Usage Report and leverage the same app identification records if the standard out-of-the-box solution will be developed.
