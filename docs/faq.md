@@ -2,96 +2,104 @@
 
 ## Fiori Tracker (general)
 
-### 1. Is it really free?
+<div class="nype-faq" markdown>
 
-Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list. 
+???+ faq "Is it really free?"
 
-### 2. Does Fiori Tracker send any data (statistics) to the outside servers (what is the security model)?
+    Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list.
 
-Fiori Tracker is not sending any data to outside servers. Fiori Tracker does not need external access, and many users run it on installations that do not have external access. All code is in ABAP, meaning that it is fully transparent and available for inspection.
+??? faq "Does Fiori Tracker send any data (statistics) to the outside servers (what is the security model)?"
 
-### 3. Is Premier support mandatory after a certain time period?
+    Fiori Tracker is not sending any data to outside servers. Fiori Tracker does not need external access, and many users run it on installations that do not have external access. All code is in ABAP, meaning that it is fully transparent and available for inspection.
 
-No. Premier support is optional. You can continue using Fiori Tracker as it is, as long as you want, free of charge.
+??? faq "Is Premier support mandatory after a certain time period?"
 
-### 4. What are the prerequisites/minimal requirements for installation?
+    No. Premier support is optional. You can continue using Fiori Tracker as it is, as long as you want, free of charge.
 
-The minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
+??? faq "What are the prerequisites/minimal requirements for installation?"
 
-### 5. Will the Fiori Tracker release 2020 work on my S/4HANA system on a different release (1610, 1709, 1809, 1909, 2021)?
+    The minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
 
-Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2022. Refer [Minimal requirements](inst/min.md) for more details.
+??? faq "Will the Fiori Tracker release 2020 work on my S/4HANA system on a different release (1610, 1709, 1809, 1909, 2021)?"
 
-### 6. What details do you need for troubleshooting the issues?
+    Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fiori Tracker release 2020 is compatible with SAP S/4HANA releases from 1610 to 2022. Refer [Minimal requirements](inst/min.md) for more details.
 
-Please send the screenshots of the application running in Chrome with URL and "Developer tools" console.
+??? faq "What details do you need for troubleshooting the issues?"
 
-Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status SAP System Data -> Details.
+    Please send the screenshots of the application running in Chrome with URL and "Developer tools" console.
 
-### 7. What are the features that are available for free version (1909 SPS06) and licensed version (2020 FPS01)?
+    Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status SAP System Data -> Details.
 
-In terms of features, both versions are almost the same. The main difference is in architecture.
-We have developed version 2020 FPS01 in a way that keeps Fiori Tracker Suite components independent. It is easier to support, maintain, and extend them.
+??? faq "What are the features that are available for free version (1909 SPS06) and licensed version (2020 FPS01)?"
 
-If you have not found the answer to your questions in our online help, please reach out to us on Fiori Tracker Slack or [create an issue on GitHub](bugs-ideas.md).
+    In terms of features, both versions are almost the same. The main difference is in architecture.
+    We have developed version 2020 FPS01 in a way that keeps Fiori Tracker Suite components independent. It is easier to support, maintain, and extend them.
 
-### 8. How to de-install Fiori Tracker components?
+    If you have not found the answer to your questions in our online help, please reach out to us on Fiori Tracker Slack or [create an issue on GitHub](bugs-ideas.md).
 
-To de-install Fiori Tracker components, please perform the reverse of the installation steps in the reverse order. For import transports steps perform the deletion of the objects from the component's transport package.
+??? faq "How to de-install Fiori Tracker components?"
 
-### 9. Why would I need a dedicated app instead of the shared Excel spreadsheet or Atlassian Confluence page?
+    To de-install Fiori Tracker components, please perform the reverse of the installation steps in the reverse order. For import transports steps perform the deletion of the objects from the component's transport package.
 
-App records kept in the spreadsheet cause many challenges. Here are the most important ones:
+??? faq "Why would I need a dedicated app instead of the shared Excel spreadsheet or Atlassian Confluence page?"
 
-- Unauthorized, accidental modification causing inconsistencies
-- Lack of history and origin of changes
-- Duplication
-- Lack of 1 to N relation maintenance
+    App records kept in the spreadsheet cause many challenges. Here are the most important ones:
 
-See ["The challenges of storing Fiori content records in the spreadsheet"](usecases/posts/spreadsheet-challenges.md) for more details.
+    - Unauthorized, accidental modification causing inconsistencies
+    - Lack of history and origin of changes
+    - Duplication
+    - Lack of 1 to N relation maintenance
 
-### 10. How to get the SAP system installation number?
+    See ["The challenges of storing Fiori content records in the spreadsheet"](usecases/posts/spreadsheet-challenges.md) for more details.
 
-Please check the [detailed description](inst/installation-number.md).
+??? faq "How to get the SAP system installation number?"
+
+    Please check the [detailed description](inst/installation-number.md).
+
+</div>
 
 ## Fiori App Usage Report
 
-### 1. Is there any way that I can pull the historical data?
+<div class="nype-faq" markdown>
 
-The data is collected when the Fiori App Usage Plugin is active for the user, so there is no way to pull the historical data.
+???+ faq "Is there any way that I can pull the historical data?"
 
-### 2. What is the architecture of the solution?
+    The data is collected when the Fiori App Usage Plugin is active for the user, so there is no way to pull the historical data.
 
-Please find the details on the [Architecture page](https://help.fioriappsusage.org/2020/arch/architecture/).
+??? faq "What is the architecture of the solution?"
 
-### 3. How is the solution deployed?
+    Please find the details on the [Architecture page](https://help.fioriappsusage.org/2020/arch/architecture/).
 
-Fiori App Usage Report is deployed by importing the transports. Please find the details on the [Deployment page](https://help.fioriappsusage.org/2020/FPS01/deployment/deployment/).
+??? faq "How is the solution deployed?"
 
-### 4. How much time does it take to implement the Fiori App Usage and start collecting the usage records?
+    Fiori App Usage Report is deployed by importing the transports. Please find the details on the [Deployment page](https://help.fioriappsusage.org/2020/FPS01/deployment/deployment/).
 
-You can set up and start using Fiori App Usage in a couple of hours. We will send you descriptions that will guide you through all the required steps. Should you encounter any problem, you can reach Fiori App Usage team on the support Discord channel or ask the team for a screen-sharing session.
+??? faq "How much time does it take to implement the Fiori App Usage and start collecting the usage records?"
 
-### 5. Can I use my roles instead of the ones provided in Fiori App Usage transport requests?
+    You can set up and start using Fiori App Usage in a couple of hours. We will send you descriptions that will guide you through all the required steps. Should you encounter any problem, you can reach Fiori App Usage team on the support Discord channel or ask the team for a screen-sharing session.
 
-Yes. [See how to create or extend an existing role](https://help.fioriappsusage.org/2020/FPS01/extend-existing-role/).
+??? faq "Can I use my roles instead of the ones provided in Fiori App Usage transport requests?"
 
-### 6. Should we install Fiori App Usage Report on SAP Solution Manager?
+    Yes. [See how to create or extend an existing role](https://help.fioriappsusage.org/2020/FPS01/extend-existing-role/).
 
-SAP Solution Manager is a very good choice when it comes to using Fiori App Usage Report and Fiori Tracker suite tools when your main landscape can get temporarily offline (upgrades and other maintenance activities). The only reason we do not encourage our users to use SAP Solution Manager is that most of the installations are on NetWeaver below 7.52 while Fiori Tracker Suite component need at least NetWeaver 7.52. If your SAP Solution Manager is on 7.52 then it is a perfect place for installation.
+??? faq "Should we install Fiori App Usage Report on SAP Solution Manager?"
 
-### 7. Do you have a demo of the application? 
+    SAP Solution Manager is a very good choice when it comes to using Fiori App Usage Report and Fiori Tracker suite tools when your main landscape can get temporarily offline (upgrades and other maintenance activities). The only reason we do not encourage our users to use SAP Solution Manager is that most of the installations are on NetWeaver below 7.52 while Fiori Tracker Suite component need at least NetWeaver 7.52. If your SAP Solution Manager is on 7.52 then it is a perfect place for installation.
 
-We can arrange a call to demo Fiori App Usage Report on our systems. Please let us know using [this form](https://help.fioriappsusage.org/offer/) if you would like to have a call. We will send the timing proposition.
+??? faq "Do you have a demo of the application?"
 
-### 8. What are all roles needed for manager and user?
+    We can arrange a call to demo Fiori App Usage Report on our systems. Please let us know using [this form](https://help.fioriappsusage.org/offer/) if you would like to have a call. We will send the timing proposition.
 
-Please check the [summary](inst/roles.md).
+??? faq "What are all roles needed for manager and user?"
 
-### 9. What is the Fiori App Usage impact on applications and system performance?
+    Please check the [summary](inst/roles.md).
 
-Fiori App usage impacts overall system performance as little as possible. See the details in [Fiori App Usage performance influence section](https://help.fioriappsusage.org/2020/FPS01/performance/).
+??? faq "What is the Fiori App Usage impact on applications and system performance?"
 
-### 10. Why should we use a third-party solution instead of waiting for the same function delivered by SAP out of the box?
+    Fiori App usage impacts overall system performance as little as possible. See the details in [Fiori App Usage performance influence section](https://help.fioriappsusage.org/2020/FPS01/performance/).
 
-Any solution to the application usage reporting problem will require identifying the applications covered by the project. As the Fiori App Usage Report's key aspect is the identification, you can start tracking the app usage with the Fiori App Usage Report and leverage the same app identification records if the standard out-of-the-box solution will be developed.
+??? faq "Why should we use a third-party solution instead of waiting for the same function delivered by SAP out of the box?"
+
+    Any solution to the application usage reporting problem will require identifying the applications covered by the project. As the Fiori App Usage Report's key aspect is the identification, you can start tracking the app usage with the Fiori App Usage Report and leverage the same app identification records if the standard out-of-the-box solution will be developed.
+
+</div>
