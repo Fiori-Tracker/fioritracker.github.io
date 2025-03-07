@@ -68,11 +68,11 @@
 
 ??? faq "What is the architecture of the solution?"
 
-    Please find the details on the [Architecture page](https://help.fioriappsusage.org/2020/arch/architecture/).
+    Please find the details on the [Architecture page](fiori-app-usage/architecture.md).
 
 ??? faq "How is the solution deployed?"
 
-    Fiori App Usage Report is deployed by importing the transports. Please find the details on the [Deployment page](https://help.fioriappsusage.org/2020/FPS01/deployment/deployment/).
+    Fiori App Usage Report is deployed by importing the transports. Please find the details on the [Deployment page](fiori-app-usage/deployment.md).
 
 ??? faq "How much time does it take to implement the Fiori App Usage and start collecting the usage records?"
 
@@ -80,7 +80,7 @@
 
 ??? faq "Can I use my roles instead of the ones provided in Fiori App Usage transport requests?"
 
-    Yes. [See how to create or extend an existing role](https://help.fioriappsusage.org/2020/FPS01/extend-existing-role/).
+    Yes. [See how to create or extend an existing role](fiori-app-usage-plugin/extend-existing-role.md).
 
 ??? faq "Should we install Fiori App Usage Report on SAP Solution Manager?"
 
@@ -96,7 +96,7 @@
 
 ??? faq "What is the Fiori App Usage impact on applications and system performance?"
 
-    Fiori App usage impacts overall system performance as little as possible. See the details in [Fiori App Usage performance influence section](https://help.fioriappsusage.org/2020/FPS01/performance/).
+    Fiori App usage impacts overall system performance as little as possible. See the details in [Fiori App Usage performance influence section](fiori-app-usage/performance.md).
 
 ??? faq "Why should we use a third-party solution instead of waiting for the same function delivered by SAP out of the box?"
 
