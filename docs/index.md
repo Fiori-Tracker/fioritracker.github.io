@@ -44,47 +44,88 @@ Stay ahead with SAP S/4HANA [app usage insights](https://help.fioriappsusage.org
 
 ## Benefits
 
-<div class="grid cards" markdown>
--   :material-scissors-cutting:{ .lg .middle } __Optimizing SAP licenses__
+<div class="nype-exploded-cards" markdown>
+<ul markdown>
 
-    ---
-    Matching SAP user licenses to real user needs
-    
-    [:octicons-arrow-right-24: Cut SAP license costs ](usecases/posts/23-license-counting.md)
-
--   :material-arrow-collapse-all:{ .lg .middle } __Single source of truth__
-
-    ---
-
-    Your project scope definition and foundation for custom application documentation
-    
-    [:octicons-arrow-right-24: Reliable living docs](usecases/posts/requirements-gathering.md)
-
--   :material-crowd:{ .lg .middle } __Project collaboration platform__
-
-    ---
-
-    Self-service tool for all SAP S/4HANA project members: [Functional](for-functional-experts.md), Basis, Authorizations experts and Developers
-
-    [:octicons-arrow-right-24: Satisfied Interests](satisfied-interests-and-roles.md)
-
--   :ext-sap-logo-shape:{ .lg .middle } __Hosted in your SAP landscape__
-
-    ---
-
-    Comes as a native SAP Fiori app that you can install on any SAP system. Blueprint docs tied to actual SAP Fiori system config
-
-    [:octicons-arrow-right-24: Deployment options](inst/dep.md)
-
--   :material-clock-fast:{ .lg .middle } __Set up in 1 day__
-
-    ---
-
-    Import the transport requests and follow the guide. Compatible with all SAP S/4HANA releases.
-
-    [:octicons-arrow-right-24: Installation](inst.md)
-
+<li markdown>
+<div class="nype-exploded-card-icon" markdown>
+  :material-scissors-cutting:
 </div>
+<div class="nype-exploded-card-description" markdown>
+  <h2 markdown>__Optimizing SAP licenses__</h2>
+<p markdown>
+  Matching SAP user licenses to real user needs
+</p>
+<p markdown>
+  [:octicons-arrow-right-24: Cut SAP license costs ](usecases/posts/23-license-counting.md)
+</p>
+</div>
+</li>
+
+<li markdown>
+<div class="nype-exploded-card-icon" markdown>
+  :material-arrow-collapse-all:
+</div>
+<div class="nype-exploded-card-description" markdown>
+  <h2 markdown>__Project collaboration platform__</h2>
+<p markdown>
+  Self-service tool for all SAP S/4HANA project members: [Functional](for-functional-experts.md), Basis, Authorizations experts and Developers
+</p>
+<p markdown>
+  [:octicons-arrow-right-24: Satisfied Interests](satisfied-interests-and-roles.md)
+</p>
+</div>
+</li>
+
+<li markdown>
+<div class="nype-exploded-card-icon" markdown>
+  :material-crowd:
+</div>
+<div class="nype-exploded-card-description" markdown>
+  <h2 markdown>__Single source of truth__</h2>
+<p markdown>
+  Your project scope definition and foundation for custom application documentation
+</p>
+<p markdown>
+  [:octicons-arrow-right-24: Reliable living docs](usecases/posts/requirements-gathering.md)
+</p>
+</div>
+</li>
+
+<li markdown>
+<div class="nype-exploded-card-icon" markdown>
+  :ext-sap-logo-shape:
+</div>
+<div class="nype-exploded-card-description" markdown>
+  <h2 markdown>__Hosted in your SAP landscape__</h2>
+<p markdown>
+  Comes as a native SAP Fiori app that you can install on any SAP system. Blueprint docs tied to actual SAP Fiori system config
+</p>
+<p markdown>
+  [:octicons-arrow-right-24: Deployment options](inst/dep.md)
+</p>
+</div>
+</li>
+
+<li markdown>
+<div class="nype-exploded-card-icon" markdown>
+  :material-clock-fast:
+</div>
+<div class="nype-exploded-card-description" markdown>
+  <h2 markdown>__Set up in 1 day__</h2>
+<p markdown>
+  Import the transport requests and follow the guide. Compatible with all SAP S/4HANA releases.
+</p>
+<p markdown>
+  [:octicons-arrow-right-24: Installation](inst.md)
+</p>
+</div>
+</li>
+
+</ul>
+</div>
+
+
 
 ## Feature highlights
 
@@ -95,14 +136,14 @@ Stay ahead with SAP S/4HANA [app usage insights](https://help.fioriappsusage.org
 - [SAP Fiori App Usage log](https://help.fioriappsusage.org) with unique app IDs for all apps, including extended and custom apps
 
 [![Application detail screen](res/ss03.png)](res/ss03.png){ align=right width=300 } 
-    
+
 </div>
 
 
 <div class="grid" markdown>
 
 [![SAP Fiori Role Testing](res/ss04.png)](res/ss04.png){ align=left width=300 } 
-    
+
 - [SAP Fiori Role Testing Monitoring](https://fioriroletesting.com) to ensure the team tests all SAP Fiori applications before production deployment
 
 </div>
